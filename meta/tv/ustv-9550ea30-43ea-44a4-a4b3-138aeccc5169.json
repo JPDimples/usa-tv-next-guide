@@ -15,6 +15,166 @@
   },
   "videos": [
    {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T04:32:00.000Z",
+    "title": "The Cabin in the Woods",
+    "overview": "When five college friends (Kristen Connolly, Chris Hemsworth, Anna Hutchison, Fran Kranz, Jesse Williams) arrive at a remote forest cabin for a little vacation, little do they expect the horrors that await them. One by one, the youths fall victim to backwoods zombies, but there is another factor at ",
+    "released": "2026-11-10T04:32:00.000Z",
+    "startTime": "2026-11-10T04:32:00.000Z",
+    "endTime": "2026-11-10T06:08:00.000Z",
+    "runtime": "96 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T06:08:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-10T06:08:00.000Z",
+    "startTime": "2026-11-10T06:08:00.000Z",
+    "endTime": "2026-11-10T07:02:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T07:02:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-10T07:02:00.000Z",
+    "startTime": "2026-11-10T07:02:00.000Z",
+    "endTime": "2026-11-10T07:55:00.000Z",
+    "runtime": "53 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T07:55:00.000Z",
+    "title": "Red Sparrow",
+    "overview": "Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Egorova emerges as the most dangerous S",
+    "released": "2026-11-10T07:55:00.000Z",
+    "startTime": "2026-11-10T07:55:00.000Z",
+    "endTime": "2026-11-10T10:16:00.000Z",
+    "runtime": "141 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T10:16:00.000Z",
+    "title": "The Strangers: Chapter 1",
+    "overview": "After their car breaks down in an eerie small town, a young couple is forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motive.",
+    "released": "2026-11-10T10:16:00.000Z",
+    "startTime": "2026-11-10T10:16:00.000Z",
+    "endTime": "2026-11-10T11:50:00.000Z",
+    "runtime": "94 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T11:50:00.000Z",
+    "title": "Boys Go to Jupiter",
+    "overview": "Billy 5000, a teenage gig worker with a rise-and-grind mindset, aims to make $5,000. His quest is derailed by a gelatinous alien's appearance.",
+    "released": "2026-11-10T11:50:00.000Z",
+    "startTime": "2026-11-10T11:50:00.000Z",
+    "endTime": "2026-11-10T13:17:00.000Z",
+    "runtime": "87 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T13:17:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-10T13:17:00.000Z",
+    "startTime": "2026-11-10T13:17:00.000Z",
+    "endTime": "2026-11-10T14:11:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T14:11:00.000Z",
+    "title": "The Wolverine",
+    "overview": "Lured to a Japan he hasn't seen since World War II, century-old mutant Wolverine (Hugh Jackman) finds himself in a shadowy realm of yakuza and samurai. Wolverine is pushed to his physical and emotional brink when he is forced to go on the run with a powerful industrialist's daughter (Tao Okamoto) an",
+    "released": "2026-11-10T14:11:00.000Z",
+    "startTime": "2026-11-10T14:11:00.000Z",
+    "endTime": "2026-11-10T16:18:00.000Z",
+    "runtime": "127 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T16:18:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-10T16:18:00.000Z",
+    "startTime": "2026-11-10T16:18:00.000Z",
+    "endTime": "2026-11-10T17:12:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T17:12:00.000Z",
+    "title": "Final Destination",
+    "overview": "Alex Browning is embarking on a trip to Paris. He experiences a premonition -- he sees the plane explode moments after leaving the ground. Insisting that everyone get off the plane, Alex and seven other people are forced to disembark. All watch as the plane actually explodes in a fireball. He and th",
+    "released": "2026-11-10T17:12:00.000Z",
+    "startTime": "2026-11-10T17:12:00.000Z",
+    "endTime": "2026-11-10T18:50:00.000Z",
+    "runtime": "98 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T18:50:00.000Z",
+    "title": "Final Destination 2",
+    "overview": "Kimberly (A.J. Cook) has a premonition of a horrible highway accident killing multiple people -- including her and her friends. She blocks the cars behind her on the ramp from joining traffic -- and as a police trooper (Michael Landes) arrives, the accident actually happens. Now, Death is stalking t",
+    "released": "2026-11-10T18:50:00.000Z",
+    "startTime": "2026-11-10T18:50:00.000Z",
+    "endTime": "2026-11-10T20:21:00.000Z",
+    "runtime": "91 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T20:21:00.000Z",
+    "title": "Final Destination 3",
+    "overview": "Six years after a group of high-school students first cheated death, another teen (Mary Elizabeth Winstead) has a premonition that she and her friends will be involved in a horrifying roller-coaster accident. When the vision proves true, the student and her fellow survivors must deal with the reperc",
+    "released": "2026-11-10T20:21:00.000Z",
+    "startTime": "2026-11-10T20:21:00.000Z",
+    "endTime": "2026-11-10T21:54:00.000Z",
+    "runtime": "93 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T21:54:00.000Z",
+    "title": "Final Destination 5",
+    "overview": "During a bus ride with his colleagues to a corporate retreat, Sam (Nicholas D'Agosto) experiences a horrifying vision: the suspension bridge that they -- and many others -- are crossing starts to crumble around them. When his vision ends and, almost immediately, starts to come true, Sam takes quick ",
+    "released": "2026-11-10T21:54:00.000Z",
+    "startTime": "2026-11-10T21:54:00.000Z",
+    "endTime": "2026-11-10T23:26:00.000Z",
+    "runtime": "92 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-10T23:26:00.000Z",
+    "title": "Final Destination Bloodlines",
+    "overview": "Plagued by a violent and recurring nightmare, a college student heads home to track down the one person who might be able to break the cycle of death and save her family from the grisly demise that inevitably awaits them all.",
+    "released": "2026-11-10T23:26:00.000Z",
+    "startTime": "2026-11-10T23:26:00.000Z",
+    "endTime": "2026-11-11T01:16:00.000Z",
+    "runtime": "110 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T01:16:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-11T01:16:00.000Z",
+    "startTime": "2026-11-11T01:16:00.000Z",
+    "endTime": "2026-11-11T02:10:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T02:10:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-11T02:10:00.000Z",
+    "startTime": "2026-11-11T02:10:00.000Z",
+    "endTime": "2026-11-11T03:04:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T03:04:00.000Z",
     "title": "This Is Not a War Story",
     "overview": "Some veterans take part in an unusual art project designed to help them deal with the leftover trauma associated with their combat experiences.",

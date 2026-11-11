@@ -15,6 +15,316 @@
   },
   "videos": [
    {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T05:00:00.000Z",
+    "title": "Lucille Ball: We Love Lucy",
+    "overview": "The trailblazing life of Lucille Ball.",
+    "released": "2026-11-10T05:00:00.000Z",
+    "startTime": "2026-11-10T05:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T07:00:00.000Z",
+    "title": "Walt Disney: Behind the Magic",
+    "overview": "An examination of Walt Disney, the man who created \"the happiest place on earth,\" but whose life was far from a fairy tale with employee strikes, financial hardships and personal tragedies.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T08:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T08:30:00.000Z",
+    "title": "Joint Relief Revolution",
+    "overview": "Join Connie Craig-Carroll and health visionary Ken Meares as they uncover OmegaXL, the groundbreaking natural supplement transforming lives by tackling joint pain and inflammation.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T09:00:00.000Z",
+    "title": "Inogen Portable Oxygen - No More Tanks!",
+    "overview": "Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T09:30:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T10:00:00.000Z",
+    "title": "Men's Health - All-Natural Secret for Prostate Health",
+    "overview": "Prosvent is a doctor-formulated blend of rejuvenating herbs and nutrients that help protect overall prostate health.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T10:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T11:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T11:30:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T12:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T12:30:00.000Z",
+    "title": "Get A Beautiful New Smile in 24 Hours",
+    "overview": "The Wellness Hour: Dr. Alvarez explores how Nuvia delivers a beautiful new smile in just 24 hours.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T13:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T13:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T14:00:00.000Z",
+    "title": "On Patrol: Live",
+    "overview": "Fullerton, Calif., officers respond after a woman is passed out in her vehicle; Brookford, N.C., officers find a suspect who hid after a pursuit; Berkeley County, S.C., officers respond after a woman appears to attempt escape from a moving vehicle.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T17:00:00.000Z",
+    "title": "Notorious",
+    "overview": "With his Subway diet, Jared Fogle became an inspiration, but his wholesome exterior wasn't all that it was cracked up to be as he led the secret life of a sexual predator and amassed charges of child pornography and pedophilia.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T18:00:00.000Z",
+    "title": "Geraldo Rivera's Murder in the Family",
+    "overview": "Actor Kelsey Grammer was only 14 when his estranged father was murdered, but years later he would face a far greater tragedy from the wrath of serial killers.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T19:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "Officers pursue an armed man; drug runners try to squeak away with only a ticket; robbery suspect; men dressed in drag.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T19:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A deputy investigates a lead in a shooting case; police pursue a bicycle-riding drug dealer; a man's drug paraphernalia gets him in trouble; police arrest a hostile, intoxicated woman for domestic violence.",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T20:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "An intoxicated couple is questioned; a woman claims a man threatened her with a knife; a man is suspected of buying drugs; a man is questioned on suspicion of stealing a car.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T20:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A report of an abandoned stolen vehicle leads to a car chase; police respond to a jilted husband's domestic call; a busted taillight leads an officer to crack cocaine; a deputy mediates a domestic dispute.",
+    "released": "2026-11-10T20:30:00.000Z",
+    "startTime": "2026-11-10T20:30:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T21:00:00.000Z",
+    "title": "Most Shocking",
+    "overview": "Featuring highlights from the show.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T22:00:00.000Z",
+    "title": "Jail",
+    "overview": "During a strip search, officers discover that a male inmate has a fetish for women's lingerie; a young couple charged with trying to steal a puppy gets caught in a compromising situation in a restroom; a pregnant woman is accused of prostitution.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T22:30:00.000Z",
+    "title": "Jail",
+    "overview": "A frustrated inmate pays a price for giving officers a piece of his mind; the jail chaplain reaches out to a crying prisoner; a disorderly Canadian woman demands to be released from her \"U.S. oppressors.\".",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T23:00:00.000Z",
+    "title": "Jail",
+    "overview": "A former Green Beret becomes involved in prostitution; a domestic violence suspect threatens authorities; a woman who works as a dental hygienist by day, stripper by night.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-10T23:30:00.000Z",
+    "title": "Jail",
+    "overview": "A would-be rock star brought in on drug charges shows off his vocal skills; officers refuse a volatile woman's plea for beer.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T00:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "Officers pursue an armed man; drug runners try to squeak away with only a ticket; robbery suspect; men dressed in drag.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T00:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A deputy investigates a lead in a shooting case; police pursue a bicycle-riding drug dealer; a man's drug paraphernalia gets him in trouble; police arrest a hostile, intoxicated woman for domestic violence.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T01:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "An intoxicated couple is questioned; a woman claims a man threatened her with a knife; a man is suspected of buying drugs; a man is questioned on suspicion of stealing a car.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T01:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A report of an abandoned stolen vehicle leads to a car chase; police respond to a jilted husband's domestic call; a busted taillight leads an officer to crack cocaine; a deputy mediates a domestic dispute.",
+    "released": "2026-11-11T01:30:00.000Z",
+    "startTime": "2026-11-11T01:30:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T02:00:00.000Z",
+    "title": "BodyCam by Law&Crime",
+    "overview": "A drunk Karen unleashes a full-blown racist rant during a disturbing incident at the Holiday Inn.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T03:00:00.000Z",
     "title": "Most Outrageous Crimes",
     "overview": "Influencers find out that no amount of social media clout can get one out of trouble.",

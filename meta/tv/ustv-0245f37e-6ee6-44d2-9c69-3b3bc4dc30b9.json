@@ -15,6 +15,136 @@
   },
   "videos": [
    {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T05:15:00.000Z",
+    "title": "NFL Football",
+    "overview": "The Buffalo Bills visit the Minnesota Vikings for an NFL Week 9 game at U.S. Bank Stadium. The Vikings hold a 9-6 series lead over the Bills after beating Buffalo, 33-30, in overtime back in November 2022 when they last played each other.",
+    "released": "2026-11-10T05:15:00.000Z",
+    "startTime": "2026-11-10T05:15:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "165 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T08:00:00.000Z",
+    "title": "NFL GameDay Final",
+    "overview": "The crew wraps up the day's NFL action with all the highlights and reactions from the game plus postgame interviews with the night's best performers.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T09:00:00.000Z",
+    "title": "NFL GameDay Final",
+    "overview": "The crew wraps up the day's NFL action with all the highlights and reactions from the game plus postgame interviews with the night's best performers.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T10:00:00.000Z",
+    "title": "NFL Football",
+    "overview": "The Buffalo Bills visit the Minnesota Vikings for an NFL Week 9 game at U.S. Bank Stadium. The Vikings hold a 9-6 series lead over the Bills after beating Buffalo, 33-30, in overtime back in November 2022 when they last played each other.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T11:00:00.000Z",
+    "title": "NFL Football",
+    "overview": "The Buffalo Bills visit the Minnesota Vikings for an NFL Week 9 game at U.S. Bank Stadium. The Vikings hold a 9-6 series lead over the Bills after beating Buffalo, 33-30, in overtime back in November 2022 when they last played each other.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T13:00:00.000Z",
+    "title": "Live: Good Morning Football",
+    "overview": "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide arr",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T15:00:00.000Z",
+    "title": "Good Morning Football",
+    "overview": "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide arr",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T17:00:00.000Z",
+    "title": "Live: NFL Total Access",
+    "overview": "The NFL Network's flagship program airs six nights a week, churning out the day's top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis wi",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T20:00:00.000Z",
+    "title": "Live: SportsCenter Special",
+    "overview": "Presenting the news, current affairs and game analysis from the world of sports, complete with exclusive interviews.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T21:00:00.000Z",
+    "title": "NFL Live",
+    "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T22:00:00.000Z",
+    "title": "NFL Fantasy Live",
+    "overview": "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-10T23:00:00.000Z",
+    "title": "NFL Live",
+    "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T00:00:00.000Z",
+    "title": "Live: The Insiders",
+    "overview": "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T01:00:00.000Z",
     "title": "NFL Football",
     "overview": "The Dallas Cowboys visit the Indianapolis Colts for an NFL game. Dallas comes off a 33-30 loss to Arizona, while Indianapolis rides a four-game skid heading into an interconference clash playing inside Lucas Oil Stadium in Indiana.",

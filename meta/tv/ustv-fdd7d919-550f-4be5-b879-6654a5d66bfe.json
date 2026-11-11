@@ -15,6 +15,436 @@
   },
   "videos": [
    {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T06:00:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A family of six running out of space at home wants to give up farm life for a quiet life on the lake in LaGrange County, Ind.; they hunt for a home on the water with space for entertaining and enough bedrooms for the entire family.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T06:30:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A family of avid fishermen want to buy a lakefront home Keuka Lake, N.Y. so they can spend less time driving and more time casting their lines.",
+    "released": "2026-11-10T06:30:00.000Z",
+    "startTime": "2026-11-10T06:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T07:00:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A couple who love bringing their kids to the Chain O'Lakes in Illinois have always wanted to own a vacation house; now, they're looking for the right property at the right price so they can dock their boat and entertain friends in their dream home.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T07:30:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "After discovering the joys of lake life, an Alabama couple are ready to find their dream home on the shores of Lake Martin.",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T08:00:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A couple hunt for a vacation home on Apple Valley Lake to enjoy with their two boys and extended family; they hope to find a steal that gets them big lake views, but they can't decide between a turn-key property for her or a fixer-upper for him.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T08:30:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A busy New York couple want a weekend retreat by the Otsego County lake where they were married; but with a shrinking market, they're not sure if they'll be able to find a waterfront dream home at an affordable price.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T09:00:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A couple with two young kids are in the process of growing their family through adoption; they both grew up near Mississippi's Barnett Reservoir and want to find a home with more space while fulfilling their lifelong dream of living on the water.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T09:30:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A pair of newlyweds searches southeast Michigan for a lakeside retreat where they can plant roots and start a family.",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T10:00:00.000Z",
+    "title": "Beachfront Bargain Hunt",
+    "overview": "A Washington, D.C., couple loves living in the city, but wants to find a property that will allow their kids a chance to explore the outdoors.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T10:30:00.000Z",
+    "title": "Beachfront Bargain Hunt",
+    "overview": "An engaged couple searches for a beachfront home in South Padre Island, Texas, where both of their families can live together under one roof.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T11:00:00.000Z",
+    "title": "Island Life",
+    "overview": "A couple of art dealers decide to open a second gallery on Nantucket after a weekend visit that endeared the island to the couple with its historic community.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T11:30:00.000Z",
+    "title": "Island Life",
+    "overview": "Noel, Deirdre and their four children, having spent the last 14 summers on Long Beach Island, feel the time has come to find their permanent home on the Jersey shore.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T12:00:00.000Z",
+    "title": "Island Life",
+    "overview": "Since she was a kid, Anne dreamed of owning a home on Long Beach Island, and after introducing the island to her husband during college, the two know they want to move there.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T12:30:00.000Z",
+    "title": "Island Life",
+    "overview": "Holly and Chuck live a hectic lifestyle, keeping up with their busy careers and their 5-year-old ball of energy, Hailey, and want to slow things down and give Hailey a backyard of endless beaches.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T13:00:00.000Z",
+    "title": "Island Life",
+    "overview": "A recently-married couple is ready to fulfill a lifelong dream of living at the beach, and they set their focus on the outdoor living and small town charm of Carolina Beach, N.C.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T13:30:00.000Z",
+    "title": "Island Life",
+    "overview": "A New York real estate broker takes a job offer on his hometown island of Key West, Fla., and his friend helps him find the perfect home.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T14:00:00.000Z",
+    "title": "Island Life",
+    "overview": "A family of four fishermen look for the perfect home in their favorite vacation destination after being stuck in a landlocked part of Texas for the last 20 years.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T14:30:00.000Z",
+    "title": "Island Life",
+    "overview": "An Atlanta couple trade in their fast-paced and stressful life in the big city for the relaxation and great outdoor lifestyle of St. Simons Island, Ga., with the perfect beach cottage they can make their own.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T15:00:00.000Z",
+    "title": "Island Life",
+    "overview": "An Athens, Ga. couple is making their dream of moving to St. Simons, Ga. a reality, with hopes of utilizing the island's many activities to help get back to their formerly active lifestyle.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T15:30:00.000Z",
+    "title": "Island Life",
+    "overview": "A couple with a small business want to slow things down on Isle of Palms with a house right on the beach.",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T16:00:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A couple looks for a cozy cottage or a large waterfront property at Lake of the Ozarks in Missouri.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T16:30:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A couple who love vacationing with their three kids on Idaho's sprawling Lake Pend Oreille want to find their dream home there.",
+    "released": "2026-11-10T16:30:00.000Z",
+    "startTime": "2026-11-10T16:30:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T17:00:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A couple with seven kids searches for a home on the Clermont Chain of Lakes in Florida; while she's concerned about finding a place with enough space, he's willing to do anything to get on the water.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T17:30:00.000Z",
+    "title": "Lakefront Bargain Hunt",
+    "overview": "A couple raising four kids and juggling demanding jobs can't wait to buy a lake house getaway on Deep Creek Lake, Maryland. She hopes to find a perfect place where they can relax and dock their boat, but he's more concerned with staying on budget.",
+    "released": "2026-11-10T17:30:00.000Z",
+    "startTime": "2026-11-10T17:30:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T18:00:00.000Z",
+    "title": "House Hunters",
+    "overview": "A young couple wants a house in Kure Beach, N.C., as an investment property and a place for family vacations; she insists on oceanfront, but he wants something further inland, more budget-friendly and well out of harm's way for hurricanes.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T18:30:00.000Z",
+    "title": "House Hunters",
+    "overview": "A couple comes to Warner Robins, Ga., for the weekend to buy their dream home after his retirement from the military.",
+    "released": "2026-11-10T18:30:00.000Z",
+    "startTime": "2026-11-10T18:30:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T19:00:00.000Z",
+    "title": "House Hunters",
+    "overview": "A young newlywed couple is hoping that buying their first family home will make them feel more like adults; he's a risk-taker who wants to buy a fixer-upper, while she's risk-averse and wants to avoid getting into a money pit.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T19:30:00.000Z",
+    "title": "House Hunters",
+    "overview": "A couple in Davenport, Iowa, search for a home that's more functional than their current condominium; he's setting his sights on a single-family house, but she still wants the maintenance-free lifestyle that comes with condo living.",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T20:00:00.000Z",
+    "title": "House Hunters",
+    "overview": "An Austin, Texas couple needs more bedrooms so their growing twins don't have to share; he's a strict numbers guy, but she's itching to stretch her design muscles again after taking time off to raise the kids.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T20:30:00.000Z",
+    "title": "House Hunters",
+    "overview": "A family of six is ready to move out of their cramped apartment and purchase their first home in New Jersey; she wants a move-in ready ranch, but he's looking for the grand feeling of a two-story colonial with a pool.",
+    "released": "2026-11-10T20:30:00.000Z",
+    "startTime": "2026-11-10T20:30:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T21:00:00.000Z",
+    "title": "House Hunters",
+    "overview": "A Los Angeles couple leaves the big city life behind and moves to Cookeville, Tenn.; she wants a big house with a pool close to town, he wants tons of acreage in a rural setting.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T21:30:00.000Z",
+    "title": "House Hunters",
+    "overview": "Newly engaged couple want to buy their first home on Amelia Island.",
+    "released": "2026-11-10T21:30:00.000Z",
+    "startTime": "2026-11-10T21:30:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T22:00:00.000Z",
+    "title": "Beachfront Bargain Hunt",
+    "overview": "Every trip to Sunset Beach, N.C., a tight-knit family of three falls deeper in love with the town's natural beauty; after years of saving and crashing at their friend's house, they're finally ready to carve out their own slice of paradise.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T22:30:00.000Z",
+    "title": "Beachfront Bargain Hunt",
+    "overview": "A Georgia family is eager to find a vacation home on Tybee Island; while previously living in Hawaii, they fell in love with the beautiful beaches and are hoping to get back to that lifestyle within their budget.",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T23:00:00.000Z",
+    "title": "Beachfront Bargain Hunt",
+    "overview": "Colby and Wade love visiting Ocean City, Md. on the weekends; tired of towing their boat back and forth, they're searching for a condo with a deeded dock to fully enjoy quick getaways.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-10T23:30:00.000Z",
+    "title": "Beachfront Bargain Hunt",
+    "overview": "Missy and Ed have outgrown their two-bedroom condominium on Isla Mujeres, Mexico; now, they're on the hunt for a home with more living space and privacy to accommodate their family.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T00:00:00.000Z",
+    "title": "Hawaii Life",
+    "overview": "A single dad wants to ditch the busy Bay Area for a slower pace of life on Maui, and wants a turnkey home on the northwest coast that's within walking distance to the beach and his son's new school.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T00:30:00.000Z",
+    "title": "Hawaii Life",
+    "overview": "After dating long distance, a couple is eager to find a home where they can finally live together on Oahu.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T01:00:00.000Z",
+    "title": "Hawaii Life",
+    "overview": "A single mother from Santa Monica, Calif., wants to slow down by making her life with her son on Kauai.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T01:30:00.000Z",
+    "title": "Hawaii Life",
+    "overview": "Tired of the brutal Chicago winters, a man takes the plunge and interviews for a job while on vacation in Oahu.",
+    "released": "2026-11-11T01:30:00.000Z",
+    "startTime": "2026-11-11T01:30:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T02:00:00.000Z",
+    "title": "Hawaii Life",
+    "overview": "A Florida couple are ready to leave their hectic lives behind for a more relaxing and healthier lifestyle in Hawaii.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T02:30:00.000Z",
+    "title": "Hawaii Life",
+    "overview": "A teacher who has dreamed of returning to Hawaii wants to find a condo in the Waikoloa Beach Resort area on the Big Island.",
+    "released": "2026-11-11T02:30:00.000Z",
+    "startTime": "2026-11-11T02:30:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T03:00:00.000Z",
+    "title": "Hawaii Life",
+    "overview": "A police dispatcher with low spirits hopes that living near the warm waters of Maui will help cleanse her of the chaos.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T03:30:00.000Z",
     "title": "Hawaii Life",
     "overview": "An artist seeks a place on Maui to start a farm.",

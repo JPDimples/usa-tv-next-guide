@@ -15,6 +15,346 @@
   },
   "videos": [
    {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T06:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Raj's honesty comes back to haunt him when his new girlfriend is unfriendly to Penny; the guys think about becoming part owners in Stuart's store.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T06:30:00.000Z",
+    "title": "Friends",
+    "overview": "Ross and Chandler argue over authorship of a joke; a question from Monica puts Phoebe on the spot; Joey reluctantly takes a job at Central Perk.",
+    "released": "2026-11-10T06:30:00.000Z",
+    "startTime": "2026-11-10T06:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T07:00:00.000Z",
+    "title": "Friends",
+    "overview": "Rachel is worried about her sister's flirtation with Ross; sickly Monica is well enough to seduce Chandler; Joey uses free food to lure women to date him.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T07:30:00.000Z",
+    "title": "Friends",
+    "overview": "When Rachel tells her friends about Barry and Mindy's impending divorce, the others speculate how their lives could have turned out if they had chosen different paths.",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T08:00:00.000Z",
+    "title": "Friends",
+    "overview": "Carol and Ross decide to spice up their marriage; Rachel goes to Joey's and kisses him; Rachel catches Barry cheating.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T08:30:00.000Z",
+    "title": "Friends",
+    "overview": "Chandler's anniversary gift to Monica is really one an ex-girlfriend gave him; Joey hires a look-alike; Ross tries to teach martial arts to Rachel.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T09:00:00.000Z",
+    "title": "Friends",
+    "overview": "Ross toys with dating one of his students; a curling iron starts a fire in Phoebe and Rachel's apartment.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T09:30:00.000Z",
+    "title": "Friends",
+    "overview": "Monica and Phoebe compete to find Rachel a date; Joey tries to con his friends into buying him a new refrigerator.",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T10:00:00.000Z",
+    "title": "Friends",
+    "overview": "Chandler jeopardizes Joey's chances for the lead role in a TV series when he forgets to take down a message.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T10:30:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "Dave earns Calvin's respect when he thwarts a robbery at the barbershop, until the recognition goes to his head, and he starts exaggerating the truth; Marty invites an anxious Gemma to give his new stress-busting hobby a try.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T11:00:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "When Victor Alvarez tries to steal Calvin's customers, the Butlers and Johnsons join forces on a plan to drum up business and give back to their community.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T11:30:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Plankton disguises himself as SpongeBob's grandmother; Mr. Krabs uses Gary to find spare change.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T12:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "The PAW Patrol must save the day when two overly helpful robots take on more than they can handle; in a dream, Mayor Humdinger finds a prism that makes rainbows and drains Adventure Bay of color; the pups must restore color to Adventure Bay.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T12:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Myrna the Mynah bird leads her new feathered friends astray, and it's up to the PAW Patrol to rescue the wayward flock; Adventure Bay is holding a \"kids only\" soapbox derby race when a mysterious newcomer named Hum-Kid shows up, breaking the rules.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T13:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "The Goodways drift out to sea on a swan-shaped float and need rescue from a flock of real swans aiming to protect the giant inflatable; Mayor Humdinger steals Katie's Portable Pet Wash and ends up causing bubble trouble all over town.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T13:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "When Mayor Humdinger's mom loses her son's phony trophy, the PAW Patrol have to rescue her and its secret stash of treats; when Mayor Goodway and Chickaletta get trapped inside a mesa, it's up to the PAW Patrol and a little snake to rescue them.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T14:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Farmer Al's new machine, the Garboni, goes haywire, and it's up to Ryder and the Paw Patrol to stop it before it gives them the slip; the Paw Patrol have to catch a trouble-making sleepy porcupine and bring it back to the woods.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T14:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Farmer Al and Farmer Yumi need help from the PAW Patrol to get a manatee to the swamp; Mr. Porter and Alex get into a sticky situation involving maple syrup.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T15:00:00.000Z",
+    "title": "Rubble & Crew",
+    "overview": "The crew constructs a ladder to help salmon bypass a dam blocking their upstream path; when a carnival cannot reach town, the pups build a Construction Carnival.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T15:30:00.000Z",
+    "title": "Rubble & Crew",
+    "overview": "When the pups need to make the new cooking store look special, Mix gets an idea to build with giant pasta noodles; Rubble and Grandpa Gravel build a giant zip line to help them win an awesome food truck race against Speed Meister and Mr. McTurtle!",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T16:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Before Chickaletta's play date with Baby Yukiko, Mayor Goodway baby-proofs the playground, wrapping everything in rubbery Snap-N-Wrap and gets stuck; Mayor Humdinger loses his voice.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T16:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Digi and Tal build a big Robo-Ducky that runs amok through Adventure Bay; when Mayor Goodway tries to catch a glimpse of a migrating penguin colony, her precious Chickaletta and a Baby Penguin accidentally switch places.",
+    "released": "2026-11-10T16:30:00.000Z",
+    "startTime": "2026-11-10T16:30:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T17:00:00.000Z",
+    "title": "Rubble & Crew",
+    "overview": "The pups build Mariana Magica a new magical doctor's office; the pups find out Grandpa Gravel once walked on the moon and decide to surprise him by recreating the moon in the Bark Yard.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T17:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Cap'n Turbot speaks fluent alien while stranded with an Alien Grandpa; a lemon-loving duckling from Yumi's Farm disrupts a delivery to Lizzy's Lemonade Shoppe.",
+    "released": "2026-11-10T17:30:00.000Z",
+    "startTime": "2026-11-10T17:30:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T18:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "After Danny's baseball accident, Digi and Tal create a bouncy safety suit for him to wear; but when Danny bounces away, the PAW Patrol have to find him; Francois' fancy fromage goes missing before the cheese competition, and with Chase's nose plagued by allergies, he enlists Squeak the mouse to lead",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T18:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "When Mayor Humdinger tricks Katie into watching his kitties, an alarm system is set off and the PAW Patrol must rescue them; when Mayor Humdinger swipes one of Ryder's early inventions he must be rescued from an out-of-control flight.",
+    "released": "2026-11-10T18:30:00.000Z",
+    "startTime": "2026-11-10T18:30:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T19:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Danny's rocket-boosted pogo stick accidentally causes a fire; it's up to the entire Air Rescue team to save Danny and stop the forest from going up in flames; when Francois' big stunt show goes horribly awry, the Air Rescue pups are on a roll.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T19:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "After stowing away on the Turbots' camping trip, Wally the walrus gets stuck in a mountain crevasse, and it's up to Everest and the PAW Patrol to rescue him; Mayor Humdinger challenges Rubble for the right to deejay a dance party.",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T20:00:00.000Z",
+    "title": "The Secret Life of Pets",
+    "overview": "Max (Louis C.K.) is a spoiled terrier who enjoys a comfortable life in a New York building until his owner adopts Duke, a giant and unruly canine. During their walk outside, they encounter a group of ferocious alley cats and wind up in a truck that's bound for the pound. Luckily, a rebellious bunny ",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-10T22:00:00.000Z",
+    "title": "The Secret Life of Pets 2",
+    "overview": "Explore the emotional lives of pets and the deep bond between them and the families that love them as Max, Gidget, Snowball and the rest of the gang take on new adventures and push themselves to find the courage to become their own heroes.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T00:00:00.000Z",
+    "title": "Dr. Seuss' the Lorax",
+    "overview": "Twelve-year-old Ted (Zac Efron) lives in a place virtually devoid of nature; no flowers or trees grow in the town of Thneedville. Ted would very much like to win the heart of Audrey (Taylor Swift), the girl of his dreams, but to do this, he must find that which she most desires: a Truffula tree. To ",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T02:00:00.000Z",
+    "title": "Friends",
+    "overview": "Monica makes Chandler apologize to an old girlfriend (Stacy Galina) for leaving her because she was fat; Monica struggles to select a maid of honor.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T02:30:00.000Z",
+    "title": "Friends",
+    "overview": "Ross recruits some friends to go with him on his first meeting with Elizabeth's father (Bruce Willis); Phoebe makes Chandler and Monica paranoid by chronicling their every move.",
+    "released": "2026-11-11T02:30:00.000Z",
+    "startTime": "2026-11-11T02:30:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T03:00:00.000Z",
+    "title": "Friends",
+    "overview": "Elizabeth and Ross decide to hide their relationship from her father and head up to his cabin for the weekend.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T03:30:00.000Z",
     "title": "Friends",
     "overview": "Chandler asks Phoebe to help him choose a special ring; Rachel urges Paul (Bruce Willis) to express his feelings.",

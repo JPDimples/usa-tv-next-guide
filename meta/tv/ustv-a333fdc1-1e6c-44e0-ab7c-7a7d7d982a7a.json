@@ -15,6 +15,186 @@
   },
   "videos": [
    {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T06:00:00.000Z",
+    "title": "Live: Affinity Diamond Jewelry",
+    "overview": "Signature brand of quality, diamond jewelry.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T07:00:00.000Z",
+    "title": "Live: L'Artiste by Spring Step: Footwear",
+    "overview": "Colorful, creative, comfortable shoe collection inspired by European design.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T08:00:00.000Z",
+    "title": "TATCHA - Skin Care",
+    "overview": "Skin care inspired by the ancient beauty rituals of Japanese Geisha.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T09:00:00.000Z",
+    "title": "Laura Geller Makeup Studio",
+    "overview": "Cosmetics from a New York make-up artist.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T11:00:00.000Z",
+    "title": "Live: Friday Night Beauty",
+    "overview": "Weekly spotlight on leading beauty brands.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T12:00:00.000Z",
+    "title": "Live: Wake Up With John -- Gift Edition",
+    "overview": "Start your Tuesday with a smile when you wake up with host John; in this special Gift Edition, he's bringing you a host of ideas to make holidays a little easier, wardrobes a little brighter and homes a little warmer.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T14:00:00.000Z",
+    "title": "Live: TATCHA - Skin Care",
+    "overview": "Skin care inspired by the ancient beauty rituals of Japanese Geisha.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T15:00:00.000Z",
+    "title": "Denim & Co.",
+    "overview": "Classic and affordable women's separates.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T17:00:00.000Z",
+    "title": "Live: Sandra's Beauty Secrets",
+    "overview": "Program host Sandra Bennett shares her favorite beauty picks.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T18:00:00.000Z",
+    "title": "Live: Affinity Diamond Jewelry",
+    "overview": "Signature brand of quality, diamond jewelry.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T19:00:00.000Z",
+    "title": "Live: TATCHA - Skin Care",
+    "overview": "Skin care inspired by the ancient beauty rituals of Japanese Geisha.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T20:00:00.000Z",
+    "title": "Live: How to Sparkle With Courtney -- Jewelry",
+    "overview": "",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T21:00:00.000Z",
+    "title": "Live: Carla Rockmore - Fashion",
+    "overview": "Joyful statement pieces designed by social media sensation hailed as the Real Life Carrie Bradshaw.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T22:00:00.000Z",
+    "title": "Live: Gift Favorites",
+    "overview": "Program Host-Approved Gifts.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-10T23:00:00.000Z",
+    "title": "Live: TATCHA - Skin Care",
+    "overview": "Skin care inspired by the ancient beauty rituals of Japanese Geisha.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T00:00:00.000Z",
+    "title": "Live: David Markstein Lab-Grown Diamond Jewelry",
+    "overview": "Cutting-edge, must-have collection of lab-grown diamonds set in sterling silver or 14K gold and designed by an expert in the timeless artistry and luxury of Italian-crafted jewelry.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T01:00:00.000Z",
+    "title": "Live: Dennis Basso & Friends: Holiday Edition",
+    "overview": "Festive fashion, food, friendship and fun with celebrated New York designer and special guests.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T02:00:00.000Z",
+    "title": "Live: Carla Rockmore - Fashion",
+    "overview": "Joyful statement pieces designed by social media sensation hailed as the Real Life Carrie Bradshaw.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T03:00:00.000Z",
     "title": "Live: TATCHA - Skin Care",
     "overview": "Skin care inspired by the ancient beauty rituals of Japanese Geisha.",

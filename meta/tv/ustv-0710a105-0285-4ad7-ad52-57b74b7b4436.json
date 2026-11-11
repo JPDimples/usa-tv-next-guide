@@ -15,6 +15,256 @@
   },
   "videos": [
    {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T06:00:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T06:30:00.000Z",
+    "title": "B1G Football in 60",
+    "overview": "Snap-to-snap 60-minute presentation of a Big Ten football game.",
+    "released": "2026-11-10T06:30:00.000Z",
+    "startTime": "2026-11-10T06:30:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T07:30:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T08:00:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T08:30:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T09:00:00.000Z",
+    "title": "B1G Football in 60",
+    "overview": "Snap-to-snap 60-minute presentation of a Big Ten football game.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T10:00:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T10:30:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T11:00:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T11:30:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T12:00:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T12:30:00.000Z",
+    "title": "B1G Volleyball in 60",
+    "overview": "Grace Heaney led the 14th-ranked Boilermakers with 21 kills in their 3-1 victory over the Bruins.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T13:30:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T14:00:00.000Z",
+    "title": "B1G Plus Encore",
+    "overview": "Replays of the best action from Big Ten contests.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T15:00:00.000Z",
+    "title": "The B1G Show",
+    "overview": "An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T15:30:00.000Z",
+    "title": "The Journey: Big Ten Football",
+    "overview": "See what makes Iowa's Tony Diaz a nightmare for opposing defenses. Aidan Chiles on finding joy playing football again at Northwestern. Wayne Knight's journey to playing a key role for UCLA.",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T16:00:00.000Z",
+    "title": "B1G Football in 60",
+    "overview": "Snap-to-snap 60-minute presentation of a Big Ten football game.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T17:00:00.000Z",
+    "title": "Live: B1G Today",
+    "overview": "Hear from B1G analysts, coaches, players and more as they break down the biggest stories of the day from around the Big Ten.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T18:00:00.000Z",
+    "title": "B1G Live",
+    "overview": "Hear news and updates from coaches and players from around the Big Ten conference.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T20:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T20:30:00.000Z",
+    "title": "B1G Today",
+    "overview": "Hear from B1G analysts, coaches, players and more as they break down the biggest stories of the day from around the Big Ten.",
+    "released": "2026-11-10T20:30:00.000Z",
+    "startTime": "2026-11-10T20:30:00.000Z",
+    "endTime": "2026-11-10T21:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T21:30:00.000Z",
+    "title": "The Journey: Big Ten Football",
+    "overview": "See what makes Iowa's Tony Diaz a nightmare for opposing defenses. Aidan Chiles on finding joy playing football again at Northwestern. Wayne Knight's journey to playing a key role for UCLA.",
+    "released": "2026-11-10T21:30:00.000Z",
+    "startTime": "2026-11-10T21:30:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T22:00:00.000Z",
+    "title": "B1G Today",
+    "overview": "Hear from B1G analysts, coaches, players and more as they break down the biggest stories of the day from around the Big Ten.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T23:00:00.000Z",
+    "title": "The Journey: Big Ten Football",
+    "overview": "An all-access package to the Big Ten Football season with behind-the-scenes footage and feature stories surrounding the best moments and events on and off the field.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-10T23:30:00.000Z",
+    "title": "Live: College Basketball",
+    "overview": "The NJIT Highlanders visit the Rutgers Scarlet Knights for an NCAA Division I game. NJIT recently broke a two-game skid with guard Victor Vanderstraeten, and Rutgers comes off an 81-54 win over New Haven playing inside Jersey Mike's Arena.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T01:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-11T01:30:00.000Z",
+    "title": "Live: College Basketball",
+    "overview": "The Fairfield Stags visit the Wisconsin Badgers for an NCAA Division I game in Madison. Fairfield comes off a 68-59 win over Bryant alongside guard Declan Wucherpfennig, and Wisconsin rides a two-game win streak with guard Eian Elmer at Kohl Center.",
+    "released": "2026-11-11T01:30:00.000Z",
+    "startTime": "2026-11-11T01:30:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-11T03:30:00.000Z",
     "title": "Live: Women's College Basketball",
     "overview": "The Charleston Cougars visit the No. 3 USC Trojans for an NCAA Division I game in California. Charleston comes off a 92-43 victory over Berry alongside forward Dakara Merthie, and USC enters with a 100-68 win over UNLV with guard Jazzy Davidson.",

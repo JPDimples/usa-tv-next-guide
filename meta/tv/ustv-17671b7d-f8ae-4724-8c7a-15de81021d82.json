@@ -15,6 +15,86 @@
   },
   "videos": [
    {
+    "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82:epg:2026-11-10T05:00:00.000Z",
+    "title": "Cast Away",
+    "overview": "Obsessively punctual FedEx executive Chuck Noland (Tom Hanks) is en route to an assignment in Malaysia when his plane crashes over the Pacific Ocean during a storm. The sole survivor of the flight, Chuck washes ashore on a deserted island. When his efforts to sail away and contact help fail, Chuck l",
+    "released": "2026-11-10T05:00:00.000Z",
+    "startTime": "2026-11-10T05:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82:epg:2026-11-10T08:00:00.000Z",
+    "title": "Turner & Hooch",
+    "overview": "Det. Scott Turner (Tom Hanks) is an uptight, by-the-book police officer who hopes to leave his sleepy California town and work in the big city. When his friend Amos Reed (John McIntire), the proprietor of a junkyard, is killed, Turner reluctantly inherits the man's dog. Realizing that the canine may",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82:epg:2026-11-10T10:30:00.000Z",
+    "title": "The Three Stooges",
+    "overview": "The boys unwittingly re-enlist under their old sergeant.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82:epg:2026-11-10T11:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82:epg:2026-11-10T14:00:00.000Z",
+    "title": "The Three Stooges",
+    "overview": "A professor plays Pygmalion to three bumbling garbage men, the Stooges; he tries to turn them into gentlemen.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82:epg:2026-11-10T14:30:00.000Z",
+    "title": "The Da Vinci Code",
+    "overview": "A murder in Paris' Louvre Museum and cryptic clues in some of Leonardo da Vinci's most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that -- should it come to light -- could rock the very foundations of Christianity.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "210 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82:epg:2026-11-10T18:00:00.000Z",
+    "title": "Knives Out",
+    "overview": "The circumstances surrounding the death of crime novelist Harlan Thrombey are mysterious, but there's one thing that renowned Detective Benoit Blanc knows for sure -- everyone in the wildly dysfunctional Thrombey family is a suspect. Now, Blanc must sift through a web of lies and red herrings to unc",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82:epg:2026-11-10T21:00:00.000Z",
+    "title": "The Green Mile",
+    "overview": "Paul Edgecomb walks the mile with a variety of cons. He has never encountered someone like John Coffey, a massive black man convicted of brutally killing a pair of young sisters. Coffey has the size and strength to kill anyone, but not the demeanor. Beyond his simple, naive nature and a deathly fear",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "240 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82:epg:2026-11-11T01:00:00.000Z",
     "title": "The Shawshank Redemption",
     "overview": "Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of ",

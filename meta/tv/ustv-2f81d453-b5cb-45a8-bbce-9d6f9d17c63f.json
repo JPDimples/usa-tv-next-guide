@@ -15,6 +15,126 @@
   },
   "videos": [
    {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-10T11:00:00.000Z",
+    "title": "SEC in 60",
+    "overview": "Every SEC football game of the week in 60 minutes.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-10T12:00:00.000Z",
+    "title": "Read & React",
+    "overview": "The hosts take a comprehensive deep dive into the key plays, players, units and teams that changed the SEC games each weekend.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-10T13:00:00.000Z",
+    "title": "Read & React",
+    "overview": "The hosts take a comprehensive deep dive into the key plays, players, units and teams that changed the SEC games each weekend.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-10T14:00:00.000Z",
+    "title": "Read & React",
+    "overview": "The hosts take a comprehensive deep dive into the key plays, players, units and teams that changed the SEC games each weekend.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-10T15:00:00.000Z",
+    "title": "College Football",
+    "overview": "The No. 13 Tennessee Volunteers clash with the No. 6 Kentucky Wildcats in an SEC matchup. Tennessee has 39 quarterback hits to defend home turf after five straight rivalry wins, while Kentucky leans on a one-interception record over eight games.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T17:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-10T17:30:00.000Z",
+    "title": "Live: Women's College Soccer",
+    "overview": "First Quarterfinal.",
+    "released": "2026-11-10T17:30:00.000Z",
+    "startTime": "2026-11-10T17:30:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-10T19:30:00.000Z",
+    "title": "Live: SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-10T20:00:00.000Z",
+    "title": "Live: Women's College Soccer",
+    "overview": "Second Quarterfinal.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-10T22:00:00.000Z",
+    "title": "Live: SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-10T22:30:00.000Z",
+    "title": "Live: Women's College Soccer",
+    "overview": "Third Quarterfinal.",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T00:30:00.000Z",
+    "title": "Live: SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T01:00:00.000Z",
+    "title": "Live: Women's College Soccer",
+    "overview": "Fourth Quarterfinal.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T03:00:00.000Z",
     "title": "Live: SEC Now",
     "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",

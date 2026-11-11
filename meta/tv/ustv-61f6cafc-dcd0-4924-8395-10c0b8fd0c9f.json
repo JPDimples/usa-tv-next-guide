@@ -15,6 +15,506 @@
   },
   "videos": [
    {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T05:55:00.000Z",
+    "title": "PJ Masks",
+    "overview": "Armadylan tries to fix a museum artifact without telling the PJ Masks; Romeo wants to create the ultimate trap for the PJ Masks.",
+    "released": "2026-11-10T05:55:00.000Z",
+    "startTime": "2026-11-10T05:55:00.000Z",
+    "endTime": "2026-11-10T06:20:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T06:20:00.000Z",
+    "title": "PJ Masks",
+    "overview": "Gekko stays home one night to avoid facing a bully; Octobella creates a powerful octopus crystal that makes her a bigger threat than ever.",
+    "released": "2026-11-10T06:20:00.000Z",
+    "startTime": "2026-11-10T06:20:00.000Z",
+    "endTime": "2026-11-10T06:45:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T06:45:00.000Z",
+    "title": "Bluey",
+    "overview": "Muffin plays the game of library her way; Mum, Dad and Bingo must pass swim school; Bluey, Bingo and Dad always take out the bins.",
+    "released": "2026-11-10T06:45:00.000Z",
+    "startTime": "2026-11-10T06:45:00.000Z",
+    "endTime": "2026-11-10T07:10:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T07:10:00.000Z",
+    "title": "Bluey",
+    "overview": "Judo wants to play in the dirt with Bluey and Bingo; during a cricket game, the dads struggle to bowl Rusty out; Bluey and Mum race against the clock to buy milk for a grumpy guest.",
+    "released": "2026-11-10T07:10:00.000Z",
+    "startTime": "2026-11-10T07:10:00.000Z",
+    "endTime": "2026-11-10T07:35:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T07:35:00.000Z",
+    "title": "Mickey Mouse Clubhouse",
+    "overview": "On the hottest day of the year Pete holds a beach blanket luau to cool everyone down.",
+    "released": "2026-11-10T07:35:00.000Z",
+    "startTime": "2026-11-10T07:35:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T08:00:00.000Z",
+    "title": "Mickey Mouse Clubhouse",
+    "overview": "Mickey and friends earn badges by setting up camp and fishing; Donald decides to camp by himself.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:25:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T08:25:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey keeps breaking her promises; Bluey teaches Bingo how to use magic; Bluey teaches Bingo to be more like him.",
+    "released": "2026-11-10T08:25:00.000Z",
+    "startTime": "2026-11-10T08:25:00.000Z",
+    "endTime": "2026-11-10T08:50:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T08:50:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and Bingo play restaurant with Grandad; the kids play Caf\u00e9, so Bingo can eat Pavlova; Bluey tracks mud into the house.",
+    "released": "2026-11-10T08:50:00.000Z",
+    "startTime": "2026-11-10T08:50:00.000Z",
+    "endTime": "2026-11-10T09:15:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T09:15:00.000Z",
+    "title": "Mickey and the Roadster Racers",
+    "overview": "Mickey enlists his hot-rod racing friends to join his crew for a Spring Grand Prix throughout Hot Dog Hills; the Happy Helpers find perfect plants for customers on Mother's Day.",
+    "released": "2026-11-10T09:15:00.000Z",
+    "startTime": "2026-11-10T09:15:00.000Z",
+    "endTime": "2026-11-10T09:40:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T09:40:00.000Z",
+    "title": "Mickey and the Roadster Racers",
+    "overview": "Goofy gets a chance to compete against a movie hero in a daredevil competition; The Happy Helpers cover for Billy Beagle as race announcers while he competes.",
+    "released": "2026-11-10T09:40:00.000Z",
+    "startTime": "2026-11-10T09:40:00.000Z",
+    "endTime": "2026-11-10T10:05:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T10:05:00.000Z",
+    "title": "Mickey Mouse Clubhouse",
+    "overview": "The animals at the petting zoo have escaped, and it's up to Mickey and Goofy to round them up.",
+    "released": "2026-11-10T10:05:00.000Z",
+    "startTime": "2026-11-10T10:05:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T10:30:00.000Z",
+    "title": "Mickey Mouse Clubhouse+",
+    "overview": "Mickey camps with Pluto at Friendship Lake but misses his pals; they miss him too, and surprise him by showing up for a fun reunion at the campsite.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T11:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad plays trampoline games with Bluey and Bingo; Dad plans on throwing out Bluey's old drawings; Bingo causes chaos at Bluey's backyard zoo.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T11:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and Bingo call Nana to ask one major question; Bingo finds her big girl bark; teacher Calypso has her hands full in the classroom.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T12:00:00.000Z",
+    "title": "Mickey Mouse Clubhouse+",
+    "overview": "Professor Von Drake's Itty Bitty Baby Ray turns him and Pluto into babies; Mickey and pals use Mouseketools to reverse the shrink ray.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T12:30:00.000Z",
+    "title": "Sofia the First: Royal Magic",
+    "overview": "While on a family picnic, Amber wants to prove she's just as amazing as Sofia; when Layla meets Sofia's siblings, Amber and James, she goes to great lengths to impress them.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T13:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad is accused of fluffing in Bluey's face; Bluey and Mackenzie play with two older friends; Bluey and Bingo want Dad all to themselves.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T13:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey gets her own room; Bluey wants her Father's Day card to be perfect; Mum sets up a backyard obstacle course just for fun.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T14:00:00.000Z",
+    "title": "Mickey Mouse Clubhouse+",
+    "overview": "Dozens of letters and packages arrive at the clubhouse by mistake; Mickey and Minnie find out that Von Drake's mail-sorting invention is broken.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:25:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T14:25:00.000Z",
+    "title": "Pupstruction",
+    "overview": "Mother's Day build! The Pups build a mountain home.",
+    "released": "2026-11-10T14:25:00.000Z",
+    "startTime": "2026-11-10T14:25:00.000Z",
+    "endTime": "2026-11-10T14:50:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T14:50:00.000Z",
+    "title": "Marvel's Spidey and His Amazing Friends",
+    "overview": "Spidey and Ghosty save the Bubble Festival from Gobby's super strong bubbles; Spidey and Ant-Man save Aunt May's doll when it gets washed down a storm drain.",
+    "released": "2026-11-10T14:50:00.000Z",
+    "startTime": "2026-11-10T14:50:00.000Z",
+    "endTime": "2026-11-10T15:15:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T15:15:00.000Z",
+    "title": "Marvel's Spidey and His Amazing Friends",
+    "overview": "Team Spidey helps reunite a family of dolphins that are under Doc Ock's mind control; Green Goblin's Garbage Cannon messes up the beach on Earth Day.",
+    "released": "2026-11-10T15:15:00.000Z",
+    "startTime": "2026-11-10T15:15:00.000Z",
+    "endTime": "2026-11-10T15:40:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T15:40:00.000Z",
+    "title": "Iron Man and His Awesome Friends",
+    "overview": "Tony tries to move a boulder blocking the trail; Riri wants to play paper boats, but Swarm has drained the creek to ruin the park.",
+    "released": "2026-11-10T15:40:00.000Z",
+    "startTime": "2026-11-10T15:40:00.000Z",
+    "endTime": "2026-11-10T16:05:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T16:05:00.000Z",
+    "title": "Bluey",
+    "overview": "The girls convince Mum that Dad is a Big Teaser; Bluey struggles to train her new pet; Daddy Robot helps Bluey and Bingo tidy the playroom.",
+    "released": "2026-11-10T16:05:00.000Z",
+    "startTime": "2026-11-10T16:05:00.000Z",
+    "endTime": "2026-11-10T16:25:00.000Z",
+    "runtime": "20 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T16:25:00.000Z",
+    "title": "Bluey",
+    "overview": "The Heelers play a game of Bus; Mum and Bluey play Mum School, where Mum teaches Bluey how to corral her rowdy kids; Bingo decides she's too tired to walk and needs a piggyback.",
+    "released": "2026-11-10T16:25:00.000Z",
+    "startTime": "2026-11-10T16:25:00.000Z",
+    "endTime": "2026-11-10T16:50:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T16:50:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and Bingo make mud pizzas; Bluey and Bingo's giant, invisible friend, Tina; Bluey promises her customer Bingo the best tour ever.",
+    "released": "2026-11-10T16:50:00.000Z",
+    "startTime": "2026-11-10T16:50:00.000Z",
+    "endTime": "2026-11-10T17:10:00.000Z",
+    "runtime": "20 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T17:10:00.000Z",
+    "title": "Magicampers",
+    "overview": "Chiffen finds a lost egg; Dracoon takes his favorite toy on a quest.",
+    "released": "2026-11-10T17:10:00.000Z",
+    "startTime": "2026-11-10T17:10:00.000Z",
+    "endTime": "2026-11-10T17:35:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T17:35:00.000Z",
+    "title": "Bluey",
+    "overview": "Bingo gets upset when Dad is too distracted to notice a walking leaf; Bluey dreams about being a nocturnal fruit bat; Bingo makes a salad.",
+    "released": "2026-11-10T17:35:00.000Z",
+    "startTime": "2026-11-10T17:35:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T18:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Mum and Dad need to finish their housework; Dad, Bluey and Bingo play Sheepdog; Jack pretends to be a sailor on his way home.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T18:25:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T18:25:00.000Z",
+    "title": "SuperKitties",
+    "overview": "The SuperKitties stop Cat Burglar from stealing the trendy new hats in Kittydale; Buddy doesn't give up on learning how to use a telescope.",
+    "released": "2026-11-10T18:25:00.000Z",
+    "startTime": "2026-11-10T18:25:00.000Z",
+    "endTime": "2026-11-10T18:50:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T18:50:00.000Z",
+    "title": "SuperKitties",
+    "overview": "Sparks forgets to eat breakfast, so he has to face his fear of loud noises to help his team, even if he is hungry.",
+    "released": "2026-11-10T18:50:00.000Z",
+    "startTime": "2026-11-10T18:50:00.000Z",
+    "endTime": "2026-11-10T19:15:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T19:15:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad plants himself on one end of the seesaw; it is Bluey's first trip to the cinema; Bluey and Bingo go on an adventure with Grandad.",
+    "released": "2026-11-10T19:15:00.000Z",
+    "startTime": "2026-11-10T19:15:00.000Z",
+    "endTime": "2026-11-10T19:40:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T19:40:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad tries to teach Bluey how to play chess, but Mom thinks she is still too young; Bingo helps Mom make an omelette for Dad's birthday; Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer.",
+    "released": "2026-11-10T19:40:00.000Z",
+    "startTime": "2026-11-10T19:40:00.000Z",
+    "endTime": "2026-11-10T20:05:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T20:05:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad thinks Bluey and Bingo have too many toys; Bluey and friends get ambushed by the Terriers; Bluey and Bingo play a game of Burger Shop with Dad.",
+    "released": "2026-11-10T20:05:00.000Z",
+    "startTime": "2026-11-10T20:05:00.000Z",
+    "endTime": "2026-11-10T20:30:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T20:30:00.000Z",
+    "title": "Disney Jr. Ariel - The Little Mermaid",
+    "overview": "Ariel explores the Crystal World to find out where her axolotl buddy wandered off to; when Lucia performs the Octo-Juggle magic trick, she finds out that it's harder than expected!",
+    "released": "2026-11-10T20:30:00.000Z",
+    "startTime": "2026-11-10T20:30:00.000Z",
+    "endTime": "2026-11-10T20:55:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T20:55:00.000Z",
+    "title": "Bluey",
+    "overview": "Muffin is playing Grouchy Granny at a garage sale, making Dad push her on an old mobility scooter; Mackenzie, Jack and Rusty are playing astronauts, but Mackenzie keeps going missing; Bluey and Bingo build a very special cubby for their stuffed toy.",
+    "released": "2026-11-10T20:55:00.000Z",
+    "startTime": "2026-11-10T20:55:00.000Z",
+    "endTime": "2026-11-10T21:20:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T21:20:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad plays trampoline games with Bluey and Bingo; Dad plans on throwing out Bluey's old drawings; Bingo causes chaos at Bluey's backyard zoo.",
+    "released": "2026-11-10T21:20:00.000Z",
+    "startTime": "2026-11-10T21:20:00.000Z",
+    "endTime": "2026-11-10T21:55:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T21:55:00.000Z",
+    "title": "Robogobo",
+    "overview": "The Slink challenges RoboGobo to a race, but her wacky driving puts other pets in trouble; when Booster loses Hopper's toy, Hopper must learn about forgiveness.",
+    "released": "2026-11-10T21:55:00.000Z",
+    "startTime": "2026-11-10T21:55:00.000Z",
+    "endTime": "2026-11-10T22:20:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T22:20:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and Bingo call Nana to ask one major question; Bingo finds her big girl bark; teacher Calypso has her hands full in the classroom.",
+    "released": "2026-11-10T22:20:00.000Z",
+    "startTime": "2026-11-10T22:20:00.000Z",
+    "endTime": "2026-11-10T22:45:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T22:45:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey gets her own room; Bluey wants her Father's Day card to be perfect; Mum sets up a backyard obstacle course just for fun.",
+    "released": "2026-11-10T22:45:00.000Z",
+    "startTime": "2026-11-10T22:45:00.000Z",
+    "endTime": "2026-11-10T23:15:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T23:15:00.000Z",
+    "title": "Magicampers",
+    "overview": "Loomis tries to help Chiffen fly; Harper sets off to discover her magical power.",
+    "released": "2026-11-10T23:15:00.000Z",
+    "startTime": "2026-11-10T23:15:00.000Z",
+    "endTime": "2026-11-10T23:40:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-10T23:40:00.000Z",
+    "title": "Mickey Mouse Clubhouse+",
+    "overview": "When Goofy accidentally builds his new Clubhouse upside down, he, Mickey and Minnie must travel to Magic Island to collect a magic potion that will turn it right side up again!",
+    "released": "2026-11-10T23:40:00.000Z",
+    "startTime": "2026-11-10T23:40:00.000Z",
+    "endTime": "2026-11-11T00:05:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T00:05:00.000Z",
+    "title": "Sofia the First: Royal Magic",
+    "overview": "At a sleepover at Sofia's castle with Camila and Layla, stuffies magically come to life; a grumpy dragon is on the loose at Charmswell; Zane tries to tame the bumbling beast.",
+    "released": "2026-11-11T00:05:00.000Z",
+    "startTime": "2026-11-11T00:05:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T00:30:00.000Z",
+    "title": "SuperKitties",
+    "overview": "Bitsy worries that she and Ginny can only be besties if they like the same things; Zsa-Zsa freezes everyone for her group selfie; Ginny figures out how to use Cat-o-flauge.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T00:55:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T00:55:00.000Z",
+    "title": "Marvel's Spidey and His Amazing Friends",
+    "overview": "Aunt May's house houseflies away after Peter leaves Doc Ock's Octo-Floater in his room; when Swarm sets her robo-flies on the city, Team Spidey uses their spider knowledge to stop them.",
+    "released": "2026-11-11T00:55:00.000Z",
+    "startTime": "2026-11-11T00:55:00.000Z",
+    "endTime": "2026-11-11T01:20:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T01:20:00.000Z",
+    "title": "Bluey",
+    "overview": "The girls convince Mum that Dad is a Big Teaser; Bluey struggles to train her new pet; Daddy Robot helps Bluey and Bingo tidy the playroom.",
+    "released": "2026-11-11T01:20:00.000Z",
+    "startTime": "2026-11-11T01:20:00.000Z",
+    "endTime": "2026-11-11T01:50:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T01:50:00.000Z",
+    "title": "Bluey",
+    "overview": "Indy and Rusty can't agree in a game of Mum and Dads; Bluey and Bingo work together to climb Mount MumandDad; magic asparagus turns the family into wild animals.",
+    "released": "2026-11-11T01:50:00.000Z",
+    "startTime": "2026-11-11T01:50:00.000Z",
+    "endTime": "2026-11-11T02:15:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T02:15:00.000Z",
+    "title": "Bluey",
+    "overview": "The Heelers play a game of Bus; Mum and Bluey play Mum School, where Mum teaches Bluey how to corral her rowdy kids; Bingo decides she's too tired to walk and needs a piggyback.",
+    "released": "2026-11-11T02:15:00.000Z",
+    "startTime": "2026-11-11T02:15:00.000Z",
+    "endTime": "2026-11-11T02:40:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T02:40:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and Bingo make mud pizzas; Bluey and Bingo's giant, invisible friend, Tina; Bluey promises her customer Bingo the best tour ever.",
+    "released": "2026-11-11T02:40:00.000Z",
+    "startTime": "2026-11-11T02:40:00.000Z",
+    "endTime": "2026-11-11T03:05:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T03:05:00.000Z",
+    "title": "Bluey",
+    "overview": "Rusty interrupts Bluey's game at playgroup; Doctor Bluey operates on a cat in Dad's tummy; Bluey misses Mum when she goes out for the night.",
+    "released": "2026-11-11T03:05:00.000Z",
+    "startTime": "2026-11-11T03:05:00.000Z",
+    "endTime": "2026-11-11T03:25:00.000Z",
+    "runtime": "20 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T03:25:00.000Z",
     "title": "Marvel's Spidey and His Amazing Friends",
     "overview": "Rhino and Green Goblin plot to ruin a roller-skating race; Black Cat and Doc Ock make an unstoppable team as they commit a lot of trouble.",

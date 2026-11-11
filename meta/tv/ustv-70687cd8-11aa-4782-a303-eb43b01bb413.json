@@ -15,6 +15,216 @@
   },
   "videos": [
    {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T05:00:00.000Z",
+    "title": "Holiday Baking Championship",
+    "overview": "After a peppermint dessert preheat, Jesse Palmer asks the baking teams to make radical red velvet desserts in honor of Santa's fresh fit; Judges Duff Goldman, Kardea Brown and Molly Yeh choose the winner of the $1,000 prize package.",
+    "released": "2026-11-10T05:00:00.000Z",
+    "startTime": "2026-11-10T05:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T07:00:00.000Z",
+    "title": "Harry Potter: Wizards of Baking",
+    "overview": "James and Oliver Phelps challenge the teams to create cakes inspired by the first Harry Potter movie and their favorite spells; the showpieces are delivered to the Quidditch pitch and Ollivander's Wand Shop for judging by Duff Goldman and Sarah Mountain.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T09:00:00.000Z",
+    "title": "Kids Baking Championship",
+    "overview": "Duff Goldman and Valerie Bertinelli lead eight talented young bakers through tasty challenges designed to find the most impressive and creative baker.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T11:00:00.000Z",
+    "title": "Kitchen Undercover",
+    "overview": "A struggling brewery must reinvigorate recipes for a shot at redemption.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T12:00:00.000Z",
+    "title": "Kitchen Undercover",
+    "overview": "The San Pedro Brewing Company is struggling after a sudden drop in sales; Chef Antonia Lofaso sends her sous-chef Nestor Milian to uncover the chaos with hidden cameras before she uses her culinary skill to bring this restaurant back to its former glory.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T13:00:00.000Z",
+    "title": "Alex vs. America",
+    "overview": "California-based chefs aim to take down New Yorker Alex Guarnaschelli with their coastal cuisine; the chefs bet their skills with Californian food can win over judges Michael Voltaggio and Troy Johnson and give them a chance at defeating chef Alex.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T14:00:00.000Z",
+    "title": "Alex vs. America",
+    "overview": "Eric Adjepong welcomes three spud experts from across the country to challenge Alex Guarnaschelli with one of America's top foods; judges Simon Majumdar and Ricardo Zarate determine if one of these chefs can beat chef Alex in her own kitchen.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T15:00:00.000Z",
+    "title": "Alex vs. America",
+    "overview": "Eric Adjepong welcomes three of the country's most skilled salmon experts to prove their knowledge of fish can compete with Alex Guarnaschelli's experience; the ingredients they choose could give them an advantage or help Alex.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T16:00:00.000Z",
+    "title": "Alex vs. America",
+    "overview": "Eric Adjepong welcomes three pastry chefs from Kentucky, California and New Jersey to outshine Alex Guarnaschelli's pastry expertise; the chefs pull out all the stops for judges Sherry Yard and Stephanie Boswell to give Alex a run for her money.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T17:00:00.000Z",
+    "title": "Chopped",
+    "overview": "In the appetizer round, the chefs show that they have what it takes to transform leftovers into a meal; in the entr\u00e9e round, the competitors attempt to impress the judges using a variety of tools and techniques.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T18:00:00.000Z",
+    "title": "Chopped",
+    "overview": "U.S. Navy chefs will have to create spectacular appetizers using an aged meat product before reworking a patriotic cake for dessert, all with $75,000 for a charitable cause on the line.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T19:00:00.000Z",
+    "title": "Chopped",
+    "overview": "Four members of the U.S. Air Force compete; in the appetizer basket, the chefs find a bowl of something comforting and a crunchy snack, while the dessert round includes a wild play on pickles.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T20:00:00.000Z",
+    "title": "Chopped",
+    "overview": "Chopped welcomes the U.S. Marine Corps chefs to the kitchen; the competitors must figure out how to make something that's normally ready-to-eat ready for the judges and get creative when a breakfast food appears in the basket.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T21:00:00.000Z",
+    "title": "Chopped",
+    "overview": "Four chefs from the U.S. Army transform a favorite soldier comfort food into an elevated appetizer; a festive drink shakes up the competitors in the dessert round as they fight for a spot in the tournament's finale.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T22:00:00.000Z",
+    "title": "Chopped",
+    "overview": "The four military finalists cook as a team against a mystery \"Chopped\" judge in every round; their teamwork and creativity will be tested as they battle against star chefs for the chance to win $75,000 for a charitable cause.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T23:00:00.000Z",
+    "title": "Beat Bobby Flay",
+    "overview": "Alex Guarnaschelli and Marc Murphy band together with chefs Daniel Le and Michael Michaelis to teach Bobby Flay a thing or two about lobster.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-10T23:30:00.000Z",
+    "title": "Beat Bobby Flay",
+    "overview": "Jeff Mauro and comedian Chelsea Peretti bring Bobby Flay the laughs as they cheer on Italian chefs Antonio de Ieso and Ciro Fodera.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T00:00:00.000Z",
+    "title": "Beat Bobby Flay",
+    "overview": "Bobby Flay is way out of his element with a signature dish he's never made before; Damaris Phillips and Christian Petroni taunt him as chefs Ilji Cheung and Pyet Despain attempt to roll up a win.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T00:30:00.000Z",
+    "title": "Beat Bobby Flay",
+    "overview": "Bobby Flay meets his match when meteorologist Ginger Zee and Sunny Anderson storm the kitchen with chefs Basil Yu and Sanjay Rawat.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T01:00:00.000Z",
+    "title": "Bobby's Triple Threat",
+    "overview": "An OG Iron Chef is ready to show Bobby Flay's Titans who's boss. It's not this contender's first time in the Triple Threat kitchen, but this time, he brought his knives. Bobby's good friend and industry veteran Stephen Kalt decides who will be victorious.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T02:00:00.000Z",
+    "title": "Bobby Flay's the Line",
+    "overview": "Time is not on their side when the clock gets the best of the chefs in a Cantonese cook-off between Bobby Flay's home team and Dale Talde's visiting line.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T03:00:00.000Z",
     "title": "Tournament of Champions: All-Star Christmas",
     "overview": "Guy Fieri is back to host a holiday showdown in a Winner's Wonderland! All-new teams of 32 superstar chefs create sweet and savory delights in hopes of sleighing the competition, winning the title, scoring $100,000 and delivering big bucks for charity.",

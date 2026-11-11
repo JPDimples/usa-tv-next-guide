@@ -15,6 +15,146 @@
   },
   "videos": [
    {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T06:00:00.000Z",
+    "title": "Live: Bloomberg Daybreak: Europe",
+    "overview": "From London, essential morning viewing to stay ahead of the day's market trends with news stories from the U.S. and Asia in the lead-up to the opening of European markets.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T07:00:00.000Z",
+    "title": "Live: Bloomberg The Opening Trade",
+    "overview": "\"The Opening Trade\" explores things to know as markets open across Europe; analysis that isn't available anywhere else, a break-down of the biggest stories of the day and top guests who have skin in the game.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T09:00:00.000Z",
+    "title": "Live: The Pulse with Francine Lacqua",
+    "overview": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics; based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T10:00:00.000Z",
+    "title": "Live: Bloomberg Brief",
+    "overview": "\"Bloomberg Brief\" delivers the market news, data and analysis viewers need to set their agendas.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T11:00:00.000Z",
+    "title": "Live: Bloomberg Surveillance",
+    "overview": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern have the economy and global markets \"under surveillance\"; their daily conversations with leaders and decision makers from Wall Street to Washington and beyond cover the latest in business, investment, and geopolitics; no other program better posit",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T14:00:00.000Z",
+    "title": "Live: Bloomberg Open Interest",
+    "overview": "Delivering the market-moving news anyone needs to know to get a jump start on the U.S. trading day.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T16:00:00.000Z",
+    "title": "Live: Bloomberg Tech",
+    "overview": "Bloomberg Tech is the only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories. The program brings the audience interviews from the biggest names in the business, offering in-depth analysis and critical insights",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T17:00:00.000Z",
+    "title": "Live: Bloomberg Crypto",
+    "overview": "The latest news, analysis and interviews covering the people, transactions and technology shaping the world of decentralized finance.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T18:00:00.000Z",
+    "title": "Live: Bloomberg: Balance of Power",
+    "overview": "\"Bloomberg Balance of Power\" with host David Westin is a daily look at how politics is impacting global business decisions; top lawmakers, business executives and government leaders join to discuss doing business in today's volatile political climate.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T19:00:00.000Z",
+    "title": "Live: Bloomberg Businessweek Daily",
+    "overview": "Carol Massar and Tim Stenovec bring reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T20:00:00.000Z",
+    "title": "Live: Bloomberg: The Close",
+    "overview": "Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T22:00:00.000Z",
+    "title": "Live: Bloomberg: Balance of Power",
+    "overview": "\"Bloomberg Balance of Power\" with host David Westin is a daily look at how politics is impacting global business decisions; top lawmakers, business executives and government leaders join to discuss doing business in today's volatile political climate.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-10T23:00:00.000Z",
+    "title": "Live: Bloomberg The Asia Trade",
+    "overview": "Bringing global investors everything you need to know as the trading day begins in Asia; Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets, from tech, to geopoliti",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-11T01:00:00.000Z",
+    "title": "Live: Bloomberg: The China Show",
+    "overview": "Your definitive source for news and analysis on the world's second-biggest economy; from politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75:epg:2026-11-11T03:00:00.000Z",
     "title": "Post Credits",
     "overview": "Ian Schafer speaks with Knicks Fan TV founder CP, Rebecca Chasen of Knicks Film School and Shaun of The Knicks Wall about how digital creators turn sports fandom into independent media brands; using the New York Knicks fan base as a model, the panel examines revenue generation through live shows, sp",

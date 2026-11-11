@@ -15,6 +15,196 @@
   },
   "videos": [
    {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T06:00:00.000Z",
+    "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
+    "overview": "Join your hosts Kevin Cash & Cory Cady as we discuss the 250th Anniversary of America with the official \"America 250\" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T06:30:00.000Z",
+    "title": "CSN Mint: 1776-2026 Proof Silver American Eagle in Original U.S. Mint Packaging",
+    "overview": "Join CSN Mint for the historic 2026-W Proof Silver Eagle, featuring the first-ever 1776-2026 dual date, Liberty Bell \"250\" privy mark, 1 oz .999 fine silver and official U.S. Mint packaging with Certificate of Authenticity.",
+    "released": "2026-11-10T06:30:00.000Z",
+    "startTime": "2026-11-10T06:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T07:00:00.000Z",
+    "title": "CSN Mint: 2026 July 4th Privy Declaration of Independence Quarter",
+    "overview": "Join CSN Mint for the 2026 Declaration of Independence Quarter, featuring the sought-after July 4th Privy Mark and certified ANACS MS67. A standout America 250 release honoring the birth of a nation.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T07:30:00.000Z",
+    "title": "1776 - 2026 250th Anniversary Quarter Celebration Program",
+    "overview": "2026 will be one of the most historic years ever in U.S. coinage; join your host Mike Mezack to learn about the incredible U.S. Quarter program and get a chance at an exclusive P&D Roll!",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T08:00:00.000Z",
+    "title": "Tired of Aging? Super Pill's Secret to Lasting Youth & Vitality!",
+    "overview": "Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T08:30:00.000Z",
+    "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
+    "overview": "Join your hosts Kevin Cash & Cory Cady as we discuss the 250th Anniversary of America with the official \"America 250\" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T09:00:00.000Z",
+    "title": "American Dynasty",
+    "overview": "Joe Kennedy is the grandson of Irish immigrants who, after graduating from Harvard, conquers Wall Street and Hollywood; when his own political career is cut short, he focuses on his children -- one becomes president.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T10:00:00.000Z",
+    "title": "Live: FOX Weather First",
+    "overview": "Waking up at 5am to the first national forecast of the day; all the latest weather news and everything one needs to prepare for the day ahead.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T11:00:00.000Z",
+    "title": "Live: Big Money in the Morning",
+    "overview": "Hosts Dagen McDowell, Brian Brenberg and Taylor Riggs explore market trends with Josh Schafer through news, debate and analysis.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T14:00:00.000Z",
+    "title": "Live: Varney & Company",
+    "overview": "Stuart Varney is joined by a panel of guests to discuss the implications of political news on the business world and the impact on personal finances.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T17:00:00.000Z",
+    "title": "Live: The Big Money Show",
+    "overview": "Taylor Riggs, Brian Brenberg and Jackie DeAngelis host an informative and fast-paced hour filled with business topics that impact everyone from Wall Street to the average person.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T19:00:00.000Z",
+    "title": "Live: Making Money With Charles Payne",
+    "overview": "Host Charles Payne gives viewers an end-of-day wrap and provides an insider's look at tomorrow's moneymakers.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T20:00:00.000Z",
+    "title": "Live: The Claman Countdown",
+    "overview": "Capturing the chaos of the last hour on Wall Street.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T21:00:00.000Z",
+    "title": "Live: Kudlow",
+    "overview": "Following the closing bell, economist Larry Kudlow covers stock market analysis, financial and business news of the day and drills down on the most pressing economic issues impacting everyday Americans.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T22:00:00.000Z",
+    "title": "Live: The Evening Edit",
+    "overview": "Breaking down the news of the day after the markets close.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-10T23:00:00.000Z",
+    "title": "Kudlow",
+    "overview": "Following the closing bell, economist Larry Kudlow covers stock market analysis, financial and business news of the day and drills down on the most pressing economic issues impacting everyday Americans.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-11T00:00:00.000Z",
+    "title": "Kelsey Grammer's Historic Battles for America",
+    "overview": "Two years into the Civil War, the Union is losing the fight and desperately needs a victory to stop Robert E. Lee's push north; near Sharpsburg, Md., Union troops take a stand in a battle that could save America or end it for good.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-11T01:00:00.000Z",
+    "title": "Kelsey Grammer's Historic Battles for America",
+    "overview": "In the spring of 1863, the Civil War enters its third bloody year; for the North, the clearest path to victory runs through the last Confederate holdout, Vicksburg, but taking the fortified city amid unforgiving terrain may require a miracle.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-11T02:00:00.000Z",
+    "title": "Kelsey Grammer's Historic Battles for America",
+    "overview": "America's push west forces conflicts with Native tribes; driven by ego, George Custer launches a doomed assault against a large band of Indigenous warriors, now enshrined as \"Custer's Last Stand.\".",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8:epg:2026-11-11T03:00:00.000Z",
     "title": "Kelsey Grammer's Historic Battles for America",
     "overview": "Over a year before the Declaration of Independence, America is born at Bunker Hill; the first major battle of the revolution is also its bloodiest.",

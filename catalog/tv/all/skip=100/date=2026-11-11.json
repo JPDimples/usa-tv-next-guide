@@ -16,6 +16,46 @@
    },
    "videos": [
     {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T00:00:00.000Z",
+     "title": "Everybody Hates Chris",
+     "overview": "Chris runs for class president and asks Greg to be his running mate but drops him after poll results reveal that Greg is not popular enough.",
+     "released": "2026-11-11T00:00:00.000Z",
+     "startTime": "2026-11-11T00:00:00.000Z",
+     "endTime": "2026-11-11T00:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T00:30:00.000Z",
+     "title": "Everybody Hates Chris",
+     "overview": "Rochelle hosts a neighborhood-watch meeting after someone steals Julius' truck, but her neighbor Louise (Whoopi Goldberg) thinks she would make a better block captain than Rochelle.",
+     "released": "2026-11-11T00:30:00.000Z",
+     "startTime": "2026-11-11T00:30:00.000Z",
+     "endTime": "2026-11-11T01:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T01:00:00.000Z",
+     "title": "Love & Hip Hop: The Final Chapter",
+     "overview": "From a little underdog show to a global pop culture juggernaut, Love & Hip Hop redefined reality TV, only to find its meteoric rise threatened by its own volatile, explosive success.",
+     "released": "2026-11-11T01:00:00.000Z",
+     "startTime": "2026-11-11T01:00:00.000Z",
+     "endTime": "2026-11-11T02:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T02:00:00.000Z",
+     "title": "Basketball Wives",
+     "overview": "Shaunie and the others ambush Gloria to find out about the wedding; Jen and Eric have \"the talk.\".",
+     "released": "2026-11-11T02:00:00.000Z",
+     "startTime": "2026-11-11T02:00:00.000Z",
+     "endTime": "2026-11-11T03:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
      "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T03:00:00.000Z",
      "title": "Basketball Wives",
      "overview": "Evelyn and Jen are left off Ashley's guest list; Tami and Jen fight over a harmless remark.",
@@ -450,6 +490,26 @@
    },
    "videos": [
     {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T00:00:00.000Z",
+     "title": "Juego de villanos",
+     "overview": "Dieciocho villanos ic\u00f3nicos compiten por el t\u00edtulo de \"El Emperador de los Villanos\" y 200 mil d\u00f3lares. Entre desaf\u00edos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.",
+     "released": "2026-11-11T00:00:00.000Z",
+     "startTime": "2026-11-11T00:00:00.000Z",
+     "endTime": "2026-11-11T02:00:00.000Z",
+     "runtime": "120 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T02:00:00.000Z",
+     "title": "El se\u00f1or de los cielos",
+     "overview": "La operaci\u00f3n \"Acci\u00f3n Rayo\" desata una ola de violencia cuando Dalila y Castillo irrumpen en el edificio. Ataques, capturas y traiciones ponen a prueba los pactos y anuncian una tragedia fatal.",
+     "released": "2026-11-11T02:00:00.000Z",
+     "startTime": "2026-11-11T02:00:00.000Z",
+     "endTime": "2026-11-11T03:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
      "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T03:00:00.000Z",
      "title": "Lejos de ti",
      "overview": "Kaya ata cabos y quiere recuperar a su hija. Cihan le propone un plan muy arriesgado que requiere el apoyo de la doctora de la familia. Alya se niega a ocultar el riesgo que corre Nare.",
@@ -706,6 +766,36 @@
     "hasScheduledVideos": true
    },
    "videos": [
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T00:00:00.000Z",
+     "title": "La rosa de Guadalupe",
+     "overview": "Maricruz es una ni\u00f1a que todas las tardes juega futbol con sus amigos. Desafortunadamente, es reclutada por el crimen organizado para trabajar como halc\u00f3n y ser entrenada para cometer m\u00e1s delitos. Descubre cu\u00e1l ser\u00e1 el destino final de una ni\u00f1a inocente.",
+     "released": "2026-11-11T00:00:00.000Z",
+     "startTime": "2026-11-11T00:00:00.000Z",
+     "endTime": "2026-11-11T01:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T01:00:00.000Z",
+     "title": "Sabor a ti, entre historias y secretos",
+     "overview": "Margarita le propone a Filo liberar a Mariano si le devuelven la casa. Tom\u00e1s le ofrece a Mariano liberarlo si le revela el secreto del vino, y asegura que Lucero lo sabe. \u00c1ngela sospecha que Lucero no es ciega. Fidel arma un chisme sobre Violeta y Moncho.",
+     "released": "2026-11-11T01:00:00.000Z",
+     "startTime": "2026-11-11T01:00:00.000Z",
+     "endTime": "2026-11-11T02:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T02:00:00.000Z",
+     "title": "Tierra de amor y coraje",
+     "overview": "La polic\u00eda le pide a Juan que los deje trabajar para encontrar a los hombres que los est\u00e1n persiguiendo. Jero y Juan se enfrentan a golpes por el amor de Clara. Rogelio realiza una reuni\u00f3n con personas influyentes para sumar a su campa\u00f1a.",
+     "released": "2026-11-11T02:00:00.000Z",
+     "startTime": "2026-11-11T02:00:00.000Z",
+     "endTime": "2026-11-11T03:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
     {
      "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T03:00:00.000Z",
      "title": "Infinito amor",

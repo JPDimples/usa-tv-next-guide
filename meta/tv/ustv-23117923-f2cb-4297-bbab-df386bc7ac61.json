@@ -15,6 +15,216 @@
   },
   "videos": [
    {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T06:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "A dry thunderstorm rolls over Los Angeles, bringing in a series of lightning strike emergencies for the 118 and leaves a first responder's life hanging in the balance; Chimney get a surprise from a visiting Albert.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T07:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "As Buck's life hangs in the balance, he dreams of a world where he never became a firefighter, for better and worse.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T08:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "Despite the case being closed, Bobby is determined to prove his Alcoholics Anonymous sponsor was murdered and bring his killer to justice; Buck struggles with his post-traumatic stress.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T09:00:00.000Z",
+    "title": "Mama June: From Not to Hot",
+    "overview": "Pumpkin is single and ready to mingle, but Josh isn't ready to let go of their marriage; Pumpkin and Josh have a heart-to-heart with Ella; Alana's birthday tribute for Anna is derailed when June takes things into her own hands.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T10:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T11:30:00.000Z",
+    "title": "Bathroom Makeover",
+    "overview": "Transform your bath affordably in just one day!",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T12:00:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T13:00:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T14:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "In Mexico, Hondo teams up with a local cop for a dangerous rescue mission, only to find himself with a target on his back; in Los Angeles, Hicks considers disbanding the team for good.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T15:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "When a robbery crew holds up the iconic downtown Los Angeles library, the team discovers that stolen architectural drawings could lead to a major threat against the city; the squad is surprised by the arrival of a new leader.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T16:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "As the team races to stop a violent band of armed robbers, the search is complicated by civilians using a public safety app that encourages vigilantism; Street receives difficult news that alters his future.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T17:00:00.000Z",
+    "title": "Criminal Minds",
+    "overview": "When an author's daughter goes missing on the anniversary of his wife's disappearance, the team investigates the author as a possible suspect.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T18:00:00.000Z",
+    "title": "Criminal Minds",
+    "overview": "The team heads to Austin to investigate when victims with watches set to inaccurate times are discovered; the team's stalker gets closer.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T19:00:00.000Z",
+    "title": "Criminal Minds",
+    "overview": "Victims of the Replicator, the BAU's stalker, turn up in Philadelphia; the members of the team think they are getting close to apprehending their suspect.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T20:00:00.000Z",
+    "title": "Criminal Minds",
+    "overview": "The team investigates victims who were sharing details about their personal lives and inner desires online; Kevin becomes jealous when he finds out that Garcia might have a new love interest.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T21:00:00.000Z",
+    "title": "Criminal Minds",
+    "overview": "When the team goes to Morgan's old neighborhood to track an UnSub targeting middle-aged men, Morgan suspects they are looking for someone connected to the man who abused him as a child.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T22:00:00.000Z",
+    "title": "Criminal Minds",
+    "overview": "A 25-year-old time capsule opened in a small Colorado town reveals a gruesome discovery and a possible connection to a local police officer's death.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-10T23:00:00.000Z",
+    "title": "Criminal Minds",
+    "overview": "The team heads to Rapid City when two men are murdered in a ritualistic way; Reid mourns Maeve's death.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-11T00:00:00.000Z",
+    "title": "Criminal Minds",
+    "overview": "The BAU team heads to Los Angeles in search of a suspect who kidnaps nannies and the children they care for.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-11T01:00:00.000Z",
+    "title": "Criminal Minds",
+    "overview": "The team tracks a suspect targeting people in Detroit; Blake receives a life-changing proposition from her husband (D.W. Moffett).",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-11T02:00:00.000Z",
+    "title": "Criminal Minds",
+    "overview": "The team investigates a series of deaths in Manhattan that seem to be related to ecstasy overdoses; Hotch makes a discovery about his estranged brother.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61:epg:2026-11-11T03:00:00.000Z",
     "title": "Criminal Minds",
     "overview": "When the Replicator returns, a member of the BAU team is targeted.",

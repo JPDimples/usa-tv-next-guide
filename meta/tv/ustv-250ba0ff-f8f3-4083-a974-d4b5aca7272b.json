@@ -15,6 +15,146 @@
   },
   "videos": [
    {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T06:00:00.000Z",
+    "title": "E60",
+    "overview": "Ryan Clark explores the lingering impact of Hurricane Katrina on New Orleans and its people.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T07:00:00.000Z",
+    "title": "College Football",
+    "overview": "The No. 7 Texas Longhorns (6-2) visit the No. 18 Missouri Tigers (6-2) at Memorial Stadium for an SEC game. Missouri beat Arkansas 34-10 behind two Austin Simmons touchdowns, while Texas seeks three straight wins after beating Mississippi State 31-3.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T09:00:00.000Z",
+    "title": "College Football",
+    "overview": "The No. 21 South Carolina Gamecocks (5-3) host the Texas A&M Aggies at Williams-Brice Stadium. Texas A&M enters off a 31-20 loss to Alabama and relies on Marcel Reed, while South Carolina beat Oklahoma 42-25 behind LaNorris Sellers' three touchdowns.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T11:00:00.000Z",
+    "title": "Live: Unsportsmanlike with Evan, Canty and Michelle",
+    "overview": "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it's all about.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T13:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T14:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T15:00:00.000Z",
+    "title": "Live: Get Up",
+    "overview": "ESPN's morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T17:00:00.000Z",
+    "title": "Live: First Take",
+    "overview": "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day's trending sports topics and under-the-radar news. They're regularly joined by veteran analysts and the top guests in sports and entertainment.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T19:00:00.000Z",
+    "title": "College Football Live",
+    "overview": "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport's biggest stories and newsmakers. The half-hour program features a rotating roster of analysts ",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T19:30:00.000Z",
+    "title": "College Football Live",
+    "overview": "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport's biggest stories and newsmakers. The half-hour program features a rotating roster of analysts ",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T20:00:00.000Z",
+    "title": "Live: NBA Today",
+    "overview": "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T21:00:00.000Z",
+    "title": "Big Day With Peter Schrager",
+    "overview": "Peter Schrager's daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T22:00:00.000Z",
+    "title": "NFL Live",
+    "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-10T23:00:00.000Z",
+    "title": "Live: College Basketball",
+    "overview": "The No. 1 Florida Gators visit the Florida State Seminoles for an NCAA Division I game in Florida. Florida rides a two-game win streak alongside forward Thomas Haugh, and Florida State rides a two-game win streak alongside forward Sebastian Rancik.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T01:00:00.000Z",
     "title": "Live: College Football",
     "overview": "The Ohio Bobcats visit the Miami (OH) RedHawks for an NCAA FBS division game in Ohio. Ohio rides a six-game win streak alongside linebacker Michael Molnar, and Miami comes off a 34-31 overtime loss to Buffalo alongside quarterback David McComb.",

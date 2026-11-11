@@ -15,6 +15,216 @@
   },
   "videos": [
    {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T06:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "When a runaway teenage girl is found badly beaten, doctors discover the beating killed her unborn child, and detectives begin to question the father.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T07:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "An investigation into the near-fatal beating of a 12-year-old boy uncovers a female suspect whose trial becomes about the rights of same-sex parents.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T08:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Four honor students are arrested for criminally negligent homicide when another student dies at a party that they threw.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T09:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Fin is asked to look into a case of rape at his son's college, where he meets a Brooklyn detective (Adam Beach) who is investigating a similar crime.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T10:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "A cancer patient (Brian Dennehy) makes a deathbed confession involving a number of crimes from decades earlier.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T11:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "A wellness check on a family reveals signs of foul play, and Detective Upton is determined to find the parents and young daughter; as she delves further into the troubled family dynamics, she reflects on her own childhood trauma.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T12:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "The team pursues a crafty serial rapist; Sgt. Voight finds himself resisting some old, familiar tendencies in his quest for justice.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T13:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "The shocking murder of a young pregnant woman leads the team on a desperate hunt for the killer, revealing something even darker than expected; Burgess has to make a tough decision about Makayla.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T14:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "After a series of brutal home-invasion robberies, Upton immerses herself in the case and finds herself caught between Voight and Halstead.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T15:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "Voight and the team pursue a ruthless crime ring whose business has hit close to home; as they dig deeper, the extent of the danger becomes more apparent; Deputy Superintendent Samantha Miller second-guesses her decisions.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T16:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "Voight and the team muster all their expertise to bring down a deadly crime ring; Burgess finds herself in a dangerous situation.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T17:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "When a teenage boy is killed in what appears to be a play fight, the victim's friend claims he filmed the death.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T18:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Detectives link the stabbing death of a schoolteacher to her volunteer job at a victims' rehabilitation center, where she was working with an Iraqi who helped uncover some military secrets.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T19:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "The death of a young girl appears to link to the world of ultimate fighting, and tensions rise within the department when two brothers (Gaius Charles, Arlen Escarpeta) are charged with the crime.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T20:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "A wealthy teen is found murdered in New York's Central Park, and the clues lead to a gang of homeless children.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T21:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Benson and Stabler have to get creative when a rape victim's father refuses to help the detectives get the information they need to solve a case.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T22:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Detective Tutuola's future son-in-law becomes the latest victim in a series of hate crimes against gay men; the squad searches for a connection when a school teacher (Tony Hale) is attacked similarly.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-10T23:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "When the investigation into a missing teen leads the detectives to a severed leg, they are drawn into the world of self-mutilation and ritual amputation.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T00:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "The special victims squad tries to take down a sex-trafficking operation that enslaves young women; when the investigation is halted by Lt. Alexandra Eames (Kathryn Erbe), Detective Benson has to get creative.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T01:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "When Curry's son finds a disturbing cassette tape in a thrift store haul, she and Benson must investigate a decades-old missing persons case; Griffin learns a disturbing rumor about his father.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T02:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "An attempt on a respected judge's life is connected to an anonymous video posted to the SVU tip line; Rollins tries to help a victim come to terms with their abuse.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T03:00:00.000Z",
     "title": "Law & Order: Special Victims Unit",
     "overview": "Reports of an assault by a guest at a celebrity fan convention leads to a murder investigation; Tynan presents Capt. Curry with a career opportunity.",

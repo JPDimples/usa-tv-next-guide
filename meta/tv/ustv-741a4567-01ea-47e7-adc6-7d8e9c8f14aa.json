@@ -15,6 +15,236 @@
   },
   "videos": [
    {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T05:35:00.000Z",
+    "title": "Late Night With Seth Meyers",
+    "overview": "Actress Julia Louis-Dreyfus; actor Jamie Dornan.",
+    "released": "2026-11-10T05:35:00.000Z",
+    "startTime": "2026-11-10T05:35:00.000Z",
+    "endTime": "2026-11-10T06:34:00.000Z",
+    "runtime": "59 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T06:34:00.000Z",
+    "title": "NBC Nightly News With Tom Llamas",
+    "overview": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+    "released": "2026-11-10T06:34:00.000Z",
+    "startTime": "2026-11-10T06:34:00.000Z",
+    "endTime": "2026-11-10T07:09:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T07:09:00.000Z",
+    "title": "Top Story With Tom Llamas",
+    "overview": "Reporting of breaking news and developing stories in real time.",
+    "released": "2026-11-10T07:09:00.000Z",
+    "startTime": "2026-11-10T07:09:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "51 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T08:00:00.000Z",
+    "title": "Early Today",
+    "overview": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T08:30:00.000Z",
+    "title": "Early Today",
+    "overview": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T09:00:00.000Z",
+    "title": "Early Today",
+    "overview": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T09:30:00.000Z",
+    "title": "Early Today",
+    "overview": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T10:00:00.000Z",
+    "title": "Early Today",
+    "overview": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T10:30:00.000Z",
+    "title": "Early Today",
+    "overview": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T11:00:00.000Z",
+    "title": "Early Today",
+    "overview": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T11:30:00.000Z",
+    "title": "Early Today",
+    "overview": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T12:00:00.000Z",
+    "title": "Today",
+    "overview": "Actor Dustin Hoffman; actress Meghann Fahy; actor Gary Sinise; shopping expert Adrianna Brach.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T14:00:00.000Z",
+    "title": "Today 3rd Hour",
+    "overview": "Sleeping tips with Dr. Saema Tahir; actor John C. Reilly; actress Ayesha Curry; shopping expert Adrianna Brach; Today Food with Judy Joo.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T15:00:00.000Z",
+    "title": "Today With Jenna & Sheinelle",
+    "overview": "Willie Geist co-hosts; actor Dustin Hoffman; actress Meghann Fahy; writer Karin Slaughter; actor Gary Sinise; shopping expert Adrianna Brach.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T16:00:00.000Z",
+    "title": "Today With Jenna & Sheinelle",
+    "overview": "Willie Geist co-hosts; actor Dustin Hoffman; actress Meghann Fahy; writer Karin Slaughter; actor Gary Sinise; shopping expert Adrianna Brach.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T17:00:00.000Z",
+    "title": "NBC News Daily",
+    "overview": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T18:00:00.000Z",
+    "title": "NBC News Daily",
+    "overview": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T19:00:00.000Z",
+    "title": "NBC News Daily",
+    "overview": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T20:00:00.000Z",
+    "title": "NBC News Daily",
+    "overview": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T21:00:00.000Z",
+    "title": "SIGN OFF",
+    "overview": "Sign off.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T22:30:00.000Z",
+    "title": "Dateline",
+    "overview": "Investigative journalism.",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-10T23:30:00.000Z",
+    "title": "NBC Nightly News With Tom Llamas",
+    "overview": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-11T00:00:00.000Z",
+    "title": "SIGN OFF",
+    "overview": "Sign off.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-11T01:00:00.000Z",
     "title": "Live: NBA Basketball",
     "overview": "The Philadelphia 76ers host the Boston Celtics in NBA regular-season play at Xfinity Mobile Arena. Boston arrives as one of the Eastern Conference's top-two teams, while Philadelphia has won three straight against Boston in their last five meetings.",
@@ -632,6 +862,16 @@
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:34:00.000Z",
     "runtime": "34 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa:epg:2026-11-13T04:34:00.000Z",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "overview": "Actor Tracy Morgan; actress Carrie Coon; chef Anthony Vitolo.",
+    "released": "2026-11-13T04:34:00.000Z",
+    "startTime": "2026-11-13T04:34:00.000Z",
+    "endTime": "2026-11-13T05:35:00.000Z",
+    "runtime": "61 min",
     "releaseInfo": "2026"
    }
   ]

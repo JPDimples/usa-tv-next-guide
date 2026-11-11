@@ -15,6 +15,166 @@
   },
   "videos": [
    {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T03:30:00.000Z",
+    "title": "LPGA Tour Golf",
+    "overview": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
+    "released": "2026-11-10T03:30:00.000Z",
+    "startTime": "2026-11-10T03:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "210 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T07:00:00.000Z",
+    "title": "PGA Tour Golf",
+    "overview": "From El Cardonal at Diamante in Los Cabos, Baja California Sur, Mexico.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T10:00:00.000Z",
+    "title": "Golf Central",
+    "overview": "Golf Channel's flagship news program, the nightly \"Golf Central\" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T11:00:00.000Z",
+    "title": "Golf Central",
+    "overview": "Golf Channel's flagship news program, the nightly \"Golf Central\" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T12:00:00.000Z",
+    "title": "Live: The Big Swing With Jimmy Roberts",
+    "overview": "Conversations with people making news in the business of golf.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T13:00:00.000Z",
+    "title": "Live: 5 Clubs With Gary Williams",
+    "overview": "Viewpoints of people in the game with people who love the game; we discuss what is of interest to them in the vast and deep reservoir of stories within the game of golf.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T14:00:00.000Z",
+    "title": "The Big Swing With Jimmy Roberts",
+    "overview": "Conversations with people making news in the business of golf.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T15:00:00.000Z",
+    "title": "5 Clubs With Gary Williams",
+    "overview": "Viewpoints of people in the game with people who love the game; we discuss what is of interest to them in the vast and deep reservoir of stories within the game of golf.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T16:00:00.000Z",
+    "title": "The Big Swing With Jimmy Roberts",
+    "overview": "Conversations with people making news in the business of golf.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T17:00:00.000Z",
+    "title": "Live: Golf Today",
+    "overview": "Damon Hack, Anna Jackson and Eamon Lynch lead and shape the daily conversation throughout the golf world.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T19:00:00.000Z",
+    "title": "Golf Today",
+    "overview": "Damon Hack, Anna Jackson and Eamon Lynch lead and shape the daily conversation throughout the golf world.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T21:00:00.000Z",
+    "title": "Live: Golf Central",
+    "overview": "Golf Channel's flagship news program, the nightly \"Golf Central\" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T22:00:00.000Z",
+    "title": "Eamon Lynch Has Questions",
+    "overview": "In the premiere episode, Eamon Lynch sits down with Jay Monahan to discuss the outgoing commissioner's tenure with the PGA Tour, covering a wide variety of topics and pivotal moments from Monahan's 10-year commissionership.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-10T23:00:00.000Z",
+    "title": "Golf Central",
+    "overview": "Golf Channel's flagship news program, the nightly \"Golf Central\" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-11T00:00:00.000Z",
+    "title": "Live: The Next Shot",
+    "overview": "Coach Nathalie Sheehan combines the lessons learned from golf's best coaches with her own approach to the game.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-11T00:30:00.000Z",
+    "title": "Live: The Next Shot",
+    "overview": "Coach Nathalie Sheehan combines the lessons learned from golf's best coaches with her own approach to the game.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0:epg:2026-11-11T01:00:00.000Z",
     "title": "DP World Tour Golf",
     "overview": "From Yas Links Abu Dhabi in Abu Dhabi, Abu Z \u0327aby, United Arab Emirates.",

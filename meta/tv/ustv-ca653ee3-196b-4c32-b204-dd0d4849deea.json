@@ -15,6 +15,356 @@
   },
   "videos": [
    {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T06:00:00.000Z",
+    "title": "For My Man",
+    "overview": "Desperate to keep Aaron Mays close, Gitano Lewis spirals into a deadly plot of revenge and betrayal; her loyalty leads her straight into gunfire\u2014and costs an innocent man his life.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T07:00:00.000Z",
+    "title": "For My Man",
+    "overview": "When a single mother in Buffalo, New York feels her man slipping away, she makes a bold move in an attempt to win back his affection. Blinded by passion, her reckless choice has life-altering consequences that reverberate through her entire community.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T08:00:00.000Z",
+    "title": "Unsung",
+    "overview": "Vesta Williams; \"Once Bitten\", \"Twice Shy\" and \"Don't Blow a Good Thing.\".",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T09:00:00.000Z",
+    "title": "black-ish",
+    "overview": "Dre worries about getting older when he injures himself playing basketball before his 40th birthday; Ruby and Bow compete to see who can get Dre the best gift.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T09:30:00.000Z",
+    "title": "black-ish",
+    "overview": "After a colleague tells Bow that Dre never had the vasectomy he had scheduled a few years ago, Bow wants to learn the truth.",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T10:00:00.000Z",
+    "title": "black-ish",
+    "overview": "Bow invites her friends from college to an elaborate dinner party in hope of impressing them; Dre learns a lot about Bow's past; the kids decide to create their own reality show by documenting the party.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T10:30:00.000Z",
+    "title": "black-ish",
+    "overview": "Dre suffers from self-doubt when an executive questions his street cred; Pops fears the worst when he receives a letter from the IRS.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T11:00:00.000Z",
+    "title": "A Different World",
+    "overview": "Ron claims that Dwayne has Jesse Jackson's endorsement for student government president.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T11:30:00.000Z",
+    "title": "A Different World",
+    "overview": "As the semester comes to an end, students make plans for the summer.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T12:00:00.000Z",
+    "title": "The Cosby Show",
+    "overview": "Denise tries to explain to her parents why she received a below-average grade on an English paper.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T12:30:00.000Z",
+    "title": "The Cosby Show",
+    "overview": "Rudy finds a lost dog, but has trouble letting go when its owner comes to get it.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T13:00:00.000Z",
+    "title": "The Cosby Show",
+    "overview": "Cliff's father and his Army buddies trade war stories during a card game.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T13:30:00.000Z",
+    "title": "The Cosby Show",
+    "overview": "Cliff and his father take charge of the household while Clair and her mother-in-law are visiting Denise at college.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T14:00:00.000Z",
+    "title": "Living Single",
+    "overview": "Khadijah and Max prepare a bash for Synclaire at Madonna's penthouse; Kyle's brother visits and upsets Overton.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T14:30:00.000Z",
+    "title": "Living Single",
+    "overview": "Khadijah's estranged father visits and forces her to confront her feelings for him; Kyle tests Max.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T15:00:00.000Z",
+    "title": "Living Single",
+    "overview": "Max and Kyle are forced to make a big decision; a struggling songwriter named Tripp moves in.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T15:30:00.000Z",
+    "title": "Living Single",
+    "overview": "Synclaire and Overton are stranded on a deserted island while on their honeymoon; Tripp settles in at the brownstone.",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T16:00:00.000Z",
+    "title": "Fatal Attraction",
+    "overview": "A rising young rap star is reported missing, and detectives find evidence of a violent attack in her home; yet when their prime suspect goes on the run, they are left scrambling for answers, until they get a call that breaks the case wide open.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T17:00:00.000Z",
+    "title": "Fatal Attraction",
+    "overview": "When a close-knit family is brutally gunned down in their home, detectives initially suspect a botched business deal provoked the tragic massacre; as the investigation ensues, police uncover an apathetic killer motivated by greed and lust.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T18:00:00.000Z",
+    "title": "For My Man",
+    "overview": "A single mother meets a suave and loving provider, and she looks the other way when she learns the source of his income.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T19:00:00.000Z",
+    "title": "For My Man",
+    "overview": "After meeting her Prince Charming on a dating service, a teen mother's dreams turn into a nightmare when she gets entangled in a twisted web of deceit and manipulation that will leave her to question how much love is truly worth sacrificing for.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T20:00:00.000Z",
+    "title": "For My Man",
+    "overview": "A woman becomes part of the family when she falls in love with a widowed father; when the man's youngest son goes missing, everyone is pointing fingers; the investigation uncovers a sordid tale of jealousy and betrayal no one saw coming.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T21:00:00.000Z",
+    "title": "A Different World",
+    "overview": "Ron claims that Dwayne has Jesse Jackson's endorsement for student government president.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T21:30:00.000Z",
+    "title": "A Different World",
+    "overview": "As the semester comes to an end, students make plans for the summer.",
+    "released": "2026-11-10T21:30:00.000Z",
+    "startTime": "2026-11-10T21:30:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T22:00:00.000Z",
+    "title": "A Different World",
+    "overview": "Whitley encounters a new Dwayne on the plane ride back to school.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T22:30:00.000Z",
+    "title": "A Different World",
+    "overview": "Whitley's avoidance of math classes threatens her chances of graduating.",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T23:00:00.000Z",
+    "title": "The Cosby Show",
+    "overview": "Denise tries to explain to her parents why she received a below-average grade on an English paper.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-10T23:30:00.000Z",
+    "title": "The Cosby Show",
+    "overview": "Rudy finds a lost dog, but has trouble letting go when its owner comes to get it.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T00:00:00.000Z",
+    "title": "The Cosby Show",
+    "overview": "Cliff's father and his Army buddies trade war stories during a card game.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T00:30:00.000Z",
+    "title": "The Cosby Show",
+    "overview": "Cliff and his father take charge of the household while Clair and her mother-in-law are visiting Denise at college.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T01:00:00.000Z",
+    "title": "Living Single",
+    "overview": "Khadijah and Max prepare a bash for Synclaire at Madonna's penthouse; Kyle's brother visits and upsets Overton.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T01:30:00.000Z",
+    "title": "Living Single",
+    "overview": "Khadijah's estranged father visits and forces her to confront her feelings for him; Kyle tests Max.",
+    "released": "2026-11-11T01:30:00.000Z",
+    "startTime": "2026-11-11T01:30:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T02:00:00.000Z",
+    "title": "Living Single",
+    "overview": "Max and Kyle are forced to make a big decision; a struggling songwriter named Tripp moves in.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T02:30:00.000Z",
+    "title": "Living Single",
+    "overview": "Synclaire and Overton are stranded on a deserted island while on their honeymoon; Tripp settles in at the brownstone.",
+    "released": "2026-11-11T02:30:00.000Z",
+    "startTime": "2026-11-11T02:30:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T03:00:00.000Z",
+    "title": "Living Single",
+    "overview": "Max accidentally gives Khadijah a depressant instead of aspirin before her big date with NBA star Cedric Ceballos.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T03:30:00.000Z",
     "title": "Living Single",
     "overview": "Overton gambles the money for a new bed; Regine can't handle Mr. Perfect's obsession with his dog.",

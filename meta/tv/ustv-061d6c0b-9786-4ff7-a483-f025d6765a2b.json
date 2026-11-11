@@ -15,6 +15,196 @@
   },
   "videos": [
    {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T05:00:00.000Z",
+    "title": "Half Brothers",
+    "overview": "Renato, a successful Mexican aviation executive, is shocked to discover he has an American half brother he never knew about -- the free-spirited Asher. The two very different half brothers are forced on a road trip together. Masterminded by their ailing father, tracing the path he took as an immigra",
+    "released": "2026-11-10T05:00:00.000Z",
+    "startTime": "2026-11-10T05:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T07:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A dying man forces his heirs to wear masks at a Mardi Gras party to receive their inheritance.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T07:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A 10-year-old boy tells a prizefighter that he will make a wish for him to win his comeback fight.",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T08:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A group of neighbors turns into a hostile mob when they try to invade one family's bomb shelter, believing a UFO attack is imminent.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T08:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "When a man takes a youth serum, the potion goes beyond its intended effect, and he regresses to infancy.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T09:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "The everlasting youth of a movie star arouses the curiosity of a magazine writer.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T09:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A forgotten star of the '30s uses her old movies to re-create the spirit of her heyday.",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T10:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A retired watchmaker (Ed Wynn) fears that when his grandfather's clock stops ticking, his own life will end.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T10:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A soldier unexpectedly acquires the power to recognize death in the faces of men about to die in battle.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T11:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A down-at-the heels ventriloquist is the victim of both his gangster-like dummy and a strangely evil little girl.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T11:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A janitor mischievously puts on a helmet which really is a time machine.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T12:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A condemned man tries to convince the people around him that everything and everyone is merely part of a recurring nightmare that always ends in his execution.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T12:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A young boy keeps in touch with his dead grandmother via the toy telephone she once gave him.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T13:00:00.000Z",
+    "title": "Half Brothers",
+    "overview": "Renato, a successful Mexican aviation executive, is shocked to discover he has an American half brother he never knew about -- the free-spirited Asher. The two very different half brothers are forced on a road trip together. Masterminded by their ailing father, tracing the path he took as an immigra",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T15:00:00.000Z",
+    "title": "Freaky",
+    "overview": "Seventeen-year-old Millie Kessler spends her days trying to survive high school and the cruel actions of the popular crowd. But when she becomes the latest target of the Butcher, the town's infamous serial killer, her senior year becomes the least of her worries. When the Butcher's mystical dagger c",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T17:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T17:30:00.000Z",
+    "title": "Click",
+    "overview": "Michael Newman seems to have it all but his wife, Donna, is increasingly frustrated by the amount of time he has to spend at work. Michael cannot find time to be at home until he meets an eccentric inventor who gives him a universal remote that controls time. At first he happily skips the boring tim",
+    "released": "2026-11-10T17:30:00.000Z",
+    "startTime": "2026-11-10T17:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T20:00:00.000Z",
+    "title": "Strays",
+    "overview": "Abandoned on the mean city streets by his lowlife owner, Doug, a naive but lovable dog named Reggie falls in with a fast-talking, foul-mouthed Boston Terrier and his gang of strays. Determined to seek revenge, Reggie and his new canine pals embark on an epic adventure to get him home and make Doug p",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-10T22:00:00.000Z",
+    "title": "Freaky",
+    "overview": "Seventeen-year-old Millie Kessler spends her days trying to survive high school and the cruel actions of the popular crowd. But when she becomes the latest target of the Butcher, the town's infamous serial killer, her senior year becomes the least of her worries. When the Butcher's mystical dagger c",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T00:30:00.000Z",
+    "title": "Click",
+    "overview": "Michael Newman seems to have it all but his wife, Donna, is increasingly frustrated by the amount of time he has to spend at work. Michael cannot find time to be at home until he meets an eccentric inventor who gives him a universal remote that controls time. At first he happily skips the boring tim",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T03:00:00.000Z",
     "title": "Click",
     "overview": "Michael Newman seems to have it all but his wife, Donna, is increasingly frustrated by the amount of time he has to spend at work. Michael cannot find time to be at home until he meets an eccentric inventor who gives him a universal remote that controls time. At first he happily skips the boring tim",

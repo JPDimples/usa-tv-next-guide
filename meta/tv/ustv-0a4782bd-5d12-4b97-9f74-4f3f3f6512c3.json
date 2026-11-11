@@ -15,6 +15,256 @@
   },
   "videos": [
    {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T05:03:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "In September 1939, Germany invades Poland, setting the stage for the most destructive war in history.",
+    "released": "2026-11-10T05:03:00.000Z",
+    "startTime": "2026-11-10T05:03:00.000Z",
+    "endTime": "2026-11-10T06:04:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T06:04:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "After toppling the Netherlands and Belgium, Nazi Germany pushes further west; the Allies scramble to support France as Churchill is forced to defend Britain from the skies and FDR rushes to mobilize wartime production.",
+    "released": "2026-11-10T06:04:00.000Z",
+    "startTime": "2026-11-10T06:04:00.000Z",
+    "endTime": "2026-11-10T07:06:00.000Z",
+    "runtime": "62 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T07:06:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "Examine the story of Operation Barbarossa, Hitler's surprise invasion of the Soviet Union in 1941, the largest and costliest land offensive in human history.",
+    "released": "2026-11-10T07:06:00.000Z",
+    "startTime": "2026-11-10T07:06:00.000Z",
+    "endTime": "2026-11-10T08:05:00.000Z",
+    "runtime": "59 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T08:05:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "Japan escalates their war in China, drawing increasing U.S. sanctions and widespread outrage; driven by resource shortages and military ideology, Japan attacks Pearl Harbor in a move that reshapes the course of World War II.",
+    "released": "2026-11-10T08:05:00.000Z",
+    "startTime": "2026-11-10T08:05:00.000Z",
+    "endTime": "2026-11-10T09:01:00.000Z",
+    "runtime": "56 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T09:01:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T09:01:00.000Z",
+    "startTime": "2026-11-10T09:01:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T09:30:00.000Z",
+    "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax Debt",
+    "overview": "See how one company is changing people's lives by helping them put their tax problems to rest.",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T10:00:00.000Z",
+    "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
+    "overview": "Join your hosts Kevin Cash & Cory Cady as we discuss the 250th Anniversary of America with the official \"America 250\" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T10:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T11:00:00.000Z",
+    "title": "Amazing Facts With Doug Batchelor",
+    "overview": "Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T11:30:00.000Z",
+    "title": "David Jeremiah",
+    "overview": "In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Gr",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T12:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "After compelling new clues are discovered in the swamp and on Lot 8, the team finds an astonishing silver lining in the Money Pit.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T13:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "While investigating under the massive boulder on Lot 8, the Laginas and the team find evidence of a possible second Money Pit.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T14:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "As events unfold around the team's dig operation in the Money Pit area, they make a potentially historic discovery in the swamp.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T15:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "Excitement abounds as the team is poised to raise the massive boulder on Lot 8; in the swamp, a shocking artifact is discovered that suggests a connection to the American Revolution.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T16:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "Armed with new information about the elusive stakes in the swamp, the team redoubles their search efforts with thrilling results.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T17:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "After raising the 40,000-pound boulder from Lot 8, the team is astonished to find a manmade feature that may be hiding a shaft or tunnel.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T18:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "As the team makes discoveries on Lot 8 and in the Money Pit area, new research draws another link between the Oak Island mystery and the Knights Templar.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T19:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "After finding evidence of ancient man-made workings in the swamp, the team makes a shocking revelation on Lot 8.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T20:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "The team makes a find in the Money Pit that offers new evidence of a possible Templar tie to the Oak Island mystery.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T21:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "New revelations are made about the sand and stone road in the swamp as a discovery in the Money Pit suggests that answers to the Oak Island mystery may be found over 2000 miles away.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T22:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "As Marty helps make a deeply interesting discovery on Lot 8, Rick leads members of the team to the Azores; they uncover new ties between Oak Island and the Portuguese sect of the Knights Templar.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-10T23:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "After seeing ancient structures in the Portuguese Azores islands that mirror others found on Oak Island, the team begins a massive dig in the Money Pit area where they have detected evidence of buried treasure.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T00:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "The Oak Island team make an astonishing revelation on Lot 8 and multiple treasured discoveries in the Money Pit area.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T01:00:00.000Z",
+    "title": "The Curse of Oak Island: Drilling Down",
+    "overview": "Before the epic Season 14 premiere of The Curse of Oak Island, check out the biggest discoveries made last year by Rick, Marty and the team that suggest they are closer than ever to solving the Oak Island mystery.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T02:00:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "As Rick, Marty and Craig relaunch the team's quest to find the legendary treasure, they are rocked by new discoveries in the Money Pit and in the massive boulder feature on Lot 8.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:03:00.000Z",
+    "runtime": "63 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T03:03:00.000Z",
     "title": "History's Mystery Files",
     "overview": "The search for treasure doesn't always lead to ancient ruins; sometimes, priceless history is concealed inside a home, buried among unwanted possessions, or waiting unnoticed at a garage sale.",

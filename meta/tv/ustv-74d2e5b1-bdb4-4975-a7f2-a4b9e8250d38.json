@@ -15,6 +15,116 @@
   },
   "videos": [
    {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-10T05:25:00.000Z",
+    "title": "Office Christmas Party",
+    "overview": "When the CEO (Jennifer Aniston) tries to close her hard-partying brother's (T.J. Miller) branch, he and his chief technical officer (Jason Bateman) must rally their co-workers and host an epic office Christmas party in an effort to impress a potential client and close a sale that will save their job",
+    "released": "2026-11-10T05:25:00.000Z",
+    "startTime": "2026-11-10T05:25:00.000Z",
+    "endTime": "2026-11-10T07:15:00.000Z",
+    "runtime": "110 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-10T07:15:00.000Z",
+    "title": "A Bad Moms Christmas",
+    "overview": "Under-appreciated and overburdened moms Amy, Kiki and Carla rebel against the challenges and expectations of the Super Bowl for moms: Christmas. As if creating the perfect holiday for their families isn't hard enough, they'll have to do it while hosting and entertaining their own respective mothers ",
+    "released": "2026-11-10T07:15:00.000Z",
+    "startTime": "2026-11-10T07:15:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "105 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-10T09:00:00.000Z",
+    "title": "The Intern",
+    "overview": "Starting a new job can be a difficult challenge, especially if you're already retired. Looking to get back into the game, 70-year-old widower Ben Whittaker seizes the opportunity to become a senior intern at an online fashion site. Ben soon becomes popular with his younger co-workers, including Jule",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T11:05:00.000Z",
+    "runtime": "125 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-10T11:05:00.000Z",
+    "title": "When Harry Met Sally...",
+    "overview": "In 1977, college graduates Harry Burns (Billy Crystal) and Sally Albright (Meg Ryan) share a contentious car ride from Chicago to New York, during which they argue about whether men and women can ever truly be strictly platonic friends. Ten years later, Harry and Sally meet again at a bookstore, and",
+    "released": "2026-11-10T11:05:00.000Z",
+    "startTime": "2026-11-10T11:05:00.000Z",
+    "endTime": "2026-11-10T12:45:00.000Z",
+    "runtime": "100 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-10T12:45:00.000Z",
+    "title": "Godzilla",
+    "overview": "Ford Brody (Aaron Taylor-Johnson), a Navy bomb expert, has just reunited with his family in San Francisco when he is forced to go to Japan to help his estranged father, Joe (Bryan Cranston). Soon, both men are swept up in an escalating crisis when Godzilla, King of the Monsters, arises from the sea ",
+    "released": "2026-11-10T12:45:00.000Z",
+    "startTime": "2026-11-10T12:45:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-10T15:00:00.000Z",
+    "title": "Quantum of Solace",
+    "overview": "Following the death of Vesper Lynd, James Bond (Daniel Craig) makes his next mission personal. The hunt for those who blackmailed his lover leads him to ruthless businessman Dominic Greene (Mathieu Amalric), a key player in the organization which coerced Vesper. Bond learns that Greene is plotting t",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-10T17:00:00.000Z",
+    "title": "Apocalypse Now Redux",
+    "overview": "Secret ops assassin Captain Willard (Martin Sheen) is sent on a mission up a river during the Vietnam War to \"terminate with extreme prejudice\" the errant Colonel Kurtz (Marlon Brando). In addition to being re-edited with the new footage, the film has been completely restored, converted to digital, ",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T20:20:00.000Z",
+    "runtime": "200 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-10T20:20:00.000Z",
+    "title": "Dunkirk",
+    "overview": "In May 1940, Germany advanced into France, trapping Allied troops on the beaches of Dunkirk. Under air and ground cover from British and French forces, troops were slowly and methodically evacuated from the beach using every serviceable naval and civilian vessel that could be found. At the end of th",
+    "released": "2026-11-10T20:20:00.000Z",
+    "startTime": "2026-11-10T20:20:00.000Z",
+    "endTime": "2026-11-10T22:15:00.000Z",
+    "runtime": "115 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-10T22:15:00.000Z",
+    "title": "V for Vendetta",
+    "overview": "Following the world war, London is a police state occupied by a fascist government, and a vigilante known only as V uses terrorist tactics to fight the oppressors of the world in which he now lives. When V saves a young woman named Evey from the secret police, he discovers an ally in his fight again",
+    "released": "2026-11-10T22:15:00.000Z",
+    "startTime": "2026-11-10T22:15:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T00:30:00.000Z",
+    "title": "Ballistic",
+    "overview": "Beck, a homeless veteran, learns his sister's killer is free after early prison release, sparking his quest for revenge.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T02:00:00.000Z",
+    "title": "Dexter: Resurrection",
+    "overview": "Still navigating his midlife crisis, Dexter finds no comfort as the Five Borough Killer captivates New York; Harrison starts his first day at NYPD Homicide, while an unexpected ally and a familiar face complicate Dexter's next hunt.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T03:00:00.000Z",
     "title": "Apocalypse Now Redux",
     "overview": "Secret ops assassin Captain Willard (Martin Sheen) is sent on a mission up a river during the Vietnam War to \"terminate with extreme prejudice\" the errant Colonel Kurtz (Marlon Brando). In addition to being re-edited with the new footage, the film has been completely restored, converted to digital, ",

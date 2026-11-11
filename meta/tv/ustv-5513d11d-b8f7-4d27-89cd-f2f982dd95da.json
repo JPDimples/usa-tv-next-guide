@@ -15,6 +15,506 @@
   },
   "videos": [
    {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T05:42:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Frustrated that he's seen as cute instead of evil, Plankton builds a robot to punish anyone who says \"aww!\"; Patrick crushes the mailman, so he and SpongeBob deliver the mail around Bikini Bottom.",
+    "released": "2026-11-10T05:42:00.000Z",
+    "startTime": "2026-11-10T05:42:00.000Z",
+    "endTime": "2026-11-10T06:08:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T06:08:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Squidward spends a day at the laundromat with his fellow Bikini Bottomites; SpongeBob and Patrick must track down Old Man Jenkins' prized worm hog.",
+    "released": "2026-11-10T06:08:00.000Z",
+    "startTime": "2026-11-10T06:08:00.000Z",
+    "endTime": "2026-11-10T06:34:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T06:34:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob, Patrick and Squidward are swept away to a remote tropical island by a giant wave.",
+    "released": "2026-11-10T06:34:00.000Z",
+    "startTime": "2026-11-10T06:34:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T07:00:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "When Pat suddenly grows a grown-up beard, he decides it's time to act like a grown-up, too; while preparing to give an oral report for boating school, SpongeBob realizes that he's got a case of stage fright.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:25:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T07:25:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Mr. Krabs promises a clown will perform at his playground of junk; SpongeBob and Patrick go camping in the backyard.",
+    "released": "2026-11-10T07:25:00.000Z",
+    "startTime": "2026-11-10T07:25:00.000Z",
+    "endTime": "2026-11-10T07:50:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T07:50:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Sandy Cheeks takes a rocket ship into space; Mr. Krabs gives SpongeBob a pair of squeaky boots.",
+    "released": "2026-11-10T07:50:00.000Z",
+    "startTime": "2026-11-10T07:50:00.000Z",
+    "endTime": "2026-11-10T08:15:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T08:15:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob visits the dreams of others; SpongeBob comes down with the sniffles.",
+    "released": "2026-11-10T08:15:00.000Z",
+    "startTime": "2026-11-10T08:15:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T08:30:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Mr. Krabs manufactures Krabby Patties on an industrial scale, but it drives a wedge between SpongeBob and Patrick.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T08:55:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T08:55:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Plankton tells Patrick he's his conscience so he can convince the wooden-headed star to steal him a Krabby Patty; when Mr. Krabs puts in an open kitchen, SpongeBob gets stage fright and has to invent a new persona.",
+    "released": "2026-11-10T08:55:00.000Z",
+    "startTime": "2026-11-10T08:55:00.000Z",
+    "endTime": "2026-11-10T09:20:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T09:20:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob tries to find a way to get Squidward to visit him at his home; SpongeBob must search for a new pair of pants after his square pants shrink in the dryer.",
+    "released": "2026-11-10T09:20:00.000Z",
+    "startTime": "2026-11-10T09:20:00.000Z",
+    "endTime": "2026-11-10T09:45:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T09:45:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Plankton joins the League of E.V.I.L.; SpongeBob and Patrick take Squidward on a plane to a tropical resort.",
+    "released": "2026-11-10T09:45:00.000Z",
+    "startTime": "2026-11-10T09:45:00.000Z",
+    "endTime": "2026-11-10T10:10:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T10:10:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob decides to clean up Bikini Bottom; the Krusty Crew take on cafeteria duty at Pearl's school.",
+    "released": "2026-11-10T10:10:00.000Z",
+    "startTime": "2026-11-10T10:10:00.000Z",
+    "endTime": "2026-11-10T10:35:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T10:35:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Plankton tries to befriend Squidward so he can get the Krabby Patty formula; the citizens of Bikini Bottom clamor for Patrick's artwork after an art critic praises him.",
+    "released": "2026-11-10T10:35:00.000Z",
+    "startTime": "2026-11-10T10:35:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T11:00:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob realizes he wants to fly with the jellyfish; Patchy uncovers a brand-new episode of SpongeBob and then loses it.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:26:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T11:26:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob quits his job to live off the land; Squidward decides to sell his house.",
+    "released": "2026-11-10T11:26:00.000Z",
+    "startTime": "2026-11-10T11:26:00.000Z",
+    "endTime": "2026-11-10T11:52:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T11:52:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob tries to make a special Valentine for his best friend Patrick; SpongeBob has some fun with a piece of paper Squidward threw away.",
+    "released": "2026-11-10T11:52:00.000Z",
+    "startTime": "2026-11-10T11:52:00.000Z",
+    "endTime": "2026-11-10T12:18:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T12:18:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Plankton closes the Chum Bucket and moves to a new town, but Mr. Krabs suspects he is still up to no good; when SpongeBob accidentally picks up Neptune's magic trident, there is no telling what trouble he may cause.",
+    "released": "2026-11-10T12:18:00.000Z",
+    "startTime": "2026-11-10T12:18:00.000Z",
+    "endTime": "2026-11-10T12:44:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T12:44:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Frustrated that he's seen as cute instead of evil, Plankton builds a robot to punish anyone who says \"aww!\"; Patrick crushes the mailman, so he and SpongeBob deliver the mail around Bikini Bottom.",
+    "released": "2026-11-10T12:44:00.000Z",
+    "startTime": "2026-11-10T12:44:00.000Z",
+    "endTime": "2026-11-10T13:10:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T13:10:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Squidward and SpongeBob plan a talent show; SpongeBob thinks Plankton is lonely.",
+    "released": "2026-11-10T13:10:00.000Z",
+    "startTime": "2026-11-10T13:10:00.000Z",
+    "endTime": "2026-11-10T13:36:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T13:36:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "The Krusty Crew builds a boat for its penny-pinching captain; SpongeBob discovers a crazed castaway living in his walls.",
+    "released": "2026-11-10T13:36:00.000Z",
+    "startTime": "2026-11-10T13:36:00.000Z",
+    "endTime": "2026-11-10T14:02:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T14:02:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob turns in a litterbug to the police; SpongeBob and Patrick buy invisible spray from the local prank shop.",
+    "released": "2026-11-10T14:02:00.000Z",
+    "startTime": "2026-11-10T14:02:00.000Z",
+    "endTime": "2026-11-10T14:28:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T14:28:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob orders fake arms; Squidward pretends to be a ghost.",
+    "released": "2026-11-10T14:28:00.000Z",
+    "startTime": "2026-11-10T14:28:00.000Z",
+    "endTime": "2026-11-10T14:54:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T14:54:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob and Patrick get lost during a family road trip to the Great Barrier Reef.",
+    "released": "2026-11-10T14:54:00.000Z",
+    "startTime": "2026-11-10T14:54:00.000Z",
+    "endTime": "2026-11-10T15:20:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T15:20:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Plankton goes to jail, but the secret formula is taken as evidence, so SpongeBob and Mr. Krabs plot to get it back; Sandy struggles to build a ship-in-a-bottle before a big contest, so SpongeBob calls in a little extra help.",
+    "released": "2026-11-10T15:20:00.000Z",
+    "startTime": "2026-11-10T15:20:00.000Z",
+    "endTime": "2026-11-10T15:46:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T15:46:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Mr. Krabs convinces SpongeBob and Patrick to join him on a treasure hunt; SpongeBob gets on the wrong bus.",
+    "released": "2026-11-10T15:46:00.000Z",
+    "startTime": "2026-11-10T15:46:00.000Z",
+    "endTime": "2026-11-10T16:12:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T16:12:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob takes Mr. Krabs' daughter to the prom; SpongeBob and Squidward compete to be employee of the month.",
+    "released": "2026-11-10T16:12:00.000Z",
+    "startTime": "2026-11-10T16:12:00.000Z",
+    "endTime": "2026-11-10T16:38:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T16:38:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob and Patrick dress up as Mermaid Man and Barnacle Boy to attend a shuffleboard tournament in their place; Squidward is mistaken for his rival Squilliam and is invited to teach a class at a prestigious music school.",
+    "released": "2026-11-10T16:38:00.000Z",
+    "startTime": "2026-11-10T16:38:00.000Z",
+    "endTime": "2026-11-10T17:04:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T17:04:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob works the grill at the toughest joint in town; Karen looks after Spot while Plankton goes out of town.",
+    "released": "2026-11-10T17:04:00.000Z",
+    "startTime": "2026-11-10T17:04:00.000Z",
+    "endTime": "2026-11-10T17:30:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T17:30:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "The gang heads to a food convention, but things go awry when they become stranded in the woods; SpongeBob accidentally fibs to his pen pal, but when his friend comes to visit, he must keep the ruse going.",
+    "released": "2026-11-10T17:30:00.000Z",
+    "startTime": "2026-11-10T17:30:00.000Z",
+    "endTime": "2026-11-10T17:56:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T17:56:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "The Krusty Krab employees must work around the clock; Mr. Krabs sheds his shell right before the reunion with his old seafaring buddies.",
+    "released": "2026-11-10T17:56:00.000Z",
+    "startTime": "2026-11-10T17:56:00.000Z",
+    "endTime": "2026-11-10T18:22:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T18:22:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob wants to catch an ultra-rare jellyfish and enlists the help of former jellyfishing champion, Kevin; on a trip to the museum, SpongeBob and Patrick teach Sandy all about Bikini Bottom's fascinating, yet questionable, history.",
+    "released": "2026-11-10T18:22:00.000Z",
+    "startTime": "2026-11-10T18:22:00.000Z",
+    "endTime": "2026-11-10T18:48:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T18:48:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Sandy leads the scouts through space for scientific exploration, where SpongeBob finds life exists in the form of a Krabby Patty, Sandy studies the moon's gravitational effect on nuts, and Squidward goes to the dark side.",
+    "released": "2026-11-10T18:48:00.000Z",
+    "startTime": "2026-11-10T18:48:00.000Z",
+    "endTime": "2026-11-10T19:14:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T19:14:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob comes up with a solution when Patrick cannot afford a vacation; Mr. Krabs and SpongeBob win a free cruise, thanks to Plankton.",
+    "released": "2026-11-10T19:14:00.000Z",
+    "startTime": "2026-11-10T19:14:00.000Z",
+    "endTime": "2026-11-10T19:40:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T19:40:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Sandy gives her friends special saltwater trees, but they need more attention than she expected; SpongeBob and Patrick mistake a burglar for the tooth fairy.",
+    "released": "2026-11-10T19:40:00.000Z",
+    "startTime": "2026-11-10T19:40:00.000Z",
+    "endTime": "2026-11-10T20:07:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T20:07:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob adopts a stray worm who gives birth to worm babies overnight; Plankton tries to replace Karen with some new computer inventions.",
+    "released": "2026-11-10T20:07:00.000Z",
+    "startTime": "2026-11-10T20:07:00.000Z",
+    "endTime": "2026-11-10T20:33:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T20:33:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "When SpongeBob fails his driver's test again, Mr. Krabs decides to teach him how to drive; SpongeBob gets lost while trying to take a shortcut to work.",
+    "released": "2026-11-10T20:33:00.000Z",
+    "startTime": "2026-11-10T20:33:00.000Z",
+    "endTime": "2026-11-10T20:59:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T20:59:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Squidward finds himself in the freezer; karate sparring wreaks havoc.",
+    "released": "2026-11-10T20:59:00.000Z",
+    "startTime": "2026-11-10T20:59:00.000Z",
+    "endTime": "2026-11-10T21:25:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T21:25:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "The long-lost episode of \"Mermaid Man\" is finally showing on TV, but SpongeBob may not make it home in time to watch; Karen gets a computer virus, and it's up to SpongeBob to get it out of her.",
+    "released": "2026-11-10T21:25:00.000Z",
+    "startTime": "2026-11-10T21:25:00.000Z",
+    "endTime": "2026-11-10T21:51:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T21:51:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Sandy Squirrel is homesick; Plankton tries to get SpongeBob to be mean.",
+    "released": "2026-11-10T21:51:00.000Z",
+    "startTime": "2026-11-10T21:51:00.000Z",
+    "endTime": "2026-11-10T22:17:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T22:17:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "When SpongeBob's parents come to visit, their thirst for thrills comes as a big surprise; an educational driving film.",
+    "released": "2026-11-10T22:17:00.000Z",
+    "startTime": "2026-11-10T22:17:00.000Z",
+    "endTime": "2026-11-10T22:43:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T22:43:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "When SpongeBob hides the secret Krabby Patty formula in his home, Gary must protect it from Plankton; Sandy must save the day when a freak accident causes everyone in town to become as stupid as Patrick.",
+    "released": "2026-11-10T22:43:00.000Z",
+    "startTime": "2026-11-10T22:43:00.000Z",
+    "endTime": "2026-11-10T23:10:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T23:10:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob, Patrick and Squidward buy Mr. Krabs a new mattress; Plankton sues Mr. Krabs after falling at the Krusty Krab.",
+    "released": "2026-11-10T23:10:00.000Z",
+    "startTime": "2026-11-10T23:10:00.000Z",
+    "endTime": "2026-11-10T23:36:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-10T23:36:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob visits the dreams of others; SpongeBob comes down with the sniffles.",
+    "released": "2026-11-10T23:36:00.000Z",
+    "startTime": "2026-11-10T23:36:00.000Z",
+    "endTime": "2026-11-11T00:02:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-11T00:02:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob and Patrick must search for Squidward after the inside of his home turns into a vast garbage jungle; in his latest secret formula scheme, Plankton disguises himself as a collectible figurine and winds up trapped in.",
+    "released": "2026-11-11T00:02:00.000Z",
+    "startTime": "2026-11-11T00:02:00.000Z",
+    "endTime": "2026-11-11T00:29:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-11T00:29:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Mr. Krabs takes Pearl and SpongeBob on a vacation to the Ocean Mint.",
+    "released": "2026-11-11T00:29:00.000Z",
+    "startTime": "2026-11-11T00:29:00.000Z",
+    "endTime": "2026-11-11T00:55:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-11T00:55:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob is determined to do a great job when he is left in charge of the Krusty Krab for a few minutes; SpongeBob is determined to do everything on his schedule for the day.",
+    "released": "2026-11-11T00:55:00.000Z",
+    "startTime": "2026-11-11T00:55:00.000Z",
+    "endTime": "2026-11-11T01:21:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-11T01:21:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob visits his old pal Bubble Buddy's hometown, Bubbletown; Sandy invites Karen and Mrs. Puff out for a night on the town, so the ladies decide to blow off some steam.",
+    "released": "2026-11-11T01:21:00.000Z",
+    "startTime": "2026-11-11T01:21:00.000Z",
+    "endTime": "2026-11-11T01:47:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-11T01:47:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob plays April Fools' Day pranks; SpongeBob disrupts the Fry Cook Hall of Fame.",
+    "released": "2026-11-11T01:47:00.000Z",
+    "startTime": "2026-11-11T01:47:00.000Z",
+    "endTime": "2026-11-11T02:13:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-11T02:13:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "The Chum Bucket is replaced by a flower shop with a charming new owner; the Krusty Krab enters a float in the annual Bikini Bottom Parade.",
+    "released": "2026-11-11T02:13:00.000Z",
+    "startTime": "2026-11-11T02:13:00.000Z",
+    "endTime": "2026-11-11T02:40:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-11T02:40:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "SpongeBob tries to make a special Valentine for his best friend Patrick; SpongeBob has some fun with a piece of paper Squidward threw away.",
+    "released": "2026-11-11T02:40:00.000Z",
+    "startTime": "2026-11-11T02:40:00.000Z",
+    "endTime": "2026-11-11T03:06:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-11T03:06:00.000Z",
     "title": "SpongeBob SquarePants",
     "overview": "Gary runs away from home when SpongeBob forgets to feed him.",

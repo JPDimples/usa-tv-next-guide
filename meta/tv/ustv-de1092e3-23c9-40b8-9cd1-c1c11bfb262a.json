@@ -15,6 +15,216 @@
   },
   "videos": [
    {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T06:00:00.000Z",
+    "title": "Live: The Story Is With Elex Michaelson",
+    "overview": "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T07:00:00.000Z",
+    "title": "Anderson Cooper 360",
+    "overview": "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T08:00:00.000Z",
+    "title": "CNN NewsNight With Abby Phillip",
+    "overview": "Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T09:00:00.000Z",
+    "title": "Anderson Cooper 360",
+    "overview": "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T10:00:00.000Z",
+    "title": "Live: CNN Headline Express",
+    "overview": "Brad Smith brings you the biggest headlines and most buzzworthy stories.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T11:00:00.000Z",
+    "title": "Live: CNN This Morning",
+    "overview": "Stories from across the world and conversations with Audie Cornish.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T12:00:00.000Z",
+    "title": "Live: CNN News Central",
+    "overview": "The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T13:00:00.000Z",
+    "title": "Live: CNN News Central",
+    "overview": "The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T14:00:00.000Z",
+    "title": "Live: CNN News Central",
+    "overview": "The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T15:00:00.000Z",
+    "title": "Live: The Situation Room",
+    "overview": "Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T16:00:00.000Z",
+    "title": "Live: The Situation Room",
+    "overview": "Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T17:00:00.000Z",
+    "title": "Live: Inside Politics With Dana Bash",
+    "overview": "Top political stories researched by top reporters.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T18:00:00.000Z",
+    "title": "Live: CNN News Central",
+    "overview": "News from around the world with Brianna Keilar and Boris Sanchez.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T19:00:00.000Z",
+    "title": "Live: CNN News Central",
+    "overview": "News from around the world with Brianna Keilar and Boris Sanchez.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T20:00:00.000Z",
+    "title": "Live: CNN News Central",
+    "overview": "News from around the world with Brianna Keilar and Boris Sanchez.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T21:00:00.000Z",
+    "title": "Live: The Arena With Kasie Hunt",
+    "overview": "Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T22:00:00.000Z",
+    "title": "Live: The Lead With Jake Tapper",
+    "overview": "Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-10T23:00:00.000Z",
+    "title": "Live: The Lead With Jake Tapper",
+    "overview": "Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-11T00:00:00.000Z",
+    "title": "Live: Erin Burnett OutFront",
+    "overview": "Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative with compelling interviews, lively debates and analysis of situations.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-11T01:00:00.000Z",
+    "title": "Live: Anderson Cooper 360",
+    "overview": "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-11T02:00:00.000Z",
+    "title": "Live: The Source With Kaitlan Collins",
+    "overview": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a:epg:2026-11-11T03:00:00.000Z",
     "title": "Live: CNN NewsNight With Abby Phillip",
     "overview": "Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.",

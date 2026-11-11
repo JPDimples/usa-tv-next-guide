@@ -15,6 +15,406 @@
   },
   "videos": [
    {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T06:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A used tissue, 12 years after the murder of a young Missouri woman, may be what cracks the case with a suspect list a mile long.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T06:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "When murder strikes a young girl, police quickly make an arrest, but cutting-edge technology from NASA proves they have the wrong suspect behind bars.",
+    "released": "2026-11-10T06:30:00.000Z",
+    "startTime": "2026-11-10T06:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T07:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A man is found strangled and burned in his San Antonio apartment and the killer thinks he has destroyed all the evidence.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T07:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "When two men appear to die of heart disease six years apart, police notice they have one thing in common, they were each married to the same woman.",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T08:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Casino security cameras offer the final images of a woman, just before she vanishes without a trace; can these grainy images lead police to her killer?",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T08:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A squashed tomato and a pinpoint reflection of light in a photo help catch a killer.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T09:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "An ATM transaction allows Texas detectives to pinpoint a suspect in the slaying of a teacher, but a shoelace stolen from the victim's home proves to be the tie that binds her killer to the crime.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T09:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Ten years after the murder of a rock singer, forensic scientists use evidence collected to finally bring her killer to justice.",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T10:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "After a Michigan State University grad student disappears and is presumed dead, a professor of geological sciences helps police get the dirt on her killer.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T10:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "When a man's wife kills herself 14 years after his college sweetheart commits suicide, police start to get suspicious.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T11:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Suicide notes and a pistol in hand lead police to suspect that a mother of two young children appeared to have killed herself, but when investigators learned of a house fire she was in three years earlier, they reinvestigated.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T11:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "The violent death of an Air Force officer's wife outside a Philippines air base is examined, amid accusations of a love triangle involving the murdered woman's husband; investigators use groundbreaking computer forensics to make their case.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T12:00:00.000Z",
+    "title": "CNN News Central (HLN)",
+    "overview": "The anchors share the latest stories about significant events that take place across the world and interview prominent figures.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T13:00:00.000Z",
+    "title": "CNN News Central (HLN)",
+    "overview": "The anchors share the latest stories about significant events that take place across the world and interview prominent figures.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T14:00:00.000Z",
+    "title": "CNN News Central (HLN)",
+    "overview": "The anchors share the latest stories about significant events that take place across the world and interview prominent figures.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T15:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "In 1971, John List disappears after murdering his mother, wife and three children; he eludes the law for years until an age-scaled sculpture of the suspect and a true-crime TV program helps lead to his arrest in 1989.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T15:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "An 11-year-old boy comes down with a fever and diarrhea after eating an undercooked burger; when his condition worsens, his mother drives him to a hospital and doctors discover E. coli destroying his body.",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T16:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Florida police search for a serial rapist and murderer who left small red fibers on each of his 10 victims.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T16:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "When an English couple go missing, police suspect their son killed them and must rely on mud and blood samples found in the couple's two cars to find their bodies.",
+    "released": "2026-11-10T16:30:00.000Z",
+    "startTime": "2026-11-10T16:30:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T17:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Experts attempt to discover the source of heavy fog on Highway I-75 in Tennessee, which caused a 99-car accident and 12 deaths.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T17:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "When a woman goes missing from her home, police focus on her husband when an airline luggage tag and luminol point to an affair and murder; footage from a TV crew and Coast Guard photographs lead investigators to the suspect's missing boat.",
+    "released": "2026-11-10T17:30:00.000Z",
+    "startTime": "2026-11-10T17:30:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T18:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "When a woman exhibits strange flu-like symptoms before dying, investigators discover someone added thallium to her soda; detectives initially suspect her husband, but the case takes a sinister turn.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T18:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Handwriting and simple doodles complicate a car-bomb case and an alleged self-defense shooting in a peaceful British farming village as police uncover a husband's plot to kill his wife for insurance money.",
+    "released": "2026-11-10T18:30:00.000Z",
+    "startTime": "2026-11-10T18:30:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T19:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "When dozens of infants develop serious breathing problems in the Cleveland area, doctors and investigators search high and low for the cause.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T19:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A well-liked bank vice president collapses and dies after taking pain pills laced with cyanide; the search for a motive reveals a callous suspect who had murdered once before.",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T20:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Evidence reveals a teacher who complained of being stalked and harassed by another teacher was scamming police.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T20:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A man kills two people with bombs in an effort to get investors off his back, but authorities catch onto him, and he becomes sentenced to life with no chance of parole.",
+    "released": "2026-11-10T20:30:00.000Z",
+    "startTime": "2026-11-10T20:30:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T21:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A woman gets shot in her driveway; she may have been the victim of a co-worker half her age that she had recently rejected.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T21:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A pair of tennis shoes are found near a victim who had been stabbed on the beach, less than ten yards from her hotel.",
+    "released": "2026-11-10T21:30:00.000Z",
+    "startTime": "2026-11-10T21:30:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T22:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Three fingerprints on a window screen are enough for a print examiner to uncover the work of a serial killer.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T22:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "With a long list of suspects, forensic experts agree on one thing in this brutal murder: the killer knew his victim.",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T23:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "The only lead to finding a serial killer on the loose is a bloody fingerprint on the body of a victim.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-10T23:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Tests reveal the race, eye color and hair color of the person responsible for killing two young women on Halloween night.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T00:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A convicted arsonist claims his innocence and with no lawyer, no money and only a fifth-grade education, sets out to prove it.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T00:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A canine behaviorist uses the family dogs, who are the only witnesses, to find the murderer of their owner.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T01:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Investigators see through a killer trying to cover his tracks by staging the crime scene to learn what really happened.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T01:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A young girl beaten after watching her grandmother killed, identifies the wrong person; years later she tries to change her statement.",
+    "released": "2026-11-11T01:30:00.000Z",
+    "startTime": "2026-11-11T01:30:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T02:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "In 1984 police failed to convict the murderer of a college student; new technology may finally help the police to catch her killer.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T02:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Police investigate a young woman found murdered two weeks after reporting a road rage incident; evidence leads not to the aggressive driver, but one of their own.",
+    "released": "2026-11-11T02:30:00.000Z",
+    "startTime": "2026-11-11T02:30:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T03:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "When a single mother is murdered, her brother vows to find the person responsible for the death of his sister, even if it takes more than 30 years.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T03:30:00.000Z",
     "title": "Forensic Files",
     "overview": "A husband and wife get shot, and their 16-year-old daughter manages to escape, but investigators suspect she may be involved in the murder.",

@@ -15,6 +15,236 @@
   },
   "videos": [
    {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T06:00:00.000Z",
+    "title": "(RE)SOLVED",
+    "overview": "Musical icon Prince's death by accidental fentanyl toxicity sparked wild theories.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T07:00:00.000Z",
+    "title": "(RE)SOLVED",
+    "overview": "John McAfee died from apparent suicide by hanging in a Spanish jail; the hashtag #McAfeeDidntKillHimself went viral within hours of his death.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T08:00:00.000Z",
+    "title": "(RE)SOLVED",
+    "overview": "Anna Nicole Smith's life and death have been the subject of much speculation and conspiracy, involving murder, drugs, suicide, and even mind control experiments.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T09:00:00.000Z",
+    "title": "(RE)SOLVED",
+    "overview": "Musical icon Prince's death by accidental fentanyl toxicity sparked wild theories.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T10:00:00.000Z",
+    "title": "(RE)SOLVED",
+    "overview": "John McAfee died from apparent suicide by hanging in a Spanish jail; the hashtag #McAfeeDidntKillHimself went viral within hours of his death.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T11:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T11:30:00.000Z",
+    "title": "Joint Relief Revolution",
+    "overview": "Join Connie Craig-Carroll and health visionary Ken Meares as they uncover OmegaXL, the groundbreaking natural supplement transforming lives by tackling joint pain and inflammation.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T12:00:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T12:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T13:00:00.000Z",
+    "title": "King of the Road",
+    "overview": "Toy Machine gets punk with Corey Duffel; Chocolate rocks out; Birdhouse discovers what it means to be a hardcore skater in San Francisco.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T14:00:00.000Z",
+    "title": "King of the Road",
+    "overview": "Toy Machine hypnotizes a chicken; Birdhouse goes country and the three teams get twisted up in the Gonz circle-board; Chocolate scores a hole in one with their mystery guest.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T15:00:00.000Z",
+    "title": "King of the Road",
+    "overview": "Experiencing big tricks, monster drops and an impromptu twerk-off as the teams reach L.A.; Johnny gets wrecked, and Birdhouse once again plays dirty.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T16:00:00.000Z",
+    "title": "King of the Road",
+    "overview": "Birdhouse goes mega with Bob Burnquist; Toy Machine celebrates with Tommy Sandoval; Chocolate skates with Saiba; an accident sidelines Elijah.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T17:00:00.000Z",
+    "title": "King of the Road",
+    "overview": "The team gives one last big push in LA; Clint and Raven compete in a bounty challenge with nasty results.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T18:00:00.000Z",
+    "title": "Dark Side of the Ring",
+    "overview": "Harley Race achieved near mythical status for wrestling fans as the ultimate tough guy, but behind closed doors his life was haunted by violence and unimaginable personal tragedy.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T19:00:00.000Z",
+    "title": "Dark Side of the Ring",
+    "overview": "A Finnish wrestling bad guy turned real-life racist politician, Tony Halme's time in the WWF as Ludvig Borga is only the start of his chaotic and destructive life.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T20:00:00.000Z",
+    "title": "Dark Side of the Ring",
+    "overview": "From the first fall off the cage to the impact he still feels today, Mick Foley relives a wrestling match, \"Hell in a Cell '98,\" moment by moment.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T21:00:00.000Z",
+    "title": "Dark Side of the Ring",
+    "overview": "Often imitated, never duplicated, Billy Graham breaks the mold for what a wrestler could be but steroid abuse and battles with the McMahons keep Graham from the spotlight.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-10T22:00:00.000Z",
+    "title": "Out of Bounds",
+    "overview": "A look at how legal sports betting transformed fandom, blurred the lines between sport and profit and reshaped a generation raised on the thrill to bet.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T00:00:00.000Z",
+    "title": "Everybody Hates",
+    "overview": "Jake Paul isn't just a YouTuber who boxes, he's a ringleader; welcome to the circus he built after hijacking a sport and making it a spectacle.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T01:00:00.000Z",
+    "title": "Everybody Hates",
+    "overview": "A cold, calculated underdog story becomes something darker: Rodgers' rise from rejection to icon, and the spiral into a culture-war and locker-room friction.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T02:00:00.000Z",
+    "title": "Everybody Hates",
+    "overview": "Undefeated, filthy rich, and polarizing: the real Mayweather story; he built an empire, then left a trail of scandals behind the wins.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T03:00:00.000Z",
+    "title": "Cornette Side of the Ring",
+    "overview": "Jim Cornette examines the WWF's attempt to turn its biggest star, Stone Cold Steve Austin, heel, and details the catastrophe that was the WCW Invasion storyline.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T03:30:00.000Z",
     "title": "Cornette Side of the Ring",
     "overview": "Jim Cornette explains how CM Punk's iconic Pipe Bomb promo blurred the line between reality and fiction and gets heated revealing how Vince Russo has desecrated the WCW Championship.",

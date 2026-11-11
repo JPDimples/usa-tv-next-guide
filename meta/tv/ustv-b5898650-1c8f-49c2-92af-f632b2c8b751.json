@@ -15,6 +15,206 @@
   },
   "videos": [
    {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T05:00:00.000Z",
+    "title": "Yankees Classics",
+    "overview": "Starters Al Leiter and Andy Pettitte pitch five scoreless innings until David Justice's two-run double put the Yankees up. The game goes extra innings before Jos\u00e9 Vizca\u00edno drove in Tino Martinez for the 4-3 win. From Oct. 21, 2000.",
+    "released": "2026-11-10T05:00:00.000Z",
+    "startTime": "2026-11-10T05:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T08:00:00.000Z",
+    "title": "Yankees Classics",
+    "overview": "Game 5, 2000 World Series, New York Yankees at New York Mets, from Oct. 26, 2000.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T11:00:00.000Z",
+    "title": "Bronx Buds",
+    "overview": "A team of young athletes navigate the highs and lows of youth baseball, teaching valuable lessons about teamwork, perseverance, and friendship in this animated series.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T12:00:00.000Z",
+    "title": "Swing Clinic With Jimmy Hanlin",
+    "overview": "Golf tips, strategy and review of products.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T12:30:00.000Z",
+    "title": "Swing Clinic With Jimmy Hanlin",
+    "overview": "Golf tips, strategy and review of products.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T13:00:00.000Z",
+    "title": "Breaking Par",
+    "overview": "A look at the game of golf through a different lens.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T13:30:00.000Z",
+    "title": "Breaking Par",
+    "overview": "A look at the game of golf through a different lens.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T14:00:00.000Z",
+    "title": "HOPE Week Remembered",
+    "overview": "The events and stories from HOPE week.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T14:30:00.000Z",
+    "title": "Brooklyn Nets Magazine",
+    "overview": "Highlight show of the Brooklyn Nets; interviews with players and coaches.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T15:00:00.000Z",
+    "title": "Home Plate New York",
+    "overview": "",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T15:30:00.000Z",
+    "title": "Home Plate New York",
+    "overview": "",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T16:00:00.000Z",
+    "title": "MLS Soccer",
+    "overview": "From Audi Field in Washington, D.C.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T18:00:00.000Z",
+    "title": "AC Milan Magazine",
+    "overview": "",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T21:00:00.000Z",
+    "title": "From Badalona to Brooklyn: The Jordi Fernandez Story",
+    "overview": "",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T22:30:00.000Z",
+    "title": "Sportico Sports Business",
+    "overview": "The leading voices in the business of sports analyze the industry around your favorite leagues, teams and athletes.",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T23:00:00.000Z",
+    "title": "Pinstripe Plates",
+    "overview": "",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-10T23:30:00.000Z",
+    "title": "Nets Generation",
+    "overview": "Follow the NBA journeys of the 2025 Brooklyn Nets rookie class.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-11T00:00:00.000Z",
+    "title": "Homegrown: The Path to Pinstripes",
+    "overview": "Yankees fans get a look at the Scranton/Wilkes-Barre RailRiders, the New York Yankees' Triple-A team.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-11T00:30:00.000Z",
+    "title": "The Stadium",
+    "overview": "On a new YES docuseries... Go behind the scenes of one of the most iconic sports venues in the world, where the magic of baseball meets the meticulous operations that make it all possible. See the cathedral in the Bronx like you've never seen it before!",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-11T01:00:00.000Z",
+    "title": "MLS Soccer",
+    "overview": "From Audi Field in Washington, D.C.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-11T03:00:00.000Z",
     "title": "AC Milan Magazine",
     "overview": "",

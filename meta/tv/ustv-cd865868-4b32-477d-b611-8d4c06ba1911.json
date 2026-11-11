@@ -15,6 +15,216 @@
   },
   "videos": [
    {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T05:45:00.000Z",
+    "title": "Below Deck",
+    "overview": "The crew's night off takes a tense turn when strangers confront them on the dock, leading to Chef Moe stepping in to defend the group. Matt's bad mood boils over into a tense conversation with Alex, who calls him out for taking his frustration out on the team. James and Rosa's flirtation blossoms. C",
+    "released": "2026-11-10T05:45:00.000Z",
+    "startTime": "2026-11-10T05:45:00.000Z",
+    "endTime": "2026-11-10T07:15:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T07:15:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "As Mary continues to deal with grief, she finds herself growing apart from Angie; Bronwyn confronts Angie and Heather; Lisa and Whitney continue to be at odds; Quai throws a Reiki event to try and mend the fractured group.",
+    "released": "2026-11-10T07:15:00.000Z",
+    "startTime": "2026-11-10T07:15:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "75 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T08:30:00.000Z",
+    "title": "Southern Charm",
+    "overview": "New crushes and old grudges collide while revisiting some of Season 11' moments!",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T09:00:00.000Z",
+    "title": "Below Deck",
+    "overview": "Nico and Brianna grow closer in spite of Nico's girlfriend back in Chicago; unexpected news sends Matt into an alcohol fueled day off; Kate challenges Jen and Brianna to a stewardess speed test with unexpected consequences.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T10:00:00.000Z",
+    "title": "Below Deck",
+    "overview": "Crew members have their hands full when eight big Texas personalities come on board; Matt attempts to step up his cooking game; Nico tries to demonstrate he is better bosun material than EJ; Kate tries to protect Jen from lecherous guests.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T11:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "Tinsley struts her way back into the charity world by hosting a doggy fashion show; the women have brunch on board a yacht; Bethenny speaks with a grief counselor; Dorinda readies Blue Stone Manor for the ladies' first Halloween there.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T12:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "In the Berkshires, Dorinda organizes a trip to an old Morgan family mansion; Dorinda and Barbara's issues resurface when Barbara finds out she's in the fish room; room drama continues when Bethenny arrives from visiting her new beau.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T13:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "Bethenny tells Dorinda about receiving a sign from Dennis; Tinsley and Luann have heart-to-heart over the death of Tinsley's father; when Bethenny hosts a dinner party in the city, a light-hearted game of truth or dare takes a dark turn for Tinsley.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T14:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "Tinsley and Luann attend an Al-Anon meeting; Dorinda joins Tinsley for a dress rehearsal before her big day as guest ringmaster at the Big Apple Circus; Ramona, Luann and Sonja run into Ramona's ex, Mario; Dorinda hosts a spa day for the ladies.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T15:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "Fresh off of her breakup, Tinsley prepares for her appearance as the guest ringmaster for the Big Apple Circus; Bethenny has a court appearance; Ramona takes Barbara shopping; at the circus, Tinsley descends from the rafters on a spinning hoop.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T16:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "After learning that Bethenny missed her Halloween performance, Luann takes another dig at Queen B; Dorinda shows off her new apartment to John; Ramona, Dorinda, and Sonja attempt to give a speech at the NY Loves Kids event.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T17:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "Newly single Tinsley faces serious questions about having a baby; Sonja and Barbara head upstate to see Luann's new house, hoping to warn her about the rumblings among the other ladies; Ramona, Bethenny and Dorinda arrive at Luann's house.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T18:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "The women dine out with Ramona at the same place where she mourned her mother's passing; Luann takes Sonja, Tinsley and Barbara out on the town for a night of cabaret; Bethenny and Ramona have a heart-to-heart about their abusive upbringings.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T19:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "Luann asks if Sonja is taking something that would explain her behavior; the women head to Miami for fun, sun and the revelation that Ramona made out with Harry Dubin; it's all too much for Sonja who lashes out at Luann and Ramona after a few drinks.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T20:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "On the first night in Miami, Sonja hits the floor after one too many drinks; the women turn their attention to Luann's attitude; the ladies rally to take in sunshine and art; at a house party, Ramona juggles her ex-husband, Mario, and a new date.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T21:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "Tinsley shares a recent picture of Ramona locking lips with Harry Dubin; Sonja loses it after leaving an AA meeting, but Luann doesn't let that rain on her cabaret parade; the women confront Luann over her selfish ways; Bethenny has a panic attack.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T22:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "The ladies head back to New York where Luann records her new single; the women attend Dorinda's 1980s aerobics workout for charity; Ramona plans a surprise birthday party on the same night as the Countess' Cabaret.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-10T23:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "The show must go on for Luann who has been snubbed by the ladies; Dorinda is shocked by the surprise party; Tinsley is accused of lying about her relationship with Scott; Bethenny throws her S'mores and Whores Party.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T00:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "Criticism over shrimp and hosting leaves two close friends not speaking after a humiliating confrontation.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T01:00:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "The laughs are short-lived at a comedy show when Daisy confronts Erika; Jessel hears that Erin is still talking about Pavit; Hailey contemplates a major life change; Sai questions one of her longest-standing friendships.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T02:30:00.000Z",
+    "title": "The Real Housewives of Potomac",
+    "overview": "Ashley takes the ladies back to the Delaware shore a decade later, where they immediately make waves; Wendy shocks the ladies with a revelation about Stacey, and Monique confronts Karen about her lack of support during her divorce; Ashley and Courtney have a night out on the town where the good time",
+    "released": "2026-11-11T02:30:00.000Z",
+    "startTime": "2026-11-11T02:30:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T03:30:00.000Z",
     "title": "The Real Housewives of New York City",
     "overview": "The laughs are short-lived at a comedy show when Daisy confronts Erika; Jessel hears that Erin is still talking about Pavit; Hailey contemplates a major life change; Sai questions one of her longest-standing friendships.",

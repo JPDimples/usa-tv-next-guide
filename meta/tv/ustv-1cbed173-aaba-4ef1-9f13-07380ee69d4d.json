@@ -15,6 +15,186 @@
   },
   "videos": [
    {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T05:13:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-10T05:13:00.000Z",
+    "startTime": "2026-11-10T05:13:00.000Z",
+    "endTime": "2026-11-10T06:07:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T06:07:00.000Z",
+    "title": "Mortal Kombat",
+    "overview": "Hunted by the fearsome warrior Sub-Zero, MMA fighter Cole Young finds sanctuary at the temple of Lord Raiden. Training with experienced fighters Liu Kang, Kung Lao and the rogue mercenary Kano, Cole prepares to stand with Earth's greatest champions to take on the enemies from Outworld in a high-stak",
+    "released": "2026-11-10T06:07:00.000Z",
+    "startTime": "2026-11-10T06:07:00.000Z",
+    "endTime": "2026-11-10T07:57:00.000Z",
+    "runtime": "110 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T07:57:00.000Z",
+    "title": "Mortal Kombat II",
+    "overview": "Johnny Cage joins other fighters in the ultimate, no-holds-barred battle to defeat the dark rule of Shao Kahn, a powerful tyrant who threatens the very existence of the Earthrealm and its defenders.",
+    "released": "2026-11-10T07:57:00.000Z",
+    "startTime": "2026-11-10T07:57:00.000Z",
+    "endTime": "2026-11-10T09:55:00.000Z",
+    "runtime": "118 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T09:55:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-10T09:55:00.000Z",
+    "startTime": "2026-11-10T09:55:00.000Z",
+    "endTime": "2026-11-10T10:48:00.000Z",
+    "runtime": "53 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T10:48:00.000Z",
+    "title": "Kubo and the Two Strings",
+    "overview": "Young Kubo's peaceful existence comes crashing down when he accidentally summons a vengeful spirit from the past. Now on the run, Kubo joins forces with Monkey and Beetle to unlock a secret legacy. Armed with a magical instrument, Kubo must battle the Moon King and other gods and monsters to save hi",
+    "released": "2026-11-10T10:48:00.000Z",
+    "startTime": "2026-11-10T10:48:00.000Z",
+    "endTime": "2026-11-10T12:32:00.000Z",
+    "runtime": "104 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T12:32:00.000Z",
+    "title": "Real Time With Bill Maher",
+    "overview": "Guests Peter Berg, Coleman Hughes and Ali Vitali.",
+    "released": "2026-11-10T12:32:00.000Z",
+    "startTime": "2026-11-10T12:32:00.000Z",
+    "endTime": "2026-11-10T13:32:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T13:32:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-10T13:32:00.000Z",
+    "startTime": "2026-11-10T13:32:00.000Z",
+    "endTime": "2026-11-10T14:25:00.000Z",
+    "runtime": "53 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T14:25:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-10T14:25:00.000Z",
+    "startTime": "2026-11-10T14:25:00.000Z",
+    "endTime": "2026-11-10T15:19:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T15:19:00.000Z",
+    "title": "The Inventor: Out for Blood in Silicon Valley",
+    "overview": "With a new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world's youngest self-made billionaire, heralded as the next Steve Jobs. Then, just two years later, her multibillion-dollar company was dissolved.",
+    "released": "2026-11-10T15:19:00.000Z",
+    "startTime": "2026-11-10T15:19:00.000Z",
+    "endTime": "2026-11-10T17:18:00.000Z",
+    "runtime": "119 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T17:18:00.000Z",
+    "title": "Last Week Tonight With John Oliver",
+    "overview": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.",
+    "released": "2026-11-10T17:18:00.000Z",
+    "startTime": "2026-11-10T17:18:00.000Z",
+    "endTime": "2026-11-10T18:03:00.000Z",
+    "runtime": "45 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T18:03:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-10T18:03:00.000Z",
+    "startTime": "2026-11-10T18:03:00.000Z",
+    "endTime": "2026-11-10T18:58:00.000Z",
+    "runtime": "55 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T18:58:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-10T18:58:00.000Z",
+    "startTime": "2026-11-10T18:58:00.000Z",
+    "endTime": "2026-11-10T19:52:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T19:52:00.000Z",
+    "title": "The Lighthouse",
+    "overview": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+    "released": "2026-11-10T19:52:00.000Z",
+    "startTime": "2026-11-10T19:52:00.000Z",
+    "endTime": "2026-11-10T21:43:00.000Z",
+    "runtime": "111 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T21:43:00.000Z",
+    "title": "Last Week Tonight With John Oliver",
+    "overview": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.",
+    "released": "2026-11-10T21:43:00.000Z",
+    "startTime": "2026-11-10T21:43:00.000Z",
+    "endTime": "2026-11-10T22:28:00.000Z",
+    "runtime": "45 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-10T22:28:00.000Z",
+    "title": "Jurassic World: Fallen Kingdom",
+    "overview": "Three years after the destruction of the Jurassic World theme park, Owen Grady and Claire Dearing return to the island of Isla Nublar to save the remaining dinosaurs from a volcano that's about to erupt. They soon encounter terrifying new breeds of gigantic dinos while uncovering a conspiracy that t",
+    "released": "2026-11-10T22:28:00.000Z",
+    "startTime": "2026-11-10T22:28:00.000Z",
+    "endTime": "2026-11-11T00:37:00.000Z",
+    "runtime": "129 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T00:37:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-11T00:37:00.000Z",
+    "startTime": "2026-11-11T00:37:00.000Z",
+    "endTime": "2026-11-11T01:30:00.000Z",
+    "runtime": "53 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T01:30:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha faces Gladys's difficult childbirth, Peggy achieves a milestone and Agnes makes plans to host a prestigious dinner.",
+    "released": "2026-11-11T01:30:00.000Z",
+    "startTime": "2026-11-11T01:30:00.000Z",
+    "endTime": "2026-11-11T02:27:00.000Z",
+    "runtime": "57 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T02:27:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-11T02:27:00.000Z",
+    "startTime": "2026-11-11T02:27:00.000Z",
+    "endTime": "2026-11-11T03:21:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T03:21:00.000Z",
     "title": "The Invite",
     "overview": "Joe and Angela's marriage is on thin ice. When their upstairs neighbors visit for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",

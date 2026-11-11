@@ -15,6 +15,356 @@
   },
   "videos": [
    {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T06:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo play matchmaker in \"cast mates,\" go through ups and downs in \"good times bad times,\" and take a painful trip to the Thunderground.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T06:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel, and Steelo take a break in \"Smash Still,\" get butts in \"Spring Cheeks,\" and cheaply fortify their homes in \"Budget Home Security.\".",
+    "released": "2026-11-10T06:30:00.000Z",
+    "startTime": "2026-11-10T06:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T07:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo are joined by Jay Glazer, who helps them stay positive with \"Unbreakable,\" and have a drink and a fight with \"Mai Tai Melees.\".",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T07:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Sterling sit down and show off in \"Seated Skills\" and work through some feelings in the \"Five Stages of Ridiculousness.\".",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T08:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo see what happens when families have \"No Boundaries,\" look for a little more in some \"Underreactions\" and check out some \"Iceholes.\".",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T08:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel, and Steelo talk about the amazing feeling of being \"Completely Out,\" the hurt caused by \"Paingate,\" and wearing brows \"Thick and Proud.\".",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T09:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Legendary \"Jackass\" Steve-O joins Rob, Chanel and Steelo to prepare for the \"Machine Uprising\"; feeling the relief of \"Beating Your Junk\"; doing a little \"Roofin' Off.\".",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T09:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel, and Steelo feel for some people that \"Can't Hide the Hurt,\" discover that sometimes you should \"Erase the Ring\" and give up on some \"Obedience School Dropouts.\".",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T10:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo, and Nina Agdal take on the waves in \"Rapid Wrecked\"; casting a line in \"Freestyle Fishin\"; having a bite in \"Deranged Dips.\".",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T10:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Nina Agdal excitedly welcome face slaps, meet the scary kids in town and start problems they don't plan on fixing.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T11:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo welcome musician Jxdn to tell the difference between \"Angels and Demons,\" try their least in \"Giving It Ten Percent\" and come down with a bad case of \"Burger Brain.\".",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T11:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and special guest Karrueche Tran slip and slide while bowling, keep having runny noses and meet some hustlers.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T12:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Nina Agdal spill their coffee and let the kid farts fly.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T12:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel, and Steelo witness passed-out people get \"Resurrected,\" come down with a severe case of \"Bud Brain,\" and go to \"Pocket Parties.\".",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T13:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Singer Leona Lewis; \"Aisle Trolls\"; \"Speaking Leonese.\".",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T13:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel, and Steelo talk about the fun danger of \"The Bounce Zone,\" the art of \"Functional Karate,\" and the annoyance of \"The 17-Year Plague.\".",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T14:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo get soaked in \"Legendary Leaks,\" fall extra hard in \"Crazy Love\" and get hit with \"Bad News.\".",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T14:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Lolo witness skateboard slams with skater facelifts, crash some sleds with snow sauced and get injured at the gym with chin downs.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T15:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Magic legend Penn Jillette joins Rob, Chanel and Steelo to break down people who are \"Learning to Lie,\" talk about why animals are \"Too Smart to Eat\" and look at some tricks that are \"Tragic.\".",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T15:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob and Steelo welcome Karrueche Tran to meet some vicious raccoons, terrify some kids and realize that some restaurants should be avoided.",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T16:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Lolo Wood joins Rob and Sterling to discuss the dangers of port-a-potties and what toppings should be illegal.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T16:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob Dyrdek, Steelo Brim and Lolo Wood experience Hand Trippin'; see people protect their belongings from Bird Jacked feathered felons and watch how hard hats unwind in Cons.",
+    "released": "2026-11-10T16:30:00.000Z",
+    "startTime": "2026-11-10T16:30:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T17:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Comic Wanda Sykes joins Rob, Sterling and Chanel to talk about what it means to have \"Unpresidential Nipples\"; doling out \"Momforcement\"; the first ever \"Wandamania.\".",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T17:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo, and Chanel go on some Gurney Journeys, find out who's Taking Our Jobs, and go Emmy hunting in For Your Consideration.",
+    "released": "2026-11-10T17:30:00.000Z",
+    "startTime": "2026-11-10T17:30:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T18:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "IndyCar racing champ Josef Newgarden joins Rob, Steelo and Chanel to find out what makes a car \"Indy-Structible,\" pay tribute to those who are \"Pong Strong\" and decide who is \"Cockpit Unfit.\".",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T18:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo watch some \"PG Porno,\" fill their tanks up with \"Nightmare Fuel,\" and meet the superhero known as \"The Drunk Knight.\".",
+    "released": "2026-11-10T18:30:00.000Z",
+    "startTime": "2026-11-10T18:30:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T19:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo talk about people who are so soft they're known as \"The Delicates,\" meet some birds that are best described as \"Winged Weirdos\" and hang out with some disgusting couples in their \"Honeymoon Phase.\".",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T19:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Floyd Mayweather visits the studio; pain face; \"Romantic Injuries\"; \"How Not to Train.\".",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T20:00:00.000Z",
+    "title": "Love & Hip Hop: Atlanta",
+    "overview": "Sierra finally realizes that the third time is not a prince charming. Scrappy wonders if the key to his future lies in his past. Renni reveals the shocking new charges that Blacc Zacc is facing.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T21:00:00.000Z",
+    "title": "Love & Hip Hop: Atlanta",
+    "overview": "Zane fears his family loyalty might be tested after his brother falls ill; Queen Key's meeting with a label quickly turns unmanageable; Salma realizes she has to stop waiting on 24 and start putting in her own hours.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T22:00:00.000Z",
+    "title": "Love & Hip Hop: Atlanta",
+    "overview": "Scrappy's campfire gathering ends in disaster, but the Frosts use the chaos to confront their pain; tensions peak when a wildlife lesson provokes an aggressive reaction from Mendeecees.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-10T23:00:00.000Z",
+    "title": "Love & Hip Hop: Atlanta",
+    "overview": "Yandy and Ashley put their grievances out in the open air; Scrappy tries to show Zane he doesn't need to give up a piece of himself to hold his family down; the campgrounds become a battleground when Mendeecees attempts to make peace with Yandy.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T00:00:00.000Z",
+    "title": "Love & Hip Hop: Atlanta",
+    "overview": "Joc celebrates 20 years in music, but the concert has everyone wondering what's really going down between Scrappy and Bambi; another arrest leaves Erica Banks facing jail time and daddy issues.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T01:00:00.000Z",
+    "title": "Love & Hip Hop: The Final Chapter",
+    "overview": "From a little underdog show to a global pop culture juggernaut, Love & Hip Hop redefined reality TV, only to find its meteoric rise threatened by its own volatile, explosive success.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T02:00:00.000Z",
+    "title": "Caught in the Act: Unfaithful",
+    "overview": "Tylar thinks she found her match in ride-share driver, Malcolm; but when suspicious items keep appearing in their car and the bank withdrawals start adding up, she enlists Tami to uncover if he is sharing more than rides.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T03:00:00.000Z",
     "title": "Caught in the Act: Unfaithful",
     "overview": "Mimi, a dancer who works late nights, has been seeing some shady behavior lately from Memphis, her boyfriend of six years; Mimi wants Tami to do a little digging to find out if her suspicions are valid.",

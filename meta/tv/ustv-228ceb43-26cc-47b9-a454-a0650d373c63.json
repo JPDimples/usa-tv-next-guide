@@ -15,6 +15,356 @@
   },
   "videos": [
    {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T04:30:00.000Z",
+    "title": "Air",
+    "overview": "Sonny Vaccaro and Nike pursue basketball rookie Michael Jordan, creating a partnership that revolutionizes the world of sports and contemporary culture.",
+    "released": "2026-11-10T04:30:00.000Z",
+    "startTime": "2026-11-10T04:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T07:00:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "A behind-the-scenes look at the crew's favorite challenges, the show's original title and how the Jokers pick their victims.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T07:30:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "A behind-the-scenes look at the very first \"Impractical Jokers\" episode; the social superpower now possessed by the Jokers; the audio equipment not used anymore; the true history behind Joe's \"nosing.\".",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T08:00:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "What classic phrase is still said today; which unaired challenges almost made it to the show; the real backstory of Butterfly Crime Scene.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T08:30:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "Which classic Jokers' lines are still being uttered; alma maters; what inspired a punishment.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T09:00:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T09:30:00.000Z",
+    "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax Debt",
+    "overview": "See how one company is changing people's lives by helping them put their tax problems to rest.",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T10:30:00.000Z",
+    "title": "See Wrinkles and Bags Vanish Instantly With GEN90!!",
+    "overview": "GEN90 Instant Wrinkle Treatment with Retinol will turn back the clock! The Pharmacist's solution for wrinkles, instant and long-term! Visibly reduces the appearance of crow's feet and fine lines instantly! Get fast, visible, long-lasting results!",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T11:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Q, Prince Herb, Murr and Joe try their hardest to prove they're advertiser friendly, and then tell strangers their life stories; the big loser schools the academic community.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T11:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Murr, Joe, Sal and Q participate in the documentary filmmaking process, then read a teenager's diary to surprise and delight strangers; when they lose, they find motivation to do better next time.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T12:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Joe, Sal, Q and Murr showcase their creative vision by unveiling their new inventions and learn what it takes to get a date in the digital age; the losing joker embraces the role of a lifetime.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T12:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Murr, Q, Joe and Sal prove their good taste, and later prove they can hack it in the professional world; the safe guys give the losing joker a semi that he must show off to an unsuspecting crowd.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T13:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Sal, Q, Murr, and Joe take the law into their own hands, and they misplace the trust of their own children; finally, the losing joker must pod up with a stranger.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T13:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Four longtime friends compete to embarrass each other with a series of hilarious dares; if they refuse, they lose.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T14:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Sal, Q and Murr clear the room as eccentric exterminators and produce a controversial infomercial; comic Eric Andr\u00e9 drops by to give the losing Joker an awkward release.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T14:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Q, Murr, and Sal learn a tough lesson about the corporate chain of command before starting a white-collar revolution; the losing joker must play husband to special guest Jillian Bell.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T15:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Murr, Sal, and Q learn a hard lesson about being kind to food service professionals, before heading off to give rock solid relationship advice; the losing joker is in for a shock, as his punishment is led by Colin Jost.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T15:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Murr, Sal, and Q perform a questionable taste test; the guys work off some of those calories with some CrossFit; Rob Riggle lets the losing joker show off that new swole gym body.",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T16:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Sal, Q, and Murr slather on the charm for a commercial shoot before focusing on delivering some hard truths; finally, Chris Jericho turns heel on the losing joker.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T16:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Murr, Sal and Q learn that a good babysitter can be hard to find, before going off to perform some consumer research; Adam Pally and Jon Gabrus shock the losing joker with their devious punishment.",
+    "released": "2026-11-10T16:30:00.000Z",
+    "startTime": "2026-11-10T16:30:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T17:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Q, Murr and Sal finally clean out their garages before giving truly spooky presentations; in the end, David Cross brings a sense of danger to the losing joker and makes a memory they're sure to remember.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T17:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Q, Murr, and Sal play mad scientists and answer for their crimes in the form of a really dumb survey; the losing joker participates in the new talk show, \"Real Talk With Meth,\" led by Method Man.",
+    "released": "2026-11-10T17:30:00.000Z",
+    "startTime": "2026-11-10T17:30:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T18:00:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "Michael feeds a cannibalistic plant at a garden center; he sells a necktie that literally suits itself; at a hockey rink, Michael's assistant is speechless with a trick so electric it melts the ice.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T18:30:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "Michael sweetens a woman's day, causing a chocolate bunny to eat her ring; he inflates pretzels at a baseball stadium snack stand; one of Michael's tricks gets flushed down the tubes.",
+    "released": "2026-11-10T18:30:00.000Z",
+    "startTime": "2026-11-10T18:30:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T19:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The jokers revisit the celebrity guests they worked with throughout the season by highlighting their most memorable moments and rolling out some bonus content that has never been seen before.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T19:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Sal, Q and Murr are crashing and burning into product displays and hiding in tight spaces, but one of them must face the music with celebrity guest Bret Michaels.",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T20:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The jokers give unsolicited etiquette advice and live tape strange product reviews; one lucky joker takes all the blame for celebrity guest Post Malone.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T20:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "From working remotely to pitching unconventional business ideas with Steve Byrne, one Joker has a shot at winning a pair of highly sought-after sneakers thanks to NBA star Anthony Davis.",
+    "released": "2026-11-10T20:30:00.000Z",
+    "startTime": "2026-11-10T20:30:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T21:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Joined by John Mayer, the Jokers must convince unsuspecting temps to accompany them to a business dinner; the losing Joker has to face the wrath of angry Mayer fans in a humiliating punishment.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T21:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Sal, Q, and Murr fall head over heels for someone they just met; a heated debate with pro wrestler MJF; a Joker discovers an untapped clairvoyant talent they possess with guest star Kesha.",
+    "released": "2026-11-10T21:30:00.000Z",
+    "startTime": "2026-11-10T21:30:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T22:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "A special episode hosted by Casey Jost and former NFL player Eddie Jackson as they spend time reviewing nail-biting clips of never-before-seen moments from Season 10.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T22:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Unable to pull off this week's pickleball and coffee shop challenges, the losing Jokers are forced to participate in an overseas game show hosted by special guest Paul Scheer.",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T23:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The jokers are posing as salesmen and must sell their bizarre products to focus group participants, then attempt a challenge that turns out to be a mouthful; Sal finds himself in a stinky situation in tonight's punishment with guest star Kal Penn.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-10T23:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The jokers are dishing out as waiters and later grilled by news anchor Rosanna Scotto; finally, the losing joker is in for a horrific treat with guest star Bruce Campbell.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T00:00:00.000Z",
+    "title": "Live: College Basketball",
+    "overview": "The La Salle Explorers visit the Villanova Wildcats for an NCAA Division I game. La Salle comes off a 94-55 loss to Houston alongside guard Kam Burton, and Villanova comes off a 95-66 victory over Holy Cross with guard Tyler Perkins in Pennsylvania.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T02:00:00.000Z",
     "title": "Air",
     "overview": "Sonny Vaccaro and Nike pursue basketball rookie Michael Jordan, creating a partnership that revolutionizes the world of sports and contemporary culture.",

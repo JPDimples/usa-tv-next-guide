@@ -15,6 +15,196 @@
   },
   "videos": [
    {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T06:00:00.000Z",
+    "title": "All Access PD: Grand Rapids",
+    "overview": "What seemed like an accidental overdose becomes a murder investigation when a jail informant tips off Grand Rapids detectives; conflicting witness accounts leave the detectives searching for hard evidence to solve Dana's death.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T07:00:00.000Z",
+    "title": "120 Hours Behind Bars",
+    "overview": "In Bloody Tangipahoa, a new sheriff takes on a parish defined by violence, fighting to pull a crumbling, neglected jail back from the brink while inmates work to rebuild the family bonds that could keep them from coming back.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T08:00:00.000Z",
+    "title": "120 Hours Behind Bars",
+    "overview": "Inside one of Nevada's busiest jails, deputies battle a non-stop surge of arrests driven by Reno's constant crime and a major trafficking corridor; with gangs entrenched inside, keeping rival groups apart becomes a daily fight for control.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T09:00:00.000Z",
+    "title": "Bering Sea Gold",
+    "overview": "Pressure mounts as a Nome-wide diver shortage forces Chris McCully into a dangerous solo dive and Emily's crew into river dredging; the Kellys fight over the lack of progress on their newest dredge, the All-In.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T11:00:00.000Z",
+    "title": "Deadliest Catch",
+    "overview": "The captains find a rare strain of red king crab in the north amid ice and storms; Sig deploys an underwater drone to pinpoint the horde; Jake revives the Cornelia Marie to battle northern seas.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T13:00:00.000Z",
+    "title": "Deadliest Catch",
+    "overview": "With no port for shelter, Johnathan fights to protect his crew as Typhoon Halong pounds the northern grounds; Rick's Red King jackpot halts when a line fouls his prop; in 25-foot seas, Jake discovers the limits of the Cornelia Marie's fishing operations.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T14:00:00.000Z",
+    "title": "Moonshiners: Master Distiller",
+    "overview": "Families bring their inherited moonshine recipes to the Master Distiller arena; when couples, siblings, and a father-son team fire up stills together under the pressure of a ticking clock, sparks fly.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T15:00:00.000Z",
+    "title": "Moonshiners: Master Distiller",
+    "overview": "Two moonshiners and a pro distiller face off in a big-box store challenge; with just three minutes to shop the discount aisles, each must turn bulk buys into a working mash then distill it into high-proof liquor.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T16:00:00.000Z",
+    "title": "Moonshiners: Master Distiller",
+    "overview": "Digger takes three distillers to a local farm to select ingredients for their mash from containers of expired produce; with Mark and Tim joining at the judges table, competitors fire up their stills to turn culled crops into top shelf spirits.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T17:00:00.000Z",
+    "title": "Moonshiners: Master Distiller",
+    "overview": "When Tim announces the first Thanksgiving actually took place in Virginia, Tickle smokes a Virginia ham in honor of the occasion; champions Amanda, Richard and Daniel face off to run the best holiday liquor to complete the Thanksgiving feast.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T18:00:00.000Z",
+    "title": "Moonshiners: True Crime & Shine",
+    "overview": "Moonshiners Mark, Digger, Tim, and Tickle delve deep into bourbon country's darkest secret; when 200 bottles of the coveted Pappy Van Winkle vanish, the theft of the world's most expensive bourbon is just the tip of a staggering criminal conspiracy.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T19:00:00.000Z",
+    "title": "Moonshiners",
+    "overview": "Moonshiners Mark, Digger and Tim delve deep into the case of the most prolific and elusive bootlegger of the Prohibition era; declared Public Enemy Number One by the government, Bill McCoy's mission was about a lot more than just fame and fortune.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T20:00:00.000Z",
+    "title": "Moonshiners: True Crime & Shine",
+    "overview": "Tim, Tickle, Mark and Digger deploy hard-won lessons from backwoods tradition to get away with making and bootlegging illegal moonshine.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T21:00:00.000Z",
+    "title": "Moonshiners",
+    "overview": "Tim and Tickle's tariff-dodging operation is threatened when a stranger appears at their still site; Mark and Digger face buyer's remorse over their $70K corn purchase; Jerry reaches his breaking point when Mike's $4K moonshine deal goes south.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T22:00:00.000Z",
+    "title": "Moonshiners",
+    "overview": "Josh invests money he doesn't yet have to build a still site that doubles as a gold mine; Mark enlists Amanda and Kelly to distill liquor from surplus soybeans to prove Digger wrong; Mike returns to Tennessee and recruits a partner he burned once before.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-10T23:00:00.000Z",
+    "title": "Moonshiners",
+    "overview": "Facing more demand for corn liquor than he can handle, Josh turns to Digger for help. Tim & Tickle discover their oddball neighbor is running an illegal moonshine operation of his own. Mike reunites with his old partner Daniel, while Jerry pays the price.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T00:00:00.000Z",
+    "title": "Moonshiners",
+    "overview": "Josh's head spins when Jerry reveals his wild plans for their joint moonshine operation. Mark and Digger enlist a Scotsman to help craft the first Hillbilly Scotch. Tim and Tickle's backwoods rivals threaten to call the law on their tariff-dodging deal.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T01:00:00.000Z",
+    "title": "Moonshiners",
+    "overview": "When their hillbilly scotch experiment flames out, Mark and Digger light a fire under their still hand, Kelly. Josh's lucrative 80-gallon moonshine order rides on Jerry's unproven vacuum still experiment. Mike devises a recipe to poach Jerry's buyer.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:01:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T02:01:00.000Z",
+    "title": "Secret Life of a Vegas Casino",
+    "overview": "The annual blackjack tournament lures more than big money to the Nugget; it becomes an opportunity to nab notorious thieves; while a VIP host faces a crowd-shy high roller, security hunts down a slot thief and sets a trap for a serial hotel room burglar.",
+    "released": "2026-11-11T02:01:00.000Z",
+    "startTime": "2026-11-11T02:01:00.000Z",
+    "endTime": "2026-11-11T03:02:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T03:02:00.000Z",
     "title": "Secret Life of a Vegas Casino",
     "overview": "Four unique weddings in one day stretch the Golden Nugget's wedding team to their limit; a crack in the 200,000-gallon shark tank raises the alarm; stolen casino keys cause chaos; security breaks up a rowdy wedding party of seniors.",

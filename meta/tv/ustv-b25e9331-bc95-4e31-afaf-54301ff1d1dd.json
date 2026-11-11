@@ -15,6 +15,436 @@
   },
   "videos": [
    {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T06:00:00.000Z",
+    "title": "Even Stevens",
+    "overview": "Ren hopes to work with a local news anchor, but Louis interferes by inventing a news story about a child genius.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T06:30:00.000Z",
+    "title": "Even Stevens",
+    "overview": "Ren lies to attend a skating party instead of a family dinner; Louis and Twitty make prank phone calls.",
+    "released": "2026-11-10T06:30:00.000Z",
+    "startTime": "2026-11-10T06:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T07:00:00.000Z",
+    "title": "Even Stevens",
+    "overview": "Twitty gets his chance as a relief pitcher on the baseball team.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T07:30:00.000Z",
+    "title": "Even Stevens",
+    "overview": "Donnie coaches little league basketball; Ren waits for Bobby to kiss her for the first time.",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T08:00:00.000Z",
+    "title": "Even Stevens",
+    "overview": "Louis (Shia LaBeouf) schemes to tape Ren's (Christy Romano) slumber party and sell tickets to the neighborhood boys. With Donna Pescow.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T08:30:00.000Z",
+    "title": "Even Stevens",
+    "overview": "A TV camera catches Louis launching into a tantrum over having to dress up, jeopardizing his mom's chance at winning an election.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T09:00:00.000Z",
+    "title": "Even Stevens",
+    "overview": "Ren tries to keep a potential rival away from her boyfriend during a bird-watching trip; duo likes Tom for his pizza oven.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T09:30:00.000Z",
+    "title": "Even Stevens",
+    "overview": "Louis tells a scary story about kids being turned into milk-drinking zombies by an eye exam administered by Ren and Mr. Wexler.",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T10:00:00.000Z",
+    "title": "DuckTales",
+    "overview": "The kids and Launchpad work together to capture a mystical money shark, while Scrooge attempts to better his public image with a televised interview.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T10:30:00.000Z",
+    "title": "DuckTales",
+    "overview": "Scrooge re-teams with his conniving ex-partner and old flame, Goldie O' Gilt, to find a long-lost golden lagoon, but Glomgold has other plans.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T11:00:00.000Z",
+    "title": "DuckTales",
+    "overview": "Webby learns how Scrooge and Mrs. Beakley first met while she helps Scrooge rescue her granny from the clutches of rival spy Black Heron.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T11:30:00.000Z",
+    "title": "DuckTales",
+    "overview": "Feeling ignored, Dewey finds a new family: a band of singing and dancing pirates looking to rob Scrooge blind.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T12:00:00.000Z",
+    "title": "DuckTales",
+    "overview": "Lena's loyalties are tested when Magica forces her to lead Webby on a raid to a facility full of Scrooge's most dangerous artifacts to find his No. 1 Dime.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T12:30:00.000Z",
+    "title": "DuckTales",
+    "overview": "As Fenton figures out how to be a hero, Mark Beaks offers to hire Gizmoduck and help him defend all of Duckburg.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T13:00:00.000Z",
+    "title": "DuckTales",
+    "overview": "On a family trip to Scrooge's ancestral castle, Dewey tries to hide the truth about his mother as his brothers search for family secrets.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T13:30:00.000Z",
+    "title": "DuckTales",
+    "overview": "Stuck on a precarious peak, the kids secretly search the plane for the final clue about Della's mysterious disappearance.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T14:00:00.000Z",
+    "title": "DuckTales",
+    "overview": "Magica preys on Scrooge to acquire his lucky dime; Webby and Launchpad try to convince Donald and the boys not to move.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T14:30:00.000Z",
+    "title": "DuckTales",
+    "overview": "As Magica's shadow army causes chaos in Duckburg, the family bands together to save Scrooge.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T15:00:00.000Z",
+    "title": "DuckTales",
+    "overview": "A game night is anything but relaxing as the family faces shrink rays, a barbaric civilization and an unhealthy level of competitiveness.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T15:30:00.000Z",
+    "title": "DuckTales",
+    "overview": "Huey and Dewey are led on an adventure by their distant Uncle Fethry, who takes them to the depths of Scrooge's deep-sea laboratory.",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T16:00:00.000Z",
+    "title": "DuckTales",
+    "overview": "After his disappearance, Glomgold resurfaces as anything but his ever-scheming self, while Webby and Louie try to uncover the truth behind who is Duke Baloney.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T16:30:00.000Z",
+    "title": "DuckTales",
+    "overview": "Donald reunites with his band, The Three Caballeros, while the family takes in the sites of a Brazilian town that has a dark secret.",
+    "released": "2026-11-10T16:30:00.000Z",
+    "startTime": "2026-11-10T16:30:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T17:00:00.000Z",
+    "title": "DuckTales",
+    "overview": "Louie recruits Storkules for his professional monster extermination business, while Storkules faces his greatest challenge: being Donald's roommate.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T17:30:00.000Z",
+    "title": "DuckTales",
+    "overview": "Della struggles for survival against dangerous elements of the Moon, as she looks for a way to get back to her family on Earth.",
+    "released": "2026-11-10T17:30:00.000Z",
+    "startTime": "2026-11-10T17:30:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T18:00:00.000Z",
+    "title": "Dragon Striker",
+    "overview": "Key arrives at Kal Asterock expecting to walk in his mother's footsteps as the Dragon Striker.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T18:30:00.000Z",
+    "title": "Bakugan",
+    "overview": "Mia faces challenges as she takes on Angus and Hail in the championship Brawl; V's partner is revealed, and they face off against Mia and Ventri in a high-stakes brawl.",
+    "released": "2026-11-10T18:30:00.000Z",
+    "startTime": "2026-11-10T18:30:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T19:00:00.000Z",
+    "title": "Yu-Gi-Oh! GO RUSH!!",
+    "overview": "UTS comes face-to-face with a Rovian Bandit who will stop at nothing to end their quest to find the missing Yuna Goha!",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T19:30:00.000Z",
+    "title": "Pok\u00e9mon the Series: Indigo League",
+    "overview": "Ash and his friends notice a missing persons poster of an undeniably familiar face: it looks exactly like James from Team Rocket.",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T20:00:00.000Z",
+    "title": "Beyblade X",
+    "overview": "Toguro Okunaga and Pan Cho of Team Zooganic visit the Animal Castle-the home of the Manju Family, creators of their Beys-at the suggestion of Quinn Manju from Team Conquest.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T20:30:00.000Z",
+    "title": "Star Wars Resistance",
+    "overview": "On a mission to repair a vital platform defense, Kaz befriends the mysterious Synara and comes under attack by pirates.",
+    "released": "2026-11-10T20:30:00.000Z",
+    "startTime": "2026-11-10T20:30:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T21:00:00.000Z",
+    "title": "Star Wars Resistance",
+    "overview": "An upcoming race reunites Yeager with his estranged brother, Marcus, who needs to win to pay off his debt to a criminal organization.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T21:30:00.000Z",
+    "title": "Star Wars Resistance",
+    "overview": "When a determined Kaz tries to discover the truth about Captain Doza, he and Torra embark on an adventure where they uncover more about the tower than either expected.",
+    "released": "2026-11-10T21:30:00.000Z",
+    "startTime": "2026-11-10T21:30:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T22:00:00.000Z",
+    "title": "Star Wars Resistance",
+    "overview": "When Poe and Kaz find an old First Order mining facility, BB-8 discovers that the facility isn't so abandoned.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T22:30:00.000Z",
+    "title": "Star Wars Resistance",
+    "overview": "Neeku adopts a strange sea creature and gets way more than he bargained for when it brings chaos to the platform.",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T23:00:00.000Z",
+    "title": "Star Wars Resistance",
+    "overview": "In exchange for parts, Kaz minds acquisitions for Flix and Orka and comes into conflict with a shady alien customer in league with the First Order.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-10T23:30:00.000Z",
+    "title": "Star Wars Resistance",
+    "overview": "Synara settles into life on the platform, but her pirate compatriots have other plans for her.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T00:00:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Harper and Zeke say Alex's constant company smothers them, so Alex makes a Harper clone for company; Harper is jealous and insists Alex gets rid of it; Alex admits she's lonely.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T00:30:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Alex and Harper move into an apartment building with a secret floor for wizards.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T01:00:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Alex and Harper take in a ghost roommate named Lucy to help pay the rent.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T01:30:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Mr. Laritate stumbles upon the secret 13th floor and is bitten by Alex and Harper's zombie neighbor.",
+    "released": "2026-11-11T01:30:00.000Z",
+    "startTime": "2026-11-11T01:30:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T02:00:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Gorog takes Juliet hostage in exchange for the moral compass; Professor Young tells Alex, Justin and Max to combine their powers to defeat Gorog.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T02:30:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "The Russos may lose the Sub Station when the owner of the building decides he wants to sell it.",
+    "released": "2026-11-11T02:30:00.000Z",
+    "startTime": "2026-11-11T02:30:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T03:00:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Harper is transported into a Cinderella-like world after reading one of Alex's wizard story books; Harper must rely on her fairy godmother, Alex to turn things back to normal.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T03:30:00.000Z",
     "title": "Wizards of Waverly Place",
     "overview": "Alex discovers her favorite store is having a crazy sale, but Jerry won't let her go.",

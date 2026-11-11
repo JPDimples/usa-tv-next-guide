@@ -15,6 +15,216 @@
   },
   "videos": [
    {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T06:00:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "With the assisted living facility not proving profitable and Sandra preparing to go off to college, Jeremy reassesses the family's financial future.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:36:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T06:36:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Anastasia's first ex-husband contacts her for the first time in decades, but Anastasia shows no interest since she never forgave him for what he did to her in the past; the other residents push her to meet with him.",
+    "released": "2026-11-10T06:36:00.000Z",
+    "startTime": "2026-11-10T06:36:00.000Z",
+    "endTime": "2026-11-10T07:12:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T07:12:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Phillip tells Jeremy he wants to play lacrosse; Jeremy realizes he needs to study the sport to help his son get ready for tryouts.",
+    "released": "2026-11-10T07:12:00.000Z",
+    "startTime": "2026-11-10T07:12:00.000Z",
+    "endTime": "2026-11-10T07:48:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T07:48:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Residents warn Mr. Brown to stop eating at Bama's Big Kuntry Burgers, but he is fully addicted; Mr. Brown eats a Bama's Big Kuntry burger in the kitchen while Efe and Cora watch the news.",
+    "released": "2026-11-10T07:48:00.000Z",
+    "startTime": "2026-11-10T07:48:00.000Z",
+    "endTime": "2026-11-10T08:24:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T08:24:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Brown is tired of residents spending time at the competing assisted living facility across the street.",
+    "released": "2026-11-10T08:24:00.000Z",
+    "startTime": "2026-11-10T08:24:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T09:00:00.000Z",
+    "title": "BET Her Playlist",
+    "overview": "New music from up-and-coming R&B artists.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T10:00:00.000Z",
+    "title": "Strictly R&B",
+    "overview": "Playlist of R&B jams from artists old and new; curated for her.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T11:00:00.000Z",
+    "title": "Morning Glow",
+    "overview": "Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T12:00:00.000Z",
+    "title": "Morning Glow",
+    "overview": "Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T13:00:00.000Z",
+    "title": "Morning Glow",
+    "overview": "Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T14:00:00.000Z",
+    "title": "Morning Glow",
+    "overview": "Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T15:00:00.000Z",
+    "title": "Morning Glow",
+    "overview": "Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T16:00:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "When Carmen asks Sasha and Will to be foster parents, they hesitate because of their busy schedules.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T16:36:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T16:36:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "When Brown tires of the chaos from the residents in the house, he decides to throw a surprise Family Day to occupy them; frat brothers entertain the residents.",
+    "released": "2026-11-10T16:36:00.000Z",
+    "startTime": "2026-11-10T16:36:00.000Z",
+    "endTime": "2026-11-10T17:12:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T17:12:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "When Ms. Edna becomes depressed, Cora initiates a \"This Is Your Life\" night to show that people appreciate her; Brown mistakenly thinks Jesus is gay.",
+    "released": "2026-11-10T17:12:00.000Z",
+    "startTime": "2026-11-10T17:12:00.000Z",
+    "endTime": "2026-11-10T17:48:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T17:48:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "When Brianna's pregnant friend goes into labor while staying at the house, Brown must deliver the baby himself.",
+    "released": "2026-11-10T17:48:00.000Z",
+    "startTime": "2026-11-10T17:48:00.000Z",
+    "endTime": "2026-11-10T18:24:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T18:24:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "Sasha's past haunts her when an old boyfriend comes to see her after he leaves prison; London loses Brown's winning raffle ticket for a cruise.",
+    "released": "2026-11-10T18:24:00.000Z",
+    "startTime": "2026-11-10T18:24:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T19:00:00.000Z",
+    "title": "Miles Ahead",
+    "overview": "In the 1970s, down-and-out jazz trumpeter Miles Davis (Don Cheadle) tries to recover his new session tape from music producers.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T22:00:00.000Z",
+    "title": "The Equalizer",
+    "overview": "Bishop asks for help when a terrorist from his past uncovers the identity of his adult son; Aunt Vi becomes nostalgic about a past romantic relationship when she receives a surprise visitor.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-10T23:00:00.000Z",
+    "title": "The Equalizer",
+    "overview": "McCall and Mel help a deported woman track down her son after she was separated from him while seeking asylum at the U.S. border; Mel, McCall and Bishop exhaust every avenue to get Harry released from prison.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T00:00:00.000Z",
+    "title": "The Equalizer",
+    "overview": "McCall becomes ensnared in a deadly battle between rival rap crews when she is hired by the wife of a famous rapper, Dilemma, to prove the musician is innocent of murdering a fellow artist.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T01:00:00.000Z",
     "title": "Miles Ahead",
     "overview": "In the 1970s, down-and-out jazz trumpeter Miles Davis (Don Cheadle) tries to recover his new session tape from music producers.",

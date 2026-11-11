@@ -15,6 +15,156 @@
   },
   "videos": [
    {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T06:00:00.000Z",
+    "title": "The Last Word With Lawrence O'Donnell",
+    "overview": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T07:00:00.000Z",
+    "title": "The 11th Hour With Ali Velshi",
+    "overview": "Ali Velshi delivers sharp, data-driven analysis of the day's stories in economics, politics, democracy, and foreign affairs; from MS NOW's Studio C in the heart of NYC, Velshi convenes a panel of guests to help viewers navigate the news.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T08:00:00.000Z",
+    "title": "All in With Chris Hayes",
+    "overview": "Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T09:00:00.000Z",
+    "title": "The Rachel Maddow Show",
+    "overview": "Through her approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T10:00:00.000Z",
+    "title": "Live: Way Too Early With Ali Vitali",
+    "overview": "Inside-the-beltway political news and critical stories shaping the national conversation.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T11:00:00.000Z",
+    "title": "Live: Morning Joe",
+    "overview": "Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T14:00:00.000Z",
+    "title": "Live: Money, Power, Politics With Stephanie Ruhle",
+    "overview": "Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting to mornings, helping you understand what's happening today and why it matters; make sense of it all, together.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T16:00:00.000Z",
+    "title": "Live: State of Play with Peter Alexander",
+    "overview": "Peter Alexander holds those in power accountable, leaning on his years of reporting from the heart of DC to relentlessly push for the answers you need. Because what happens in Washington impacts what happens in your home.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T17:00:00.000Z",
+    "title": "Live: On the Line With Alicia Menendez",
+    "overview": "Alicia Menendez leads insightful conversations that bring us to a deeper understanding of the day's headlines, focusing on what's at stake for our country and our communities.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T19:00:00.000Z",
+    "title": "Live: The Moment With Katy Tur",
+    "overview": "Katy Tur cuts through the noise with sharp political analysis, breaking news, and impactful interviews on the stories driving the national conversation.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T21:00:00.000Z",
+    "title": "Live: Deadline: White House",
+    "overview": "In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-10T23:00:00.000Z",
+    "title": "Live: The Beat With Ari Melber",
+    "overview": "Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-11T00:00:00.000Z",
+    "title": "Live: The Weeknight",
+    "overview": "Luke Russert, Michael Steele and Symone Sanders Townsend's one-on-one conversations with politicians and newsmakers and the breaking issues of the day.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-11T01:00:00.000Z",
+    "title": "Live: All in With Chris Hayes",
+    "overview": "Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-11T02:00:00.000Z",
+    "title": "Live: The Briefing With Jen Psaki",
+    "overview": "Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-758c5103-3ae7-481b-b06a-105367095900:epg:2026-11-11T03:00:00.000Z",
     "title": "Live: The Last Word With Lawrence O'Donnell",
     "overview": "In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.",

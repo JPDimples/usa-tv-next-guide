@@ -15,6 +15,316 @@
   },
   "videos": [
    {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T06:00:00.000Z",
+    "title": "Man v. Food",
+    "overview": "Casey Webb treks to Salt Lake City, Utah, to pay homage to a pastrami-topped tradition, savor the sweet-and-salty taste of Hawaii and engage in combat with some hot cakes for the P.A.C. Stack Challenge.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T06:30:00.000Z",
+    "title": "Man v. Food",
+    "overview": "Casey Webb makes the trip to Tampa for the ultimate Cuban platter at Florida's oldest restaurant, a stop at a speakeasy with a secret and 20 minutes of cookie combat with the \"Cookie Munchers Challenge.\".",
+    "released": "2026-11-10T06:30:00.000Z",
+    "startTime": "2026-11-10T06:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T07:00:00.000Z",
+    "title": "Bizarre Foods With Andrew Zimmern",
+    "overview": "Andrew Zimmern takes a voyage of self-discovery across the Mojave Desert; from Palm Springs pickleball with oxtail stew and alien-inspired rejuvenation and jerky to a Sin City meal with Carrot Top, this journey explores the joy of escape.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T07:30:00.000Z",
+    "title": "Bizarre Foods With Andrew Zimmern",
+    "overview": "Andrew Zimmern traces the footsteps of Juan Ponce de Leon down the Florida coast; buccaneer-style bacon and chocolate anchovies to crab juice roasted on an ancient fire and powdered Key West shrimp.",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T08:00:00.000Z",
+    "title": "Bizarre Foods With Andrew Zimmern",
+    "overview": "Andrew Zimmern traces the path of Christopher Columbus' expedition across the Dominican Republic; from cow stomach stew with African roots to native Taino flatbreads, Andrew eats his way across the cultural evolution of Hispaniola.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T08:30:00.000Z",
+    "title": "Bizarre Foods With Andrew Zimmern",
+    "overview": "Andrew Zimmern embarks on the Erie Canal, an engineering marvel that connects some of New York's greatest small towns; chowing down on tomato pie, juicy roast beef sandwiches, chicken rigatoni and fish pulled fresh from Oneida Lake.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T09:30:00.000Z",
+    "title": "See Wrinkles and Bags Vanish Instantly With GEN90!!",
+    "overview": "GEN90 Instant Wrinkle Treatment with Retinol will turn back the clock! The Pharmacist's solution for wrinkles, instant and long-term! Visibly reduces the appearance of crow's feet and fine lines instantly! Get fast, visible, long-lasting results!",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T10:00:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T11:00:00.000Z",
+    "title": "Adam Richman Eats Britain",
+    "overview": "Adam is in Eton to try the world-famous, delicious mistake, Eton mess; he also tries a British tradition, afternoon tea, local venison bonbons and tops his trip off with fudge.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T11:30:00.000Z",
+    "title": "Adam Richman Eats Britain",
+    "overview": "Adam tries a tattie scone in Scone, tastes Scotland's national dish, haggis, neeps and tatties, and some sweet shortbread.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T12:00:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Noah Cappe heads to Oklahoma for the Giant Texas Tenderloin Sandwich; tries Strawberry Pizza in Virginia.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T12:30:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Melty, ooey-gooey carnival treats; truffle grilled cheese at the St. Paul Winter Carnival; the mac and cheeseball burger at the Kentucky State Fair; cannoli calzone; apple pie cheesecake.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T13:00:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Host Noah Cappe looks east for inspiration as he explores Asian flavors on the fairgrounds. From classic foods like Shrimp Fried Rice Balls and the Spicy Kaprao Burger, to mashups like the Ube Funnel Cake and the Koagie Dog.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T13:30:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "From hot dogs and burgers to pizza and onion rings, even a dessert, these pepper popper creations are on fire.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T14:00:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "From a bratwurst topped with sauerkraut and apple pie to garlic enhanced doughnuts, these crazy combos sound so wrong but taste just right.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T14:30:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Comedian Noah Cappe seeks out freak show worthy foods at carnivals and fairgrounds across North America; Noah Cappe tries imaginative midway bites that have made food the new epicenter of carnival delights.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T15:00:00.000Z",
+    "title": "Man's Greatest Food",
+    "overview": "From seafood and beef to pork and cheese, Roger Mooking scours the country in search of the 12 best fried food dishes; learning secrets for bringing heat, oil and food together in holy fried matrimony.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T16:00:00.000Z",
+    "title": "Man's Greatest Food",
+    "overview": "The best combinations of eggs, gravy, breakfast meat and fried dough that make up the 12 greatest breakfasts in the country.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T17:00:00.000Z",
+    "title": "Man's Greatest Food",
+    "overview": "Roger cannot resist the sweet, succulent smoky goodness of barbecue as he canvases the country on the lookout for the fifteen best barbecue dishes wherever he can find them.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T18:00:00.000Z",
+    "title": "Man's Greatest Food",
+    "overview": "From fish tacos and porchetta sandwiches, to shrimp po' boys and turtle sundaes, the 12 best dishes from American food trucks; how the dishes are made.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T19:00:00.000Z",
+    "title": "Food Paradise",
+    "overview": "Craft beers, hurricanes and liquid nitrogen margaritas poured alongside deep-fried lobster mac and cheese; a soaring corned beef sandwich; a surf-and-turf po' boy.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T20:00:00.000Z",
+    "title": "Food Paradise",
+    "overview": "Top picks featuring a New Jersey drive-in slinging sky-high burgers, a New Orleans doughnut shop turning diner dinner classics into quick-bite handhelds, and a Southern California spot serving decadent seafood fries.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T21:00:00.000Z",
+    "title": "Food Paradise",
+    "overview": "Big and bold flavors at hot spots across the Lone Star State, from an Austin beer garden serving up the best of the \"wurst\" to sizzling fajitas topped with garlic butter at a Houston Tex-Mex joint.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T22:00:00.000Z",
+    "title": "Food Paradise",
+    "overview": "From a half-pound kielbasa smothered in Swiss cheese to an all-beef dog stuffed with smoked brisket, these restaurants are all about delicious dogs and sizzling sausages.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T23:00:00.000Z",
+    "title": "Man Fire Food",
+    "overview": "Roger visits the Lone Star State, and visits Grant Pinkerton to sample some one-of-a-kind cuts, including seasoning and barbecuing two whole goats; Roger meets up with chef Andrew Wiseheart, who slow-spins whole seasoned chicken over coals.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-10T23:30:00.000Z",
+    "title": "Man Fire Food",
+    "overview": "At Urban Grub, Roger witnesses as Chef Edgar Pendley fans the flames in a massive 18-foot-tall hearth and hangs a wall of house-made andouille sausages and pork ribs. Whole hog barbecue is the main attraction at Martin's Bar-B-Que Joint.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T00:00:00.000Z",
+    "title": "Man Fire Food",
+    "overview": "Roger goes coast to coast to check out crazy custom contraptions; Roger gets to play with a custom-built meat swing set in West Sacramento, Calif.; Roger and Beau slow-cook a whole hog and vegetables over a 12-foot-long wood fire.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T00:30:00.000Z",
+    "title": "Man Fire Food",
+    "overview": "Smokers come in all shapes and sizes; in Grain Valley, mechanic Bill Rousseau transforms a retired Cessna airplane into a smoker.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T01:00:00.000Z",
+    "title": "Man Fire Food",
+    "overview": "Custom earthenware bakers; 50-gallon metal-barrel oven.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T01:30:00.000Z",
+    "title": "Man Fire Food",
+    "overview": "Barbecue destinations in Charleston, S.C.",
+    "released": "2026-11-11T01:30:00.000Z",
+    "startTime": "2026-11-11T01:30:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T02:00:00.000Z",
+    "title": "Anthony Bourdain: No Reservations",
+    "overview": "In a stadium filled with excited fans, Tony experiences baseball through the eyes of the Cuban spectator; Tony visits Robert Salas, who shows him some incredible pictures of Castro and the revolution.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T03:00:00.000Z",
     "title": "Anthony Bourdain: No Reservations",
     "overview": "Sushi, kendo and Japanese flower arranging in Tokyo.",

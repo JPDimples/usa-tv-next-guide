@@ -15,6 +15,226 @@
   },
   "videos": [
    {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T05:45:00.000Z",
+    "title": "Antwone Fisher",
+    "overview": "The touching story of a sailor (Derek Luke) who, prone to violent outbursts, is sent to a naval psychiatrist (Denzel Washington) for help. Refusing at first to open up, the young man eventually breaks down and reveals a horrific childhood. Through the guidance of his new doctor, he confronts his pai",
+    "released": "2026-11-10T05:45:00.000Z",
+    "startTime": "2026-11-10T05:45:00.000Z",
+    "endTime": "2026-11-10T07:45:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T07:45:00.000Z",
+    "title": "Nutty Professor II: The Klumps",
+    "overview": "Professor Sherman Klump (Eddie Murphy) is getting married. And the Klump family could not be more delighted. His fianc\u00e9e Denise (Janet Jackson) is thrilled to become a Klump, and with her appetite she'll fit right in. But Buddy Love ... well, Buddy is another matter.",
+    "released": "2026-11-10T07:45:00.000Z",
+    "startTime": "2026-11-10T07:45:00.000Z",
+    "endTime": "2026-11-10T09:45:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T09:45:00.000Z",
+    "title": "Beyond the Curve With Sanya Richards-Ross",
+    "overview": "Olympic sprinter Melissa Jefferson-Wooden joins Sanya Richards-Ross to discuss her formula for becoming the fastest woman in the world and the passions that drive her beyond the track. Plus, media mogul Kandi Burruss opens up about her pivot away from reality television, life after divorce, and how ",
+    "released": "2026-11-10T09:45:00.000Z",
+    "startTime": "2026-11-10T09:45:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T10:00:00.000Z",
+    "title": "Family Feud Favorites",
+    "overview": "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T10:30:00.000Z",
+    "title": "Family Feud Favorites",
+    "overview": "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T11:00:00.000Z",
+    "title": "Karamo",
+    "overview": "Jessica believes that Leon is her biological father but wants to know if several others to whom she refers as \"maybe babies\" are her sisters.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T11:30:00.000Z",
+    "title": "Karamo",
+    "overview": "Edna says Bree is pinning her child on Edna's late brother in an attempt to profit from his death benefits.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T12:00:00.000Z",
+    "title": "Tamron Hall",
+    "overview": "\"Tamron Hall\" is a daily talk show that brings a relatable voice to the daytime community, enlightening and entertaining the audience. As a seasoned journalist, host Tamron Hall connects to viewers through engaging, topical and newsmaking interviews, ranging from deeply personal to purely fun. An aw",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T13:00:00.000Z",
+    "title": "The Jennifer Hudson Show",
+    "overview": "The EGOT winner's daytime talk show features celebrity interviews, topical stories, community heroes, viral sensations and music, bringing fun, uplifting and empowering conversations to the forefront.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T14:00:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "A Mississippi woman accuses her boyfriend's family member of leading him into the arms of other women, and he puts their engagement on hold because her lack of trust undermines their relationship.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T14:30:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "A Louisiana man reconciles with his wife but suspects she continues to have an affair with a man she met during their separation.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T15:00:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "A Michigan man worries his fianc\u00e9e is cheating again, but she insists those days are behind her and undergoes voice stress analysis to prove it.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T15:30:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "A California man brings his girlfriend to court after he suspects her of cheating with one of her many guy friends, but she says a lie detector test will prove that she hasn't.",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T16:00:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "A Georgia woman returns to court with two of her mother's ex-lovers and hopes that one of them is her father.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T16:30:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "An Atlanta man and his pregnant girlfriend claim he is not the father of another woman's 13-month-old son.",
+    "released": "2026-11-10T16:30:00.000Z",
+    "startTime": "2026-11-10T16:30:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T17:00:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "A Detroit woman lost both her sons and is desperate to know if one of them fathered a child prior to his death.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T17:30:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "A Florida man claims he was only joking when he told a 27-year-old woman that he was her biological father.",
+    "released": "2026-11-10T17:30:00.000Z",
+    "startTime": "2026-11-10T17:30:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T18:00:00.000Z",
+    "title": "In the Heat of the Night",
+    "overview": "Willing suspects hamper the investigation after a paroled convict is murdered; Gillespie is held responsible for the convict's earlier release.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T19:00:00.000Z",
+    "title": "In the Heat of the Night",
+    "overview": "Gillespie appears to be apathetic about prosecuting Harriet DeLong's ex-husband, who has been arrested on a murder and robbery charge.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T20:00:00.000Z",
+    "title": "In the Heat of the Night",
+    "overview": "All signs point to bookstore owner Carl Tibbitts as a suspect in his wife's murder, but Sweet believes in his friend's innocence.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T21:00:00.000Z",
+    "title": "King of New York",
+    "overview": "A crime lord plots to take control of New York's underground drug economy and distribute the profits to the poor.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-10T23:30:00.000Z",
+    "title": "Shaft",
+    "overview": "Crooked cops on the take -- small-time drug lords -- sleazy informers and sadistic rich kids ready to kill --- for police detective John Shaft, its just another night in the underbelly of New York City, another shift facing down cops and criminals who want him dead and a legal system that thrives on",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T01:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T01:30:00.000Z",
     "title": "Parker",
     "overview": "Daring, ruthless and meticulous, Parker (Jason Statham) is one of the most successful thieves in the business. But when his latest robbery turns deadly because of a careless crew member, he declines to join crime boss Melander (Michael Chiklis) and his gang for another heist. The crooks turn on Park",

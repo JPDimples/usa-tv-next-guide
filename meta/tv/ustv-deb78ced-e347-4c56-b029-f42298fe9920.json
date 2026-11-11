@@ -15,6 +15,386 @@
   },
   "videos": [
    {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T06:00:00.000Z",
+    "title": "A Taste of Travel",
+    "overview": "Scotty finds his happy place, in Queensland's Granite Belt; Alana gets a taste of Beijing's old city, before visiting the spice market in Istanbul.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T06:30:00.000Z",
+    "title": "Tasting America",
+    "overview": "Food bloggers spawn a new trend in Santa Monica, Calif.; three delectable restaurants with five-star dishes await; Instagram personality Corey, aka Miss Foodie Problems, helps capture every bite.",
+    "released": "2026-11-10T06:30:00.000Z",
+    "startTime": "2026-11-10T06:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T07:00:00.000Z",
+    "title": "Travel in Style",
+    "overview": "\"Travel in Style\" goes on a journey of class, culture and luxury to some of the unique and seductive locations on the planet.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T07:30:00.000Z",
+    "title": "Distant Shores",
+    "overview": "Setting sail for France.",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T08:00:00.000Z",
+    "title": "Top Travel",
+    "overview": "Janez takes on Africa's highest peak, braves the elements and attempts his biggest challenge to date.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T08:30:00.000Z",
+    "title": "Selling Jets",
+    "overview": "Presa and Alex shop for a private jet; Presa's father has entrusted her to find a jet suitable for the family business between Miami and Brazil; they would also like to use the plane for personal travel from the U.S. to Spain to visit family.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T09:00:00.000Z",
+    "title": "Vicarious Escapes",
+    "overview": "Wildlife and beaches in the Caribbean.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T10:00:00.000Z",
+    "title": "Selling Yachts",
+    "overview": "Following three yacht brokers based in Ft. Lauderdale, Fla., detailing the various aspects of a yacht broker's professional life, from showing prospective clients various boats to negotiating the sale of a yacht.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T10:30:00.000Z",
+    "title": "Hungry Heroes",
+    "overview": "Dan visits the Riverside County Sheriff's Department K-9 Unit, Luke's on Front, and The Local Provisions.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T11:00:00.000Z",
+    "title": "Facing Waves",
+    "overview": "Ken Whiting explores Jamaica's stunning coastline, mountainous rivers, and epic ocean surf with his sea kayak.",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T11:30:00.000Z",
+    "title": "Travel in Style",
+    "overview": "\"Travel in Style\" goes on a journey of class, culture and luxury to some of the unique and seductive locations on the planet.",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T12:00:00.000Z",
+    "title": "Vicarious Escapes",
+    "overview": "A set of Maltese islands.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T13:00:00.000Z",
+    "title": "A Taste of Travel",
+    "overview": "David Reyne visits Darwin and Litchfield National Park; Scotty takes the road less traveled on an ATV tour of Phuket, before a bit of go-karting on Queensland's Sunshine Coast.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T13:30:00.000Z",
+    "title": "Tasting America",
+    "overview": "One person samples food they wouldn't normally try, to see how they react to dishes they wouldn't normally eat.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T14:00:00.000Z",
+    "title": "Boys Toys",
+    "overview": "Cruising the coast in a totally pimped-out, \"zelectrified\" Volkswagen Beetle with a surfboard strapped to it; setting sail on a sleek ship and picking up skills from a seasoned sailor on the way.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T14:30:00.000Z",
+    "title": "Blue World",
+    "overview": "Blue World hooks up with famous YouTube animal expert Coyote Peterson and takes him, and his crew, on their first shark dive...with massive Tiger Sharks! Then, when things can't get and more exciting, they dive with the sharks after dark for an exot.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T15:00:00.000Z",
+    "title": "Find Me a Vacation Home",
+    "overview": "From beachside bungalows to mountain lodges, property hunters look for luxurious vacation homes where paradise is in the backyard.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T15:30:00.000Z",
+    "title": "Private Islands",
+    "overview": "In Baa Atoll, Maldives, Soneva Fushi is a private oasis featuring decadent dining and signature accommodations.",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T16:00:00.000Z",
+    "title": "Behind the Gates",
+    "overview": "A brand-new seafront villa in Laguna Beach; a look high above Beverly Hills; a peek inside a mansion on the Malibu beach.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T16:30:00.000Z",
+    "title": "Behind the Gates",
+    "overview": "A journey to the busy New York City with a tour of three remarkable properties by realtor Michael Graves.",
+    "released": "2026-11-10T16:30:00.000Z",
+    "startTime": "2026-11-10T16:30:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T17:00:00.000Z",
+    "title": "Dream Cruises",
+    "overview": "Society Islands in French Polynesia.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T18:00:00.000Z",
+    "title": "Selling Mega Mansions",
+    "overview": "Tom and Liz want to relocate from Colorado to New Orleans' French Quarter; they ask real estate agent Courtney Schulingkamp to line up the best the French Quarter has to offer.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T18:30:00.000Z",
+    "title": "Top Million Dollar Agent",
+    "overview": "Eve and Shawn show Stephanie three homes that meet her needs.",
+    "released": "2026-11-10T18:30:00.000Z",
+    "startTime": "2026-11-10T18:30:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T19:00:00.000Z",
+    "title": "Find Me a Luxury Home",
+    "overview": "A selection of super-rich house hunters go in search of the perfect luxury home; they are willing to invest millions into high-end real estate.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T19:30:00.000Z",
+    "title": "Top Million Dollar Agent",
+    "overview": "Kristen and Kane look for a home near Toronto.",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T20:00:00.000Z",
+    "title": "5 Star Getaways",
+    "overview": "This series is a sun-filled invitation to travel and visit all-inclusive five-star resorts throughout the world, their surroundings and the excursions one can do at each destination.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T21:00:00.000Z",
+    "title": "Distant Shores",
+    "overview": "Paul and Sheryl enjoy France's warm weather.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T21:30:00.000Z",
+    "title": "Top Travel",
+    "overview": "The conclusion to Janez's dangerous yet exciting journey atop Mount Kilimanjaro; Jeannie is headed to the rich villages of Zanzibar for a lesson in their culture and culinary arts.",
+    "released": "2026-11-10T21:30:00.000Z",
+    "startTime": "2026-11-10T21:30:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T22:00:00.000Z",
+    "title": "Selling Jets",
+    "overview": "Whether for business or pleasure, the world of private jets is exciting and enticing, and these sellers are giving the inside look on deals involving state of the art aircraft.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T22:30:00.000Z",
+    "title": "Selling Yachts",
+    "overview": "Following three yacht brokers based in Ft. Lauderdale, Fla., detailing the various aspects of a yacht broker's professional life, from showing prospective clients various boats to negotiating the sale of a yacht.",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T23:00:00.000Z",
+    "title": "Find Me a Vacation Home",
+    "overview": "From beachside bungalows to mountain lodges, property hunters look for luxurious vacation homes where paradise is in the backyard.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-10T23:30:00.000Z",
+    "title": "Private Islands",
+    "overview": "In Baa Atoll, Maldives, Soneva Fushi is a private oasis featuring decadent dining and signature accommodations.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-11T00:00:00.000Z",
+    "title": "Behind the Gates",
+    "overview": "A brand-new seafront villa in Laguna Beach; a look high above Beverly Hills; a peek inside a mansion on the Malibu beach.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-11T00:30:00.000Z",
+    "title": "Behind the Gates",
+    "overview": "A journey to the busy New York City with a tour of three remarkable properties by realtor Michael Graves.",
+    "released": "2026-11-11T00:30:00.000Z",
+    "startTime": "2026-11-11T00:30:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-11T01:00:00.000Z",
+    "title": "Dream Cruises",
+    "overview": "Society Islands in French Polynesia.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-11T02:00:00.000Z",
+    "title": "Selling Mega Mansions",
+    "overview": "Tom and Liz want to relocate from Colorado to New Orleans' French Quarter; they ask real estate agent Courtney Schulingkamp to line up the best the French Quarter has to offer.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-11T02:30:00.000Z",
+    "title": "Top Million Dollar Agent",
+    "overview": "Eve and Shawn show Stephanie three homes that meet her needs.",
+    "released": "2026-11-11T02:30:00.000Z",
+    "startTime": "2026-11-11T02:30:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-11T03:00:00.000Z",
+    "title": "Find Me a Luxury Home",
+    "overview": "A selection of super-rich house hunters go in search of the perfect luxury home; they are willing to invest millions into high-end real estate.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-11T03:30:00.000Z",
     "title": "Top Million Dollar Agent",
     "overview": "Kristen and Kane look for a home near Toronto.",

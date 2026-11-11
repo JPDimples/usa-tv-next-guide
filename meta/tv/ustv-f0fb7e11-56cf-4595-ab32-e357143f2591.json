@@ -15,6 +15,376 @@
   },
   "videos": [
    {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T06:00:00.000Z",
+    "title": "Flip Side",
+    "overview": "Bridget and Brittany take on Christi and Ron.",
+    "released": "2026-11-10T06:00:00.000Z",
+    "startTime": "2026-11-10T06:00:00.000Z",
+    "endTime": "2026-11-10T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T06:30:00.000Z",
+    "title": "The Perfect Line",
+    "overview": "Players Valerie, Anthony, Hannah and Miranda compete.",
+    "released": "2026-11-10T06:30:00.000Z",
+    "startTime": "2026-11-10T06:30:00.000Z",
+    "endTime": "2026-11-10T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T07:00:00.000Z",
+    "title": "Jeopardy!",
+    "overview": "The Emmy-winning quiz show features a unique answer-and-question format.",
+    "released": "2026-11-10T07:00:00.000Z",
+    "startTime": "2026-11-10T07:00:00.000Z",
+    "endTime": "2026-11-10T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T07:30:00.000Z",
+    "title": "Jeopardy!",
+    "overview": "The Emmy-winning quiz show features a unique answer-and-question format.",
+    "released": "2026-11-10T07:30:00.000Z",
+    "startTime": "2026-11-10T07:30:00.000Z",
+    "endTime": "2026-11-10T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T08:00:00.000Z",
+    "title": "Family Feud",
+    "overview": "Gallagher family vs. Christner family.",
+    "released": "2026-11-10T08:00:00.000Z",
+    "startTime": "2026-11-10T08:00:00.000Z",
+    "endTime": "2026-11-10T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T08:30:00.000Z",
+    "title": "Family Feud",
+    "overview": "Gallagher family vs. O'Dea family.",
+    "released": "2026-11-10T08:30:00.000Z",
+    "startTime": "2026-11-10T08:30:00.000Z",
+    "endTime": "2026-11-10T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T09:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T09:00:00.000Z",
+    "startTime": "2026-11-10T09:00:00.000Z",
+    "endTime": "2026-11-10T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T09:30:00.000Z",
+    "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
+    "overview": "Join your hosts Kevin Cash & Cory Cady as we discuss the 250th Anniversary of America with the official \"America 250\" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!",
+    "released": "2026-11-10T09:30:00.000Z",
+    "startTime": "2026-11-10T09:30:00.000Z",
+    "endTime": "2026-11-10T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T10:00:00.000Z",
+    "title": "Mercy Ships",
+    "overview": "Mercy Ship's crew of world-class medical volunteers sail across the globe providing lifesaving surgeries to those with nowhere else to turn.",
+    "released": "2026-11-10T10:00:00.000Z",
+    "startTime": "2026-11-10T10:00:00.000Z",
+    "endTime": "2026-11-10T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T10:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-10T10:30:00.000Z",
+    "startTime": "2026-11-10T10:30:00.000Z",
+    "endTime": "2026-11-10T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T11:00:00.000Z",
+    "title": "Match Game",
+    "overview": "Gene Rayburn hosts this comedy-game show hybrid in which contestants try to match answers given by celebrities to humorous, and often risque, fill-in-the-blank questions. The contestant with the most points at the end of the game advances to play the bonus round, in which the contestant has a chance",
+    "released": "2026-11-10T11:00:00.000Z",
+    "startTime": "2026-11-10T11:00:00.000Z",
+    "endTime": "2026-11-10T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T11:30:00.000Z",
+    "title": "Match Game",
+    "overview": "Gene Rayburn hosts this comedy-game show hybrid in which contestants try to match answers given by celebrities to humorous, and often risque, fill-in-the-blank questions. The contestant with the most points at the end of the game advances to play the bonus round, in which the contestant has a chance",
+    "released": "2026-11-10T11:30:00.000Z",
+    "startTime": "2026-11-10T11:30:00.000Z",
+    "endTime": "2026-11-10T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T12:00:00.000Z",
+    "title": "Chain Reaction",
+    "overview": "Two teams of three compete to complete a chain of words after the first and last words in the chain are revealed.",
+    "released": "2026-11-10T12:00:00.000Z",
+    "startTime": "2026-11-10T12:00:00.000Z",
+    "endTime": "2026-11-10T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T12:30:00.000Z",
+    "title": "Chain Reaction",
+    "overview": "Two teams of three compete to complete a chain of words after the first and last words in the chain are revealed.",
+    "released": "2026-11-10T12:30:00.000Z",
+    "startTime": "2026-11-10T12:30:00.000Z",
+    "endTime": "2026-11-10T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T13:00:00.000Z",
+    "title": "Catch 21",
+    "overview": "Aces For Everyone; players add cards by answering pop trivia questions and try to build the closest hand to 21 without busting in this fast-action game of knowledge and strategy.",
+    "released": "2026-11-10T13:00:00.000Z",
+    "startTime": "2026-11-10T13:00:00.000Z",
+    "endTime": "2026-11-10T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T13:30:00.000Z",
+    "title": "Catch 21",
+    "overview": "Aces For Everyone; players add cards by answering pop trivia questions and try to build the closest hand to 21 without busting in this fast-action game of knowledge and strategy.",
+    "released": "2026-11-10T13:30:00.000Z",
+    "startTime": "2026-11-10T13:30:00.000Z",
+    "endTime": "2026-11-10T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T14:00:00.000Z",
+    "title": "Cash Cab",
+    "overview": "Unsuspecting taxi cab passengers answer trivia questions posed by host Ben Bailey; the passengers may reach their destination with cold hard cash or walk away empty-handed.",
+    "released": "2026-11-10T14:00:00.000Z",
+    "startTime": "2026-11-10T14:00:00.000Z",
+    "endTime": "2026-11-10T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T14:30:00.000Z",
+    "title": "Wheel of Fortune",
+    "overview": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+    "released": "2026-11-10T14:30:00.000Z",
+    "startTime": "2026-11-10T14:30:00.000Z",
+    "endTime": "2026-11-10T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T15:00:00.000Z",
+    "title": "Chain Reaction",
+    "overview": "\"Chain Reaction\" is back with fan-favorite Dylan Lane returning as host of the popular word puzzle game in which players compete to form chains composed of two-word phrases.",
+    "released": "2026-11-10T15:00:00.000Z",
+    "startTime": "2026-11-10T15:00:00.000Z",
+    "endTime": "2026-11-10T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T15:30:00.000Z",
+    "title": "Chain Reaction",
+    "overview": "\"Chain Reaction\" is back with fan-favorite Dylan Lane returning as host of the popular word puzzle game in which players compete to form chains composed of two-word phrases.",
+    "released": "2026-11-10T15:30:00.000Z",
+    "startTime": "2026-11-10T15:30:00.000Z",
+    "endTime": "2026-11-10T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T16:00:00.000Z",
+    "title": "Deal or No Deal",
+    "overview": "Contestants from Canfield, Ohio, Culver City, Calif., Derby, Conn., and Coachella, Calif., play a special speed game, where each contestant only has 20 seconds to decide if they want the Banker's offer or to continue playing for $1 million.",
+    "released": "2026-11-10T16:00:00.000Z",
+    "startTime": "2026-11-10T16:00:00.000Z",
+    "endTime": "2026-11-10T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T17:00:00.000Z",
+    "title": "Deal or No Deal",
+    "overview": "A case on the board is worth $2 million, and a man from Dayton, Ohio, receives a tempting offer from professional basketball player Kobe Bryant.",
+    "released": "2026-11-10T17:00:00.000Z",
+    "startTime": "2026-11-10T17:00:00.000Z",
+    "endTime": "2026-11-10T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T18:00:00.000Z",
+    "title": "Wheel of Fortune",
+    "overview": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+    "released": "2026-11-10T18:00:00.000Z",
+    "startTime": "2026-11-10T18:00:00.000Z",
+    "endTime": "2026-11-10T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T18:30:00.000Z",
+    "title": "Wheel of Fortune",
+    "overview": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+    "released": "2026-11-10T18:30:00.000Z",
+    "startTime": "2026-11-10T18:30:00.000Z",
+    "endTime": "2026-11-10T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T19:00:00.000Z",
+    "title": "Wheel of Fortune",
+    "overview": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+    "released": "2026-11-10T19:00:00.000Z",
+    "startTime": "2026-11-10T19:00:00.000Z",
+    "endTime": "2026-11-10T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T19:30:00.000Z",
+    "title": "Wheel of Fortune",
+    "overview": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+    "released": "2026-11-10T19:30:00.000Z",
+    "startTime": "2026-11-10T19:30:00.000Z",
+    "endTime": "2026-11-10T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T20:00:00.000Z",
+    "title": "Jeopardy!",
+    "overview": "The Emmy-winning quiz show features a unique answer-and-question format.",
+    "released": "2026-11-10T20:00:00.000Z",
+    "startTime": "2026-11-10T20:00:00.000Z",
+    "endTime": "2026-11-10T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T20:30:00.000Z",
+    "title": "Jeopardy!",
+    "overview": "The Emmy-winning quiz show features a unique answer-and-question format.",
+    "released": "2026-11-10T20:30:00.000Z",
+    "startTime": "2026-11-10T20:30:00.000Z",
+    "endTime": "2026-11-10T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T21:00:00.000Z",
+    "title": "Master Minds",
+    "overview": "Three challengers take on some of the great minds in trivia in a showdown of smarts and strategy; the last contestant standing will face off against the highest scoring Master Mind in a head-to-head battle.",
+    "released": "2026-11-10T21:00:00.000Z",
+    "startTime": "2026-11-10T21:00:00.000Z",
+    "endTime": "2026-11-10T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T21:30:00.000Z",
+    "title": "The Perfect Line",
+    "overview": "Players Daniel, Angela, Karen and Kimberly compete to get the most correct answers.",
+    "released": "2026-11-10T21:30:00.000Z",
+    "startTime": "2026-11-10T21:30:00.000Z",
+    "endTime": "2026-11-10T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T22:00:00.000Z",
+    "title": "Flip Side",
+    "overview": "Zach and Matt come up against Diamond and Sonja.",
+    "released": "2026-11-10T22:00:00.000Z",
+    "startTime": "2026-11-10T22:00:00.000Z",
+    "endTime": "2026-11-10T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T22:30:00.000Z",
+    "title": "Family Feud",
+    "overview": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+    "released": "2026-11-10T22:30:00.000Z",
+    "startTime": "2026-11-10T22:30:00.000Z",
+    "endTime": "2026-11-10T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T23:00:00.000Z",
+    "title": "America Says",
+    "overview": "John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.",
+    "released": "2026-11-10T23:00:00.000Z",
+    "startTime": "2026-11-10T23:00:00.000Z",
+    "endTime": "2026-11-10T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-10T23:30:00.000Z",
+    "title": "America Says",
+    "overview": "John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.",
+    "released": "2026-11-10T23:30:00.000Z",
+    "startTime": "2026-11-10T23:30:00.000Z",
+    "endTime": "2026-11-11T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-11T00:00:00.000Z",
+    "title": "The Chase",
+    "overview": "New chaser Victoria \"The Queen\" Groce makes her official debut on the show and faces off against a magician, a singer and a professional juggler.",
+    "released": "2026-11-11T00:00:00.000Z",
+    "startTime": "2026-11-11T00:00:00.000Z",
+    "endTime": "2026-11-11T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-11T01:00:00.000Z",
+    "title": "The Wall",
+    "overview": "Valencia and Essence, a mother-daughter flight attendant duo from Indianapolis, take on the wall, which has them flying high; Valencia goes to isolation to take on the trivia, while Essence is out front directing those balls towards the million.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-11T02:00:00.000Z",
+    "title": "Press Your Luck",
+    "overview": "Contestants from San Francisco, Chicago and Cleveland compete.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
     "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-11T03:00:00.000Z",
     "title": "Weakest Link",
     "overview": "Eight sets of identical twins battle it out in a game of high-stakes trivia, all of them hoping to be the last pair standing and take home a giant payday.",
