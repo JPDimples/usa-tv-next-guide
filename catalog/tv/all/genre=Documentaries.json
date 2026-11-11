@@ -1,0 +1,121 @@
+{
+ "metas": [
+  {
+   "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1",
+   "type": "tv",
+   "name": "American Heroes Channel",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/american-heroes-channel-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Documentaries"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76",
+   "type": "tv",
+   "name": "Animal Planet",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/animal-planet-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Documentaries"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811",
+   "type": "tv",
+   "name": "Crime + Investigation",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/crime-and-investigation-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Documentaries"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65",
+   "type": "tv",
+   "name": "Discovery Channel",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/discovery-channel-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Documentaries"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3",
+   "type": "tv",
+   "name": "History",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/history-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Documentaries"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e",
+   "type": "tv",
+   "name": "Investigation Discovery",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/investigation-discovery-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Documentaries"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140",
+   "type": "tv",
+   "name": "National Geographic",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/national-geographic-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Documentaries"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8",
+   "type": "tv",
+   "name": "National Geographic  Wild",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/national-geographic-wild-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Documentaries"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1",
+   "type": "tv",
+   "name": "Smithsonian Channel",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/smithsonian-channel-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Documentaries"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

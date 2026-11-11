@@ -1,0 +1,439 @@
+{
+ "meta": {
+  "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62",
+  "type": "tv",
+  "name": "ESPN",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/espn-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/espn-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Sports"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T02:30:00.000Z",
+    "title": "Live: College Basketball",
+    "overview": "The No. 17 Kansas Jayhawks face the No. 23 Kentucky Wildcats for an NCAA Division I game. Kansas rides a two-game win streak alongside guard Tre White, and Kentucky rides a two-game win streak alongside forward Milan Momcilovic in Chicago, Illinois.",
+    "released": "2026-11-11T02:30:00.000Z",
+    "startTime": "2026-11-11T02:30:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T04:30:00.000Z",
+    "title": "Live: SportsCenter With Scott Van Pelt",
+    "overview": "SVP's up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host's self-deprecating wit and passion for sports, with featured elements, including Van Pelt's nightly \"1 Big Thing\" commentary and a weekly look ",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T05:30:00.000Z",
+    "title": "Live: SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T06:30:00.000Z",
+    "title": "Live: SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T07:30:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T08:30:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T09:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T10:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T11:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T12:00:00.000Z",
+    "title": "Live: SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T13:00:00.000Z",
+    "title": "Live: Get Up",
+    "overview": "ESPN's morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T15:00:00.000Z",
+    "title": "Live: First Take",
+    "overview": "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day's trending sports topics and under-the-radar news. They're regularly joined by veteran analysts and the top guests in sports and entertainment.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T17:00:00.000Z",
+    "title": "Live: The Pat McAfee Show",
+    "overview": "Pat McAfee brings his humor and candor; he and his cast of characters unpack the day's top stories and interview the biggest names in sports.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T19:00:00.000Z",
+    "title": "Live: Big Day With Peter Schrager",
+    "overview": "Peter Schrager's daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T20:00:00.000Z",
+    "title": "Live: NBA Today",
+    "overview": "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T21:00:00.000Z",
+    "title": "NFL Live",
+    "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T22:00:00.000Z",
+    "title": "Live: SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T22:30:00.000Z",
+    "title": "Live: Pardon the Interruption",
+    "overview": "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as gues",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-11T23:00:00.000Z",
+    "title": "Live: NBA Tip-Off",
+    "overview": "Host Ernie Johnson and analysts Shaquille O'Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN's Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T00:00:00.000Z",
+    "title": "Live: NBA Courtside",
+    "overview": "An insight into upcoming National Basketball Association matches, highlighting the players to watch and the top team news.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:12:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T00:12:00.000Z",
+    "title": "Live: NBA Basketball",
+    "overview": "The Knicks host the Cavaliers in NBA regular-season play at Madison Square Garden. The New York Knicks have won all five of their most recent meetings with Cleveland, including a 109-97 victory at Rocket Arena in their most recent match.",
+    "released": "2026-11-12T00:12:00.000Z",
+    "startTime": "2026-11-12T00:12:00.000Z",
+    "endTime": "2026-11-12T02:35:00.000Z",
+    "runtime": "143 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T02:35:00.000Z",
+    "title": "Live: NBA Basketball",
+    "overview": "The Houston Rockets host the Golden State Warriors in NBA regular-season play. The Houston Rockets have a three game lead out of the last five games against the Golden State Warriors. The most recent 115-107 win was in favor of Houston.",
+    "released": "2026-11-12T02:35:00.000Z",
+    "startTime": "2026-11-12T02:35:00.000Z",
+    "endTime": "2026-11-12T05:05:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T05:05:00.000Z",
+    "title": "Live: Inside the NBA",
+    "overview": "This Emmy Award-winning studio show, which airs following NBA telecasts on ESPN, is hosted by Ernie Johnson, with analysis from Hall of Famer Charles Barkley and NBA champions Kenny Smith and Shaquille O'Neal. It's a mix of highlights, interviews and hijinks, notably the verbal sparring sessions bet",
+    "released": "2026-11-12T05:05:00.000Z",
+    "startTime": "2026-11-12T05:05:00.000Z",
+    "endTime": "2026-11-12T06:05:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T06:05:00.000Z",
+    "title": "Live: SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T06:05:00.000Z",
+    "startTime": "2026-11-12T06:05:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "55 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T07:00:00.000Z",
+    "title": "Live: SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T08:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T09:00:00.000Z",
+    "title": "NBA Basketball",
+    "overview": "The Houston Rockets host the Golden State Warriors in NBA regular-season play. The Houston Rockets have a three game lead out of the last five games against the Golden State Warriors. The most recent 115-107 win was in favor of Houston.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T11:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T12:00:00.000Z",
+    "title": "Live: SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T13:00:00.000Z",
+    "title": "Live: Get Up",
+    "overview": "ESPN's morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T15:00:00.000Z",
+    "title": "Live: First Take",
+    "overview": "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day's trending sports topics and under-the-radar news. They're regularly joined by veteran analysts and the top guests in sports and entertainment.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T17:00:00.000Z",
+    "title": "Live: The Pat McAfee Show",
+    "overview": "Pat McAfee brings his humor and candor; he and his cast of characters unpack the day's top stories and interview the biggest names in sports.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T19:00:00.000Z",
+    "title": "Live: Big Day With Peter Schrager",
+    "overview": "Peter Schrager's daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T20:00:00.000Z",
+    "title": "Live: NBA Today",
+    "overview": "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T21:00:00.000Z",
+    "title": "NFL Live",
+    "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T22:00:00.000Z",
+    "title": "Live: SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T22:30:00.000Z",
+    "title": "Live: Pardon the Interruption",
+    "overview": "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as gues",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-12T23:00:00.000Z",
+    "title": "Live: SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-13T00:00:00.000Z",
+    "title": "SportsCenter Special",
+    "overview": "Presenting the news, current affairs and game analysis from the world of sports, complete with exclusive interviews.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-13T00:30:00.000Z",
+    "title": "Live: College Football Countdown",
+    "overview": "A look at the day's college football action, featuring news, highlights and game previews.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-13T01:00:00.000Z",
+    "title": "Live: College Football",
+    "overview": "The South Florida Bulls host the Memphis Tigers in regular-season action at Raymond James Stadium. South Florida aims to defend its home turf with just four turnovers this season, while Memphis leans on balanced scoring to secure a key road win.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62:epg:2026-11-13T04:00:00.000Z",
+    "title": "Live: SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

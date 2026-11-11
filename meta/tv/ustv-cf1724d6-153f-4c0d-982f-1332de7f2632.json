@@ -1,0 +1,409 @@
+{
+ "meta": {
+  "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632",
+  "type": "tv",
+  "name": "TNT",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/tnt-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tnt-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T01:00:00.000Z",
+    "title": "Live: NHL Hockey",
+    "overview": "The St. Louis Blues host the Detroit Red Wings in NHL regular-season play at Enterprise Center. Both sides arrive at 7-8 and have lost three straight, with St. Louis looking to avenge a 3-1 loss to Nashville that they surrendered recently.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T04:00:00.000Z",
+    "title": "Live: NHL Post-Game on TNT",
+    "overview": "Liam McHugh, Anson Carter and Paul Bissonnette recap the night in the NHL.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T04:30:00.000Z",
+    "title": "Godzilla x Kong: The New Empire",
+    "overview": "Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T07:00:00.000Z",
+    "title": "Cold Case",
+    "overview": "Rush and Valens try to connect a murder from 1977 to a serial killer about to be released from prison on a legal technicality.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T08:00:00.000Z",
+    "title": "Cold Case",
+    "overview": "When a truck containing human bones is retrieved from the Delaware River, Rush and Valens link the truck to a Prohibition bootlegger and believe the remains are those of a woman who went missing in 1932.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T09:00:00.000Z",
+    "title": "Cold Case",
+    "overview": "The discovery of nine human skulls prompts Rush to look again at a serial killer she was unable to put away months earlier, flushing him from hiding for a final showdown.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T10:00:00.000Z",
+    "title": "Charmed",
+    "overview": "Gideon unintentionally creates a portal that sends Chris and Leo to an alternate world where evil rules.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T11:00:00.000Z",
+    "title": "Charmed",
+    "overview": "Phoebe and Paige attempt to rescue Chris and Leo but find themselves battling their evil counterparts.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T12:00:00.000Z",
+    "title": "Charmed",
+    "overview": "After Leo and Piper inadvertently receive the powers of Hindu gods, Phoebe and Paige must keep them from consummating their love in order to save the universe.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T13:00:00.000Z",
+    "title": "Charmed",
+    "overview": "When a bored student at the Magic School accidentally conjures up Lady Godiva and Lord Dyson, the Charmed Ones must keep Dyson from killing Lady Godiva before she can go back in time and complete her famous ride.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T14:00:00.000Z",
+    "title": "Charmed",
+    "overview": "Grams puts a spell on the brothers to end their rivalry, but the spell turns the Charmed Ones into bickering teens; Leo consults a demonic seer (Charisma Carpenter) to find out who is behind the attack on Wyatt.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T15:00:00.000Z",
+    "title": "Cold Case",
+    "overview": "Rush and Valens unravel the mystery of a girl's parentage and the death of the man assumed to be her father; the detectives are ambivalent about a new member of the squad, Josie Sutton (Sarah Brown).",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T16:00:00.000Z",
+    "title": "Cold Case",
+    "overview": "An overweight, reclusive coed dies in a fraternity house fire, and Lilly discovers a photo of her being held down and forced to drink.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T17:00:00.000Z",
+    "title": "Cold Case",
+    "overview": "Lilly and Jeffries reopen a case when the mother of a murdered boy finds a letter suggesting that his death was not a random act of violence.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T18:00:00.000Z",
+    "title": "Cold Case",
+    "overview": "During the reinvestigation of a ballplayer found bludgeoned to death in 1945, Lilly and Jeffries run out of leads and must retrace their steps if they hope to collar the killer.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T19:00:00.000Z",
+    "title": "Meg 2: The Trench",
+    "overview": "Jonas Taylor leads a research team on an exploratory dive into the deepest depths of the ocean. Their voyage spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival. Pitted against colossal, prehistoric sharks and relentles",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T21:15:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T21:15:00.000Z",
+    "title": "Kong: Skull Island",
+    "overview": "Scientists, soldiers and adventurers unite to explore a mythical, uncharted island in the Pacific Ocean. Cut off from everything they know, they venture into the domain of the mighty Kong, igniting the ultimate battle between man and nature. As their mission of discovery soon becomes one of survival",
+    "released": "2026-11-11T21:15:00.000Z",
+    "startTime": "2026-11-11T21:15:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-11T23:30:00.000Z",
+    "title": "Live: NHL on TNT Face Off",
+    "overview": "Anson Carter, Paul Bissonnette, Henrik Lundqvist and Liam McHugh present pregame coverage.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T00:00:00.000Z",
+    "title": "Live: NHL Hockey",
+    "overview": "The Buffalo Sabres host the Tampa Bay Lightning in NHL regular-season play at KeyBank Center. The Buffalo Sabres have won three straight meetings against the Tampa Bay Lightning, including a 4-2 victory at home between two sides last April.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T02:30:00.000Z",
+    "title": "Live: NHL Hockey",
+    "overview": "From T-Mobile Arena in Las Vegas.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T05:30:00.000Z",
+    "title": "NHL Post-Game on TNT",
+    "overview": "Liam McHugh, Anson Carter and Paul Bissonnette recap the night in the NHL.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T06:00:00.000Z",
+    "title": "FBI",
+    "overview": "The team must take down a dangerous drug ring after an American diplomat is killed while being used as a pawn; Jubal and OA try to help friends from their past fight off their inner demons.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T07:00:00.000Z",
+    "title": "FBI",
+    "overview": "When a controversial senior leader from Egypt comes to New York for a heart transplant, OA struggles to balance his personal opinion with his professional duty when he is assigned to the security detail.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T08:00:00.000Z",
+    "title": "Cold Case",
+    "overview": "An elderly woman who died of natural causes was using the identity of a woman who disappeared after being committed to a mental hospital in the 1950s.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T09:00:00.000Z",
+    "title": "Cold Case",
+    "overview": "A woman loses her fourth son to gang violence, and Lilly determines to stop the cycle and save her remaining child by convicting gang leader Miguel Maldonado.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T10:00:00.000Z",
+    "title": "Cold Case",
+    "overview": "Recovery of an electronic diary prompts the team to reopen the investigation into the death of a healthy young woman who suffered a stress-induced heart attack when her dot-com company crashed.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T11:00:00.000Z",
+    "title": "FBI",
+    "overview": "The team must infiltrate a drug trafficking gang after the robbery of a chemical plant leaves two customs agents dead; Nestor offers his help on the case, giving Maggie new insight into his character.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T12:00:00.000Z",
+    "title": "FBI",
+    "overview": "The team hunts a killer who is fatally shooting seemingly unrelated targets; new agent Tiffany Wallace experiences tension between her work as an FBI agent and the responsibility she feels to her community as a Black woman.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T13:00:00.000Z",
+    "title": "FBI",
+    "overview": "After a bomb leaves three people dead, the team presses a reluctant informant to gather information from his close friends who are under suspicion; OA and his girlfriend clash over where the informant's rights lie.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T14:00:00.000Z",
+    "title": "FBI",
+    "overview": "When a reporter is kidnapped and held without a ransom demand, the team must dig into her past relationships in order to pin down her assailant's motive; Isobel's relationship comes under fire when the case makes a connection to her boyfriend.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T15:00:00.000Z",
+    "title": "FBI",
+    "overview": "The team must track down two assailants who wear animal masks while committing armed robberies; Tiffany and Scola butt heads on whether to accept the local NYPD's offer to help in the investigation.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T16:00:00.000Z",
+    "title": "FBI",
+    "overview": "After a man is killed by an explosive package shipped to his home, the team attempts to capture the sender and intercept his latest deadly parcel; Maggie struggles to trust her younger sister.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T17:00:00.000Z",
+    "title": "FBI",
+    "overview": "The team rushes to track down two doctors abducted by a desperate father willing to do anything to save his son; Jubal's uncertainty in his family life affects his judgment during the hostage situation.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T18:00:00.000Z",
+    "title": "FBI",
+    "overview": "When the CEO of a major brokerage firm is killed while surrounded by protesters, the team looks into who had the most to lose from his company's perceived manipulations; Scola's previous Wall Street career and the reasons he left come to light.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T19:00:00.000Z",
+    "title": "FBI",
+    "overview": "While investigating a mass casualty incident at a New York City restaurant, the team scrambles to determine if it was racially motivated and if there was more than one gunman; Maggie starts to notice troubling behavior from her co-worker Elise.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T20:00:00.000Z",
+    "title": "Kong: Skull Island",
+    "overview": "Scientists, soldiers and adventurers unite to explore a mythical, uncharted island in the Pacific Ocean. Cut off from everything they know, they venture into the domain of the mighty Kong, igniting the ultimate battle between man and nature. As their mission of discovery soon becomes one of survival",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T22:15:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-12T22:15:00.000Z",
+    "title": "The Equalizer 3",
+    "overview": "Since giving up his life as a government assassin, Robert McCall finds solace in serving justice on behalf of the oppressed. Now living in Southern Italy, he soon discovers his new friends are under the control of local crime bosses. As events turn deadly, McCall becomes their protector by taking on",
+    "released": "2026-11-12T22:15:00.000Z",
+    "startTime": "2026-11-12T22:15:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-13T00:30:00.000Z",
+    "title": "The Accountant",
+    "overview": "Christian Wolff (Ben Affleck) is a mathematics savant with more affinity for numbers than people. Using a small-town CPA office as a cover, he makes his living as a freelance accountant for dangerous criminal organizations. With a Treasury agent (J.K. Simmons) hot on his heels, Christian takes on a ",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632:epg:2026-11-13T03:00:00.000Z",
+    "title": "The Equalizer 3",
+    "overview": "Since giving up his life as a government assassin, Robert McCall finds solace in serving justice on behalf of the oppressed. Now living in Southern Italy, he soon discovers his new friends are under the control of local crime bosses. As events turn deadly, McCall becomes their protector by taking on",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T05:15:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

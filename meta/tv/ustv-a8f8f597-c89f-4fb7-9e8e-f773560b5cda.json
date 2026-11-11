@@ -1,0 +1,919 @@
+{
+ "meta": {
+  "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda",
+  "type": "tv",
+  "name": "Outdoor Channel",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/outdoor-channel-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/outdoor-channel-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Lifestyle"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T03:00:00.000Z",
+    "title": "Drury's Thirteen",
+    "overview": "Phase Eight: Desperately Seeking follows Terry Drury's Missouri gun camp as Lucille and Cameron Drury look to fill their tags.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T03:30:00.000Z",
+    "title": "Critical Mass",
+    "overview": "Big deer action: Nebraska mule deer and giant whitetails in Missouri and Iowa.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T04:00:00.000Z",
+    "title": "Bow Madness",
+    "overview": "Wade Robinson goes head-to-head with a 178-inch Iowa giant just days before Halloween, as years of hard work and perfect timing collide in a high-pressure hunt for a true Midwest monster!",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T04:30:00.000Z",
+    "title": "American Archer",
+    "overview": "Tom Nelson and the McCartney family share a true passion for hunting mature whitetail bucks.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T05:00:00.000Z",
+    "title": "Driven With Pat & Nicole",
+    "overview": "Pat and Nicole head to Saskatchewan, where Pat targets the widest buck of his life and Nicole delivers a perfect shot on a giant, leaving behind one unforgettable mystery.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T05:30:00.000Z",
+    "title": "The One",
+    "overview": "It's shotgun season in Illinois; the team suits up in orange and heads out to find some giant whitetails.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T06:00:00.000Z",
+    "title": "The Gamekeepers of Mossy Oak",
+    "overview": "On this episode we're joined by legendary golfer and more importantly to us, a serious turkey hunter, Davis Love III. He had a remarkable career playing golf with too many accolades to list, but even with all the attention he remembered the quiet mornings in the spring with his granddad's shotgun an",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T06:30:00.000Z",
+    "title": "The Lindsey Way",
+    "overview": "Kicking fall off in Georgia, where their roots still run deep, the Lindsey's get after southern whitetails.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T07:00:00.000Z",
+    "title": "Drury's Thirteen",
+    "overview": "Phase Eight: Desperately Seeking follows Terry Drury's Missouri gun camp as Lucille and Cameron Drury look to fill their tags.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T07:30:00.000Z",
+    "title": "Critical Mass",
+    "overview": "Big deer action: Nebraska mule deer and giant whitetails in Missouri and Iowa.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T08:00:00.000Z",
+    "title": "Bow Madness",
+    "overview": "Wade Robinson goes head-to-head with a 178-inch Iowa giant just days before Halloween, as years of hard work and perfect timing collide in a high-pressure hunt for a true Midwest monster!",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T08:30:00.000Z",
+    "title": "American Archer",
+    "overview": "Tom Nelson and the McCartney family share a true passion for hunting mature whitetail bucks.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T09:00:00.000Z",
+    "title": "Driven With Pat & Nicole",
+    "overview": "Pat and Nicole head to Saskatchewan, where Pat targets the widest buck of his life and Nicole delivers a perfect shot on a giant, leaving behind one unforgettable mystery.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T09:30:00.000Z",
+    "title": "The One",
+    "overview": "It's shotgun season in Illinois; the team suits up in orange and heads out to find some giant whitetails.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T10:00:00.000Z",
+    "title": "The Gamekeepers of Mossy Oak",
+    "overview": "On this episode we're joined by legendary golfer and more importantly to us, a serious turkey hunter, Davis Love III. He had a remarkable career playing golf with too many accolades to list, but even with all the attention he remembered the quiet mornings in the spring with his granddad's shotgun an",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T10:30:00.000Z",
+    "title": "The Lindsey Way",
+    "overview": "Kicking fall off in Georgia, where their roots still run deep, the Lindsey's get after southern whitetails.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T11:00:00.000Z",
+    "title": "The Hunt for Monster Bass",
+    "overview": "Fishing close to home, Bassmaster Classic Champion Ott DeFoe brings a secret weapon with him on this hunt for monster bass.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T11:30:00.000Z",
+    "title": "In Fisherman TV",
+    "overview": "Unforgettable fishing journeys throughout North America.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T12:00:00.000Z",
+    "title": "Realtree Outdoors",
+    "overview": "Cole Barthel hunts in Oklahoma with his muzzleloader.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T12:30:00.000Z",
+    "title": "Addicted to the Outdoors",
+    "overview": "This week Raven goes back to the roots of what Addicted to the Outdoors has always been about, celebrating every part of the outdoor lifestyle. Through unforgettable adventures from the past and a look toward the future, Raven shares how the next generation will continue the family's passion for all",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T13:00:00.000Z",
+    "title": "Sporting Classics With Chris Dorsey",
+    "overview": "Chris Dorsey and Domenico Orzi enjoy world-class wingshooting at Uruguay's Estancia Santa Elena.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T13:30:00.000Z",
+    "title": "Critical Mass",
+    "overview": "Big deer action: Nebraska mule deer and giant whitetails in Missouri and Iowa.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T14:00:00.000Z",
+    "title": "Hunt Masters",
+    "overview": "Gregg Ritz heads to the heart of Kansas Whitetail country to field test the new T/C Arms Carbon Fiber Barrel with Border Patrol Officer Ryan Halverson; where discipline, patience, and precision define both of their worlds.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T14:30:00.000Z",
+    "title": "Bone Collector",
+    "overview": "Mississippi river Whitetails! Gile's Island sits right on the Louisiana line and is legendary for its history of Giant Southern deer.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T15:00:00.000Z",
+    "title": "Driven With Pat & Nicole",
+    "overview": "Pat and Nicole head to Saskatchewan, where Pat targets the widest buck of his life and Nicole delivers a perfect shot on a giant, leaving behind one unforgettable mystery.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T15:30:00.000Z",
+    "title": "The One",
+    "overview": "It's shotgun season in Illinois; the team suits up in orange and heads out to find some giant whitetails.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T16:00:00.000Z",
+    "title": "Buckmasters",
+    "overview": "The Buckmasters crew is meeting up in Louisiana and some big bucks are hitting the ground.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T16:30:00.000Z",
+    "title": "Headhunters TV",
+    "overview": "Nate heads back to Triple Creek Outfitters in Kansas and tags his 3rd best archery buck of all time with his Mathews.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T17:00:00.000Z",
+    "title": "Offroad Odyssey",
+    "overview": "Alexa blasts sand across the U.S., riding with the pros in Glamis, then hitting the beach in Coos Bay, and getting a snowy surprise in Sand Hollow; the dunes are a lifestyle.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T17:30:00.000Z",
+    "title": "Onx Hunt Gameday",
+    "overview": "Dylan Dowson sets his sights on a wide muley in the plains of Montana.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T18:00:00.000Z",
+    "title": "Bow Madness",
+    "overview": "Wade Robinson goes head-to-head with a 178-inch Iowa giant just days before Halloween, as years of hard work and perfect timing collide in a high-pressure hunt for a true Midwest monster!",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T18:30:00.000Z",
+    "title": "Bowlife",
+    "overview": "Levi is hunting Texas with his good friends Scott Langley, and Ben Roethlisberger.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T19:00:00.000Z",
+    "title": "The Bucks of Tecomate",
+    "overview": "Texas hunting is a world unto itself, and it's not limited to one or two species. It's a veritable smorgasbord of opportunities Highveld will soon prove.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T19:30:00.000Z",
+    "title": "Bloodline Hunting",
+    "overview": "Matt's son, Zayden, following in his father's footsteps, has one heck of a season in North Carolina and is becoming quite the hunter himself.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T20:00:00.000Z",
+    "title": "Eastman's Hunting TV",
+    "overview": "Hunt mule deer with an Eastmans hunt winner and Sizzlin' S Outfitters.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T20:30:00.000Z",
+    "title": "The Lindsey Way",
+    "overview": "Kicking fall off in Georgia, where their roots still run deep, the Lindsey's get after southern whitetails.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T21:00:00.000Z",
+    "title": "Crush With Lee & Tiffany",
+    "overview": "Lee plays the chess match with a beautiful IL whitetail.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T21:30:00.000Z",
+    "title": "Buck Commander",
+    "overview": "Willie and Ryan hunt in south Texas with the legendary Jack Brittingham for giant whitetail deer.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T22:00:00.000Z",
+    "title": "The Fowl Life With Chad Belding",
+    "overview": "Just like Dorothy, we click our heels and head back to Kansas to relive some of the best times we've had in the field.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T22:30:00.000Z",
+    "title": "The Flush",
+    "overview": "Tyler Webster & a group of bird hunting buddies hunt his home turf in North Dakota for pheasants and sharptailed grouse.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T23:00:00.000Z",
+    "title": "North American Whitetail",
+    "overview": "Stan Potts returns to Illinois for a Midwest bowhunt shaped by timber funnels, field edges, standing corn and the patience needed for mature whitetails.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T23:30:00.000Z",
+    "title": "Bowhunter TV",
+    "overview": "Curt Wells hunts Ohio whitetails while exploring new gear in the field, blending time-tested tactics with a fresh look at new technology.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T01:00:00.000Z",
+    "title": "Gun Stories",
+    "overview": "Joe Mantegna investigates the pistol that Browning designed to compete with his own 1911.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T01:30:00.000Z",
+    "title": "American Rifleman TV",
+    "overview": "Amateur shotgunning event from Sparta, Illinois.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T02:00:00.000Z",
+    "title": "Shooting USA",
+    "overview": "The most challenging and prestigious action pistol match of the year happens at the Green Valley Rifle and Pistol Club in central Missouri. It's the Bianchi Cup, and this year the race for the cup comes right down to the final shots. Then, Team Colt shooter Wyatt Gibson has a new ProTip for rifle sh",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T02:30:00.000Z",
+    "title": "Airgunner Challenge",
+    "overview": "It's not the basketball court where they're competing in the classic game of Knockout, it's the airgun range.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T03:00:00.000Z",
+    "title": "North American Whitetail",
+    "overview": "Stan Potts returns to Illinois for a Midwest bowhunt shaped by timber funnels, field edges, standing corn and the patience needed for mature whitetails.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T03:30:00.000Z",
+    "title": "Bowhunter TV",
+    "overview": "Curt Wells hunts Ohio whitetails while exploring new gear in the field, blending time-tested tactics with a fresh look at new technology.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T04:00:00.000Z",
+    "title": "Guns & Ammo TV",
+    "overview": "Winchester Ammunition give us a look at their Big Game Ammo line.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T04:30:00.000Z",
+    "title": "Handguns",
+    "overview": "Shootings often occur at arm's length, where traditional shooting techniques can fail.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T05:00:00.000Z",
+    "title": "Shooting USA",
+    "overview": "The most challenging and prestigious action pistol match of the year happens at the Green Valley Rifle and Pistol Club in central Missouri. It's the Bianchi Cup, and this year the race for the cup comes right down to the final shots. Then, Team Colt shooter Wyatt Gibson has a new ProTip for rifle sh",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T05:30:00.000Z",
+    "title": "American Rifleman TV",
+    "overview": "Amateur shotgunning event from Sparta, Illinois.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T07:00:00.000Z",
+    "title": "North American Whitetail",
+    "overview": "Stan Potts returns to Illinois for a Midwest bowhunt shaped by timber funnels, field edges, standing corn and the patience needed for mature whitetails.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T07:30:00.000Z",
+    "title": "Bowhunter TV",
+    "overview": "Curt Wells hunts Ohio whitetails while exploring new gear in the field, blending time-tested tactics with a fresh look at new technology.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T08:00:00.000Z",
+    "title": "Guns & Ammo TV",
+    "overview": "Winchester Ammunition give us a look at their Big Game Ammo line.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T08:30:00.000Z",
+    "title": "Handguns",
+    "overview": "Shootings often occur at arm's length, where traditional shooting techniques can fail.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T09:00:00.000Z",
+    "title": "Shooting USA",
+    "overview": "The most challenging and prestigious action pistol match of the year happens at the Green Valley Rifle and Pistol Club in central Missouri. It's the Bianchi Cup, and this year the race for the cup comes right down to the final shots. Then, Team Colt shooter Wyatt Gibson has a new ProTip for rifle sh",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T09:30:00.000Z",
+    "title": "American Rifleman TV",
+    "overview": "Amateur shotgunning event from Sparta, Illinois.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T11:00:00.000Z",
+    "title": "Zona's Awesome Fishing Show",
+    "overview": "Pro bass angler Greg Hackney is back with Z to check in on the progress of one of the best bass fishing lakes on the planet.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T11:30:00.000Z",
+    "title": "The VanDam Experience",
+    "overview": "Kevin VanDam fishes at one of his favorite places for smallmouth under ideal conditions.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T13:00:00.000Z",
+    "title": "The Fowl Life With Chad Belding",
+    "overview": "Just like Dorothy, we click our heels and head back to Kansas to relive some of the best times we've had in the field.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T13:30:00.000Z",
+    "title": "The Flush",
+    "overview": "Tyler Webster & a group of bird hunting buddies hunt his home turf in North Dakota for pheasants and sharptailed grouse.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T14:00:00.000Z",
+    "title": "Buckmasters",
+    "overview": "The Buckmasters crew is meeting up in Louisiana and some big bucks are hitting the ground.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T14:30:00.000Z",
+    "title": "Addicted to the Outdoors",
+    "overview": "This week Raven goes back to the roots of what Addicted to the Outdoors has always been about, celebrating every part of the outdoor lifestyle. Through unforgettable adventures from the past and a look toward the future, Raven shares how the next generation will continue the family's passion for all",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T15:00:00.000Z",
+    "title": "Realtree Outdoors",
+    "overview": "Cole Barthel hunts in Oklahoma with his muzzleloader.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T15:30:00.000Z",
+    "title": "Buck Commander",
+    "overview": "Willie and Ryan hunt in south Texas with the legendary Jack Brittingham for giant whitetail deer.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T16:00:00.000Z",
+    "title": "Shooting USA",
+    "overview": "The most challenging and prestigious action pistol match of the year happens at the Green Valley Rifle and Pistol Club in central Missouri. It's the Bianchi Cup, and this year the race for the cup comes right down to the final shots. Then, Team Colt shooter Wyatt Gibson has a new ProTip for rifle sh",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T16:30:00.000Z",
+    "title": "American Rifleman TV",
+    "overview": "Amateur shotgunning event from Sparta, Illinois.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T17:00:00.000Z",
+    "title": "Live 2 Hunt With Cody & Kelsy",
+    "overview": "Brenda Casement, Richy's mom, starts her journey as a hunter in her 50s for whitetail, and a giant bear!",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T17:30:00.000Z",
+    "title": "The Lindsey Way",
+    "overview": "Kicking fall off in Georgia, where their roots still run deep, the Lindsey's get after southern whitetails.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T18:00:00.000Z",
+    "title": "The Bucks of Tecomate",
+    "overview": "Texas hunting is a world unto itself, and it's not limited to one or two species. It's a veritable smorgasbord of opportunities Highveld will soon prove.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T18:30:00.000Z",
+    "title": "Bloodline Hunting",
+    "overview": "Matt's son, Zayden, following in his father's footsteps, has one heck of a season in North Carolina and is becoming quite the hunter himself.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T19:00:00.000Z",
+    "title": "MeatEater's 12 in 26",
+    "overview": "Clay and Bear Newcomb hunt black bears along the coast of southeast Alaska with friend, David Benitz. Using David's boat, The Sandpiper, as their floating base camp, Clay and Bear stalk numerous giant Alaska bears with bow and rifle.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T20:00:00.000Z",
+    "title": "American Archer",
+    "overview": "Tom Nelson and the McCartney family share a true passion for hunting mature whitetail bucks.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T20:30:00.000Z",
+    "title": "The One",
+    "overview": "It's shotgun season in Illinois; the team suits up in orange and heads out to find some giant whitetails.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T21:00:00.000Z",
+    "title": "Bow Madness",
+    "overview": "Wade Robinson goes head-to-head with a 178-inch Iowa giant just days before Halloween, as years of hard work and perfect timing collide in a high-pressure hunt for a true Midwest monster!",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T21:30:00.000Z",
+    "title": "Critical Mass",
+    "overview": "Big deer action: Nebraska mule deer and giant whitetails in Missouri and Iowa.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T22:00:00.000Z",
+    "title": "Drury's Thirteen",
+    "overview": "Phase Eight: Desperately Seeking follows Terry Drury's Missouri gun camp as Lucille and Cameron Drury look to fill their tags.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T22:30:00.000Z",
+    "title": "The Gamekeepers of Mossy Oak",
+    "overview": "On this episode we're joined by legendary golfer and more importantly to us, a serious turkey hunter, Davis Love III. He had a remarkable career playing golf with too many accolades to list, but even with all the attention he remembered the quiet mornings in the spring with his granddad's shotgun an",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T23:00:00.000Z",
+    "title": "Sporting Classics With Chris Dorsey",
+    "overview": "Chris Dorsey and Domenico Orzi enjoy world-class wingshooting at Uruguay's Estancia Santa Elena.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-12T23:30:00.000Z",
+    "title": "Beyond the Hunt",
+    "overview": "Rick & Julie Kreuter look back on some of their most memorable mule deer hunts from across the country.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-13T00:00:00.000Z",
+    "title": "Eastman's Hunting TV",
+    "overview": "Hunt mule deer with an Eastmans hunt winner and Sizzlin' S Outfitters.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-13T00:30:00.000Z",
+    "title": "Buckventures",
+    "overview": "Cole Cannon kicks off rifle season in Oklahoma chasing a sooner state legend. Things quickly change when his long time friend gives him a call telling to head to Texas.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-13T01:00:00.000Z",
+    "title": "Whitetail Freaks",
+    "overview": "We take a look back at the greatest bucks that Kandi Kisky has hunted over the years.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-13T01:30:00.000Z",
+    "title": "Headhunters TV",
+    "overview": "Nate heads back to Triple Creek Outfitters in Kansas and tags his 3rd best archery buck of all time with his Mathews.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-13T02:00:00.000Z",
+    "title": "Heartland Bowhunter",
+    "overview": "Ty & his dad Terry are hunting Missouri for a couple of different big mature 8pt bucks.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-13T02:30:00.000Z",
+    "title": "Drop Zone",
+    "overview": "Greg Zipadelli, Hal Shaffer, and Zac hunt early season whitetails in Missouri, with a trip to Kansas as the fall continues.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-13T03:00:00.000Z",
+    "title": "Sporting Classics With Chris Dorsey",
+    "overview": "Chris Dorsey and Domenico Orzi enjoy world-class wingshooting at Uruguay's Estancia Santa Elena.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-13T03:30:00.000Z",
+    "title": "Beyond the Hunt",
+    "overview": "Rick & Julie Kreuter look back on some of their most memorable mule deer hunts from across the country.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-13T04:00:00.000Z",
+    "title": "Eastman's Hunting TV",
+    "overview": "Hunt mule deer with an Eastmans hunt winner and Sizzlin' S Outfitters.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

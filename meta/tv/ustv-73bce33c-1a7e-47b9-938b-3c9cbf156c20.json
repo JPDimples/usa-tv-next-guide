@@ -1,0 +1,1489 @@
+{
+ "meta": {
+  "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20",
+  "type": "tv",
+  "name": "Cartoon Network",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cartoon-network-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cartoon-network-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Kids"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T03:00:00.000Z",
+    "title": "Family Guy",
+    "overview": "Chris and Jerome's daughter, Pam, run away together when Jerome forbids their relationship.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T03:30:00.000Z",
+    "title": "Family Guy",
+    "overview": "Peter brings Meg to college for an interview and introduces her to partying; Brian is prohibited from entering the house when he is sprayed by a skunk.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T04:00:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "Jerry is rushed to hospital after consuming a developing bacterium from Rick's fridge shelf; Rick works on the hospital TV.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T04:30:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "Morty goofs this time bro and now they gotta chill out and wait. Jerry and Summer explore their father-daughter relationship too bro.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T05:00:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "Things go ham in this one bro. They all done mussed up this time. The whole family mussed up bro.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T05:30:00.000Z",
+    "title": "Smiling Friends",
+    "overview": "The \"Smiling Friends\" finally get to relax in a beautiful Brazilian beach town; Pim works on his novel; Charlie binges a load of torrent shows on his portable hard drive; Allan and Glep enjoy some long-awaited chill out time at the beach.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T05:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T05:45:00.000Z",
+    "title": "Smiling Friends",
+    "overview": "Pim and Alan assist Gwimbly in getting a brand-new video game to call his own; Charlie deals with a challenging, hostile client who doesn't seem to want to cheer up.",
+    "released": "2026-11-11T05:45:00.000Z",
+    "startTime": "2026-11-11T05:45:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T06:00:00.000Z",
+    "title": "[as] Smalls",
+    "overview": "Who knows teeth better than a dentist? Mischief, with his golden smile.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:04:00.000Z",
+    "runtime": "4 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T06:04:00.000Z",
+    "title": "Aqua Teen Hunger Force",
+    "overview": "Animated Aqua Teens find out there is a fire in the water.",
+    "released": "2026-11-11T06:04:00.000Z",
+    "startTime": "2026-11-11T06:04:00.000Z",
+    "endTime": "2026-11-11T06:19:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T06:19:00.000Z",
+    "title": "Aqua Teen Hunger Force",
+    "overview": "The Aqua Teens get together with some old friends.",
+    "released": "2026-11-11T06:19:00.000Z",
+    "startTime": "2026-11-11T06:19:00.000Z",
+    "endTime": "2026-11-11T06:34:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T06:34:00.000Z",
+    "title": "American Dad!",
+    "overview": "Francine steals from the CIA and pretends to be a super villain to incite Stan to be more seductive; Roger tricks Hayley and Steve into trapping Jay Leno so he can take revenge.",
+    "released": "2026-11-11T06:34:00.000Z",
+    "startTime": "2026-11-11T06:34:00.000Z",
+    "endTime": "2026-11-11T07:03:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T07:03:00.000Z",
+    "title": "American Dad!",
+    "overview": "Steve becomes the town pariah after he convinces the star quarterback of the arena football team to stop playing; Roger forces Hayley to become a cab driver to pay him back for her gambling debts.",
+    "released": "2026-11-11T07:03:00.000Z",
+    "startTime": "2026-11-11T07:03:00.000Z",
+    "endTime": "2026-11-11T07:32:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T07:32:00.000Z",
+    "title": "American Dad!",
+    "overview": "Roger runs off in disguise as a Julia Roberts character to a small town after Stan hurts his feelings; Steve plans a meeting when he finds out that Jeff and Barry have never met.",
+    "released": "2026-11-11T07:32:00.000Z",
+    "startTime": "2026-11-11T07:32:00.000Z",
+    "endTime": "2026-11-11T08:01:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T08:01:00.000Z",
+    "title": "American Dad!",
+    "overview": "Stan becomes addicted to dying after Roger tricks him into thinking he had a heart attack; Klaus takes Steve to Arizona State University for a college visit, where a fraternity hazes him.",
+    "released": "2026-11-11T08:01:00.000Z",
+    "startTime": "2026-11-11T08:01:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T08:30:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "Jerry is rushed to hospital after consuming a developing bacterium from Rick's fridge shelf; Rick works on the hospital TV.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T09:00:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "Morty goofs this time bro and now they gotta chill out and wait. Jerry and Summer explore their father-daughter relationship too bro.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T09:30:00.000Z",
+    "title": "Joe Pera Talks With You",
+    "overview": "Joe Pera makes an attempt to talk listeners to sleep using mild jokes and low-key stories.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T09:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T09:45:00.000Z",
+    "title": "Joe Pera Talks With You",
+    "overview": "Middle school choir teacher Joe Pera shares what he knows about beans, one of the most nutritious plants of all time, as well as his ambitious plans for the upcoming summer.",
+    "released": "2026-11-11T09:45:00.000Z",
+    "startTime": "2026-11-11T09:45:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T10:00:00.000Z",
+    "title": "Dragon Ball Z Kai",
+    "overview": "Frieza locates the Eldest Namekian; Nail risks his life to preserve the Dragon Balls; Gohan and Krillin rescue a damsel from some dinosaurs.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T10:30:00.000Z",
+    "title": "Dragon Ball Z Kai",
+    "overview": "Gohan and Krillin attempt to summon a dragon; Capt. Ginyu's strategy forces the Earth's warriors to attack Goku.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T11:00:00.000Z",
+    "title": "Batwheels",
+    "overview": "Miss Kitka sneaks into the Batcave and steals a priceless diamond, leading Bam, Kitty, and Ace on a chase through the training arena's holographic city.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:12:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T11:12:00.000Z",
+    "title": "Bugs Bunny Builders",
+    "overview": "Pauleen Penguin hires the Looney Builders to build her a home in Looneyburg; Lola soon discovers they got the design wrong and the crew has to make adjustments.",
+    "released": "2026-11-11T11:12:00.000Z",
+    "startTime": "2026-11-11T11:12:00.000Z",
+    "endTime": "2026-11-11T11:28:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T11:28:00.000Z",
+    "title": "Regular Show",
+    "overview": "After being struck by lightning, neither Muscle Man nor High Five Ghost are able to remember each other.",
+    "released": "2026-11-11T11:28:00.000Z",
+    "startTime": "2026-11-11T11:28:00.000Z",
+    "endTime": "2026-11-11T11:40:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T11:40:00.000Z",
+    "title": "Regular Show",
+    "overview": "Mordecai and Rigby want to help Party Horse get back together with his girlfriend.",
+    "released": "2026-11-11T11:40:00.000Z",
+    "startTime": "2026-11-11T11:40:00.000Z",
+    "endTime": "2026-11-11T11:56:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T11:56:00.000Z",
+    "title": "Tom and Jerry",
+    "overview": "Tom and Jerry disagree over the divisive aroma of the durian fruit; Tom enjoys the fruit while Jerry can't stomach the smell.",
+    "released": "2026-11-11T11:56:00.000Z",
+    "startTime": "2026-11-11T11:56:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "4 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T12:00:00.000Z",
+    "title": "Regular Show",
+    "overview": "Benson is determined to prove he was right about the date of the \"Dome Experiment.\".",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:28:00.000Z",
+    "runtime": "28 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T12:28:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball blames Darwin for kissing Penny in his dream.",
+    "released": "2026-11-11T12:28:00.000Z",
+    "startTime": "2026-11-11T12:28:00.000Z",
+    "endTime": "2026-11-11T12:40:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T12:40:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball needs his school picture to be good to keep his legacy intact.",
+    "released": "2026-11-11T12:40:00.000Z",
+    "startTime": "2026-11-11T12:40:00.000Z",
+    "endTime": "2026-11-11T12:56:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T12:56:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Darwin suspects he is stuck playing second-fiddle to Gumball.",
+    "released": "2026-11-11T12:56:00.000Z",
+    "startTime": "2026-11-11T12:56:00.000Z",
+    "endTime": "2026-11-11T13:08:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T13:08:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball and Darwin get caught in the middle of a trash can feud.",
+    "released": "2026-11-11T13:08:00.000Z",
+    "startTime": "2026-11-11T13:08:00.000Z",
+    "endTime": "2026-11-11T13:24:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T13:24:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "Trigon shows off his collection of conquered planets, which includes Acmetropolis.",
+    "released": "2026-11-11T13:24:00.000Z",
+    "startTime": "2026-11-11T13:24:00.000Z",
+    "endTime": "2026-11-11T13:36:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T13:36:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "After Trigon proclaims the entire bookstore is his domain, Nana informs him that he has no control in the public domain.",
+    "released": "2026-11-11T13:36:00.000Z",
+    "startTime": "2026-11-11T13:36:00.000Z",
+    "endTime": "2026-11-11T13:52:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T13:52:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "The Titans start to lose some body parts and everyone, except Robin, blames the designers.",
+    "released": "2026-11-11T13:52:00.000Z",
+    "startTime": "2026-11-11T13:52:00.000Z",
+    "endTime": "2026-11-11T14:04:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T14:04:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence enters the dreamscape over Aberdale and experiences the dreams of his friends and neighbors.",
+    "released": "2026-11-11T14:04:00.000Z",
+    "startTime": "2026-11-11T14:04:00.000Z",
+    "endTime": "2026-11-11T14:16:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T14:16:00.000Z",
+    "title": "Clarence",
+    "overview": "Ms. Baker introduces a new student, a short little kid with a hook for a hand named Balance.",
+    "released": "2026-11-11T14:16:00.000Z",
+    "startTime": "2026-11-11T14:16:00.000Z",
+    "endTime": "2026-11-11T14:32:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T14:32:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence leads a few neighborhood kids through his homemade haunted house.",
+    "released": "2026-11-11T14:32:00.000Z",
+    "startTime": "2026-11-11T14:32:00.000Z",
+    "endTime": "2026-11-11T14:44:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T14:44:00.000Z",
+    "title": "Clarence",
+    "overview": "Mr. Reese discovers his precious car smeared with meatball sauce.",
+    "released": "2026-11-11T14:44:00.000Z",
+    "startTime": "2026-11-11T14:44:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T15:00:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "The gang visit a fair of future inventions. While inside the 'House of Tomorrow' exhibition, Daphne vanishes.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T15:30:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "The gang attends a Renaissance fair, where a dragon interrupts the fun.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T16:00:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "A demon haunts rock 'n' roll star Jimmy Lewis.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T16:30:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "While in China, the gang encounters the Moon Monster.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T17:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A man futilely struggles to make his fortune with a frog that sings and dances.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T17:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Elmer Fudd, a millionaire with a yacht and mansion, is convinced he is a rabbit; Bugs then gets convinced by his psychiatrist that he is a human; in this role reversal, Bugs goes hunting for Fudd.",
+    "released": "2026-11-11T17:10:00.000Z",
+    "startTime": "2026-11-11T17:10:00.000Z",
+    "endTime": "2026-11-11T17:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T17:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Suzanne wants a real cat to play with; Sylvester runs into her yard after being chased by a bulldog, so she adopts him.",
+    "released": "2026-11-11T17:20:00.000Z",
+    "startTime": "2026-11-11T17:20:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T17:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom becomes jealous when his lady cat appears to return Calypso cat's affections.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T17:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T17:40:00.000Z",
+    "title": "Tom and Jerry",
+    "overview": "Tom believes at first that he is going on a cruise, but the captain of the Kumquat soon puts him to work scrubbing the deck.",
+    "released": "2026-11-11T17:40:00.000Z",
+    "startTime": "2026-11-11T17:40:00.000Z",
+    "endTime": "2026-11-11T17:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T17:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom and Jerry are in Kenya on a hunting safari and don't get along as usual.",
+    "released": "2026-11-11T17:50:00.000Z",
+    "startTime": "2026-11-11T17:50:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T18:00:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "The Titans are in charge of the 100th anniversary party for Warner Bros on the studio lot, and everything is going well until the magical WB Shield is broken into pieces.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T18:30:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "Starfire is the captain of a spaceship heading back to her home planet of Tamaran, and her crew is some of Earth's finest specimens.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T18:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T18:45:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home, and they have to deal with everyday issues.",
+    "released": "2026-11-11T18:45:00.000Z",
+    "startTime": "2026-11-11T18:45:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T19:00:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball is caught in the center of an emotional hurricane.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T19:15:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball and Darwin find that detention is very similar to prison.",
+    "released": "2026-11-11T19:15:00.000Z",
+    "startTime": "2026-11-11T19:15:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T19:30:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "The Wattersons are carried away by \"Dodj or Daar,\" a game invented by the boys.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T19:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T19:45:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "While at the supermarket, Richard and the children try different ways to get candy, making Nicole angry at them.",
+    "released": "2026-11-11T19:45:00.000Z",
+    "startTime": "2026-11-11T19:45:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T20:00:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball and Darwin receive a scary email.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T20:15:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Darwin promises to play video games with Gumball, but faces a Banana Joe problem.",
+    "released": "2026-11-11T20:15:00.000Z",
+    "startTime": "2026-11-11T20:15:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T20:30:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Dad's lack of rules attracts unwelcome guests.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T20:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T20:45:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball and Darwin try to decipher Juke's urgent beatbox message.",
+    "released": "2026-11-11T20:45:00.000Z",
+    "startTime": "2026-11-11T20:45:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T21:00:00.000Z",
+    "title": "Regular Show",
+    "overview": "After staying awake for two nights, Mordecai and Rigby must get their sleep cycle back on track.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T21:15:00.000Z",
+    "title": "Regular Show",
+    "overview": "Rigby and Eileen get called away to Don's black belt ceremony forcing Mordecai and Margaret to hang out alone.",
+    "released": "2026-11-11T21:15:00.000Z",
+    "startTime": "2026-11-11T21:15:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T21:30:00.000Z",
+    "title": "Regular Show",
+    "overview": "Mordecai and Rigby have to take Benson's new pet pig back to his apartment.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T21:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T21:45:00.000Z",
+    "title": "Regular Show: The Lost Tapes",
+    "overview": "Mordecai gets freaked out by someone he used to babysit.",
+    "released": "2026-11-11T21:45:00.000Z",
+    "startTime": "2026-11-11T21:45:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T22:00:00.000Z",
+    "title": "Samurai Jack",
+    "overview": "Jack tells the villagers stories of his heroic feats with a giant worm, the metal-eaters and a mean gargoyle.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T22:30:00.000Z",
+    "title": "Samurai Jack",
+    "overview": "Samurai Jack is ambushed while sleeping and taken to the Dome of Doom; he's named Two Sandals and forced to fight for spectators' amusement.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T23:00:00.000Z",
+    "title": "Bob's Burgers",
+    "overview": "Bob and Louise host an exclusive screening of a Hawk & Chick movie at the restaurant, until the actor who plays Hawk throws a wrench into the works.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T23:30:00.000Z",
+    "title": "Bob's Burgers",
+    "overview": "Bob and Linda challenge themselves and attend a loft party on a stormy night; the kids challenge their babysitter and face the storm in an ice cream truck.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T00:00:00.000Z",
+    "title": "Bob's Burgers",
+    "overview": "Gene auditions for a small role in a local theater production, but things backfire when he discovers that Linda actually bargained with the director to get Gene the part.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T00:30:00.000Z",
+    "title": "Bob's Burgers",
+    "overview": "Gene gets kicked out of the Ocean Avenue Hifi Emporium, but Louise takes matters into her own hands to defend Gene's honor.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T01:00:00.000Z",
+    "title": "Bob's Burgers",
+    "overview": "Teddy's family unexpectedly announces they're coming for Thanksgiving; the preparation proves challenging; Teddy is discovered to be a hoarder.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T01:30:00.000Z",
+    "title": "Family Guy",
+    "overview": "Cleveland comes back to town but is forbidden to spend time with Peter when Donna and Lois get into an argument.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T02:00:00.000Z",
+    "title": "Family Guy",
+    "overview": "The Griffins go to Springfield, where they encounter a stranger named Homer Simpson; Stewie trades his mind-control device for Bart's slingshot; Lisa teaches Meg how to play the saxophone; Homer and Peter argue about the best beer.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T03:00:00.000Z",
+    "title": "Family Guy",
+    "overview": "Angry Stewie goes back in time to break up Peter and Lois but ends up in a British household.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T03:30:00.000Z",
+    "title": "Family Guy",
+    "overview": "Lois and Peter open a cookie store together, but things get messy when Peter comes up with a scheme to bring in more customers.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T04:00:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "The family deals with stuff in this one broh. What's Rick gonna do? This is a real episode right here broh.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T04:30:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "Summer starts acting out in this one, broh. Morty goes ham too broh.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T05:00:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "To avoid family therapy with Beth, Morty and Summer, Rick turns himself into a pickle in another one of his experiments; an accident leads Pickle Rick to become stuck in the sewers where he must fight for survival.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T05:30:00.000Z",
+    "title": "Smiling Friends",
+    "overview": "Pim and Charlie are appointed to help bring a smile to the United States President's face.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T05:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T05:45:00.000Z",
+    "title": "Smiling Friends",
+    "overview": "Allan is tasked with finding more paper clips for the office.",
+    "released": "2026-11-12T05:45:00.000Z",
+    "startTime": "2026-11-12T05:45:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T06:00:00.000Z",
+    "title": "[as] Smalls",
+    "overview": "Mischief warns about tetanus from the safety of a decrepit rusty storm drain.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:04:00.000Z",
+    "runtime": "4 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T06:04:00.000Z",
+    "title": "Aqua Teen Hunger Force",
+    "overview": "Meatwad is corrupted by Frylock's creation.",
+    "released": "2026-11-12T06:04:00.000Z",
+    "startTime": "2026-11-12T06:04:00.000Z",
+    "endTime": "2026-11-12T06:19:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T06:19:00.000Z",
+    "title": "Aqua Teen Hunger Force",
+    "overview": "Shake is on a quest for pinball eggs.",
+    "released": "2026-11-12T06:19:00.000Z",
+    "startTime": "2026-11-12T06:19:00.000Z",
+    "endTime": "2026-11-12T06:34:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T06:34:00.000Z",
+    "title": "American Dad!",
+    "overview": "The family competes on the reality show, \"The Bitchin' Race,\" but after Stan and Hayley ditch the less-motivated Steve and Francine to team up, they end up in a Tunisian labor prison.",
+    "released": "2026-11-12T06:34:00.000Z",
+    "startTime": "2026-11-12T06:34:00.000Z",
+    "endTime": "2026-11-12T07:03:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T07:03:00.000Z",
+    "title": "American Dad!",
+    "overview": "Francine reconnects with her birth family when she starts craving the experience of having a big family; Stan becomes a Picker based on his obsession with \"American Pickers.\".",
+    "released": "2026-11-12T07:03:00.000Z",
+    "startTime": "2026-11-12T07:03:00.000Z",
+    "endTime": "2026-11-12T07:32:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T07:32:00.000Z",
+    "title": "American Dad!",
+    "overview": "Roger and Klaus start having a secret affair after they accidentally end up on an online date together; Steve tries to catch Hayley's pink eye to get out of doing a fitness test at school.",
+    "released": "2026-11-12T07:32:00.000Z",
+    "startTime": "2026-11-12T07:32:00.000Z",
+    "endTime": "2026-11-12T08:01:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T08:01:00.000Z",
+    "title": "American Dad!",
+    "overview": "Stan and Steve open up their own father-son garbage business after Stan inherits his father's old truck; Roger finds Hayley is a natural at bumper pool and brings her to play with the best player in town.",
+    "released": "2026-11-12T08:01:00.000Z",
+    "startTime": "2026-11-12T08:01:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T08:30:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "The family deals with stuff in this one broh. What's Rick gonna do? This is a real episode right here broh.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T09:00:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "Summer starts acting out in this one, broh. Morty goes ham too broh.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T09:30:00.000Z",
+    "title": "Joe Pera Talks With You",
+    "overview": "Joe Pera demonstrates the difference between hiking and just walking outside by using one's legs to go up Sugarloaf Mountain to celebrate the last day of school.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T09:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T09:45:00.000Z",
+    "title": "Joe Pera Talks With You",
+    "overview": "Joe Pera waits for his Nana to finish her appointment so they can go to Friday night fish fry.",
+    "released": "2026-11-12T09:45:00.000Z",
+    "startTime": "2026-11-12T09:45:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T10:00:00.000Z",
+    "title": "Dragon Ball Z Kai",
+    "overview": "Goku is reunited with his body, but he is severely injured; a Namekian messenger rushes to help Gohan and Krillin summon the dragon.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T10:30:00.000Z",
+    "title": "Dragon Ball Z Kai",
+    "overview": "Gohan, Krillin and a young Namekian rush to make their wishes; an ally offers advice from the afterlife.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T11:00:00.000Z",
+    "title": "Batwheels",
+    "overview": "When Mr. Freeze tries to convert Gotham Point Beach into his private ski resort, Redbird and Buff have to step up, team up, and stop him to save summer.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:12:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T11:12:00.000Z",
+    "title": "Bugs Bunny Builders",
+    "overview": "Tweety leads the Looney Builders in building a new merry-go-round at the park for the kids; his crane breaks down and his small size affects his ability to contribute to the build.",
+    "released": "2026-11-12T11:12:00.000Z",
+    "startTime": "2026-11-12T11:12:00.000Z",
+    "endTime": "2026-11-12T11:28:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T11:28:00.000Z",
+    "title": "Regular Show",
+    "overview": "Rigby doesn't think he's smart enough for Eileen, so decides to finally get his high school diploma.",
+    "released": "2026-11-12T11:28:00.000Z",
+    "startTime": "2026-11-12T11:28:00.000Z",
+    "endTime": "2026-11-12T11:40:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T11:40:00.000Z",
+    "title": "Regular Show",
+    "overview": "In order to get high school credits, Rigby has to pass a foreign language class taught by Benson in China.",
+    "released": "2026-11-12T11:40:00.000Z",
+    "startTime": "2026-11-12T11:40:00.000Z",
+    "endTime": "2026-11-12T11:56:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T11:56:00.000Z",
+    "title": "Tom and Jerry",
+    "overview": "Tom and Jerry take their chase to the skies as they try to decide who is the ultimate master of kites.",
+    "released": "2026-11-12T11:56:00.000Z",
+    "startTime": "2026-11-12T11:56:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "4 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T12:00:00.000Z",
+    "title": "Regular Show",
+    "overview": "Rigby must create a crazy fake plan in order to surprise Eileen for the first time ever.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:12:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T12:12:00.000Z",
+    "title": "Regular Show",
+    "overview": "Pops wants to appear on his favorite game show, but instead gets involved in the TV industry.",
+    "released": "2026-11-12T12:12:00.000Z",
+    "startTime": "2026-11-12T12:12:00.000Z",
+    "endTime": "2026-11-12T12:28:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T12:28:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball and Darwin fail to make instant home movie classics.",
+    "released": "2026-11-12T12:28:00.000Z",
+    "startTime": "2026-11-12T12:28:00.000Z",
+    "endTime": "2026-11-12T12:40:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T12:40:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball and Darwin's reputation is challenged, and they really couldn't care less.",
+    "released": "2026-11-12T12:40:00.000Z",
+    "startTime": "2026-11-12T12:40:00.000Z",
+    "endTime": "2026-11-12T12:56:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T12:56:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "After accidentally creating an embarrassing viral video, Gumball is determined to take down the Internet.",
+    "released": "2026-11-12T12:56:00.000Z",
+    "startTime": "2026-11-12T12:56:00.000Z",
+    "endTime": "2026-11-12T13:08:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T13:08:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "After finding a strange letter in the trash, the Watterson children devise a fool-proof plan to save Nicole.",
+    "released": "2026-11-12T13:08:00.000Z",
+    "startTime": "2026-11-12T13:08:00.000Z",
+    "endTime": "2026-11-12T13:24:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T13:24:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home, and they have to deal with everyday issues.",
+    "released": "2026-11-12T13:24:00.000Z",
+    "startTime": "2026-11-12T13:24:00.000Z",
+    "endTime": "2026-11-12T13:36:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T13:36:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home, and they have to deal with everyday issues.",
+    "released": "2026-11-12T13:36:00.000Z",
+    "startTime": "2026-11-12T13:36:00.000Z",
+    "endTime": "2026-11-12T13:52:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T13:52:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "Starfire and her crew go on a dangerous mission to prevent Blackfire from acquiring a powerful Tamaranean relic.",
+    "released": "2026-11-12T13:52:00.000Z",
+    "startTime": "2026-11-12T13:52:00.000Z",
+    "endTime": "2026-11-12T14:04:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T14:04:00.000Z",
+    "title": "Clarence",
+    "overview": "When Aberdale Elementary's beloved playground equipment is replaced with safe, boring alternatives, Clarence and the gang seek out their old playground equipment in the legendary lost playground yard.",
+    "released": "2026-11-12T14:04:00.000Z",
+    "startTime": "2026-11-12T14:04:00.000Z",
+    "endTime": "2026-11-12T14:16:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T14:16:00.000Z",
+    "title": "Clarence",
+    "overview": "Sumo discovers an injured roadrunner, names him Hot Sauce and nurses him back to health.",
+    "released": "2026-11-12T14:16:00.000Z",
+    "startTime": "2026-11-12T14:16:00.000Z",
+    "endTime": "2026-11-12T14:32:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T14:32:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence draws a crass comic for the school paper, and it becomes a huge hit with the kids.",
+    "released": "2026-11-12T14:32:00.000Z",
+    "startTime": "2026-11-12T14:32:00.000Z",
+    "endTime": "2026-11-12T14:44:00.000Z",
+    "runtime": "12 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T14:44:00.000Z",
+    "title": "Clarence",
+    "overview": "Chad goes on his first plane trip and it is hectic.",
+    "released": "2026-11-12T14:44:00.000Z",
+    "startTime": "2026-11-12T14:44:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "16 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T15:00:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "Egyptian mummy turns almost everyone into zombies.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T15:30:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "While in Tokyo the gang suspects that Shaggy has fallen victim to a curse that turns him into a monster.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T16:00:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "A ghostly gondolier wants an Italian's valuable necklace.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T16:30:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "The gang investigate the strange appearance of the ghost of a former Puerto Rican commander that is haunting the ancient El Moro fortress.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T17:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Gophers occupy the new chest in Elmer's bedroom; the animals create a system to store their nuts in the chest; Elmer, frustrated by this discovery, attempts to remove the gophers but is unsuccessful.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T17:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Starring Bugs Bunny and Marvin the Martian.",
+    "released": "2026-11-12T17:10:00.000Z",
+    "startTime": "2026-11-12T17:10:00.000Z",
+    "endTime": "2026-11-12T17:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T17:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "The hand of an unseen animator alters Bugs Bunny's world.",
+    "released": "2026-11-12T17:20:00.000Z",
+    "startTime": "2026-11-12T17:20:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T17:30:00.000Z",
+    "title": "Tom and Jerry",
+    "overview": "While trying to catch Jerry, Tom keeps running afoul of an angry conductor, who believes Tom's antics are ruining his opera.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T17:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T17:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom is living the high life in a penthouse while Jerry has an empty stomach, and is looking for some food.",
+    "released": "2026-11-12T17:40:00.000Z",
+    "startTime": "2026-11-12T17:40:00.000Z",
+    "endTime": "2026-11-12T17:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T17:50:00.000Z",
+    "title": "Tom and Jerry",
+    "overview": "Tom is a famous opera singer, but his performance interrupts Jerry's sleeping; the mouse does his best to ruin the show for the cat.",
+    "released": "2026-11-12T17:50:00.000Z",
+    "startTime": "2026-11-12T17:50:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T18:00:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "After \"Teen Titans Go!\" wins the award for being D.C.'s longest running animated series, a jealous Superman banishes the Titans to world of stop-motion in order to get their show cancelled.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T18:30:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "The teen titans are back with hilarious adventures that show what life is really like for a teenage superhero when the cape comes off.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T18:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T18:45:00.000Z",
+    "title": "Teen Titans Go!",
+    "overview": "The teen titans are back with hilarious adventures that show what life is really like for a teenage superhero when the cape comes off.",
+    "released": "2026-11-12T18:45:00.000Z",
+    "startTime": "2026-11-12T18:45:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T19:00:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Elmore's world is full of inanimate objects.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T19:15:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "The Wattersons learn that their past actions have consequences.",
+    "released": "2026-11-12T19:15:00.000Z",
+    "startTime": "2026-11-12T19:15:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T19:30:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball and Darwin's voices break.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T19:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T19:45:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball and Darwin meet a slightly obsessive fan.",
+    "released": "2026-11-12T19:45:00.000Z",
+    "startTime": "2026-11-12T19:45:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T20:00:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Elmore High's new coach stands up to Jamie.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T20:15:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Miss Simian must save herself from a contagious Joy virus that is infecting the school.",
+    "released": "2026-11-12T20:15:00.000Z",
+    "startTime": "2026-11-12T20:15:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T20:30:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "The puppy the children have been waiting for is actually a turtle that hates them.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T20:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T20:45:00.000Z",
+    "title": "The Amazing World of Gumball",
+    "overview": "Gumball and Darwin discover the secret behind Anton's immortality.",
+    "released": "2026-11-12T20:45:00.000Z",
+    "startTime": "2026-11-12T20:45:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T21:00:00.000Z",
+    "title": "Regular Show",
+    "overview": "Rigby wants Eileen to go snow tubing, but she is scared of it.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T21:15:00.000Z",
+    "title": "Regular Show",
+    "overview": "Benson tries to impress the Park Managers' Association and win the big chili cook-off.",
+    "released": "2026-11-12T21:15:00.000Z",
+    "startTime": "2026-11-12T21:15:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T21:30:00.000Z",
+    "title": "Regular Show",
+    "overview": "The guys must return a VHS copy of their favorite horrible movie to avoid paying an astronomical late fee.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T21:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T21:45:00.000Z",
+    "title": "Regular Show: The Lost Tapes",
+    "overview": "Margaret faces extreme embarrassment after being caught faking her laughter.",
+    "released": "2026-11-12T21:45:00.000Z",
+    "startTime": "2026-11-12T21:45:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T22:00:00.000Z",
+    "title": "Samurai Jack",
+    "overview": "Jack and the Scotsman reunite to save the Scotsman's kidnapped wife.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T22:30:00.000Z",
+    "title": "Samurai Jack",
+    "overview": "Jack searches destroyed villages for the robots responsible for the damage.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T23:00:00.000Z",
+    "title": "Bob's Burgers",
+    "overview": "Tina goes too far trying to be a perfect mentor; Bob and Linda test out the gym next door.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-12T23:30:00.000Z",
+    "title": "Bob's Burgers",
+    "overview": "Louise skeptically joins Jessica and fifth-grader Megan in their search for Wharfy, a mythical sea monster; Bob takes an online master class by a world-renowned chef.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-13T00:00:00.000Z",
+    "title": "Bob's Burgers",
+    "overview": "Tina competes against Gene and Louise to write a new school song for Wagstaff; Bob and Linda battle blinding glare from Jimmy Pesto's new shiny steel awning across the street.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-13T00:30:00.000Z",
+    "title": "Bob's Burgers",
+    "overview": "When Gayle decides to host an artist workshop in a yurt, Linda feels compelled to support her sister; Louise and Gene lead a covert operation to find a lost cat for a cash reward.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-13T01:00:00.000Z",
+    "title": "Bob's Burgers",
+    "overview": "The Belchers set out to save a turkey from a trip to the slaughterhouse, but the mission becomes more complicated than they had anticipated.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-13T01:30:00.000Z",
+    "title": "Family Guy",
+    "overview": "When Brian's plastic surgery leads him to become a real estate agent, it causes conflict with Quagmire.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-13T02:00:00.000Z",
+    "title": "Family Guy",
+    "overview": "A drunken Brian and Peter devour the holiday turkey the night before Thanksgiving; Chris becomes the man of the house in Peter's absence.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-13T02:30:00.000Z",
+    "title": "Family Guy",
+    "overview": "When Peter runs into Jesus at the mall and learns he's still a virgin, he enlists Quagmire and Cleveland to help get him a woman.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-13T03:00:00.000Z",
+    "title": "Family Guy",
+    "overview": "When Stewie and Brian use the time machine to help Chris learn about history, the three accidentally get stuck in the past.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-13T03:30:00.000Z",
+    "title": "Family Guy",
+    "overview": "When Brian takes the SATs for Meg but doesn't do very well, the family starts to doubt his intelligence; Peter tries to show Brian the upside of being stupid.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-13T04:00:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "This one is real good bro. It has action and heroes.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

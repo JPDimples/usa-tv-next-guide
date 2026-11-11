@@ -1,0 +1,889 @@
+{
+ "meta": {
+  "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034",
+  "type": "tv",
+  "name": "MTV",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/mtv-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/mtv-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Music"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T03:00:00.000Z",
+    "title": "Caught in the Act: Unfaithful",
+    "overview": "Mimi, a dancer who works late nights, has been seeing some shady behavior lately from Memphis, her boyfriend of six years; Mimi wants Tami to do a little digging to find out if her suspicions are valid.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T04:00:00.000Z",
+    "title": "Caught in the Act: Unfaithful",
+    "overview": "Career-minded Colombian singer Kat suspects her boyfriend, producer, rapper, Andre, is doing more than making music with the female artists he produces.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T05:00:00.000Z",
+    "title": "Caught in the Act: Unfaithful",
+    "overview": "With suspicious calls and a growing emotional distance, Jecarah calls in Tami to investigate whether the pressure to procreate is pushing Ikenna away or if someone else is pulling him closer.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T06:00:00.000Z",
+    "title": "Caught in the Act: Unfaithful",
+    "overview": "Melik is the ultimate supportive boyfriend to Izzy and has been dreaming up an elaborate proposal for her. Suddenly, he's finding strange accessories in his home. Will the truth Tami uncovers derail his marriage plans?",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T07:00:00.000Z",
+    "title": "Caught in the Act: Unfaithful",
+    "overview": "Marvin seeks Tami's help to uncover the truth about his relationship; he suspects his girlfriend, Tashi, a ride-share driver, might be dancing to a new beat.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T08:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Machine Gun Kelly gets down and dirty, meets some folks going through stuff, and competes in the Drunkathalon.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T08:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo watch some grandmas go down in \"Sorry, Nanna,\" feel all kinds of emotions in \"Multimotional,\" and get cute but mean.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T09:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "The episode highlights segments including \"Under Reactors,\" \"Piecing it Together\" and \"Careful Catastrophes.\".",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T09:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel, and Steelo consider ditching high gas prices by getting \"Back in the Saddle,\" discuss the right age to start exercising in \"Extreme Caution,\" and find out that pipes and bongs are \"No.\".",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T10:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo are joined by three-time Super Bowl Champion Julian Edelman to check out other receivers with \"Hero Hands,\" and get nuts with some \"squirrel bosses.\".",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T10:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Chanel watch people get in the way with \"You're Ruining the Shot\"; appreciating some clip editing with \"Cut To\"; celebrating some situations that really \"Could've Been Worse.\".",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T11:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel, and Steelo wake up on the wrong side of the bed in \"Worst Thing in the Morning,\" find out what it means to get \"Scarecrowed,\" and discover the dangers of blindfolds in \"Blind-Sided.\".",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T11:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo feel the fury in \"Frog Fight Club\"; shooting for the stars in \"Chasin' Space\"; witnessing water warriors in \"Lifeguard Legends.\".",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T12:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo welcome Shark Tank host, Daymond John, to discuss what happens with products After The Tank; the importance of being Goal-Getters.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T12:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob Dyrdek, Steelo Brim and Lolo Wood see some athletes who are a long way from gold in Track and Flop; settling an age-old dispute in Cats vs. Dogs; checking out the domino effect with Chain Reaction.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T13:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "The guys feel the greatest love of all in \"Love Yourself\"; \"Lizard People\"; \"Belly Button'd.\".",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T13:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Karrueche Tran get their just deserts, discover reckless rubber in Tires in the Wild and get adorably tricked in Sweet Pranks.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T14:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Comic Hampton Yount; \"Risky Bits\"; \"Next Level Narrators\"; \"Hamspired.\".",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T14:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Lolo Wood get things going, take a look under the hood, and celebrate with happy people.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T15:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Discovering that phones can be very distracting in phone blindness; meeting some kids who need to pick a different sport in Lil' Golfers; visiting some places that are Crazy.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T15:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob Dyrdek, Steelo Brim and Lolo Wood get wild with the insults in Trash Talkin' Animals, freeze in pain and embarrassment in Shame Locked and find the fastest ways to go broke in Extra Bad W.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T16:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Comic Rob Riggle joins Rob, Steelo, and Chanel as they visit a \"Ski Disaster Academy,\" celebrate some \"North American Turds\" and report the news while \"Live on the Scene.\".",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T16:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "On this episode of Ridiculousness Rob, Steelo, and Lolo Wood see who sticks it and breaks it in POWER LANDINGS, meet some people who weren't quite careful enough in USELESS CAUTION, and learn about Lolo's time in the military with.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T17:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Heinz, Rob, Chanel and Steelo take a look at some \"Surprising Dips,\" talk about the times they've been \"Slapped by the World\" and discuss how everything tastes good with \"Just Add...\".",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T17:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob and Sterling welcome Camille Kostek to see some uses for leaf blowers before trying on their best Scottish accents.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T18:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rapper O.T. Genasis joins Rob, Steelo, and Chanel to find out why \"Everybody Mad,\" feel the \"Cham-pain\" and take a trip to \"Wrong Beach.\".",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T18:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Lolo Wood just can't dive backwards in Back Bombs, pick up some dings in Full-Contact Parking Lots and cross that employees-only line in Customer Trespassers.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T19:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo, and Lolo Wood watch some butts cause trouble with \"Booty Smashers\"; getting the opposite of swole with some weak lifters; finding out why three is a magic number with terrific trios.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T19:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Lolo Wood play make pretend with some Imitation Athletes, have some hard landings due to Mat Miscalculations and meet some old dirty dancers.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T20:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob Dyrdek, Steelo Brim and Lolo Wood see some garage setups in redneck wreck rooms; check out some extreme electric scootering and some truly handy men.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T20:30:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Things do not run smoothly when Amy moves in with Sheldon, and Leonard and Penny have to intervene; Howard and Bernadette find unexpected guests at their house when they decide to cancel their vacation plans.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T21:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Penny learns there are fans of her performance in \"Serial Ape-ist\" when she and Leonard attend a Comic Con event; Amy hosts a brunch at Penny's apartment; Wolowitz makes an impulsive purchase.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T21:30:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Amy lies about repairs being made to her apartment so she can continue living with Sheldon; Leonard lets Penny decorate Sheldon's old room.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T22:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Sheldon is determined to convince Amy they should procreate; Koothrappali is reluctant to tell the gang what the new woman he's dating does for a living.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T22:30:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Sheldon gets jealous when a co-worker wins an award; Wolowitz finds an old remote control Stephen Hawking action figure that he made.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T23:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Sheldon and Leonard disagree about how to divide their shared belongings; Koothrappali and Stuart fight to be the most helpful to Bernadette during her final weeks of pregnancy.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-11T23:30:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "While Howard and Bernadette welcome their new baby into the world, Amy celebrates her own birthday with Sheldon.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T00:00:00.000Z",
+    "title": "The Office",
+    "overview": "Michael tries to raise employee morale with a birthday party amid rumors of downsizing.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T00:30:00.000Z",
+    "title": "The Office",
+    "overview": "Michael and gang play the warehouse workers in a not-so-friendly game of basketball; Michael bets that the losers will have to work on Saturday.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T01:00:00.000Z",
+    "title": "The Office",
+    "overview": "Dwight, Michael and Jim all vie for the attention of an attractive woman who comes to the office to sell purses.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T01:30:00.000Z",
+    "title": "The Office",
+    "overview": "The Dunder Mifflin employees suffer through the annual office awards ceremony, The Dundies, hosted by Michael at their local watering hole, a Chili's restaurant.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T02:00:00.000Z",
+    "title": "The Office",
+    "overview": "Corporate office requires the staff go through sexual harassment training, but Michael worries that the new policy will make the office less fun for everyone.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T02:30:00.000Z",
+    "title": "The Office",
+    "overview": "While Michael and Dwight are away from the office, Jim and Pam organize an office Olympics where employees compete in ridiculous games.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T03:00:00.000Z",
+    "title": "The Office",
+    "overview": "A small fire in the kitchen forces the staff to wait in the parking lot; Jim suggests a game of Desert Island; Michael tries to impress Ryan.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T03:30:00.000Z",
+    "title": "The Office",
+    "overview": "When Dwight karate-chops Michael in the stomach at work, a lunchtime rematch is quickly organized; things become awkward between Pam and Jim.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T04:00:00.000Z",
+    "title": "The Office",
+    "overview": "Michael and Jan try to land a new client by taking him out to Chili's; back in the office, Jim finds a script written by Michael and the workers cannot resist acting it out.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T04:30:00.000Z",
+    "title": "The Office",
+    "overview": "Everyone is on edge during performance review, including Michael, who steals the employee suggestion box to get ideas he can present to his boss.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T05:00:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "Leslie asks for help staging an event; Ben gets a new hobby; April and Andy adopt a pet.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T05:30:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "Leslie and Ben disagree about her campaign ad; Chris makes Ron uncomfortable; Andy and April go to the doctor.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T06:00:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "After receiving feedback from a focus group, Leslie and Ben plan a casual bowling party; April, Jerry and Chris compete to see who can raise the most money for Leslie's campaign.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T06:30:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "Leslie tries to find Ann a date for Valentine's Day; Ben asks Ron to help with the scavenger hunt Leslie sent him on; Chris is upset about his love life.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T07:00:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "Leslie and Ben run into Leslie's ex (Louis C.K.) while soliciting an endorsement from the Chief of Police; Andy leads the search for a campaign theme song.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T07:30:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "After realizing everyone forgot Jerry's birthday, Leslie decides to throw him a party; Tom is shocked to learn Ann doesn't share his taste in music.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T08:00:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "Leslie's opponent, Bobby Newport, hires a powerful campaign manager (Kathryn Hahn); Ron is forced to interview replacements for Leslie; an unlikely employee discovers a solution to a challenging problem.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T08:30:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "An Indianapolis talk show host asks to interview Leslie; April and Ron help ready Andy for his final exam.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T09:00:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "Leslie takes action when she learns the Parks Department budget is about to be cut; Chris takes Ron to a meditation center.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T09:30:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "Leslie faces Bobby Newport in a televised debate; Ann, Tom and Chris man the media spin room; Ron works to save a party for Leslie's donors.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T10:00:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "An important person in Pawnee dies while Leslie is on a bus tour for the final day of her campaign; Andy investigates a security threat; Chris finds a cure for his depression.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T10:30:00.000Z",
+    "title": "Parks and Recreation",
+    "overview": "Leslie and Bobby Newport (Paul Rudd) are separated by a miniscule margin on Election Day; as everyone waits for election results, they ponder the future.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T11:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "R&B singer Miguel joins Rob, Chanel and Steelo to tell some idiots \"Told You So,\" honor the bare chested in \"No Shirts Given\" and hang with some stoned concert-goers who are \"Too Kind.\".",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T11:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Rocsi Diaz get annoyed by coins, sweat the small stuff and get the crap scared out of them.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T12:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Special guest Karrueche Tran joins Rob and Steelo, where they get stuck in \"Trashy Traffic\"; paddling into \"Kayak Chaos\"; unmasking \"Mask Menaces.\".",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T12:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Lolo Wood checks out iguana drama; kid collisions and vehicular hand slaughter.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T13:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo are joined by \"Jackass Forever\" star Poopies to deuce in the streets in \"Public Poopies,\" become human chum in \"Man Bait,\" and get hurt in the surf in \"Salty Wounds.\".",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T13:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo discuss how many animals are \"Too Many Animals,\" the bad behavior of \"Stop These People\" and why some dirt bikes end up \"Hurt Bikes.\".",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T14:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo check out the dating scene with \"Back on the Market,\" question whether some people are \"Maybe a Murderer\" and appreciate the art of \"Russian Goodbyes.\".",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T14:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel, and Steelo get punished the old-fashioned way in \"Spanks,\" troubleshoot technology in \"Learning Curves,\" and can't seem to turn it off in \"Workaholism.\".",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T15:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo welcome actor Jaleel White, to get clumsy in \"You Definitely Did That\"; \"Messing With Mom\"; \"Bee-Ware.\".",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T15:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Lolo Wood check out unskilled thieves who are Shoplifting, watching people fight with Random Weaponry and seeing a collective brain fart in Vocab Lapse.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T16:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel, and Steelo cash in their tokens for some \"Arcade Fire,\" have a run in with \"Intense Individuals,\" and get lost in a \"Phone Fog.\".",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T16:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Getting caught up in cords with \"Cord Assault,\" getting a face full of glass in \"Glass Greetings,\" and not being able to relax during \"Extreme Hammocking.\".",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T17:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo welcome super-influencer Bretman Rock to find out what's so great about \"Island Living\" and ask some people to give their \"Quick Bios.\".",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T17:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and guest host Lolo Wood go skating with some wheels that are Park Incompatible; getting hit while taking flicks with Snap Attacks; keeping valuables close.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T18:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo defy it all in \"Odds Gods,\" get soaked with \"Rain Pain\" and experience Russian childhood in \"Russian Rearing.\".",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T18:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel, and Steelo learn what happens when you hire \"Unlicensed Professionals,\" get some unwise \"Parental Advisory,\" and witness couples on the brink in \"Break Up Bites.\".",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T19:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo, and Lolo Wood welcome singer Teddy Swims to check out \"Losing Control\", get some fatherly advice in \"Dad Wisdom\", and deal with problematic people at \"Show 'em the Door\".",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T19:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob Dyrdek, Steelo Brim and Carly Aquilino get a full serving of \"Apple Smacked,\" take on some very tentacles in \"Aggro Octs\" and try to stay calm during \"Wild Mood Swings.\".",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T20:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob and Steelo welcome Nina Agdal to see who can predict the future, discuss people's vape obsessions and learn there's someone for everyone.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T20:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo, and Lolo Wood are slamming head-first in Power Heads; destroying golf clubs in New Club Time; facing the perils of taking a Ride-share After Dark.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T21:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and Nina Agdal welcome Jersey Shore's Jenni JWOWW Farley; hit the lake with \"Dock Dames\" and spell it out with \"Random Readers.\".",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T21:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Chanel and Steelo get stuck in the \"Suck Cycle,\" redefine the term \"Red-lining,\" and meet some \"Saucy Aussies.\".",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T22:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo and special guest Carly Aquilino get rocked while falling on some \"Slippery Stones\"; seeing all the red flags of a \"Disbarred Color Guard\"; smashing some cans.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T22:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "On this episode of Ridiculousness, Rob Dyrdek, Steelo Brim and Lolo Wood, Rob admits to cheating at ostrich racing during EJECTOR BEASTS, Lolo reveals her second story escape plan in SWASHBUCKLING BALCONEERS, before some tarmac g.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T23:00:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "NFL player Rob Gronkowski; \"Unwakeable\"; \"Bus Blind\"; \"Mild Boys.\".",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-12T23:30:00.000Z",
+    "title": "Ridiculousness",
+    "overview": "Rob, Steelo, and Nina Agdal find out whose screen possessed, learn new cart hacks and try not to get whacked from the back.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-13T00:00:00.000Z",
+    "title": "Grown Ups",
+    "overview": "The death of their childhood basketball coach leads to a reunion for some old friends (Adam Sandler, Kevin James, Chris Rock), who gather at the site of a championship celebration years earlier. Picking up where they left off, the buddies -- with wives and children in tow -- discover why age does no",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T02:20:00.000Z",
+    "runtime": "140 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034:epg:2026-11-13T02:20:00.000Z",
+    "title": "Grown Ups 2",
+    "overview": "Lenny Feder moves his family back to his hometown to be with his friends, but he finds -- what with old bullies, new bullies, party crashers and more -- that he hasn't left the crazy life behind in Los Angeles. Lenny's friends must also cope with their own challenges: Eric must face his ultimate fea",
+    "released": "2026-11-13T02:20:00.000Z",
+    "startTime": "2026-11-13T02:20:00.000Z",
+    "endTime": "2026-11-13T04:40:00.000Z",
+    "runtime": "140 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

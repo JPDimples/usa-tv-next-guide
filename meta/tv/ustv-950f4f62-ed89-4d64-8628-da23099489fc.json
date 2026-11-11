@@ -1,0 +1,739 @@
+{
+ "meta": {
+  "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc",
+  "type": "tv",
+  "name": "Fuse",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fuse-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fuse-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Music"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T03:00:00.000Z",
+    "title": "Elvis: Death of the King",
+    "overview": "Elvis Presley's charisma and musical talent made him the king of rock, but his rock star lifestyle led to a downfall that was as swift as his rise.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T04:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Christian wants to discover why Celeste is so secretive.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T04:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Amber wants to know the reason behind Robert's constant showering and frequent haircuts.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T05:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Wendy Spring learns out why her husband is suddenly interested in yoga.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T05:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Jasmine Washington is concerned about her boyfriend's backsliding behavior.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T06:00:00.000Z",
+    "title": "The Sex Clinic",
+    "overview": "Jordan gets tested for STIs after a multiple person encounter, and Rylee wants to make sure his freckles are not something more serious.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T07:00:00.000Z",
+    "title": "Vogue Williams: Is Monogamy Dead?",
+    "overview": "As she enters into her second marriage, television personality Vogue Williams explores the concept of monogamy in society and how it has changed over the years.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T08:00:00.000Z",
+    "title": "Our Transgender Love Story",
+    "overview": "\"Next Top Model\" host Joey Mead King is no stranger to the media, but her life was changed forever when her husband went public as transgender.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T09:00:00.000Z",
+    "title": "Elvis & Priscilla: Conditional Love",
+    "overview": "Experts peel back the layers of Priscilla and the Rock 'n' Roll King's controversial love story to cast light on the dysfunction under the dreamy and glamorous surface.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T10:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Lexi wants to know what's behind her beau's behavior.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T10:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Pierre wants to investigate his girlfriend after finding a bite mark on her rear-end.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T11:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Shalyce hopes to gain insight into why Rod seems to be avoiding her.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T11:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Hailey wants to know why Mike doesn't answer his phone when she calls.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T12:00:00.000Z",
+    "title": "Funniest Pets & People",
+    "overview": "Dog likes to eat tissue, but has trouble with the tissue as it gets stuck to his face; husky dog licks peanut butter off spoon.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T12:30:00.000Z",
+    "title": "Life's Funniest Moments",
+    "overview": "Pianist carried away; the show must go on; kid with a toy synthesizer; leap frog hits bride; girl plays the flute; hounds howling with a conductor.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T13:00:00.000Z",
+    "title": "Funniest Pets & People",
+    "overview": "Cat licks boy's hair on bed; chipmunk takes a ride on a peanut-filled teacup carousel; canine paper shredder.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T13:30:00.000Z",
+    "title": "Life's Funniest Moments",
+    "overview": "Boys fall from a motorcycle; throwing water at girls; a girl plays a piano with her feet; a pug with a long tongue; ski dance.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T14:00:00.000Z",
+    "title": "Stevie Nicks: Wild at Heart",
+    "overview": "For decades, Stevie Nicks has fronted one of the most successful bands in history, resurrecting them from the ashes; even with the trials and tribulations of being a member of Fleetwood Mac, Stevie has remained a role model.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T15:30:00.000Z",
+    "title": "Eagles: The Long Road",
+    "overview": "Paying tribute to the life and career of Glenn Frey, one of the main band members. Revisiting the achievements of one of the best-selling and most loved American rock bands of all time.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T17:00:00.000Z",
+    "title": "Elvis: Death of the King",
+    "overview": "Elvis Presley's charisma and musical talent made him the king of rock, but his rock star lifestyle led to a downfall that was as swift as his rise.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T18:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Jordan Crosby discovers his girlfriend has another boyfriend; following up.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T18:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Danni Little finds her boyfriend lives with his other girlfriends; following up with Gemma Taylor.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T19:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Lynn Skinner worries her husband has the seven-year itch.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T19:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Ashley Santos discovers the disconnect between her boyfriend's actions and words.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T20:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Nate thinks his girlfriend may be using him for his money.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T20:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Christian wants to check up on Tata.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T21:00:00.000Z",
+    "title": "Funniest Pets & People",
+    "overview": "Boy and dog share dog food; baby eats the guitar; babies playing the piano.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T21:30:00.000Z",
+    "title": "Life's Funniest Moments",
+    "overview": "Moto acrobatics; shaky chair; motorcycle in and out of the water; jet ski acrobatics; lizard in the house; hamster doing backflips.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T22:00:00.000Z",
+    "title": "Funniest Pets & People",
+    "overview": "Goat hops on horse's back and gives a massage; little Yorkie dog works hard to clean every spot from window using his tongue and paws.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T22:30:00.000Z",
+    "title": "Life's Funniest Moments",
+    "overview": "Straight in the cabinet; motorcyclist falls in the stand; kid sliding on his behind; the skirt gets down; happy in tank; wheelbarrow race.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T23:00:00.000Z",
+    "title": "Funniest Pets & People",
+    "overview": "Dog opening her Christmas presents; puppy attacking dandelion; Jack Russell terrier twirls toy car in circles.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-11T23:30:00.000Z",
+    "title": "Life's Funniest Moments",
+    "overview": "Popping balloons with butts; motocross fall; baby boy shuts the door.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T00:00:00.000Z",
+    "title": "Cher: Life in the Spotlight",
+    "overview": "Tracing Cher's life from her childhood stage fright to her rise as an iconic star in music, TV and movies.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T01:30:00.000Z",
+    "title": "Stevie Nicks: Wild at Heart",
+    "overview": "For decades, Stevie Nicks has fronted one of the most successful bands in history, resurrecting them from the ashes; even with the trials and tribulations of being a member of Fleetwood Mac, Stevie has remained a role model.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T03:00:00.000Z",
+    "title": "The Women That Made Elvis",
+    "overview": "Taking a look at the women who influenced Elvis Presley's life, from his mother, Gladys, to his true love, Priscilla.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T04:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Wendy Spring learns out why her husband is suddenly interested in yoga.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T04:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Jasmine Washington is concerned about her boyfriend's backsliding behavior.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T05:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Lynn Skinner worries her husband has the seven-year itch.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T05:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Alex Montoya discovers her girlfriend models with and without her clothes.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T06:00:00.000Z",
+    "title": "The Sex Clinic",
+    "overview": "A male stripper comes in to get a rash looked at, and Emily requests an STI test.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T07:00:00.000Z",
+    "title": "Sex Sells",
+    "overview": "OnlyFans top earner Lena the Plug invites Weezy to cameo in her first porn; the team at Evil Angel teaches Weezy the fundamentals of directing some of their most iconic scenes.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T07:30:00.000Z",
+    "title": "Sex Sells",
+    "overview": "Weezy and rapper Freddie Gibbs stretch more than their imaginations when Jet Setting Jasmine drops by to explore their kinks; Weezy and her mom learn how to cowgirl while strengthening their pelvic floor with sex therapist Tyomi Morgan.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T08:00:00.000Z",
+    "title": "Sex Sells",
+    "overview": "Weezy and her best friend, Vinny, take a much-needed staycation at a high-class dungeon where domination is bought not earned; Weezy introduces a revolutionary sex toy that gives men a whole new role in the bedroom.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T08:30:00.000Z",
+    "title": "Sex Sells",
+    "overview": "Weezy's mom gets rejuvenated with a visit to a doctor who specializes in sexual health; Weezy meets Chai, who has invested in their true sexual self and made it their own, giving them a priceless return.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T09:00:00.000Z",
+    "title": "Bob Marley: Roots of the Man",
+    "overview": "The life of Jamaican Robert Nesta Marley, known around the globe as reggae musician Bob Marley.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T10:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Shalyce hopes to gain insight into why Rod seems to be avoiding her.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T10:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Hailey wants to know why Mike doesn't answer his phone when she calls.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T11:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Lindsey Johnson fears her unemployed boyfriend is not using his time wisely.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T11:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Mondo Brown discovers why his girlfriend has been so out of pocket lately.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T12:00:00.000Z",
+    "title": "Funniest Pets & People",
+    "overview": "Goat hops on horse's back and gives a massage; little Yorkie dog works hard to clean every spot from window using his tongue and paws.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T12:30:00.000Z",
+    "title": "Life's Funniest Moments",
+    "overview": "Straight in the cabinet; motorcyclist falls in the stand; kid sliding on his behind; the skirt gets down; happy in tank; wheelbarrow race.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T13:00:00.000Z",
+    "title": "Funniest Pets & People",
+    "overview": "Dog opening her Christmas presents; puppy attacking dandelion; Jack Russell terrier twirls toy car in circles.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T13:30:00.000Z",
+    "title": "Life's Funniest Moments",
+    "overview": "Popping balloons with butts; motocross fall; baby boy shuts the door.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T14:00:00.000Z",
+    "title": "Deadly Love: Bobby & Whitney",
+    "overview": "Exploring the romance of Whitney Houston and Bobby Brown; behind the glamour is a story of love, addiction and heartbreak that shaped their lives and legacies.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T15:30:00.000Z",
+    "title": "Dolly Parton: Queen of Country",
+    "overview": "The story of multi-award winning country performer Dolly Parton.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T17:00:00.000Z",
+    "title": "Blondie: Glass Heart",
+    "overview": "The story of Blondie and their rise from small clubs in New York City to selling out shows around the globe.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T18:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Jasmine Skiles is betrayed by her husband during their trial separation.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T18:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Tatum wants to know where Spencer is spending his time.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T19:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Rayne wants to find out where Abel is spending his time.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T19:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Deondre Bradford discovers the source of his girlfriend's new secretive behavior.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T20:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Larry wants to know why his wife is acting peculiar.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T20:30:00.000Z",
+    "title": "Cheaters",
+    "overview": "Bridget risks breaking her heart to check up on Dwight.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T21:00:00.000Z",
+    "title": "Funniest Pets & People",
+    "overview": "Funniest Pets and People is a solid half-hour of pure entertainment with a proven format featuring hysterical, fast-paced video clips submitted by viewers who share the funniest moments of their favorite Pets and People.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T21:30:00.000Z",
+    "title": "Life's Funniest Moments",
+    "overview": "A girl does a head stand in her dad's hand; baby falls in a box; don't feed these birds; dog throws metal pan; dog chases kids with hose; tumbling over in a toboggan.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T22:00:00.000Z",
+    "title": "Funniest Pets & People",
+    "overview": "Max the Amazing performs his now you see me, now you don't jumping trick; bride falls off chair after kiss; squirrel in the window.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T22:30:00.000Z",
+    "title": "Life's Funniest Moments",
+    "overview": "A girl falls with clothes; a basketball gets thrown at a groom; a baby tries to catch; a dancer falls; a dog catches a vibrating ball.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T23:00:00.000Z",
+    "title": "Funniest Pets & People",
+    "overview": "Six bears in a row suck on one another ears; bird pulls hair from lady with big blonde hair lying down; deer prances with a funny walk.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-12T23:30:00.000Z",
+    "title": "Life's Funniest Moments",
+    "overview": "A boy swings in a cart; men bathe in clay; girls dance and fall; a gymnast's training; Hannah the pig practices free form jazz; a bride falls in the snow.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-13T00:00:00.000Z",
+    "title": "The Beatles: In the Life",
+    "overview": "The Beatles took the world by storm in the 1960s and are still the best-selling band of all time with 183 million sales worldwide.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-13T01:30:00.000Z",
+    "title": "Killing John Lennon",
+    "overview": "A dramatic step-by-step breakdown behind the lead up to John Lennon's murder on Dec. 8, 1980.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-13T03:00:00.000Z",
+    "title": "Elvis: The Vegas Years",
+    "overview": "This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc:epg:2026-11-13T04:00:00.000Z",
+    "title": "Cheaters",
+    "overview": "Lynn Skinner worries her husband has the seven-year itch.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

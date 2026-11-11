@@ -1,0 +1,69 @@
+{
+ "metas": [
+  {
+   "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343",
+   "type": "tv",
+   "name": "ABC",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/abc-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Local"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758",
+   "type": "tv",
+   "name": "CBS",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cbs-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Local"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-3902457a-7818-4fbe-8209-9d43a903c784",
+   "type": "tv",
+   "name": "Fox",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Local"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa",
+   "type": "tv",
+   "name": "NBC",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Local"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df",
+   "type": "tv",
+   "name": "PBS",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/pbs-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Local"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

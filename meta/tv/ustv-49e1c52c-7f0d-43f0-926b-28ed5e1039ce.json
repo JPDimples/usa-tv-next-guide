@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce",
+  "type": "tv",
+  "name": "Tennis Channel",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/tennis-channel-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tennis-channel-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Sports"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-11T03:00:00.000Z",
+    "title": "Center Court",
+    "overview": "Tennis action from around the world.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "480 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-11T11:00:00.000Z",
+    "title": "Center Court",
+    "overview": "Tennis action from around the world.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-11T12:00:00.000Z",
+    "title": "Live: 2026 Stockholm Open Tennis",
+    "overview": "From Royal Tennis Hall in Stockholm, Sweden.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "240 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-11T16:00:00.000Z",
+    "title": "Center Court",
+    "overview": "Tennis action from around the world.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-11T17:00:00.000Z",
+    "title": "Live: 2026 Stockholm Open Tennis",
+    "overview": "From Royal Tennis Hall in Stockholm, Sweden.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-11T19:30:00.000Z",
+    "title": "Tennis Channel Live at the Finals",
+    "overview": "",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-11T20:00:00.000Z",
+    "title": "Live: WTA Finals Indian Wells 2026",
+    "overview": "Singles & Doubles Round Robin.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "420 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-12T03:00:00.000Z",
+    "title": "Race to the ATP Finals",
+    "overview": "A late season look at ATP tennis.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-12T03:30:00.000Z",
+    "title": "Center Court",
+    "overview": "Tennis action from around the world.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "450 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-12T11:00:00.000Z",
+    "title": "Center Court",
+    "overview": "Tennis action from around the world.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-12T12:00:00.000Z",
+    "title": "Live: 2026 Stockholm Open Tennis",
+    "overview": "From Royal Tennis Hall in Stockholm, Sweden.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "240 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-12T16:00:00.000Z",
+    "title": "Center Court",
+    "overview": "Tennis action from around the world.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-12T17:30:00.000Z",
+    "title": "Live: 2026 Stockholm Open Tennis",
+    "overview": "From Royal Tennis Hall in Stockholm, Sweden.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-12T19:30:00.000Z",
+    "title": "Tennis Channel Live at the Finals",
+    "overview": "",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-12T20:00:00.000Z",
+    "title": "Live: WTA Finals Indian Wells 2026",
+    "overview": "Singles & Doubles Round Robin.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "420 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce:epg:2026-11-13T03:00:00.000Z",
+    "title": "Center Court",
+    "overview": "Tennis action from around the world.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T11:00:00.000Z",
+    "runtime": "480 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

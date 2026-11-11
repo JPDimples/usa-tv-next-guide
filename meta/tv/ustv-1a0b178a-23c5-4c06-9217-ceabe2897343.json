@@ -1,0 +1,729 @@
+{
+ "meta": {
+  "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343",
+  "type": "tv",
+  "name": "ABC",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/abc-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/abc-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Local"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T03:00:00.000Z",
+    "title": "Michael Strahan's Iconic Fashion",
+    "overview": "Michael Strahan meets with style icons who have captivated our collective imagination and redefined how we dress, including fashion designer Tommy Hilfiger, supermodel Heidi Klum, basketball player Dwyane Wade and costume designer Molly Rogers.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T04:00:00.000Z",
+    "title": "Live: ABCNL Prime With Linsey Davis",
+    "overview": "Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T04:30:00.000Z",
+    "title": "ABC World News Tonight With David Muir",
+    "overview": "Delivering the news that matters most.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T04:35:00.000Z",
+    "runtime": "5 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T04:35:00.000Z",
+    "title": "Jimmy Kimmel Live!",
+    "overview": "Actress Jodie Foster; actor Andrew Scott; Jesse Welles performs; Sy Smith sits in with The Cletones.",
+    "released": "2026-11-11T04:35:00.000Z",
+    "startTime": "2026-11-11T04:35:00.000Z",
+    "endTime": "2026-11-11T05:37:00.000Z",
+    "runtime": "62 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T05:37:00.000Z",
+    "title": "Nightline",
+    "overview": "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+    "released": "2026-11-11T05:37:00.000Z",
+    "startTime": "2026-11-11T05:37:00.000Z",
+    "endTime": "2026-11-11T06:06:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T06:06:00.000Z",
+    "title": "Live: Nightline",
+    "overview": "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+    "released": "2026-11-11T06:06:00.000Z",
+    "startTime": "2026-11-11T06:06:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T06:30:00.000Z",
+    "title": "ABC World News Tonight With David Muir",
+    "overview": "Delivering the news that matters most.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T07:00:00.000Z",
+    "title": "ABC World News Now",
+    "overview": "ABC's \"World News Now\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T09:00:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T09:30:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T10:00:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T10:30:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T11:00:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T11:30:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T12:00:00.000Z",
+    "title": "Good Morning America",
+    "overview": "Actress Kathryn Hahn; actress Ali Wentworth; TV personalities Bobbi Althoff, Avery Woods, McCall DaPron and Madison Bontempo; Deals & Steals with John Legend and Tory Johnson.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T14:00:00.000Z",
+    "title": "ABC News Live First",
+    "overview": "The latest headlines, compelling stories, interviews and roundtable discussions.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T14:30:00.000Z",
+    "title": "ABC News Live First",
+    "overview": "The latest headlines, compelling stories, interviews and roundtable discussions.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T15:00:00.000Z",
+    "title": "ABC News Live First",
+    "overview": "The latest headlines, compelling stories, interviews and roundtable discussions.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T15:30:00.000Z",
+    "title": "ABC News Live First",
+    "overview": "The latest headlines, compelling stories, interviews and roundtable discussions.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T16:00:00.000Z",
+    "title": "The View",
+    "overview": "Author Rachel Maddow.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T17:00:00.000Z",
+    "title": "GMA3",
+    "overview": "TV personalities Bobbi Althoff, Avery Woods, McCall DaPron and Madison Bontempo; creator Tinx; ABC Secret Savings with Will Ganss; Deals & Steals with Tory Johnson.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T18:00:00.000Z",
+    "title": "GMA3",
+    "overview": "TV personalities Bobbi Althoff, Avery Woods, McCall DaPron and Madison Bontempo; creator Tinx; ABC Secret Savings with Will Ganss; Deals & Steals with Tory Johnson.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T19:00:00.000Z",
+    "title": "General Hospital",
+    "overview": "Sonny issues a warning to Carly; Josslyn opens up to Hudson; Jude stands his ground; Drew tries to reassure Ava; Molly confides in Alexis.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T20:00:00.000Z",
+    "title": "General Hospital",
+    "overview": "Sonny issues a warning to Carly; Josslyn opens up to Hudson; Jude stands his ground; Drew tries to reassure Ava; Molly confides in Alexis.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T21:00:00.000Z",
+    "title": "ABC News Live Reports",
+    "overview": "24/7 coverage of breaking news and live events.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T21:30:00.000Z",
+    "title": "Live: Searched",
+    "overview": "",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T22:00:00.000Z",
+    "title": "ABC News Live Reports",
+    "overview": "24/7 coverage of breaking news and live events.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T22:30:00.000Z",
+    "title": "Live: Burden of Proof",
+    "overview": "",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T23:00:00.000Z",
+    "title": "ABC News Live Reports",
+    "overview": "24/7 coverage of breaking news and live events.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-11T23:30:00.000Z",
+    "title": "ABC World News Tonight With David Muir",
+    "overview": "Delivering the news that matters most.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T00:00:00.000Z",
+    "title": "ABC World News Tonight With David Muir",
+    "overview": "Delivering the news that matters most.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T00:30:00.000Z",
+    "title": "Live: ABCNL Prime With Linsey Davis",
+    "overview": "Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T01:00:00.000Z",
+    "title": "Scrubs",
+    "overview": "When an overflowing ER sparks chaos within the hospital, J.D. is surprised to learn the reason why; Turk mentors Dashana in her personal life.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T01:30:00.000Z",
+    "title": "Abbott Elementary",
+    "overview": "Ava recruits Janine to prepare the step team for a competition; Melissa calls in a favor for Gregory.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:02:00.000Z",
+    "runtime": "32 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T02:02:00.000Z",
+    "title": "Celebrity Wheel of Fortune",
+    "overview": "Celebrity contestants Hannah Simone, Lamorne Morris and Jake Johnson.",
+    "released": "2026-11-12T02:02:00.000Z",
+    "startTime": "2026-11-12T02:02:00.000Z",
+    "endTime": "2026-11-12T03:01:00.000Z",
+    "runtime": "59 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T03:01:00.000Z",
+    "title": "Shark Tank",
+    "overview": "A trailer for basketball and football arcade games; size-inclusive underwear for men; a scented nose cover for diaper-duty dads; hand-rolled bagels stuffed with comfort food.",
+    "released": "2026-11-12T03:01:00.000Z",
+    "startTime": "2026-11-12T03:01:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "59 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T04:00:00.000Z",
+    "title": "Live: ABCNL Prime With Linsey Davis",
+    "overview": "Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T04:30:00.000Z",
+    "title": "ABC World News Tonight With David Muir",
+    "overview": "Delivering the news that matters most.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T04:35:00.000Z",
+    "runtime": "5 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T04:35:00.000Z",
+    "title": "Jimmy Kimmel Live!",
+    "overview": "Actor Arnold Schwarzenegger; actor Joseph Zada; Sy Smith sits in with The Cletones.",
+    "released": "2026-11-12T04:35:00.000Z",
+    "startTime": "2026-11-12T04:35:00.000Z",
+    "endTime": "2026-11-12T05:37:00.000Z",
+    "runtime": "62 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T05:37:00.000Z",
+    "title": "Nightline",
+    "overview": "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+    "released": "2026-11-12T05:37:00.000Z",
+    "startTime": "2026-11-12T05:37:00.000Z",
+    "endTime": "2026-11-12T06:06:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T06:06:00.000Z",
+    "title": "Live: Nightline",
+    "overview": "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+    "released": "2026-11-12T06:06:00.000Z",
+    "startTime": "2026-11-12T06:06:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T06:30:00.000Z",
+    "title": "ABC World News Tonight With David Muir",
+    "overview": "Delivering the news that matters most.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T07:00:00.000Z",
+    "title": "ABC World News Now",
+    "overview": "ABC's \"World News Now\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T09:00:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T09:30:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T10:00:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T10:30:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T11:00:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T11:30:00.000Z",
+    "title": "Good Morning America First Look",
+    "overview": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T12:00:00.000Z",
+    "title": "Good Morning America",
+    "overview": "Author Danielle Steel; Deals & Steals: Oprah's Favorite Things with Adam Glassman and Tory Johnson.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T14:00:00.000Z",
+    "title": "ABC News Live First",
+    "overview": "The latest headlines, compelling stories, interviews and roundtable discussions.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T14:30:00.000Z",
+    "title": "ABC News Live First",
+    "overview": "The latest headlines, compelling stories, interviews and roundtable discussions.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T15:00:00.000Z",
+    "title": "ABC News Live First",
+    "overview": "The latest headlines, compelling stories, interviews and roundtable discussions.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T15:30:00.000Z",
+    "title": "ABC News Live First",
+    "overview": "The latest headlines, compelling stories, interviews and roundtable discussions.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T16:00:00.000Z",
+    "title": "The View",
+    "overview": "Celebrating Whoopi's birthday; Whoopi's Favorite Things.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T17:00:00.000Z",
+    "title": "GMA3",
+    "overview": "Author Yung Pueblo; chef Judy Joo; Ms. Appleberry and producer Allie Rivera Qui\u00f1onez; Deals & Steals: Oprah's Favorite Things with Adam Glassman and Tory Johnson.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T18:00:00.000Z",
+    "title": "GMA3",
+    "overview": "Author Yung Pueblo; chef Judy Joo; Ms. Appleberry and producer Allie Rivera Qui\u00f1onez; Deals & Steals: Oprah's Favorite Things with Adam Glassman and Tory Johnson.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T19:00:00.000Z",
+    "title": "General Hospital",
+    "overview": "Carly fears Sonny's wrath; Sonny and Ric form a plan; Alexis makes a bold move; Drew gets a reality check; Lucas reassures Josslyn.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T20:00:00.000Z",
+    "title": "General Hospital",
+    "overview": "Carly fears Sonny's wrath; Sonny and Ric form a plan; Alexis makes a bold move; Drew gets a reality check; Lucas reassures Josslyn.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T21:00:00.000Z",
+    "title": "ABC News Live Reports",
+    "overview": "24/7 coverage of breaking news and live events.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T21:30:00.000Z",
+    "title": "Live: Searched",
+    "overview": "",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T22:00:00.000Z",
+    "title": "ABC News Live Reports",
+    "overview": "24/7 coverage of breaking news and live events.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T22:30:00.000Z",
+    "title": "Live: Burden of Proof",
+    "overview": "",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T23:00:00.000Z",
+    "title": "ABC News Live Reports",
+    "overview": "24/7 coverage of breaking news and live events.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-12T23:30:00.000Z",
+    "title": "ABC World News Tonight With David Muir",
+    "overview": "Delivering the news that matters most.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-13T00:00:00.000Z",
+    "title": "ABC World News Tonight With David Muir",
+    "overview": "Delivering the news that matters most.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-13T00:30:00.000Z",
+    "title": "Live: ABCNL Prime With Linsey Davis",
+    "overview": "Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-13T01:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "The 118 races to help a father and son after a harrowing tree-mulcher accident; Athena and Newell work to crack a puzzling homicide case; Buck weighs how best to support Theo; a life-or-death decision tests Chimney's family ties.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-13T02:00:00.000Z",
+    "title": "9-1-1: Nashville",
+    "overview": "Don turns to Rogue for advice as he navigates a personal predicament; Rogue works to get closer to The Pharaoh; tensions rise at Nashville Dispatch between Cammie and Dr. Zellner.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-13T03:00:00.000Z",
+    "title": "Grey's Anatomy",
+    "overview": "Jo faces a life-or-death crisis when a house call goes wrong; Ben meets Bailey's new study partner; Blue struggles with an unexpected family issue.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343:epg:2026-11-13T04:00:00.000Z",
+    "title": "Live: ABCNL Prime With Linsey Davis",
+    "overview": "Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

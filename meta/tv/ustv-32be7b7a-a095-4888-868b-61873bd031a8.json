@@ -1,0 +1,459 @@
+{
+ "meta": {
+  "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8",
+  "type": "tv",
+  "name": "Oxygen True Crime",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/oxygen-true-crime-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/oxygen-true-crime-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T03:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "In a wealthy area of Philadelphia, police are called to the scene of what seems like a regular accidental drowning; the investigation begins to focus on one person who has many reasons to want the victim dead.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T03:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Two women are murdered in the same town and police fear a serial killer is on the loose, further investigation finds that they were both close to the same man.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T04:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A young woman is found dead on a golf course in the Bahamas; the grass on that course is so distinctive that it had evidentiary value; the evidence leads police to two suspects; each blamed the other, and they have to find out who the killer is.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T04:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "A teenager goes missing after an evening of horseback riding; her body is found a month later, three miles from her home; the killer unknowingly leaves a trace of evidence behind, tiny but unmistakable clues that pointed to him and him alone.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T05:00:00.000Z",
+    "title": "Forensic Files",
+    "overview": "When a popular disc jockey is found murdered in a community garden, police swing into action; a sniffer dog and a blood spatter expert led police to the killer, and he'd been much closer than they realized.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T05:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "Investigators unravel a twisted tale of lust, greed and deception after a woman claims her husband was gunned down by intruders.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T06:00:00.000Z",
+    "title": "Snapped: Killer Moms",
+    "overview": "When an argument leads to a shooting in broad daylight, California authorities use surveillance footage to piece together the truth; when confronted, a daughter is forced to choose between justice for her boyfriend and protecting her mother.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T07:00:00.000Z",
+    "title": "Snapped: Killer Moms",
+    "overview": "When a Colorado mother claims her daughter is mysteriously ill, doctors question if they have a Munchausen by proxy case; the investigation reveals the horrific truth behind the lengths a mother is willing to go with her child's life for attention.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T08:00:00.000Z",
+    "title": "Dateline",
+    "overview": "More than two decades after a woman is murdered in what appears to be a burglary gone wrong, a detective finds information that unlocks the mystery of what actually happened.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T09:00:00.000Z",
+    "title": "Dateline",
+    "overview": "More than two decades after a woman is murdered in what appears to be a burglary gone wrong, a detective finds information that unlocks the mystery of what actually happened.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T10:00:00.000Z",
+    "title": "Dateline",
+    "overview": "When a young woman is found dead near a soccer field in Indiana, detectives try to piece together a puzzle that leads them to an unexpected suspect.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T11:00:00.000Z",
+    "title": "Homicide for the Holidays",
+    "overview": "Earl and Terry Robertson are found brutally murdered in their home just before Thanksgiving; investigating whether this is a holiday robbery gone terribly wrong, or a crime committed by someone the couple knew and trusted.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T12:00:00.000Z",
+    "title": "Homicide for the Holidays",
+    "overview": "Firefighters respond to a house fire and discover three gunshot victims inside; authorities pursue the heavily armed murderer through Christmas.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T13:00:00.000Z",
+    "title": "Homicide for the Holidays",
+    "overview": "On Christmas Eve in a quiet town, elderly couple Bob and Idella Young are brutally slain at home; a bloody glove found at the crime scene has the killer's DNA, but no one matches the sample.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T14:00:00.000Z",
+    "title": "Homicide for the Holidays",
+    "overview": "New Year's in a tiny town, Joanna and Carl Dutcher ring in the year with their grandson, days later, they are found violently killed; the hunt for the killer leads police to a sinister group that threatens the entire community.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T15:00:00.000Z",
+    "title": "Homicide for the Holidays",
+    "overview": "Two days after Christmas a mass shooting terrorizes a small town; after killing two people and wounding many more the gunman is taken into custody; when police search for answers they uncover the worst family massacre in US history.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T16:00:00.000Z",
+    "title": "Homicide for the Holidays",
+    "overview": "Just before Christmas, the body of a young mother is found strangled inside a burning car in a quiet Minneapolis suburb and detectives suspect that she was killed by someone very close to her.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T17:00:00.000Z",
+    "title": "Dateline: Secrets Uncovered",
+    "overview": "When police respond to a report of a break-in, they discover a woman was murdered, launching an investigation with a false confession and a dangerous romance.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T19:00:00.000Z",
+    "title": "Dateline: Secrets Uncovered",
+    "overview": "Authorities embark on a 13-year investigation after 17-year-old Brittanee Drexel vanishes during spring break in Myrtle Beach, S.C.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T21:00:00.000Z",
+    "title": "Dateline: Secrets Uncovered",
+    "overview": "When a California father fails to return home after a quick trip to check his mail, his son calls police for help, only to find himself the focus of their investigation until a stunning revelation upends the case.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T22:00:00.000Z",
+    "title": "Dateline: Secrets Uncovered",
+    "overview": "Revealing interviews and exclusive details following the high-profile verdict in the Sean Diddy Combs trial; a former employee opens up about her decade working for Combs.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T23:00:00.000Z",
+    "title": "Dateline: Secrets Uncovered",
+    "overview": "Days after landing the biggest audition of her acting career, newlywed Shannon Madill Burgess fails to show up for a family gathering, leaving her loved ones in a panic.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T00:00:00.000Z",
+    "title": "Dateline: Secrets Uncovered",
+    "overview": "When a violent home invasion rocks a small town in Maine, local police and the FBI launch a complex investigation that spans three states.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T01:00:00.000Z",
+    "title": "Dateline: Secrets Uncovered",
+    "overview": "Ten years after a 16-year-old boy confessed to a murder and was sentenced to life in prison, a local businessman tries to prove the confession was coerced, and the teen was wrongfully convicted.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T03:00:00.000Z",
+    "title": "Homicide for the Holidays",
+    "overview": "Two days after Christmas a mass shooting terrorizes a small town; after killing two people and wounding many more the gunman is taken into custody; when police search for answers they uncover the worst family massacre in US history.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T04:00:00.000Z",
+    "title": "Dateline: Secrets Uncovered",
+    "overview": "Ten years after a 16-year-old boy confessed to a murder and was sentenced to life in prison, a local businessman tries to prove the confession was coerced, and the teen was wrongfully convicted.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T06:00:00.000Z",
+    "title": "Catfish Murders",
+    "overview": "When a young nurse vanishes after connecting with a man on a dating app, her devastated family joins the search for answers. But as police dig into her online relationship, they uncover a web of deception and a man hiding a dangerous double life.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T07:00:00.000Z",
+    "title": "Catfish Murders",
+    "overview": "When a promising young boxer is found murdered after arranging a date on Facebook, detectives follow his digital trail and uncover a sinister deception that suggests he may not have been the only target.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T08:00:00.000Z",
+    "title": "Dateline",
+    "overview": "Police investigate when the seemingly storybook romance between a football player and the homecoming queen ends in a death.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T09:00:00.000Z",
+    "title": "Dateline",
+    "overview": "Police investigate when the seemingly storybook romance between a football player and the homecoming queen ends in a death.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T10:00:00.000Z",
+    "title": "Dateline",
+    "overview": "A mother's death initially appears to be a suicide, but when investigators start to interview those closest to her, an evil plot emerges.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T11:00:00.000Z",
+    "title": "Catfish Murders",
+    "overview": "When an Arizona corrections officer vanishes after leaving for a hot date, investigators uncover blood in the desert, a digital phantom named Paige, and a predator lurking in plain sight.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T12:00:00.000Z",
+    "title": "Catfish Murders",
+    "overview": "A young mother, with dreams of settling down, finally finds love online; her hopes for a romantic Valentine's Day take a terrifying turn when she's lured into a deadly trap, masterminded by a self-styled cult leader.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T13:00:00.000Z",
+    "title": "Catfish Murders",
+    "overview": "When a promising young boxer is found murdered after arranging a date on Facebook, detectives follow his digital trail and uncover a sinister deception that suggests he may not have been the only target.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T14:00:00.000Z",
+    "title": "Catfish Murders",
+    "overview": "When a young nurse vanishes after connecting with a man on a dating app, her devastated family joins the search for answers. But as police dig into her online relationship, they uncover a web of deception and a man hiding a dangerous double life.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T15:00:00.000Z",
+    "title": "Charmed by the Devil",
+    "overview": "He is the serial killer you've never heard of ... until now. In 1973, 22-year-old Doug Gretzler embarked on a cross-country road trip that spiraled into a brutal killing spree. In just three weeks, he and his accomplice, 28-year-old Willie Steelman, murdered 17 people. Their motive? A mystery that h",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T17:00:00.000Z",
+    "title": "Dateline: Unforgettable",
+    "overview": "When the body of a 22-year-old college student is found a week after she vanished, theories about her murder run rampant through the Arkansas Ozarks; Dennis Murphy remembers the gutsy detective who made all the right moves to solve the mystery.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T19:00:00.000Z",
+    "title": "Dateline: Unforgettable",
+    "overview": "A beloved teacher vanishes from her home after a vicious attack; family members were in the house, yet no one saw or heard anything, and Andrea Canning is drawn to a case that seemed impossible.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T21:00:00.000Z",
+    "title": "Dateline: Unforgettable",
+    "overview": "A new father is found dead on the side of a road, and weeks later a young woman is stabbed to death in broad daylight; Josh Mankiewicz retraces lives that swerved out of control and a twisted murder plot that went off the rails.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-12T23:00:00.000Z",
+    "title": "Dateline: Unforgettable",
+    "overview": "When a firefighter is gunned down in his own home, the investigation unravels a web of secrets, a love triangle, and chilling surveillance footage; Dennis Murphy revisits the stunning evidence that helped expose the killer.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-13T01:00:00.000Z",
+    "title": "Dateline: Unforgettable",
+    "overview": "When college student Mickey Shunick vanishes, her sister becomes the driving force in a multinational search effort.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-13T02:00:00.000Z",
+    "title": "Homicide for the Holidays",
+    "overview": "A prominent couple are found brutally murdered in their Montgomery, Ala., home on Thanksgiving night, leading detectives on a cat-and-mouse chase spanning thousands of miles across multiple states.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-13T03:00:00.000Z",
+    "title": "Homicide for the Holidays",
+    "overview": "When a young woman home from college ends up murdered in her home and the tools of her demise turn out to be the rolling pin and carving knife the family planned to use for Thanksgiving dinner, investigators struggle to solve this holiday horror.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-13T04:00:00.000Z",
+    "title": "Dateline: Unforgettable",
+    "overview": "When college student Mickey Shunick vanishes, her sister becomes the driving force in a multinational search effort.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

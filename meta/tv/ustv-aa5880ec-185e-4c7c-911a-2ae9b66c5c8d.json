@@ -1,0 +1,79 @@
+{
+ "meta": {
+  "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d",
+  "type": "tv",
+  "name": "EstrellaTV",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/estrella-tv-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/estrella-tv-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Latino"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T03:00:00.000Z",
+    "title": "100 latinos dijeron",
+    "overview": "Dos familias competir\u00e1n respondiendo a distintas preguntas por la oportunidad de ganar dinero basado en las respuestas m\u00e1s populares, de acuerdo a las previamente respondidas por 100 latinos alrededor de Estados Unidos.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T04:00:00.000Z",
+    "title": "Tengo talento, mucho talento",
+    "overview": "Grandes artistas hispanos muestran su talento frente a famosos jueces, pero al final ser\u00e1 el p\u00fablico quien consagre al ganador.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T05:00:00.000Z",
+    "title": "Alarma TV",
+    "overview": "Programa que muestra fen\u00f3menos inexplicables, desastres humanos y naturales sin censura.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T06:00:00.000Z",
+    "title": "Un Minuto Para Ganar",
+    "overview": "Un programa de concurso en que los participantes deber\u00e1n poner a prueba sus habilidades, con desaf\u00edos entretenidos y de suspenso.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T07:00:00.000Z",
+    "title": "Noches con Platanito",
+    "overview": "Un talk show c\u00f3mico, diferente y entretenido con Platanito, quien entrevistar\u00e1 a importantes personajes de la far\u00e1ndula, concursos y rutinas de comedia.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T08:00:00.000Z",
+    "title": "Conejo en la Luna",
+    "overview": "Despu\u00e9s de que una operaci\u00f3n de tr\u00e1fico de armas se cobre la vida de un oficial de alto rango, el Gobierno mexicano, apoyado por las autoridades brit\u00e1nicas, se\u00f1ala a un ciudadano inocente como chivo expiatorio.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

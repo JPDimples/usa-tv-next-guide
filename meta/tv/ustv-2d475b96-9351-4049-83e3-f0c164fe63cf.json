@@ -1,0 +1,539 @@
+{
+ "meta": {
+  "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf",
+  "type": "tv",
+  "name": "Univision",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/univision-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/univision-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Latino"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T03:00:00.000Z",
+    "title": "Infinito amor",
+    "overview": "Arnoldo tiende una peligrosa trampa a Cristina. Ariel enfrenta una decisi\u00f3n imposible: declararse culpable de un crimen para conseguir el dinero que salvar\u00e1 a su madre. \u00c9l y Cristina se reencuentran y juran no separarse. La salud de Soledad empeora.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T04:00:00.000Z",
+    "title": "Noticiero N+ Univision",
+    "overview": "El noticiero transmite los acontecimientos mundiales que son de inter\u00e9s p\u00fablico para la comunidad hispana desde su sede en Florida e incluye reportajes de la pol\u00edtica, el clima, los deportes, la educaci\u00f3n, la inmigraci\u00f3n, entre otros.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T04:30:00.000Z",
+    "title": "Sabor de ma\u00f1ana",
+    "overview": "Un adelanto de lo que va a pasar en Despierta Am\u00e9rica, El Gordo y La Flaca y Primer Impacto.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T04:35:00.000Z",
+    "runtime": "5 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T04:35:00.000Z",
+    "title": "Live: Noticiero N+ Univision: Edici\u00f3n nocturna",
+    "overview": "Un repaso de las noticias ocurridas hasta el final el d\u00eda. Tiene la informaci\u00f3n completa de las noticias de \u00faltimo minuto y registra con las c\u00e1maras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el d\u00eda.",
+    "released": "2026-11-11T04:35:00.000Z",
+    "startTime": "2026-11-11T04:35:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T05:00:00.000Z",
+    "title": "Live: Contacto deportivo",
+    "overview": "El destino obligado de los amantes del deporte para estar al d\u00eda con las noticias m\u00e1s importantes y los partidos m\u00e1s destacados de todos los principales deportes.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T06:00:00.000Z",
+    "title": "Triunfo del amor",
+    "overview": "Juan Pablo le confiesa a Victoria que \u00e9l no sab\u00eda que ten\u00eda una hija y que la ayudar\u00e1 a encontrarla. Juan Pablo le dice a Bernarda que buscar\u00e1 a su hija y ella se molesta mucho.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T07:00:00.000Z",
+    "title": "Como dice el dicho",
+    "overview": "Miriam tiene 4 a\u00f1os y comienza a interesarse por los dinosaurios, las naves, los deportes, etc. Sin embargo, Ray, su abuelo, no est\u00e1 de acuerdo, pues cree que esas son cosas de ni\u00f1os y har\u00e1 todo por hacerla cambiar de opini\u00f3n.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T08:00:00.000Z",
+    "title": "Desiguales",
+    "overview": "Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva \u00fanica y multifac\u00e9tica sobre temas femeninos y de actualidad.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T09:00:00.000Z",
+    "title": "Vecinos",
+    "overview": "Frankie ser\u00e1 director de cine y de una de sus propias pel\u00edculas. Luis muestra sus sentimientos al saber que Silvia pronto se casar\u00e1.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T09:30:00.000Z",
+    "title": "Programa pagado",
+    "overview": "Programa que muestra diversos productos para la venta.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T10:00:00.000Z",
+    "title": "Vecinos",
+    "overview": "Los L\u00f3pez P\u00e9rez se hacen pasar por pordioseros para recibir caridad. Pedro lleva varios d\u00edas sin ba\u00f1arse y Cris le exige que lo haga.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:35:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T10:35:00.000Z",
+    "title": "Noticiero N+ Univision: Edici\u00f3n nocturna",
+    "overview": "Un repaso de las noticias ocurridas hasta el final el d\u00eda. Tiene la informaci\u00f3n completa de las noticias de \u00faltimo minuto y registra con las c\u00e1maras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el d\u00eda.",
+    "released": "2026-11-11T10:35:00.000Z",
+    "startTime": "2026-11-11T10:35:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T11:00:00.000Z",
+    "title": "Triunfo del amor",
+    "overview": "Victoria le dice a Mar\u00eda que cambiar\u00e1 su imagen por completo, pero mantendr\u00e1 el nombre de Mar\u00eda Desamparada. Victoria le confiesa a \u00d3scar que se siente sola y desprotegida, pero Osvaldo los encuentra abrazados.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T12:00:00.000Z",
+    "title": "Live: \u00a1Despierta Am\u00e9rica!",
+    "overview": "Revista matutina con noticias, temas de actualidad, reportajes de far\u00e1ndula, m\u00fasica e informaci\u00f3n pr\u00e1ctica.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "240 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T16:00:00.000Z",
+    "title": "Como dice el dicho",
+    "overview": "Emilia perdi\u00f3 a su marido, y su hija In\u00e9s, no habla por el trauma sufrido. Sofi, una influencer, conoce a Emilia y la juzga p\u00fablicamente como mala madre, generando odio hacia ella y empeorando su situaci\u00f3n.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T17:00:00.000Z",
+    "title": "Live: Noticiero N+ Univision: Edici\u00f3n digital",
+    "overview": "Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por j\u00f3venes periodistas en un ambiente informal.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T17:30:00.000Z",
+    "title": "Vecinos",
+    "overview": "Silvia comienza el trabajo de parto en el departamento, no hay tiempo para llegar al hospital. Luis recibir\u00e1 al beb\u00e9 con la ayuda de los vecinos.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T18:00:00.000Z",
+    "title": "Live: \u00a1Si\u00e9ntese quien pueda!",
+    "overview": "Una serie de panelistas destacados del mundo de la prensa de espect\u00e1culos participan en un reality entre ellos mientras se desarrolla el programa.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T20:00:00.000Z",
+    "title": "Live: Desiguales",
+    "overview": "Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva \u00fanica y multifac\u00e9tica sobre temas femeninos y de actualidad.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T21:00:00.000Z",
+    "title": "Live: El gordo y la flaca",
+    "overview": "Chismes de celebridades y las \u00faltimas noticias de la industria del entretenimiento, en un programa que combina entrevistas con actores, m\u00fasicos y celebridades.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T22:00:00.000Z",
+    "title": "Live: Primer impacto",
+    "overview": "Una revista que cubre las noticias de \u00faltima hora y las m\u00e1s impactantes. Un gran equipo de periodistas ofrece completos informes del pa\u00eds y del mundo. El programa tambi\u00e9n cuenta con dos segmentos de salud semanales.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T23:00:00.000Z",
+    "title": "Noticiero N+ Univision: Edici\u00f3n digital",
+    "overview": "Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por j\u00f3venes periodistas en un ambiente informal.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T23:30:00.000Z",
+    "title": "Live: Noticiero N+ Univision",
+    "overview": "El noticiero transmite los acontecimientos mundiales que son de inter\u00e9s p\u00fablico para la comunidad hispana desde su sede en Florida e incluye reportajes de la pol\u00edtica, el clima, los deportes, la educaci\u00f3n, la inmigraci\u00f3n, entre otros.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T00:00:00.000Z",
+    "title": "Camino al Latin Grammy",
+    "overview": "",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T01:00:00.000Z",
+    "title": "Sabor a ti, entre historias y secretos",
+    "overview": "Pilar est\u00e1 cansada de los rumores con Larva. Moncho le da su merecido a Fidel, pero Virginia est\u00e1 decepcionada. Le niegan la fianza a Mariano. El ADN revela que Jul\u00edan es hijo de Juan y no tiene parentesco con Antonia. Lucero quiere negociar con Margarita.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T02:00:00.000Z",
+    "title": "Tierra de amor y coraje",
+    "overview": "Jer\u00f3nimo ve hablando a Falc\u00f3n con el hombre que intent\u00f3 matar a Juan y golpe\u00f3 a Lalo y logra atraparlo. Rogelio le reclama a Falc\u00f3n que ese error puede costarles muy caro. Lalo tiene muy claro que Clara es su amiga y abre su coraz\u00f3n a otras opciones.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T03:00:00.000Z",
+    "title": "Infinito amor",
+    "overview": "Ariel sacrifica su infancia para cuidar a su madre enferma y proteger a sus hermanas. Separado de Cristina por una cruel mentira y perseguido por un enemigo obsesionado con vengarse, luchar\u00e1 por reencontrar su amor y cambiar su destino.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T04:00:00.000Z",
+    "title": "Noticiero N+ Univision",
+    "overview": "El noticiero transmite los acontecimientos mundiales que son de inter\u00e9s p\u00fablico para la comunidad hispana desde su sede en Florida e incluye reportajes de la pol\u00edtica, el clima, los deportes, la educaci\u00f3n, la inmigraci\u00f3n, entre otros.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T04:30:00.000Z",
+    "title": "Sabor de ma\u00f1ana",
+    "overview": "Un adelanto de lo que va a pasar en Despierta Am\u00e9rica, El Gordo y La Flaca y Primer Impacto.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T04:35:00.000Z",
+    "runtime": "5 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T04:35:00.000Z",
+    "title": "Live: Noticiero N+ Univision: Edici\u00f3n nocturna",
+    "overview": "Un repaso de las noticias ocurridas hasta el final el d\u00eda. Tiene la informaci\u00f3n completa de las noticias de \u00faltimo minuto y registra con las c\u00e1maras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el d\u00eda.",
+    "released": "2026-11-12T04:35:00.000Z",
+    "startTime": "2026-11-12T04:35:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T05:00:00.000Z",
+    "title": "Live: Contacto deportivo",
+    "overview": "El destino obligado de los amantes del deporte para estar al d\u00eda con las noticias m\u00e1s importantes y los partidos m\u00e1s destacados de todos los principales deportes.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T06:00:00.000Z",
+    "title": "Triunfo del amor",
+    "overview": "Victoria le dice a Mar\u00eda que cambiar\u00e1 su imagen por completo, pero mantendr\u00e1 el nombre de Mar\u00eda Desamparada. Victoria le confiesa a \u00d3scar que se siente sola y desprotegida, pero Osvaldo los encuentra abrazados.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T07:00:00.000Z",
+    "title": "Como dice el dicho",
+    "overview": "Emilia perdi\u00f3 a su marido, y su hija In\u00e9s, no habla por el trauma sufrido. Sofi, una influencer, conoce a Emilia y la juzga p\u00fablicamente como mala madre, generando odio hacia ella y empeorando su situaci\u00f3n.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T08:00:00.000Z",
+    "title": "Desiguales",
+    "overview": "Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva \u00fanica y multifac\u00e9tica sobre temas femeninos y de actualidad.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T09:00:00.000Z",
+    "title": "Vecinos",
+    "overview": "Silvia est\u00e1 por casarse con Napole\u00f3n, pero un par de mujeres interrumpen la boda. Silvia le pregunta a Luis si a\u00fan est\u00e1 enamorado ella, pues quiere casarse con \u00e9l.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T09:30:00.000Z",
+    "title": "Programa pagado",
+    "overview": "Programa que muestra diversos productos para la venta.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T10:00:00.000Z",
+    "title": "Vecinos",
+    "overview": "Silvia comienza el trabajo de parto en el departamento, no hay tiempo para llegar al hospital. Luis recibir\u00e1 al beb\u00e9 con la ayuda de los vecinos.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:35:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T10:35:00.000Z",
+    "title": "Noticiero N+ Univision: Edici\u00f3n nocturna",
+    "overview": "Un repaso de las noticias ocurridas hasta el final el d\u00eda. Tiene la informaci\u00f3n completa de las noticias de \u00faltimo minuto y registra con las c\u00e1maras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el d\u00eda.",
+    "released": "2026-11-12T10:35:00.000Z",
+    "startTime": "2026-11-12T10:35:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T11:00:00.000Z",
+    "title": "Triunfo del amor",
+    "overview": "Victoria le cuenta a Juan Pablo sobre su accidente y c\u00f3mo fue que perdi\u00f3 a su hija. Mar\u00eda le dice a Max que vio una foto con su prometida, pero Victoria le dice que no tiene compromiso con nadie.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T12:00:00.000Z",
+    "title": "Live: \u00a1Despierta Am\u00e9rica!",
+    "overview": "Revista matutina con noticias, temas de actualidad, reportajes de far\u00e1ndula, m\u00fasica e informaci\u00f3n pr\u00e1ctica.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "240 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T16:00:00.000Z",
+    "title": "Como dice el dicho",
+    "overview": "Casandra finge ser una chica amigable para secuestrar mujeres en los antros. Sin embargo, Valeria logra escapar y tratar\u00e1 de encontrar a su agresora.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T17:00:00.000Z",
+    "title": "Live: Noticiero N+ Univision: Edici\u00f3n digital",
+    "overview": "Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por j\u00f3venes periodistas en un ambiente informal.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T17:30:00.000Z",
+    "title": "Vecinos",
+    "overview": "Liz ha encontrado el lugar perfecto para que ella y Benito vivan juntos, pero \u00bfBenito dejar\u00e1 la casa de sus padres? El beb\u00e9 Luisito ha dicho su primera palabra, pero Luis cree que a Silvita no le gustar\u00e1 cuando se entere de qu\u00e9 ha dicho su hijo.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T18:00:00.000Z",
+    "title": "Live: \u00a1Si\u00e9ntese quien pueda!",
+    "overview": "Una serie de panelistas destacados del mundo de la prensa de espect\u00e1culos participan en un reality entre ellos mientras se desarrolla el programa.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T20:00:00.000Z",
+    "title": "Live: Desiguales",
+    "overview": "Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva \u00fanica y multifac\u00e9tica sobre temas femeninos y de actualidad.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T21:00:00.000Z",
+    "title": "Live: El gordo y la flaca",
+    "overview": "Chismes de celebridades y las \u00faltimas noticias de la industria del entretenimiento, en un programa que combina entrevistas con actores, m\u00fasicos y celebridades.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T22:00:00.000Z",
+    "title": "Live: Primer impacto",
+    "overview": "Una revista que cubre las noticias de \u00faltima hora y las m\u00e1s impactantes. Un gran equipo de periodistas ofrece completos informes del pa\u00eds y del mundo. El programa tambi\u00e9n cuenta con dos segmentos de salud semanales.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T23:00:00.000Z",
+    "title": "Noticiero N+ Univision: Edici\u00f3n digital",
+    "overview": "Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por j\u00f3venes periodistas en un ambiente informal.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-12T23:30:00.000Z",
+    "title": "Live: Noticiero N+ Univision",
+    "overview": "El noticiero transmite los acontecimientos mundiales que son de inter\u00e9s p\u00fablico para la comunidad hispana desde su sede en Florida e incluye reportajes de la pol\u00edtica, el clima, los deportes, la educaci\u00f3n, la inmigraci\u00f3n, entre otros.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-13T00:00:00.000Z",
+    "title": "Live: Noche de estrellas: Latin Grammy",
+    "overview": "",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-13T01:00:00.000Z",
+    "title": "Live: Latin Grammy 2026",
+    "overview": "Se celebra la entrega 27 de los Latin Grammy, desde el MGM Grand Garden Arena, Las Vegas.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-13T04:00:00.000Z",
+    "title": "Noticiero N+ Univision",
+    "overview": "El noticiero transmite los acontecimientos mundiales que son de inter\u00e9s p\u00fablico para la comunidad hispana desde su sede en Florida e incluye reportajes de la pol\u00edtica, el clima, los deportes, la educaci\u00f3n, la inmigraci\u00f3n, entre otros.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

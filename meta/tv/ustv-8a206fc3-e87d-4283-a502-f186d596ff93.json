@@ -1,0 +1,869 @@
+{
+ "meta": {
+  "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93",
+  "type": "tv",
+  "name": "TV Land",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/tv-land-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tv-land-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T02:55:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "The sight of Robert's ex-wife prompts the family to reminisce about the demise of the marriage.",
+    "released": "2026-11-11T02:55:00.000Z",
+    "startTime": "2026-11-11T02:55:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T03:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Marie surprises the entire family with a two-week vacation in Italy, but for Ray, it's two weeks too long.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T04:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "With nothing to do during the IPS strike, Doug tries substitute teaching at the school at which his sister, Stephanie (Ricki Lake), works.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T04:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Carrie and Kelly plan a get-together for Doug, Deacon and Arthur to keep them from going crazy during the strike.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T05:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug and Carrie are caught in embarrassing circumstances while looking after Deacon and Kelly's children.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T05:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Arthur accepts a job at Carrie's company; Doug and Deacon compete for a place in their company's calendar of hunks.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T06:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "After learning that a wedding reception is five hours away, Doug and Carrie scramble for an excuse to not go.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T06:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug sets up Stephanie with Carrie's boss so he can watch the Super Bowl on a high-definition television.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T07:00:00.000Z",
+    "title": "Seinfeld",
+    "overview": "George feels responsible for getting a busboy fired and tries to make it up to him.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T07:30:00.000Z",
+    "title": "Seinfeld",
+    "overview": "Jerry persuades a dentist friend (Ralph Bruneau) to prescribe an expensive massage for medical reasons.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T08:00:00.000Z",
+    "title": "Seinfeld",
+    "overview": "George tries honesty when he explains to his new girlfriend (Valerie Mahaffey) why they must break up.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T08:30:00.000Z",
+    "title": "Seinfeld",
+    "overview": "Jerry and Elaine go to Florida when a condo association honors his father.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T09:00:00.000Z",
+    "title": "Seinfeld",
+    "overview": "Jerry is in charge of a troublesome dog and is stuck in his apartment, which leaves George and Elaine stranded together with very little in common.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T09:30:00.000Z",
+    "title": "Seinfeld",
+    "overview": "The library has no record of Jerry returning a book he took out in 1971.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T10:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Marie surprises the entire family with a two-week vacation in Italy, but for Ray, it's two weeks too long.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T10:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray's parents finally go too far, prompting him to lose his cool and kick them out of the house once and for all.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T11:00:00.000Z",
+    "title": "The Drew Barrymore Show",
+    "overview": "Valerie Bertinelli joins Drew and Ross for brand-new Drew's News.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T11:30:00.000Z",
+    "title": "The Drew Barrymore Show",
+    "overview": "Jessica Chastain (movie \"Heartland\").",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T12:00:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Andy has a problem when a band of gypsies comes to Mayberry and puts a curse on the town.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T12:30:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Goober falls in love with the new waitress in town, but she has eyes for Andy.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T13:00:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Aunt Bee agrees to a week of baby-sitting for her niece and finds the infant adores everyone but her.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T13:30:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Andy and Helen run into trouble when they promote a romance between the county clerk and the county nurse.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T14:00:00.000Z",
+    "title": "M*A*S*H",
+    "overview": "Hawkeye and Charles set out to test the crew's gullibility when they announce that Marilyn Monroe is due to arrive.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:35:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T14:35:00.000Z",
+    "title": "M*A*S*H",
+    "overview": "Mildred writes a letter to Hawkeye; and a sergeant tries to kill the captive sniper responsible for his lieutenant's injuries.",
+    "released": "2026-11-11T14:35:00.000Z",
+    "startTime": "2026-11-11T14:35:00.000Z",
+    "endTime": "2026-11-11T15:10:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T15:10:00.000Z",
+    "title": "M*A*S*H",
+    "overview": "Klinger takes \"cool pills\"; Hawkeye and B.J. arrange to get a movie banned in Boston to the 4077th.",
+    "released": "2026-11-11T15:10:00.000Z",
+    "startTime": "2026-11-11T15:10:00.000Z",
+    "endTime": "2026-11-11T15:45:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T15:45:00.000Z",
+    "title": "Gunsmoke",
+    "overview": "Festus is attacked on his way to deliver money to a young woman who has been suddenly cut free from the confines of her sheltered life by the death of her father.",
+    "released": "2026-11-11T15:45:00.000Z",
+    "startTime": "2026-11-11T15:45:00.000Z",
+    "endTime": "2026-11-11T16:50:00.000Z",
+    "runtime": "65 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T16:50:00.000Z",
+    "title": "Gunsmoke",
+    "overview": "A local farmer joins a posse and is criticized and punished for shooting an outlaw in the back.",
+    "released": "2026-11-11T16:50:00.000Z",
+    "startTime": "2026-11-11T16:50:00.000Z",
+    "endTime": "2026-11-11T17:55:00.000Z",
+    "runtime": "65 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T17:55:00.000Z",
+    "title": "Gunsmoke",
+    "overview": "Bitter townspeople don't want an elderly gunfighter buried next to his wife in their cemetery.",
+    "released": "2026-11-11T17:55:00.000Z",
+    "startTime": "2026-11-11T17:55:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "65 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T19:00:00.000Z",
+    "title": "Gunsmoke",
+    "overview": "Marshal Dillon rides into a range war while pursuing an outlaw.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T20:00:00.000Z",
+    "title": "Gunsmoke",
+    "overview": "After being duped into helping to shoot and kill an outlaw, Kitty is pursued by the man's brother.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T21:00:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Opie signs up for a race to win a medal, but he loses and learns an important lesson in good sportsmanship instead.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:36:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T21:36:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Andy's diplomacy and modern engineering techniques are required to upgrade the music of the town choir.",
+    "released": "2026-11-11T21:36:00.000Z",
+    "startTime": "2026-11-11T21:36:00.000Z",
+    "endTime": "2026-11-11T22:12:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T22:12:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "To celebrate Founder's Day, Andy and Barney decide to choose a stranger at random to be Mayberry's Guest of Honor. Unbeknownst to them, the person they have chosen turns out to be a pickpocket.",
+    "released": "2026-11-11T22:12:00.000Z",
+    "startTime": "2026-11-11T22:12:00.000Z",
+    "endTime": "2026-11-11T22:48:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T22:48:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Robert quickly goes from deciding which one of three beautiful women he likes to wondering if any still like him.",
+    "released": "2026-11-11T22:48:00.000Z",
+    "startTime": "2026-11-11T22:48:00.000Z",
+    "endTime": "2026-11-11T23:24:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T23:24:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "When Debra and the kids go away for the weekend, Ray accidentally kills Ally's hamster.",
+    "released": "2026-11-11T23:24:00.000Z",
+    "startTime": "2026-11-11T23:24:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T00:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Sibling rivalry heats up when a publishing company passes on Ray's sports book and Robert gets promoted.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:35:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T00:35:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray runs into a girl he disrespected when they dated in high school, but he ends up regretting an apology.",
+    "released": "2026-11-12T00:35:00.000Z",
+    "startTime": "2026-11-12T00:35:00.000Z",
+    "endTime": "2026-11-12T01:10:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T01:10:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Everything goes astray when Robert starts dating a woman half his age.",
+    "released": "2026-11-12T01:10:00.000Z",
+    "startTime": "2026-11-12T01:10:00.000Z",
+    "endTime": "2026-11-12T01:45:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T01:45:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "While celebrating Thanksgiving, Debra discovers that her seemingly contented parents are miserable with each other.",
+    "released": "2026-11-12T01:45:00.000Z",
+    "startTime": "2026-11-12T01:45:00.000Z",
+    "endTime": "2026-11-12T02:20:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T02:20:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray can't help but enjoy the extra attention his mother lavishes on him when he feels under the weather.",
+    "released": "2026-11-12T02:20:00.000Z",
+    "startTime": "2026-11-12T02:20:00.000Z",
+    "endTime": "2026-11-12T02:55:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T02:55:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray buys Debra an extravagant gift, hoping she'll be so overjoyed that she'll let him take a golf trip.",
+    "released": "2026-11-12T02:55:00.000Z",
+    "startTime": "2026-11-12T02:55:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T03:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray tries to prove to everyone that he can be counted on after failing to help Debra when she chokes.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T04:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "After Carrie tells Doug that it's okay for him to find other women attractive, he asks her to tell him which men she finds attractive. Unsurprisingly, this doesn't end well.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T04:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Carrie and Doug (Leah Remini, Kevin James) discuss the real definition of infidelity when Doug sees Deacon (Victor Williams) with another woman.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T05:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Deacon's recent separation forces Doug and Carrie to re-examine some things they may have taken for granted.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T05:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug dreams that he could solve all of his problems if he could assume the roles of vintage television characters.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T06:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "When Doug can't understand the difficulties Carrie faces when caring for Arthur, he takes over and learns the hard way.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T06:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug finds that working for a competitor isn't all it's cracked up to be after he quits his job; Carrie becomes a self-tanning cream addict.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T07:00:00.000Z",
+    "title": "Seinfeld",
+    "overview": "Jerry and his friends lose their car in the multilevel parking garage at a huge mall.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T07:30:00.000Z",
+    "title": "Seinfeld",
+    "overview": "Jerry's attempt to increase business at a small caf\u00e9 backfires; George regrets agreeing to an IQ test.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T08:00:00.000Z",
+    "title": "Seinfeld",
+    "overview": "Jerry is shocked to hear the naughty suggestions on his tape recorder; George sees Elaine in a new light.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T08:30:00.000Z",
+    "title": "Seinfeld",
+    "overview": "Jerry straddles the fence regarding his latest flame (Tawny Kitaen); George's attention is focused on his date's (Susan Diol) nose.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T09:00:00.000Z",
+    "title": "Seinfeld",
+    "overview": "After a party, and much to the host's chagrin, Jerry and Elaine wait for Kramer to pick them up.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T09:30:00.000Z",
+    "title": "Seinfeld",
+    "overview": "Elaine breaks up with her 66-year-old beau (Edward Penn), who suffers a stroke in front of Jerry's apartment.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T10:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray's excitement over being sent to the Super Bowl is tempered by the fact that he has to choose a companion.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T10:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray feels violated after discovering that his mother used to read his private diary when he was a kid.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T11:00:00.000Z",
+    "title": "The Drew Barrymore Show",
+    "overview": "AnnaSophia Robb (\"I Play Rocky\").",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T11:30:00.000Z",
+    "title": "The Drew Barrymore Show",
+    "overview": "John Malkovich plays a round of behind-the-scenes, dishing on some of his biggest roles, and tells Drew about starring in \"Wild Horse Nine.\".",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T12:00:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Aunt Bee is asked to star in a furniture polish commercial on TV.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T12:30:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Goober's girlfriend fills in for him at the station and proves to be efficient.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T13:00:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Opie upsets the whole town when he proves that the famous Battle of Mayberry was only a bloodless brawl.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T13:30:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Aunt Bee's original song about Mayberry is a hit when it's played by a rock 'n' roll star on TV.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T14:00:00.000Z",
+    "title": "M*A*S*H",
+    "overview": "Father Mulcahy agrees to offer his running abilities in a race that pits the 4077th against the 8063rd.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T14:30:00.000Z",
+    "title": "M*A*S*H",
+    "overview": "Three United Nations delegates visit: a physician who is similar to Charles, an Army officer who teaches yoga and a Swede who catches Margaret's attention.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T15:00:00.000Z",
+    "title": "M*A*S*H",
+    "overview": "Charles refuses to solve his annoying snoring problem; Potter's son-in-law visits with some shocking news.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T15:30:00.000Z",
+    "title": "M*A*S*H",
+    "overview": "A gruff general visits his severely injured son and faces the harsh realities of military life when the young man dies.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T16:00:00.000Z",
+    "title": "Gunsmoke",
+    "overview": "A gang of murderers called the Dog Soldiers swears vengeance against Matt for killing one of their members.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T17:00:00.000Z",
+    "title": "Gunsmoke",
+    "overview": "A Kansas farmer (Scott Brady) dreams of making it rich with his quarter horse.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T18:00:00.000Z",
+    "title": "Gunsmoke",
+    "overview": "A little cowboy riding a giant horse rides into Dodge claiming that the horse turns into an elephant when the moon is full.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T19:00:00.000Z",
+    "title": "Gunsmoke",
+    "overview": "Two outlaws return to visit their dying mother, then take Doc and Kitty hostage to ensure their safe escape.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T20:00:00.000Z",
+    "title": "Gunsmoke",
+    "overview": "Deputy Newly marries Patricia Colby, whom he had courted while both were tending the injured from a Kansas tornado.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T21:00:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Andy uses his wits to help a struggling salesman, despite strong pressure to put him out of business.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T21:30:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "With the courthouse full of moonshiners, Otis has to serve his jail time for public intoxication at the Taylor house under the supervision of Aunt Bee.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T22:00:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Andy and Barney exert all their efforts to convince local farmer Rafe Hollister to take his tetanus shot when he refuses.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T22:30:00.000Z",
+    "title": "The Andy Griffith Show",
+    "overview": "Andy and Barney travel to Raleigh on a business trip and get involved in the capture of a jewel thief in their hotel.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T23:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Debra is upset when she realizes that she and Ray no longer have anything to say to each other.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-12T23:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray becomes overdramatic after learning that Debra is comfortable with the twins performing as fairies in a school play.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-13T00:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Robert gets a surprise visit from the woman he fell in love with when the Barones vacationed in Italy.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:35:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-13T00:35:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray buys a new state-of-the-art vacuum cleaner from an attractive door-to-door saleswoman, which results in a cleaning war between Marie and Debra.",
+    "released": "2026-11-13T00:35:00.000Z",
+    "startTime": "2026-11-13T00:35:00.000Z",
+    "endTime": "2026-11-13T01:10:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-13T01:10:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Tempers flare when Marie accuses Debra of not returning a borrowed canister that has sentimental value.",
+    "released": "2026-11-13T01:10:00.000Z",
+    "startTime": "2026-11-13T01:10:00.000Z",
+    "endTime": "2026-11-13T01:45:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-13T01:45:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray ends up in the doghouse for a shaky financial decision, but it turns out he's not the only one who's guilty.",
+    "released": "2026-11-13T01:45:00.000Z",
+    "startTime": "2026-11-13T01:45:00.000Z",
+    "endTime": "2026-11-13T02:20:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-13T02:20:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "The women in Robert's life gather to discuss his relationship history.",
+    "released": "2026-11-13T02:20:00.000Z",
+    "startTime": "2026-11-13T02:20:00.000Z",
+    "endTime": "2026-11-13T02:55:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-13T02:55:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray is jealous because he thinks his brother Robert is spending too much time with his kids.",
+    "released": "2026-11-13T02:55:00.000Z",
+    "startTime": "2026-11-13T02:55:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-13T03:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Debra can't help but question the solidity of her relationship with Ray after her parents make a shocking announcement.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-13T04:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug and Carrie have different opinions about Deacon and Kelly's separation and share them with each other.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

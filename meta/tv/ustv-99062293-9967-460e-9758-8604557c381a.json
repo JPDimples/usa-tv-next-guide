@@ -1,0 +1,489 @@
+{
+ "meta": {
+  "id": "ustv-99062293-9967-460e-9758-8604557c381a",
+  "type": "tv",
+  "name": "ACC Network",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/acc-network-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/acc-network-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Sports"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T02:00:00.000Z",
+    "title": "Live: College Basketball",
+    "overview": "The Bucknell Bison visit the No. 9 Virginia Cavaliers for an NCAA Division I game in Virginia. Bucknell comes off a 96-67 loss to Maryland alongside guard Aleksander Pachucki, and Virginia rides a three-game win streak with forward Thijs De Ridder.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T04:00:00.000Z",
+    "title": "Live: Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T04:30:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T05:00:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T05:30:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T06:00:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T06:30:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T07:00:00.000Z",
+    "title": "College Football",
+    "overview": "The Florida State Seminoles (3-5) face the Boston College Eagles (4-4) at Alumni Stadium for an ACC match. Florida State seeks to snap a three-game skid after a 36-24 defeat to Clemson, while Boston College looks to rebound from a 47-2 loss to Duke.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T10:00:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T10:30:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T11:00:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T11:30:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T12:00:00.000Z",
+    "title": "College Football",
+    "overview": "The Tigers (5-3, 3-2 ACC) try to exact revenge from the Orange (4-4, 2-4). Syracuse snapped a six-game series slide with a 34-21 upset victory in 2025. The Orange have won two straight, by a combined four points, after surprising SMU last week.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T15:00:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T15:30:00.000Z",
+    "title": "Nothing But Net",
+    "overview": "Host Dalen Cuff and analysts Carlos Boozer and Luke Hancock keep fans apprised of the latest news and notes around the ACC and break down some of the conference's top matchups.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T16:00:00.000Z",
+    "title": "College Football",
+    "overview": "The Tigers (5-3, 3-2 ACC) try to exact revenge from the Orange (4-4, 2-4). Syracuse snapped a six-game series slide with a 34-21 upset victory in 2025. The Orange have won two straight, by a combined four points, after surprising SMU last week.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T19:00:00.000Z",
+    "title": "College Football",
+    "overview": "The Florida State Seminoles (3-5) face the Boston College Eagles (4-4) at Alumni Stadium for an ACC match. Florida State seeks to snap a three-game skid after a 36-24 defeat to Clemson, while Boston College looks to rebound from a 47-2 loss to Duke.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T22:00:00.000Z",
+    "title": "ACC Network Football Podcast",
+    "overview": "This podcast covers all things ACC football. Hosted by first round NFL Draft pick and former Florida State quarterback EJ Manuel and former Georgia Tech running back Roddy Jones.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-11T23:00:00.000Z",
+    "title": "ACC PM",
+    "overview": "Tune into ACC Network's daily news and information show - with the biggest storylines and best guests from across the ACC.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T00:00:00.000Z",
+    "title": "Live: Women's College Volleyball",
+    "overview": "From Fitzgerald Field House in Pittsburgh.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T02:00:00.000Z",
+    "title": "Live: All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T02:30:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T03:00:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T03:30:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T04:00:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T04:30:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T05:00:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T05:30:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T06:00:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T06:30:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T07:00:00.000Z",
+    "title": "College Football",
+    "overview": "The Warriors (4-5) visit the No. 16 Demon Deacons at Allegacy Federal Credit Union Stadium. The Warriors seek to make it three straight after beating the Seahawks 19-14. The Demon Deacons seek to make it six straight after beating the Cavaliers 51-7.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T10:00:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T10:30:00.000Z",
+    "title": "ACC Network Football Podcast",
+    "overview": "This podcast covers all things ACC football. Hosted by first round NFL Draft pick and former Florida State quarterback EJ Manuel and former Georgia Tech running back Roddy Jones.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T11:30:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T12:00:00.000Z",
+    "title": "College Football",
+    "overview": "The Florida State Seminoles (3-5) face the Boston College Eagles (4-4) at Alumni Stadium for an ACC match. Florida State seeks to snap a three-game skid after a 36-24 defeat to Clemson, while Boston College looks to rebound from a 47-2 loss to Duke.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T15:00:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T15:30:00.000Z",
+    "title": "All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T16:00:00.000Z",
+    "title": "Live: Women's College Soccer",
+    "overview": "First Semifinal.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T18:00:00.000Z",
+    "title": "Live: All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T19:00:00.000Z",
+    "title": "Live: Women's College Soccer",
+    "overview": "Second Semifinal.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T21:00:00.000Z",
+    "title": "Inside ACCess",
+    "overview": "All the information surrounding ACC sports.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T22:00:00.000Z",
+    "title": "Live: All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-12T22:30:00.000Z",
+    "title": "Live: Men's College Soccer",
+    "overview": "Second Semifinal.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-13T00:30:00.000Z",
+    "title": "Live: All ACC",
+    "overview": "Providing the latest news and information on the ACC's 28 sponsored sports - including post-game coverage around the conference's biggest events.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-13T01:30:00.000Z",
+    "title": "Live: Men's College Soccer",
+    "overview": "First Semifinal.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-13T03:30:00.000Z",
+    "title": "All Access the ACC Life",
+    "overview": "A glimpse of a day in the life of ACC student-athletes, coaches, staff, parents and fans.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a:epg:2026-11-13T04:00:00.000Z",
+    "title": "College Football",
+    "overview": "The SMU Mustangs (6-2) host the Virginia Tech Hokies (6-2) at Gerald J. Ford Stadium in an ACC matchup. Virginia Tech seeks its third straight win after beating Clemson 20-16, while SMU fell to Syracuse 30-27 and relies on quarterback Kevin Jennings.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T07:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

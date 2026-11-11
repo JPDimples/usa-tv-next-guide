@@ -1,0 +1,729 @@
+{
+ "meta": {
+  "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63",
+  "type": "tv",
+  "name": "TruTV",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/trutv-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/trutv-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T02:00:00.000Z",
+    "title": "Air",
+    "overview": "Sonny Vaccaro and Nike pursue basketball rookie Michael Jordan, creating a partnership that revolutionizes the world of sports and contemporary culture.",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T04:30:00.000Z",
+    "title": "Miracle",
+    "overview": "When college coach Herb Brooks (Kurt Russell) is hired to helm the 1980 U.S. men's Olympic hockey team, he brings a unique and brash style to the ice. After assembling a team of hot-headed college all-stars, who are humiliated in an early match, Brooks unites his squad against a common foe, the heav",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T07:00:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "Finding out what classic bit got started in an early episode, which Jokers used to live together, and why filming in Times Square becomes a bad idea.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T07:30:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "Why so many early-season challenges happened in a mall; how the production team hid their cameras; what Sal said that became an instant classic; what the Jokers and crew consider to be one of the first iconic moments of the show.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T08:00:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "Why the Jokers chose to wear Bluetooth earpieces for a challenge; how the crew finds focus group participants; why the punishment shoot was almost canceled; the challenges of filming at a gym in NYC's theater district.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T08:30:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "What game the Jokers have played five times throughout the show's history; how the crew and Murr got poison ivy; what game the Jokers have so much fun playing that they insist on taking extra turns.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T09:00:00.000Z",
+    "title": "Inogen Portable Oxygen - No More Tanks!",
+    "overview": "Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T09:30:00.000Z",
+    "title": "RateEscape: Stop Overpaying For Cellular",
+    "overview": "Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T10:00:00.000Z",
+    "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax Debt",
+    "overview": "See how one company is changing people's lives by helping them put their tax problems to rest.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T10:30:00.000Z",
+    "title": "RateEscape: Stop Overpaying For Cellular",
+    "overview": "Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T11:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Q, Sal, and Murr pose as cash-grabby waiters and later as embarrassing parents; after the losing Joker is forced into a far-out focus group punishment with special guest, and so-called Ganja Weasel, Blake Anderson.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T11:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Q, Sal, and Murr coax their trainees to secure donations through unusual ways; they discipline their kids with the help of fellow shoppers; Murr runs rampant as a Tailor-zilla at a bridal shop with guest star Bobby Moynihan.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T12:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Finding out whether the team can make it as film directors; celebrity guest Paula Abdul hosts a dinner for her fans, and Sal is in attendance.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T12:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Sal, Q, and Murr are put to the test; first as TV producers, then as product inventors, while the losing Joker won't be tooting his own horn, celebrity guest Roy Wood Jr. will.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T13:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The Jokers must send bizarre texts and pose as security guards, doing and saying whatever they're told; the losing Joker will be part of an elf orientation hosted by guest star Michael Ian Black.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T13:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The Jokers mix it up at an after-dark social event, and try getting park-goers to sign up for bizarre subscriptions; the losing Joker gets into an unforgettable battle of the sexes with special guest Kim Fields.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T14:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The Jokers ask random park goers to watch their grandma while they make a quick errand, then a fake documentary interviews them; the losing Joker gets dressed as a clown and punished by the other Jokers and returning special guest, Eric Andre.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T14:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The Jokers pose as lawyers with ridiculous contracts and mean no disrespect yet say disrespectful things to shoppers; the losing Joker is coached by Harvey Guillen on his latest acting method.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T15:00:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "While working in a cheese store, Michael milks the reaction of a woman stunned by breeding brie; Michael nails down the perfect app in a salon and unpacks a trick in an airport that ruffles his assistant's feathers.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T15:30:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "At a campsite, Michael turns rain into wine and has an app that gives new meaning to the call of nature; Michael gets thorny at a plant shop; while in a museum, Michael drums up ancient history that grasps for the present.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T16:00:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "At an appliance store, a man goes bananas over Michael's self-stocking fridge; Michael speeds up the life cycle of a frog in a science lab; Michael pulls the strings at an estate sale when a haunted doll toys with his assistant.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T16:30:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "Michael bakes bread in a deli with power tools; Michael's outfit change doesn't suit a tux store customer; at the Chicago White Sox's stadium, Michael swings for the fences with a fiery trick that stuns his helper.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T17:00:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "Michael unpacks an item at an antique shop with a message from beyond; Michael works a fundraiser where a painting raises not just money but the body of a nun.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T17:30:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "While working at a pool store, Michael flies on a kickboard and shows the culinary uses of a pool noodle; at a pet store, he breeds hamsters from pellets; Michael stuns his helper as moving day heats up with a fiery statue.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T18:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "From bombing job interviews to trashing their Nona's sauce, the Jokers are not on their game; one Loser is punished by confronting cellphone users.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T18:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Busy week for the Jokers as they fake their marriage and interview folks for an upcoming lifestyle article, but one Loser couldn't keep up and will be forced to curse out in tonight's punishment.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T19:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Reporting crimes and disrupting mealtimes in new challenges, but in the end, one Joker has to shed light onto something or someone important to complete his punishment.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T19:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The Jokers are hiding from their boss; they try to get away with sending bizarre emails; one loser won't make it through and is caught red-handed messing with women's purses.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T20:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The Jokers come in hot and correct rude behavior but not before adding an unusual fee to customers' bills; one of them couldn't wrap his mind around winning, so he must wrap his legs around something else.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T20:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The Jokers are at Raising Cane's, and following that, asking for help to carry some furniture; one of them will be strapped to a speeding race car for his punishment.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T21:00:00.000Z",
+    "title": "Miracle",
+    "overview": "When college coach Herb Brooks (Kurt Russell) is hired to helm the 1980 U.S. men's Olympic hockey team, he brings a unique and brash style to the ice. After assembling a team of hot-headed college all-stars, who are humiliated in an early match, Brooks unites his squad against a common foe, the heav",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-11T23:30:00.000Z",
+    "title": "NHL on TNT Face Off",
+    "overview": "Anson Carter, Paul Bissonnette, Henrik Lundqvist and Liam McHugh present pregame coverage.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T00:00:00.000Z",
+    "title": "Live: NHL Hockey",
+    "overview": "The Buffalo Sabres host the Tampa Bay Lightning in NHL regular-season play at KeyBank Center. The Buffalo Sabres have won three straight meetings against the Tampa Bay Lightning, including a 4-2 victory at home between two sides last April.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T02:30:00.000Z",
+    "title": "Live: NHL Hockey",
+    "overview": "From T-Mobile Arena in Las Vegas.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T05:30:00.000Z",
+    "title": "Live: NHL Post-Game on TNT",
+    "overview": "Liam McHugh, Anson Carter and Paul Bissonnette recap the night in the NHL.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T06:00:00.000Z",
+    "title": "Foul Play With Anthony Davis",
+    "overview": "NBA star Bam Adebayo pulls WNBA MVP A'ja Wilson into an uncomfortable autograph scandal; Anthony Davis drops NFL star safety Quentin Lake and NFL analyst Jay Glazer into chaos during a competition show gone wrong.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T06:30:00.000Z",
+    "title": "Foul Play With Anthony Davis",
+    "overview": "Anthony Davis pranks NFL linebacker Daiyan Henley with a lost-pet charity; pro-wrestler Sting pushes Darby Allin into a tense moral standoff.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T07:00:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "Behind the scenes to learn Murr and Sal's favorite sandwiches; which Joker is professionally certified in CPR; what gift Murr received when IJ first started that he still has today.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T07:30:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "Finding out which entrepreneur sparked a Jokers fashion debate, when Joe first started nosing people, and which challenge was originally filmed for the pilot episode.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T08:00:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "Learning why the Jokers wanted to film at a dentist's office, which challenge the crew considered to be one of the all-time greatest, and why filming on park benches is so challenging.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T08:30:00.000Z",
+    "title": "Impractical Jokers: Inside Jokes",
+    "overview": "Behind the scenes to find out why hair dryers got banned from the set, what moment has since become a fan and crew classic, and how Murr's blankie wound up on the show.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T09:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T10:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T11:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The team scouts for the next child star while trying not to laugh as Dan Jost reads his honest movie reviews in a focus group.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T11:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The Jokers are breaking and entering a home for a commercial where they showcase their wackiest and over the top performances; to top it off, one loser will be trolling his way through the Liberty Science Center's Touch Tunnel!",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T12:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Looks like the guys are selling sunsets, while later asking for help to film a bizarre video; one must lose and that one, must help a horse lose something from down under.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T12:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "One-star reviews are what Sal, Q, and Murr will be combating, and then testing their acting chops with special celebrity guest, Richard Kind; at the end, one of them will be forced to cut the line at a grocery store, over, and over, and over, and over.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T13:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "It's mayhem as the guys work as mall janitors with an out-of-control trash can and then devise a plan of revenge on our producer Dan Cast; in the end, two Jokers lose this episode race and will be getting the refill of a lifetime.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T13:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "From being overprotective parents to disclosing perplexing side effects, one Joker can't handle the challenges and will learn that all that glitters is not gold.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T14:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Q, Murr and Sal throw and catch grocery items in the Joker vs. Joker challenge with special celebrity guest, Jax.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T14:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Murr, Q and Sal sit alongside a stranger to participate in a documentary-style interview; they try to upcharge guests again as hotel concierge.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T15:00:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "While working at a book store, Michael feeds some bookworms; Michael serves food and gives new meaning to the term \"grass-fed beef\"; at a food testing center, Michael spooks his assistant when an experiment takes a new shape.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T15:30:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "Michael works in a spice shop and gets the icy treatment with his take on chilly flakes; at a hotel, Michael cleans a spill with his phone; at an abandoned house, Michael amazes his assistant when he climbs through a wormhole.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T16:00:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "At auditions, Michael wows directors with costume changes but cracks when he sings; things get sticky when he demos flying post-its; Michael's co-worker's jaw drops when a shape-shifting tenant returns while they clean house.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T16:30:00.000Z",
+    "title": "The Carbonaro Effect",
+    "overview": "Michael delivers a shock in a shipping store when packaged wine tips over and gets the bubble wrap tipsy; Michael dons the latest kernel fashions at a popcorn shop; Michael stuns his helper when a trick jumps off the screen at a theater.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T17:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "The Jokers are bad receptionists and must do and say what the other guys tell them; a Joker vs Joker challenge with Joey Fatone, followed by Joey Fatone's epic punishment culminating in the Jokers' previous punishments.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T17:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Sal and Murr air out their dirty laundry by sorting out the whites and colors of their relationship through past clips from the \"Couples Therapy Special\" with Casey Jost, unlicensed therapist.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T18:00:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Murr and Q are going on a trip down memory lane and watching extended never-been-seen-before clips from the last few years.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T18:30:00.000Z",
+    "title": "Impractical Jokers",
+    "overview": "Sal, Q and Murr kick off another season of antics by getting themselves stuck in a vent system and confusing customers at a bagel shop; our losing Joker will face humiliation in a punishment that's tough to swallow.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T19:00:00.000Z",
+    "title": "American Dad!",
+    "overview": "Francine insists that Steve let her help with his school project; Stan finally fixes that shingle; the rest of the family goes on a quest to return Gallagher's mallet.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T19:30:00.000Z",
+    "title": "American Dad!",
+    "overview": "It's Halloween night and Stan is missing, so the Smith gang heads to the spooky, abandoned CIA headquarters to investigate.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T20:00:00.000Z",
+    "title": "American Dad!",
+    "overview": "The judgmental voice in Hayley's head makes it impossible for her to enjoy a girls' night with Nerfer and Danuta.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T20:30:00.000Z",
+    "title": "American Dad!",
+    "overview": "When Steve gives the family better Christmas gifts than Stan, Stan goes to great lengths to regain his title of King of Presents.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T21:00:00.000Z",
+    "title": "American Dad!",
+    "overview": "When Stan discovers anonymous love letters written to Francine, he worries that this secret admirer could threaten their relationship.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T21:30:00.000Z",
+    "title": "American Dad!",
+    "overview": "In an attempt to maintain his \"prime,\" Stan explores some cosmetic solutions that could not go worse.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T22:00:00.000Z",
+    "title": "American Dad!",
+    "overview": "When Stan goes too far to keep his work friend away from Francine, she is forced to save her new little friend.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T22:30:00.000Z",
+    "title": "American Dad!",
+    "overview": "Hayley makes Jeff get a friend to add some mystery to their relationship but gets more mystery than she bargained for; Francine attempts to grow the world's longest fingernails.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T23:00:00.000Z",
+    "title": "American Dad!",
+    "overview": "The Smiths get new neighbors; Roger dreads having to be a little boy's kite for a day.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-12T23:30:00.000Z",
+    "title": "DAZN Boxing",
+    "overview": "The boxing action from DAZN.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-13T00:30:00.000Z",
+    "title": "Glory Road",
+    "overview": "After being appointed the new coach of the 1966 Texas Miners, Don Haskins (Josh Lucas) decides to build a team based on talent rather than race. The conservative townsfolk balk at the new racially diverse lineup despite the fact that the team is winning all their games. When black players like Bobby",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63:epg:2026-11-13T03:00:00.000Z",
+    "title": "Glory Road",
+    "overview": "After being appointed the new coach of the 1966 Texas Miners, Don Haskins (Josh Lucas) decides to build a team based on talent rather than race. The conservative townsfolk balk at the new racially diverse lineup despite the fact that the team is winning all their games. When black players like Bobby",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T05:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

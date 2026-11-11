@@ -1,0 +1,889 @@
+{
+ "meta": {
+  "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507",
+  "type": "tv",
+  "name": "IFC",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/ifc-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ifc-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T03:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "After taking a loan from Evelyn, Alan is guilted into double-dating with her, her new romantic interest and his daughter.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T03:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Alan is reluctant to leave Jake with Evelyn for a sleepover visit until he finds himself partying with Charlie and a busload of beautiful female volleyball players.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T04:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Charlie unknowingly sleeps with an elderly man's (Orson Bean) hot trophy wife.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T04:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "After Alan falls off the roof, Charlie volunteers to watch Jake for the weekend.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T05:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Alan has second thoughts about getting married after he's asked to sign a prenup.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T05:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Alan and Walden must be perceived as a loving couple during a meeting with an adoption social worker; Lyndsey returns from rehab.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T06:00:00.000Z",
+    "title": "Cue The Laughs",
+    "overview": "Comedian Adam Ray celebrates the classic sitcom vacation episode with hilarious real-life clips featuring beach disasters, lake wipeouts, zip-line falls, camping mishaps, hotel hijinks, and winter sports gone wrong.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T06:30:00.000Z",
+    "title": "Cue The Laughs",
+    "overview": "Comedian Adam Ray clocks in for a hilarious look at the TV workplace comedy with real-life clips featuring incompetent bosses, laughable pranks, wild parties, office blunders and slacker co-workers who take doing nothing to a whole new level.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T07:00:00.000Z",
+    "title": "Night Court",
+    "overview": "Harry gets the surprise of his life when an elderly woman (Janis Paige) announces she is his long-lost mother.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T07:30:00.000Z",
+    "title": "Night Court",
+    "overview": "Bull's menacing appearance works against him when he applies for a position as a volunteer father.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T08:00:00.000Z",
+    "title": "Night Court",
+    "overview": "Harry is shaken up when he receives a death threat then finds a bomb in his chair, and a psychiatric patient claiming to be God roams the halls.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T08:30:00.000Z",
+    "title": "Night Court",
+    "overview": "A determined prostitute pursues Harry, much to Lana's disapproval.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T09:00:00.000Z",
+    "title": "Night Court",
+    "overview": "Dan is infuriated when he discovers his attractive assistant is dating other men -- including Harry and Bull.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T09:30:00.000Z",
+    "title": "Night Court",
+    "overview": "Lana's prescribed medication for a virus results in changed behavior -- and it is Harry who must deal with her overactive libido.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T10:00:00.000Z",
+    "title": "Night Court",
+    "overview": "A Russian immigrant, charged with possession of stolen merchandise, threatens to set himself on fire.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T10:30:00.000Z",
+    "title": "Night Court",
+    "overview": "Harry falls for a rock star, but soon learns that the relationship won't work.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T11:00:00.000Z",
+    "title": "Night Court",
+    "overview": "Bull takes care of a neighbor's baby, not realizing that the mother has abandoned the child.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T11:30:00.000Z",
+    "title": "Night Court",
+    "overview": "The court deals with a man who, once declared legally dead, returns home to his wife to find she has remarried.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T12:00:00.000Z",
+    "title": "Night Court",
+    "overview": "An attractive witness falls for Harry -- the only problem is that she's a nun.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T12:30:00.000Z",
+    "title": "Night Court",
+    "overview": "A young defense attorney's (Markie Post) court debut is marred by the presence of her disruptive father.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T13:00:00.000Z",
+    "title": "Night Court",
+    "overview": "A new defense attorney is jailed for protecting a client accused of kidnapping a cat.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T13:30:00.000Z",
+    "title": "Night Court",
+    "overview": "After winning a $3 million lottery, a generous man wants Harry to find someone who can use the money.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T14:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "The Ropers meet their snobbish new neighbor.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T14:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Roper invites Jack and the girls to a surprise disco party for Helen.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T15:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack disguises himself as Chrissy to avoid FBI agents who are on his trail.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T15:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Chrissy catches Jack working as a paid escort.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T16:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "The threesome accidentally sells the new landlord's furniture.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T16:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Chrissy tries to sell cosmetics at Ralph Furley's poker game.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T17:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "The girls crash Jack's weekend in a remote cabin.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T17:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack sheds his Mr. Nice Guy image with the help of some assertiveness training.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T18:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "A grateful man offers the trio a free penthouse.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T18:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack and Janet worry about Chrissy's health.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T19:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "The roommates take in an old man whose apartment has been converted into a condominium.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T19:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack gives cooking lessons to a mobster's wife.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T20:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack must choose a guest for a luxury cruise.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T20:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Ralph says Chrissy is his wife to impress a rival.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T21:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "A letter in a newspaper column convinces each of the two girls that the other is having an affair with Jack.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T21:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Chrissy's minister father announces that the roommates' living arrangement is jeopardizing his new appointment.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T22:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Robert and Amy exchange vows in a classic Barone family wedding ceremony.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T22:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Tightly wound Debra decides to join Ray on a golf outing in order to recover their former fun-loving relationship.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T23:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Marie nags Amy, her new daughter-in-law, to send out \"thank you\" notes; Debra is thrilled that she finally has an ally to oppose Marie.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T23:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Michael claims he's too sick to go to school and spends an entire day watching Ray work in his downstairs office.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T00:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Alan must see the school principal over a picture Jake drew of a schoolmate and calls Charlie to watch over the boy.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T00:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Charlie organizes an intervention to keep Alan from reuniting with Judith.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T01:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Berta moves into Charlie's house for a few days and plays one brother against the other.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T01:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Charlie responds inappropriately to a woman's declaration of love, and Rose says his inability to have a long-lasting relationship is due to unresolved issues with his mother.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T02:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Charlie likes dating Isabella (Jodi Lyn O'Keefe), a wild, sexually uninhibited woman, until she threatens to put a curse on his manhood.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T02:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Rose's father (Martin Sheen) confronts Charlie about his intentions toward Rose.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T03:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Charlie cons Jake into taking ballet lessons in order to get close to the teacher.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T03:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Charlie tries to stop Jake from giving money to a televangelist; Alan is propositioned by one of Charlie's elderly neighbors.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T04:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Alan organizes a family dinner to celebrate a newspaper article that calls him a good doctor, good neighbor and a good guy; it does not impress his mother.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T04:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Alan begins dating a controlling woman who takes over the house during the Christmas holidays; after it becomes obvious that Sandy in mentally unstable, Charlie refuses to let Alan break up with her.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T05:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "A birth mother considers having Walden and Alan adopt her baby.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T05:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Walden takes in a foster child named Louis but wonders if he made the right decision when they don't bond as he expected.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T06:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "Chrissy and Jack try to cool Larry's ardor for Janet.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T06:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack runs into trouble when he dates a pretty gym instructor.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T07:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack faces eviction when he lets it slip to Furley that he is not gay.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T07:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack and Chrissy are handcuffed together as a joke and then discover they have no key.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T08:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "Chrissy and Jack think Janet wants a baby.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T08:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "A 12-year-old runaway moves into the apartment.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T09:00:00.000Z",
+    "title": "Cue The Laughs",
+    "overview": "Comedian Adam Ray celebrates the classic sitcom vacation episode with hilarious real-life clips featuring beach disasters, lake wipeouts, zip-line falls, camping mishaps, hotel hijinks, and winter sports gone wrong.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T09:30:00.000Z",
+    "title": "Cue The Laughs",
+    "overview": "Comedian Adam Ray clocks in for a hilarious look at the TV workplace comedy with real-life clips featuring incompetent bosses, laughable pranks, wild parties, office blunders and slacker co-workers who take doing nothing to a whole new level.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T10:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack becomes enraged when his brother decides to romance Chrissy.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T10:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Chrissy's big track winnings threaten to split the threesome.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T11:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "Chrissy sets up a rendezvous with the man who has been sending her secret love notes.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T11:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "The roommates help Furley attract a lady friend.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T12:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "A dishonest student may prevent Jack's graduation.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T12:30:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack charges his new boss with sexual harassment.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T13:00:00.000Z",
+    "title": "Three's Company",
+    "overview": "Jack and Larry unknowingly date the same woman.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T13:30:00.000Z",
+    "title": "Cue The Laughs",
+    "overview": "Comedian Adam Ray celebrates the classic sitcom vacation episode with hilarious real-life clips featuring beach disasters, lake wipeouts, zip-line falls, camping mishaps, hotel hijinks, and winter sports gone wrong.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T14:00:00.000Z",
+    "title": "Cue The Laughs",
+    "overview": "Comedian Adam Ray clocks in for a hilarious look at the TV workplace comedy with real-life clips featuring incompetent bosses, laughable pranks, wild parties, office blunders and slacker co-workers who take doing nothing to a whole new level.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T14:30:00.000Z",
+    "title": "Iron Eagle",
+    "overview": "When Col. Ted Masters' (Tim Thomerson) plane goes down in an Arab country, and he's sentenced to death for trespassing, his 18-year-old son, Doug (Jason Gedrick), is determined to save him. Unfortunately, Doug isn't the best fighter pilot -- he wasn't accepted into the Air Force because he needs to ",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T17:15:00.000Z",
+    "runtime": "165 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T17:15:00.000Z",
+    "title": "Crocodile Dundee",
+    "overview": "A New York reporter heads to Australia to interview the living legend Mike Dundee (Paul Hogan). When she finally locates him, she is so taken with him that she brings him back with her to New York. In New York, Mike Dundee is amazed by the wonders of the city and the interesting people there.",
+    "released": "2026-11-12T17:15:00.000Z",
+    "startTime": "2026-11-12T17:15:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T19:30:00.000Z",
+    "title": "Crocodile Dundee II",
+    "overview": "Mick \"Crocodile\" Dundee (Paul Hogan) is settling into his new Manhattan home when a South American drug dealer (Hechter Ubarry) abducts his girlfriend, Sue Charlton (Linda Kozlowski). The drug dealer thinks images of his criminal activities, taken by Sue's photographer ex-husband, are now in her han",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T22:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "After just three months of wedded bliss, Robert and Amy try to offer Ray and Debra advice on building a happy marriage.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T22:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray's contractor friend takes an eternity to replace the kitchen stove.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T23:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "When Amy invites her brother to stay for dinner, he makes himself comfortable on the couch and never leaves.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-12T23:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray's little white lie to get out of spending the evening with his mother snowballs into an intricate deception.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-13T00:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Alan's emotional breakdown after dropping Jake off for a weekend away to a friend's house sends Charlie to a therapist.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-13T00:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Charlie has to deal with the challenges of a committed relationship that doesn't revolve around sex when he starts dating Mia.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-13T01:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Charlie plans a romantic date with Mia in hopes of consummating their relationship; Alan starts dating Charlie's most recent ex-girlfriend.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-13T01:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "When Charlie finds he can no longer handle the healthy lifestyle that Mia has imposed on him, he sneaks cigars, beer and burgers into the garage.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-13T02:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Alan tries to avoid bringing his sexy 22-year-old girlfriend to Jake's birthday party.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-13T02:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Charlie boycotts an advertising awards banquet, having lost several years in a row to his nemesis, Archie (Jon Lovitz).",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-13T03:00:00.000Z",
+    "title": "Cue The Laughs",
+    "overview": "Comedian Adam Ray celebrates the classic sitcom vacation episode with hilarious real-life clips featuring beach disasters, lake wipeouts, zip-line falls, camping mishaps, hotel hijinks, and winter sports gone wrong.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-13T03:30:00.000Z",
+    "title": "Cue The Laughs",
+    "overview": "Comedian Adam Ray clocks in for a hilarious look at the TV workplace comedy with real-life clips featuring incompetent bosses, laughable pranks, wild parties, office blunders and slacker co-workers who take doing nothing to a whole new level.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-13T04:00:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Alan gets into financial trouble because he keeps paying the expenses of his young girlfriend, Kandi.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

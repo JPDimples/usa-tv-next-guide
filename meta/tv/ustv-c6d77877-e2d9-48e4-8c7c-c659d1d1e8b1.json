@@ -1,0 +1,519 @@
+{
+ "meta": {
+  "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1",
+  "type": "tv",
+  "name": "American Heroes Channel",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/american-heroes-channel-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/american-heroes-channel-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Documentaries"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T03:00:00.000Z",
+    "title": "Ultimate Warfare",
+    "overview": "Americans take on the most powerful navy in the world in a battle that will change of the course the Pacific war.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T04:00:00.000Z",
+    "title": "Ultimate Warfare",
+    "overview": "American forces fight thousands of Japanese soldiers on mountainous terrain and treacherous conditions.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T05:00:00.000Z",
+    "title": "Ultimate Warfare",
+    "overview": "A tank battalion smashes into Saddam Hussein's Baghdad in what would become one of the most decisive battles of the Iraq war.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T06:00:00.000Z",
+    "title": "Ultimate Warfare",
+    "overview": "Ill-prepared U.S. ships take on the largest battleships ever built in the biggest naval battle in history.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T07:00:00.000Z",
+    "title": "Ultimate Warfare",
+    "overview": "Americans take on the most powerful navy in the world in a battle that will change of the course the Pacific war.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T08:00:00.000Z",
+    "title": "Ultimate Warfare",
+    "overview": "American forces fight thousands of Japanese soldiers on mountainous terrain and treacherous conditions.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T09:00:00.000Z",
+    "title": "Ultimate Warfare",
+    "overview": "Surrounded and outnumbered, six thousand marines fend off the Communist army for 77 days during the Vietnam War.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T10:00:00.000Z",
+    "title": "Ultimate Warfare",
+    "overview": "U.S. special forces face off against a much larger Taliban insurgence to take control of Kandahar.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T11:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "The British Special Air Service utilizes insertion behind enemy lines to combat terrorism.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T12:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "The amphibious troops of the British Royal Marine Commandos.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T13:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "Extreme Warriors are trained to live and fight in the harshest environments known to man - exposed mountaintops, extreme altitude, sub-zero temperatures, snowstorms - these guys bring the pain in any terrain.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T14:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "Combat engineers use their skills to both build and destroy.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T15:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "Foreign volunteers leave their past lives behind to fight for the glory of France.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T16:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "Members of Russia's elite fighting force work in counterterrorist strike squads and special operations.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T17:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Secrets of gambling mecca Las Vegas include the city's connection to organized crime, crafty tricks used by casinos and why the Nazis considered it a target for sabotage.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T18:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "American Nazis hold rallies at New York's Madison Square Garden in the 1930s and plot to steal the nation's weapons secrets.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T19:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Investigating the possibility that alien beings helped construct pyramids and other earthly monuments; Swiss author Erich von D\u00e4niken's works challenge religion and science.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T20:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Fascinating facts about America's Founding Fathers reveal which one used sex as a weapon of diplomacy and which one engaged in the nation's greatest cover-up.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T21:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Investigating the United States' most infamous cults, from fire-and-brimstone organizations to those worshiping visitors from space.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T22:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "The U.S. government attempts to create telepathic supersoldiers in the days of the Cold War; criminal Whitey Bulger volunteers to take part in a top-secret CIA mind-control program.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-11T23:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Since ancient times, man has gone to extreme and often deadly lengths to get gold, one of the rarest treasures on Earth; looking at where the gold is today and who owns it.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T00:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "The secrets and scandals surrounding the Vatican are some of the darkest in all of history.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T01:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "American code breakers have given the United States an edge in every conflict in American history.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T02:00:00.000Z",
+    "title": "UFOs Over Earth",
+    "overview": "The Mutual UFO Network investigates a possible UFO sighting and abduction using the tools of science, psychology and law enforcement.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T03:00:00.000Z",
+    "title": "UFOs Over Earth",
+    "overview": "MUFON has a hard time separating fact from fiction as they travel to three cities in Mexico.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T04:00:00.000Z",
+    "title": "UFOs Over Earth",
+    "overview": "The MUFON investigators converge on Bucks County in Pennsylvania because of a quick rise in UFO sightings.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T05:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "American code breakers have given the United States an edge in every conflict in American history.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T06:00:00.000Z",
+    "title": "UFOs Over Earth",
+    "overview": "The Mutual UFO Network investigates a possible UFO sighting and abduction using the tools of science, psychology and law enforcement.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T07:00:00.000Z",
+    "title": "UFOs Over Earth",
+    "overview": "MUFON has a hard time separating fact from fiction as they travel to three cities in Mexico.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T08:00:00.000Z",
+    "title": "UFOs Over Earth",
+    "overview": "The MUFON investigators converge on Bucks County in Pennsylvania because of a quick rise in UFO sightings.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T09:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Since ancient times, man has gone to extreme and often deadly lengths to get gold, one of the rarest treasures on Earth; looking at where the gold is today and who owns it.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T10:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "The secrets and scandals surrounding the Vatican are some of the darkest in all of history.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T11:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "Technological innovation has resulted in the production of rifles that can kill from a distance of 2,000 yards.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T12:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "The history of armor protection, from the suits worn by medieval knights to the latest high-tech apparel.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T13:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "Tracing the history of infantry weapons for the individual.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T14:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "The history of artillery, from catapults to cannons.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T15:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "Tracing the development of helicopters and other vertical take-off aircraft.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T16:00:00.000Z",
+    "title": "Weaponology",
+    "overview": "Tracing the history of bombers, from early aircraft to the bunker-busters of today.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T17:00:00.000Z",
+    "title": "UFOs Over Earth",
+    "overview": "The Mutual UFO Network investigates a possible UFO sighting and abduction using the tools of science, psychology and law enforcement.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T18:00:00.000Z",
+    "title": "UFOs Over Earth",
+    "overview": "MUFON has a hard time separating fact from fiction as they travel to three cities in Mexico.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T19:00:00.000Z",
+    "title": "UFOs Over Earth",
+    "overview": "The MUFON investigators converge on Bucks County in Pennsylvania because of a quick rise in UFO sightings.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T20:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "A secret society gathers in the dead of night and plots the assassination of President Abraham Lincoln; U.S. spymaster Allan Pinkerton stops Confederate agents before they can topple the Union.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T21:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Many of the Founding Fathers and 14 U.S. presidents were members of the secret society known as the Freemasons.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T22:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Bordellos, which have endured for thousands of years, hold secrets involving famous patrons, governments and religion.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-12T23:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "An examination of underground bunkers, from their use in ancient wartime planning to the hidden survival complexes found beneath modern American cities.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-13T00:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Investigating UFOs and the strange stories surrounding them, including the existence of a \"shadow government\" and the rumor of a Nazi flying saucer that crashed in New Mexico.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-13T01:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Some motorcycle clubs are viewed not as social clubs for nonconformists but as organized crime syndicates.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-13T02:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Secrets involving the federal penitentiary on Alcatraz Island, including the escape of three prisoners and the remnants of a strange military outpost with ties to President Abraham Lincoln.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-13T03:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "Secrets of gambling mecca Las Vegas include the city's connection to organized crime, crafty tricks used by casinos and why the Nazis considered it a target for sabotage.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1:epg:2026-11-13T04:00:00.000Z",
+    "title": "Codes and Conspiracies",
+    "overview": "American Nazis hold rallies at New York's Madison Square Garden in the 1930s and plot to steal the nation's weapons secrets.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

@@ -1,0 +1,269 @@
+{
+ "meta": {
+  "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38",
+  "type": "tv",
+  "name": "Showtime",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/showtime-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/showtime-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Premium"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T03:00:00.000Z",
+    "title": "Apocalypse Now Redux",
+    "overview": "Secret ops assassin Captain Willard (Martin Sheen) is sent on a mission up a river during the Vietnam War to \"terminate with extreme prejudice\" the errant Colonel Kurtz (Marlon Brando). In addition to being re-edited with the new footage, the film has been completely restored, converted to digital, ",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T06:15:00.000Z",
+    "runtime": "195 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T06:15:00.000Z",
+    "title": "Universal Soldier",
+    "overview": "During the Vietnam War, soldier Luc Deveraux (Jean-Claude Van Damme) finds that his superior officer, Andrew Scott (Dolph Lundgren), has turned violently deranged, and the two fight to the death. After their bodies are retrieved, they are placed into a secret program in which they are reanimated and",
+    "released": "2026-11-11T06:15:00.000Z",
+    "startTime": "2026-11-11T06:15:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "105 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T08:00:00.000Z",
+    "title": "Horrible Bosses",
+    "overview": "Nick (Jason Bateman), Dale (Charlie Day) and Kurt (Jason Sudeikis) are workers who would like nothing better than to grind their oppressive employers into the dirt. Quitting their jobs is not an option, so -- fueled by alcohol and dubious advice from a criminal (Jamie Foxx) -- the men devise a compl",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:45:00.000Z",
+    "runtime": "105 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T09:45:00.000Z",
+    "title": "The Guilt Trip",
+    "overview": "Before embarking on a once-in-a-lifetime road trip, Andy Brewster pays a visit to his overbearing mother, Joyce. That proves to be a big mistake; Andy caves in under pressure to take his mom along for the ride. Early on -- as the miles roll by -- Andy feels nothing but aggravation at her antics. Eve",
+    "released": "2026-11-11T09:45:00.000Z",
+    "startTime": "2026-11-11T09:45:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "105 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T11:30:00.000Z",
+    "title": "Snoopy, Come Home",
+    "overview": "Charlie Brown's (Chad Webber) beloved dog Snoopy (Bill Melendez) receives a letter from his original owner, Lila (Johanna Baer), who has been sick in the hospital. With his bird friend Woodstock, Snoopy goes to visit Lila, making his way across the country despite seeing \"no dogs allowed\" signs ever",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:55:00.000Z",
+    "runtime": "85 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T12:55:00.000Z",
+    "title": "JFK Revisited: Through the Looking Glass",
+    "overview": "Filmmaker Oliver Stone examines the circumstances surrounding the assassination of President John F. Kennedy on Nov. 22, 1963, in Dallas.",
+    "released": "2026-11-11T12:55:00.000Z",
+    "startTime": "2026-11-11T12:55:00.000Z",
+    "endTime": "2026-11-11T14:55:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T14:55:00.000Z",
+    "title": "Argo",
+    "overview": "On Nov. 4, 1979, militants storm the U.S. embassy in Tehran, Iran, taking 66 American hostages. Amid the chaos, six Americans manage to slip away and find refuge with the Canadian ambassador. Knowing that it's just a matter of time before the refugees are found and likely executed, the U.S. governme",
+    "released": "2026-11-11T14:55:00.000Z",
+    "startTime": "2026-11-11T14:55:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "125 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T17:00:00.000Z",
+    "title": "Saving Private Ryan",
+    "overview": "Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching for Ryan, each man embarks upon a personal journey and discovers their own strength to triumph over ",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T19:55:00.000Z",
+    "runtime": "175 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T19:55:00.000Z",
+    "title": "Grizzly Night",
+    "overview": "On August 12th, 1967, in Montana's Glacier National Park, the unthinkable happens, and on the same night, nine miles apart, there are two fatal grizzly bear attacks.",
+    "released": "2026-11-11T19:55:00.000Z",
+    "startTime": "2026-11-11T19:55:00.000Z",
+    "endTime": "2026-11-11T21:25:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T21:25:00.000Z",
+    "title": "Up in the Air",
+    "overview": "An idea from a young, new co-worker (Anna Kendrick) would put an end to the constant travel of corporate downsizer Ryan Bingham (George Clooney), so he takes her on a tour to demonstrate the importance of face-to-face meetings with those they must fire. While mentoring his colleague, he arranges hoo",
+    "released": "2026-11-11T21:25:00.000Z",
+    "startTime": "2026-11-11T21:25:00.000Z",
+    "endTime": "2026-11-11T23:15:00.000Z",
+    "runtime": "110 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-11T23:15:00.000Z",
+    "title": "Behind Enemy Lines",
+    "overview": "A Navy pilot (Owen Wilson) is shot down over enemy territory, and struggles to survive the relentless pursuit of a ruthless secret police enforcer, a deadly tracker, and countless hostile troops. With time running out, the injured pilot's commanding officer (Gene Hackman) goes against orders to carr",
+    "released": "2026-11-11T23:15:00.000Z",
+    "startTime": "2026-11-11T23:15:00.000Z",
+    "endTime": "2026-11-12T01:05:00.000Z",
+    "runtime": "110 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T01:05:00.000Z",
+    "title": "Saving Private Ryan",
+    "overview": "Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching for Ryan, each man embarks upon a personal journey and discovers their own strength to triumph over ",
+    "released": "2026-11-12T01:05:00.000Z",
+    "startTime": "2026-11-12T01:05:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "175 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T04:00:00.000Z",
+    "title": "Flags of Our Fathers",
+    "overview": "In February and March 1945, U.S. troops fight and win one of the most crucial and costly battles of the war on the island of Iwo Jima. A photo of U.S. servicemen raising the flag on Mount Suribachi becomes an iconic symbol of victory to a war-weary nation. The individuals themselves become heroes, t",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T06:15:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T06:15:00.000Z",
+    "title": "Se7en",
+    "overview": "When retiring police Detective William Somerset (Morgan Freeman) tackles a final case with the aid of newly transferred David Mills (Brad Pitt), they discover a number of elaborate and grizzly murders. They soon realize they are dealing with a serial killer (Kevin Spacey) who is targeting people he ",
+    "released": "2026-11-12T06:15:00.000Z",
+    "startTime": "2026-11-12T06:15:00.000Z",
+    "endTime": "2026-11-12T08:25:00.000Z",
+    "runtime": "130 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T08:25:00.000Z",
+    "title": "300",
+    "overview": "In 480 B.C. a state of war exists between Persia, led by King Xerxes (Rodrigo Santoro), and Greece. At the Battle of Thermopylae, Leonidas (Gerard Butler), king of the Greek city state of Sparta, leads his badly outnumbered warriors against the massive Persian army. Though certain death awaits the S",
+    "released": "2026-11-12T08:25:00.000Z",
+    "startTime": "2026-11-12T08:25:00.000Z",
+    "endTime": "2026-11-12T10:25:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T10:25:00.000Z",
+    "title": "Grumpy Old Men",
+    "overview": "John Gustafson (Jack Lemmon) and Max Goldman (Walter Matthau) are two curmudgeonly neighbors who have been at each other's throats for years. The rivalry of the former friends intensifies when Ariel (Ann-Margret) comes along and provides a love interest for both of them. When Max finds out that John",
+    "released": "2026-11-12T10:25:00.000Z",
+    "startTime": "2026-11-12T10:25:00.000Z",
+    "endTime": "2026-11-12T12:15:00.000Z",
+    "runtime": "110 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T12:15:00.000Z",
+    "title": "The Manchurian Candidate",
+    "overview": "Years after his squad was ambushed during the Gulf War, Major Ben Marco (Denzel Washington) finds himself having terrible nightmares. He begins to doubt that his fellow squad-mate Sergeant Raymond Shaw (Liev Schreiber), now a vice-presidential candidate, is the hero he remembers him being. As Marco'",
+    "released": "2026-11-12T12:15:00.000Z",
+    "startTime": "2026-11-12T12:15:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T14:30:00.000Z",
+    "title": "Rock of Ages",
+    "overview": "The songs of Journey, Bon Jovi, Def Leppard and other artists underscore a tale of big dreams in Hollywood. Soon after hopping off a bus from the Midwest, aspiring singer Sherrie Christian immediately finds herself in trouble. Coming to her rescue is Drew, a bar-back at the legendary club the Bourbo",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T16:35:00.000Z",
+    "runtime": "125 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T16:35:00.000Z",
+    "title": "Ghost in the Shell",
+    "overview": "In the near future, Major is the first of her kind: a human who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals. When terrorism reaches a new level that includes the ability to hack into people's minds and control them, Major is uniquely qualified t",
+    "released": "2026-11-12T16:35:00.000Z",
+    "startTime": "2026-11-12T16:35:00.000Z",
+    "endTime": "2026-11-12T18:25:00.000Z",
+    "runtime": "110 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T18:25:00.000Z",
+    "title": "Baby Driver",
+    "overview": "Talented getaway driver Baby relies on the beat of his personal soundtrack to be the best in the game. After meeting the woman of his dreams, he sees a chance to ditch his shady lifestyle and make a clean break. Coerced into working for a crime boss, Baby must face the music as a doomed heist threat",
+    "released": "2026-11-12T18:25:00.000Z",
+    "startTime": "2026-11-12T18:25:00.000Z",
+    "endTime": "2026-11-12T20:20:00.000Z",
+    "runtime": "115 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T20:20:00.000Z",
+    "title": "Molly's Game",
+    "overview": "The true story of Molly Bloom, a beautiful, young, Olympic-class skier who ran the world's most exclusive high-stakes poker game for a decade before being arrested in the middle of the night by 17 FBI agents wielding automatic weapons. Her players included Hollywood royalty, sports stars, business t",
+    "released": "2026-11-12T20:20:00.000Z",
+    "startTime": "2026-11-12T20:20:00.000Z",
+    "endTime": "2026-11-12T22:45:00.000Z",
+    "runtime": "145 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-12T22:45:00.000Z",
+    "title": "The Manchurian Candidate",
+    "overview": "Years after his squad was ambushed during the Gulf War, Major Ben Marco (Denzel Washington) finds himself having terrible nightmares. He begins to doubt that his fellow squad-mate Sergeant Raymond Shaw (Liev Schreiber), now a vice-presidential candidate, is the hero he remembers him being. As Marco'",
+    "released": "2026-11-12T22:45:00.000Z",
+    "startTime": "2026-11-12T22:45:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-13T01:00:00.000Z",
+    "title": "The Equalizer 2",
+    "overview": "Robert McCall's mysterious past cuts especially close to home when thugs kill Susan Plummer, his best friend and former colleague. Now out for revenge, McCall must take on a crew of highly trained assassins who'll stop at nothing to destroy him.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-13T03:00:00.000Z",
+    "title": "Dexter: Resurrection",
+    "overview": "Still navigating his midlife crisis, Dexter finds no comfort as the Five Borough Killer captivates New York; Harrison starts his first day at NYPD Homicide, while an unexpected ally and a familiar face complicate Dexter's next hunt.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38:epg:2026-11-13T04:00:00.000Z",
+    "title": "It Gets Worse",
+    "overview": "Newly evicted best friends Ethan, Abi and Sam escape reality with one last unforgettable night out at a London gay club; but when long-buried tensions surface, the trio must confront whether their friendship can survive the fallout.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2",
+  "type": "tv",
+  "name": "Fox Sports",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-sports-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-sports-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Sports"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T02:45:00.000Z",
+    "title": "Best of Wake Up Barstool",
+    "overview": "Outspoken and unfiltered takes on some of the biggest stories in sports, featuring Dave Portnoy and the Barstool crew.",
+    "released": "2026-11-11T02:45:00.000Z",
+    "startTime": "2026-11-11T02:45:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "45 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T03:30:00.000Z",
+    "title": "The Herd With Colin Cowherd",
+    "overview": "A thought-provoking, opinionated and topic-driven journey through the top sports stories of the day with host Colin Cowherd.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T04:00:00.000Z",
+    "title": "First Things First",
+    "overview": "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T04:30:00.000Z",
+    "title": "First Things First: OT",
+    "overview": "Nick Wright, Chris Broussard, Kevin Wildes and OT anchor Danny Parkins offer their opinions on the day's sports stories.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T05:00:00.000Z",
+    "title": "Beyond the Wheel 2019",
+    "overview": "The turbulent career of a NASCAR legend  grassroots racer  racers achieve success in country music.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T06:00:00.000Z",
+    "title": "Best of Wake Up Barstool",
+    "overview": "Outspoken and unfiltered takes on some of the biggest stories in sports, featuring Dave Portnoy and the Barstool crew.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:45:00.000Z",
+    "runtime": "45 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T06:45:00.000Z",
+    "title": "Best of Wake Up Barstool",
+    "overview": "Outspoken and unfiltered takes on some of the biggest stories in sports, featuring Dave Portnoy and the Barstool crew.",
+    "released": "2026-11-11T06:45:00.000Z",
+    "startTime": "2026-11-11T06:45:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "45 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T07:30:00.000Z",
+    "title": "The Herd With Colin Cowherd",
+    "overview": "A thought-provoking, opinionated and topic-driven journey through the top sports stories of the day with host Colin Cowherd.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T08:00:00.000Z",
+    "title": "First Things First",
+    "overview": "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T08:30:00.000Z",
+    "title": "First Things First: OT",
+    "overview": "Nick Wright, Chris Broussard, Kevin Wildes and OT anchor Danny Parkins offer their opinions on the day's sports stories.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T09:00:00.000Z",
+    "title": "Welcome to the J-Rod Show",
+    "overview": "MLB player Julio Rodriguez spends time at performance lab to assess the science behind his swing.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

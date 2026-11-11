@@ -1,0 +1,439 @@
+{
+ "meta": {
+  "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321",
+  "type": "tv",
+  "name": "CNBC",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cnbc-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cnbc-us.png",
+  "posterShape": "square",
+  "genres": [
+   "News"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T03:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "Two women pitch their military-inspired jewelry line; traditional British scone; custom furniture; door-to-door luggage pickup service; update on the Scrub Daddy cleaning tool.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T04:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "A state-of-the-art bionic prosthetic device; artisanal desserts for dogs; a bug-catching device; insulated water bottles guaranteed to keep beverages cold for 36 hours.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T05:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "A portable product for those who enjoy camping without the dangers of creating a wildfire; a smoothie-making machine; an oral health product; a portable cooler accessory; an update on fashion business No Limbits; guest shark Daniel Lubetzky.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T06:00:00.000Z",
+    "title": "American Greed",
+    "overview": "Well-heeled financial advisor Peggy Ann Fulford builds a cache of all-star clients and a personal fortune by convincing A-list players like Dennis Rodman that she's in their corner.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T07:00:00.000Z",
+    "title": "Dateline",
+    "overview": "A mystery in paradise unfolds when Sarm Heslop vanishes from her boyfriend's luxury yacht in the U.S. Virgin Islands; chilling details emerge on the case that made international headlines and left investigators with more questions than answers.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T08:00:00.000Z",
+    "title": "Dateline",
+    "overview": "When 19-year-old Anton Black dies while being taken into police custody, the community seeks justice; a yearlong \"Dateline\" investigation looks at the officer at the center of the case and missed warning signs.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T09:00:00.000Z",
+    "title": "Live: Squawk Box Europe",
+    "overview": "\"Squawk Box Europe\" provides three hours of analysis and debate on trading days to lead up to the open of the European markets.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T10:00:00.000Z",
+    "title": "Live: Morning Call",
+    "overview": "Morgan Brennan delivers the essential market intelligence that drives the trading day ahead; captures business news as it unfolds and tracks pre-market equity moves, commodity swings, U.S. futures and overnight action across global markets.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T11:00:00.000Z",
+    "title": "Live: Squawk Box",
+    "overview": "The big names in business and politics tell their important stories in this pre-market morning news and talk program; from professional traders to casual investors.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T14:00:00.000Z",
+    "title": "Live: Squawk on the Street",
+    "overview": "Taking viewers onto the floor of the exchange, right to the posts where the big companies in the world trade; tick charts track the action of every trade of every stock; the treasury, currency and commodity action in real time.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T17:00:00.000Z",
+    "title": "Live: Halftime Report",
+    "overview": "The front lines of market coverage; host Scott Wapner and the top investors get to the heart of the action as it's happening and help set the agenda for the rest of the day.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T18:00:00.000Z",
+    "title": "Live: The Exchange",
+    "overview": "Anchor Kelly Evans reports on the important stories to markets and investors; reporters provide actionable information to viewers as they make daily investment decisions.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T19:00:00.000Z",
+    "title": "Live: Power Lunch",
+    "overview": "Focusing on real-time market coverage, breaking news and up-to-the-instant stock moving information; delving into the economy, the markets, real estate, media and technology.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T20:00:00.000Z",
+    "title": "Live: Closing Bell",
+    "overview": "A guide through the most important hour of the Wall Street trading day; taking a close-up look at how the markets are moving, what's driving them and how investors are reacting; coverage includes reports from the CME Group, NASDAQ and the NYSE.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T21:00:00.000Z",
+    "title": "Live: Closing Bell: Overtime",
+    "overview": "Melissa Lee and Michael Santoli take viewers through all the after-hours moves including breaking news, corporate earnings and post-market trading; strategists and money managers debate actionable ideas and the market themes of the day.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T22:00:00.000Z",
+    "title": "Live: Fast Money",
+    "overview": "The information normally reserved for the Wall Street trading floor, enabling viewers to make decisions that give them a chance to make money; the news with an angle that won't be seen until tomorrow's papers.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-11T23:00:00.000Z",
+    "title": "Mad Money",
+    "overview": "Taking viewers inside the mind of one of Wall Street's most respected and successful money managers; Jim Cramer guides viewers through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T00:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "A convenient new style of eating authentic Korean food; a product designed to help with one's wellness routine; a take on a common cooking tool; a version of a sports medicine product specifically designed for athletes; an update on Souper Cubes.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T01:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "A portable product for those who enjoy camping without the dangers of creating a wildfire; a smoothie-making machine; an oral health product; a portable cooler accessory; an update on fashion business No Limbits; guest shark Daniel Lubetzky.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T02:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "A convenient way to eat healthier meals while bettering the planet; stress-relief tools; innovative apparel that keeps drinks cool and hands free; a no-fuss solution to keeping babies busy and entertained.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T03:00:00.000Z",
+    "title": "American Greed",
+    "overview": "Purported entrepreneur Antonio Mariot Wilson changes his name, pitch, and act to play a series of roles, and the inveterate huckster fleeces unsuspecting investors for decades, including television star Jenifer Lewis.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T04:00:00.000Z",
+    "title": "American Greed",
+    "overview": "A famous Texas fruitcake bakery's accountant conducts a check writing scam; a self-proclaimed financial wiz rips off investors while he funds a professional race team with money stolen from his church.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T05:00:00.000Z",
+    "title": "American Greed",
+    "overview": "A former Army intelligence officer steals millions through a fake veterans' charity.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T06:00:00.000Z",
+    "title": "American Greed",
+    "overview": "A small town comptroller steals $53 million from her city to fund a horse-breeding empire; a crooked real estate developer lures victims to his phony residential oases.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T07:00:00.000Z",
+    "title": "Dateline",
+    "overview": "A woman walks into her home to find her daughter covered in blood; a single drop of blood is the key to finding the attacker.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T08:00:00.000Z",
+    "title": "Dateline",
+    "overview": "A woman walks into her home to find her daughter covered in blood; a single drop of blood is the key to finding the attacker.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T09:00:00.000Z",
+    "title": "Live: Squawk Box Europe",
+    "overview": "\"Squawk Box Europe\" provides three hours of analysis and debate on trading days to lead up to the open of the European markets.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T10:00:00.000Z",
+    "title": "Live: Morning Call",
+    "overview": "Morgan Brennan delivers the essential market intelligence that drives the trading day ahead; captures business news as it unfolds and tracks pre-market equity moves, commodity swings, U.S. futures and overnight action across global markets.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T11:00:00.000Z",
+    "title": "Live: Squawk Box",
+    "overview": "The big names in business and politics tell their important stories in this pre-market morning news and talk program; from professional traders to casual investors.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T14:00:00.000Z",
+    "title": "Live: Squawk on the Street",
+    "overview": "Taking viewers onto the floor of the exchange, right to the posts where the big companies in the world trade; tick charts track the action of every trade of every stock; the treasury, currency and commodity action in real time.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T17:00:00.000Z",
+    "title": "Live: Halftime Report",
+    "overview": "The front lines of market coverage; host Scott Wapner and the top investors get to the heart of the action as it's happening and help set the agenda for the rest of the day.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T18:00:00.000Z",
+    "title": "Live: The Exchange",
+    "overview": "Anchor Kelly Evans reports on the important stories to markets and investors; reporters provide actionable information to viewers as they make daily investment decisions.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T19:00:00.000Z",
+    "title": "Live: Power Lunch",
+    "overview": "Focusing on real-time market coverage, breaking news and up-to-the-instant stock moving information; delving into the economy, the markets, real estate, media and technology.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T20:00:00.000Z",
+    "title": "Live: Closing Bell",
+    "overview": "A guide through the most important hour of the Wall Street trading day; taking a close-up look at how the markets are moving, what's driving them and how investors are reacting; coverage includes reports from the CME Group, NASDAQ and the NYSE.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T21:00:00.000Z",
+    "title": "Live: Closing Bell: Overtime",
+    "overview": "Melissa Lee and Michael Santoli take viewers through all the after-hours moves including breaking news, corporate earnings and post-market trading; strategists and money managers debate actionable ideas and the market themes of the day.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T22:00:00.000Z",
+    "title": "Live: Fast Money",
+    "overview": "The information normally reserved for the Wall Street trading floor, enabling viewers to make decisions that give them a chance to make money; the news with an angle that won't be seen until tomorrow's papers.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-12T23:00:00.000Z",
+    "title": "Mad Money",
+    "overview": "Taking viewers inside the mind of one of Wall Street's most respected and successful money managers; Jim Cramer guides viewers through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-13T00:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "A convenient way to eat healthier meals while bettering the planet; stress-relief tools; innovative apparel that keeps drinks cool and hands free; a no-fuss solution to keeping babies busy and entertained.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-13T01:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "A healthy coconut beverage; a unique twist to a typical household item; a food allergy prevention system for babies; a healthy snack product line uses an ancient grain; an update on Nohbo, a personal care product.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-13T02:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "A teenage environmentalist has the answer to plastic bottles; a former soap opera actress seeks a deal for her one-piece swimsuit; exercise playlists; exposing what is lurking inside a mattress; checking in with Signal Vault.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-13T03:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "A piece of history delivered; a virtual theme park experience; eco-friendly plantable pots; a culturally unique greeting card.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321:epg:2026-11-13T04:00:00.000Z",
+    "title": "Shark Tank",
+    "overview": "Two chefs make a major pivot when the pandemic nearly derailed their business based on a perishable, rare ingredient; a handwashing device; a quick and easy approach to drying greens; a self-cleaning water bottle; an update on Yellow Leaf Hammocks.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

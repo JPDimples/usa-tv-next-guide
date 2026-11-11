@@ -1,0 +1,69 @@
+{
+ "metas": [
+  {
+   "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc",
+   "type": "tv",
+   "name": "Fuse",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fuse-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Music"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034",
+   "type": "tv",
+   "name": "MTV",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/mtv-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Music"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c",
+   "type": "tv",
+   "name": "MTV Classic",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/mtv-classic-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Music"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-844255ca-6732-4e58-8340-88bfef9976f5",
+   "type": "tv",
+   "name": "Revolt",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/revolt-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Music"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5",
+   "type": "tv",
+   "name": "VH1",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/vh1-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Music"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

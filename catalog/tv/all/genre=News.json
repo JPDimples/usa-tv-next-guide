@@ -1,0 +1,160 @@
+{
+ "metas": [
+  {
+   "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02",
+   "type": "tv",
+   "name": "BBC News",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bbc-news-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75",
+   "type": "tv",
+   "name": "Bloomberg TV",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bloomberg-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321",
+   "type": "tv",
+   "name": "CNBC",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cnbc-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a",
+   "type": "tv",
+   "name": "CNN",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cnn-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-0ef2ecc2-7555-46aa-8996-5291e75da229",
+   "type": "tv",
+   "name": "Court TV",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/court-tv-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8",
+   "type": "tv",
+   "name": "Fox Business",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-business-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-7041e64c-37e3-430e-9a09-f4cf7d8c56de",
+   "type": "tv",
+   "name": "Fox News",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-news-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-981759cb-046d-4bbd-8f46-319a6b3d654b",
+   "type": "tv",
+   "name": "Fox Weather",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-weather-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9",
+   "type": "tv",
+   "name": "HLN",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hln-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-758c5103-3ae7-481b-b06a-105367095900",
+   "type": "tv",
+   "name": "MSNBC",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/msnbc-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745",
+   "type": "tv",
+   "name": "Newsmax",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/newsmax-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-ec8f6972-4c67-4943-b48b-51795ca34b8c",
+   "type": "tv",
+   "name": "The Weather Channel",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/the-weather-channel-us.png",
+   "posterShape": "square",
+   "genres": [
+    "News"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

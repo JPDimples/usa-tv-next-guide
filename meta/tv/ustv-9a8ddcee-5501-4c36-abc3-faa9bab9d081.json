@@ -1,0 +1,89 @@
+{
+ "meta": {
+  "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081",
+  "type": "tv",
+  "name": "Ion Mystery",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/ion-mystery-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ion-mystery-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T03:00:00.000Z",
+    "title": "Hawaii Five-0",
+    "overview": "The team investigates the theft of high-tech indestructible suits made for the military  Jerry and his sister try to save a captive elephant.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T04:00:00.000Z",
+    "title": "Hawaii Five-0",
+    "overview": "When a deliberate chemical spill enables six dangerous inmates to escape, the team goes on an intensive manhunt to find them.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T05:00:00.000Z",
+    "title": "Hawaii Five-0",
+    "overview": "The team races to save an abducted college student from a dangerous vigilante  Max, Kamekona and Flippa struggle to survive after being shipwrecked.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T06:00:00.000Z",
+    "title": "Hawaii Five-0",
+    "overview": "The Five-0 team learns that one of its own has a deep connection to the young daughter of a woman who was murdered in her home.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T07:00:00.000Z",
+    "title": "FBI: Most Wanted: Incendiary",
+    "overview": "The team hunts for a young man who is using napalm-style bombs to attack his targets  with Tali away, Jess and Sarah begin to adjust to their empty nest.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T08:00:00.000Z",
+    "title": "MacGyver",
+    "overview": "An international crime boss offers to surrender if he's allowed to return to the United States to watch his daughter walk down the aisle  MacGyver and the team crash the wedding to ensure the crime lord doesn't run.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T09:00:00.000Z",
+    "title": "MacGyver",
+    "overview": "After a surprising introduction to Phoenix's newest recruit, Desi, MacGyver and team are assigned to protect a gun-sniffing dog who has a bounty on its head.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

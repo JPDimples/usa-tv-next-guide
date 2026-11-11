@@ -1,0 +1,439 @@
+{
+ "meta": {
+  "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413",
+  "type": "tv",
+  "name": "Food Network",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/food-network-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/food-network-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Lifestyle"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T03:00:00.000Z",
+    "title": "Tournament of Champions: All-Star Christmas",
+    "overview": "Guy Fieri is back to host a holiday showdown in a Winner's Wonderland! All-new teams of 32 superstar chefs create sweet and savory delights in hopes of sleighing the competition, winning the title, scoring $100,000 and delivering big bucks for charity.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T05:00:00.000Z",
+    "title": "Bobby's Triple Threat",
+    "overview": "An OG Iron Chef is ready to show Bobby Flay's Titans who's boss. It's not this contender's first time in the Triple Threat kitchen, but this time, he brought his knives. Bobby's good friend and industry veteran Stephen Kalt decides who will be victorious.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T06:00:00.000Z",
+    "title": "Bobby Flay's the Line",
+    "overview": "Time is not on their side when the clock gets the best of the chefs in a Cantonese cook-off between Bobby Flay's home team and Dale Talde's visiting line.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T07:00:00.000Z",
+    "title": "Tournament of Champions: All-Star Christmas",
+    "overview": "Guy Fieri is back to host a holiday showdown in a Winner's Wonderland! All-new teams of 32 superstar chefs create sweet and savory delights in hopes of sleighing the competition, winning the title, scoring $100,000 and delivering big bucks for charity.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T09:00:00.000Z",
+    "title": "Beat Bobby Flay",
+    "overview": "Chef Christian Petroni and actress Kate Flannery from \"The Office\" recruit chefs Josh Gale and Christian Ortiz for a hostile takeover of Bobby Flay's kitchen.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T09:30:00.000Z",
+    "title": "Beat Bobby Flay",
+    "overview": "Actress, comedian and foodie Aisha Tyler and Katie Lee Biegel get crafty.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T11:00:00.000Z",
+    "title": "The Kitchen: World on a Plate",
+    "overview": "We make delicious bites inspired by countries all over the world.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T12:00:00.000Z",
+    "title": "The Kitchen",
+    "overview": "Special guests Ted Allen, Christian Petroni and Martina McBride join the group for a Friendsgiving filled with Turkey Day favorites; sweet-and-spicy smoked turkey and smoked gravy; triple sec cranberry relish; fried Brussels sprouts.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T13:00:00.000Z",
+    "title": "The Kitchen",
+    "overview": "The kitchen is making their favorite fall festival treats, including the ultimate pumpkin bread, honey-fried turkey legs with Japanese BBQ sauce and apple fritters with hot honey glaze; a game of Try or Deny features some unexpected fall flavors!",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T14:00:00.000Z",
+    "title": "Bobby's Triple Threat",
+    "overview": "Bobby Flay invites rising star Chef Ashleigh Shanti to face-off against the Titans; she keeps the Titans guessing with her unique mix of Appalachian and Southern cooking, while Chef Wylie Dufresne doles out his criticisms.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T15:00:00.000Z",
+    "title": "Bobby's Triple Threat",
+    "overview": "Chef Katsuji Tanabe's bravado is as big as his desire to take down Bobby Flay's Titans; Katsuji is desperate for his first big win, and it's up to judge Judy Joo to decide if it's his turn for victory.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T16:00:00.000Z",
+    "title": "Bobby's Triple Threat",
+    "overview": "Chef Kaleena Bliss is on a competition winning streak; chef Kaleena is beaten Bobby Flay, and now he's invited her to try her luck at the Titans, while Bobby's prot\u00e9g\u00e9, Chef Hillary Sterling, dishes out tough critiques.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T17:00:00.000Z",
+    "title": "Bobby's Triple Threat",
+    "overview": "The Titans think they're ready to go up against Alex Guarnaschelli's prot\u00e9g\u00e9, Chef Michael Jenkins; Michael has judged each of the Titans before and uses that knowledge to his advantage.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T18:00:00.000Z",
+    "title": "Guy's Grocery Games",
+    "overview": "Guy Fieri sends chefs running down aisles in this high-stakes competition.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T19:00:00.000Z",
+    "title": "Guy's Grocery Games",
+    "overview": "Guy Fieri invites three GGG winners to celebrate America's 250th birthday with a cook-off. First, the chefs make a picnic plate with ingredients like apple pie and corn dogs. Then, a game of cornhole determines the ingredients for a grilled dinner.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T20:00:00.000Z",
+    "title": "Guy's Grocery Games",
+    "overview": "Four previous winners return for the holidays to take on more of Guy Fieri's games; chefs must shop for ingredients using nothing but oversized stockings; chefs are given a gingerbread house that they must flip into a fine dining holiday dinner.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T21:00:00.000Z",
+    "title": "Guy's Grocery Games",
+    "overview": "Guy Fieri's two sons and nephew face off; Guy pairs each family member with their very own all-star chef partner, but he also gives each team a Secret Santa box full of weird ingredients to use.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T22:00:00.000Z",
+    "title": "Guy's Grocery Games",
+    "overview": "Guy Fieri teams up some of his friends from the Best Buddies volunteer organization with some all-star chefs for a holiday cook-off; the teams have one hour to make a holiday entr\u00e9e and dessert for a chance to earn $15,000 for their teammate.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-11T23:00:00.000Z",
+    "title": "Harry Potter: Wizards of Baking",
+    "overview": "James and Oliver Phelps challenge the teams to create cakes inspired by the first Harry Potter movie and their favorite spells; the showpieces are delivered to the Quidditch pitch and Ollivander's Wand Shop for judging by Duff Goldman and Sarah Mountain.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T01:00:00.000Z",
+    "title": "Harry Potter: Wizards of Baking",
+    "overview": "James and Oliver Phelps ask the baking teams to bring the Basilisk, Moaning Myrtle, a Howler, and Hermione as a cat to life in their cakes; the showpieces are presented to judges Duff Goldman and Sarah Mountain in the iconic Chamber of Secrets itself.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T02:00:00.000Z",
+    "title": "Holiday Baking Championship",
+    "overview": "After a peppermint dessert preheat, Jesse Palmer asks the baking teams to make radical red velvet desserts in honor of Santa's fresh fit; Judges Duff Goldman, Kardea Brown and Molly Yeh choose the winner of the $1,000 prize package.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T04:00:00.000Z",
+    "title": "Chopped",
+    "overview": "Four judges compete alongside their significant others in a festive, feisty battle between friends. As the teams endeavor to create appetizers quickly, they must figure out how to use novelty pasta and a splendid fruit on their plates.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T05:00:00.000Z",
+    "title": "Harry Potter: Wizards of Baking",
+    "overview": "James and Oliver Phelps ask the baking teams to bring the Basilisk, Moaning Myrtle, a Howler, and Hermione as a cat to life in their cakes; the showpieces are presented to judges Duff Goldman and Sarah Mountain in the iconic Chamber of Secrets itself.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T06:00:00.000Z",
+    "title": "Holiday Baking Championship",
+    "overview": "After a peppermint dessert preheat, Jesse Palmer asks the baking teams to make radical red velvet desserts in honor of Santa's fresh fit; Judges Duff Goldman, Kardea Brown and Molly Yeh choose the winner of the $1,000 prize package.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T08:00:00.000Z",
+    "title": "Chopped",
+    "overview": "Four judges compete alongside their significant others in a festive, feisty battle between friends. As the teams endeavor to create appetizers quickly, they must figure out how to use novelty pasta and a splendid fruit on their plates.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T09:00:00.000Z",
+    "title": "Chopped",
+    "overview": "Four chefs are eager to impress as they race to make appetizers with mizuna and a weird pizza, but first round jitters are a real problem; a deep-fried oddity is part of the challenge for the competitors in the second round.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T11:00:00.000Z",
+    "title": "Giada's Holiday Handbook",
+    "overview": "Giada De Laurentiis and her daughter, Jade, host a holiday party for friends; Jade helps prepare the menu, prep for the party and plan the activity of making homemade Christmas gifts for a teacher; the menu is a gourmet twist on kid favorites.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T11:30:00.000Z",
+    "title": "Sweet Empire: Winter Wars",
+    "overview": "In their first challenge, each baker must create a holiday showpiece that represents how they celebrate at home; Judges Yolanda Gampp and Jacques Torres choose the top six bakers to become empire leaders.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T13:00:00.000Z",
+    "title": "Kids Baking Championship",
+    "overview": "Five fan-favorite kid bakers are challenged to create festive gingerbread house cakes.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T14:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "Five teams of cake and sugar artists must imagine what happens outside the North Pole and make a creation symbolizing Santa Claus as a world hero.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T15:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "Five teams of master cake and sugar artists create what happens when all the Thanksgiving turkeys decide to make a break for it.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T16:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "The five teams show the judges what happens when too much holiday magic happens and newly minted toys come alive, escape from their boxes and go crazy.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T17:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "Raven-Symon\u00e9 challenges the four remaining teams of master cake and sugar artists to imagine the most romantic wedding the world has ever seen at the North Pole; judges Shinmin Li and Erin Acevedo decide which team will go home with $25,000.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T18:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "The four remaining teams of cake and sugar artists must create the most bizarre visions of a Christmas party in the animal kingdom.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T19:00:00.000Z",
+    "title": "Holiday Baking Championship: Gingerbread Showdown",
+    "overview": "Host Jesse Palmer challenges the teams to create a holiday light show out of gingerbread and pair their glittering creations with the lightest of all desserts: choux pastry; judges Nacho Aguirre, Kardea Brown and Breegan Jane choose the winning team.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T20:00:00.000Z",
+    "title": "Holiday Baking Championship: Gingerbread Showdown",
+    "overview": "The baking teams are tasked with creating holiday memory snow globe scenes in gingerbread; they must also make a treat using the most common baking ingredient to represent snow \u2014 coconut.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T21:00:00.000Z",
+    "title": "Holiday Baking Championship: Gingerbread Showdown",
+    "overview": "The Abominable Snowman inspires the challenge theme, \"A Monster Christmas\"; the teams must make an oozing caramel dessert to go with their display.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T22:00:00.000Z",
+    "title": "Holiday Baking Championship: Gingerbread Showdown",
+    "overview": "The best part of shopping at the holidays is seeing all the window decorations, so the baking teams are asked to turn their favorite holiday window scene into a gingerbread display with an animated element and a champagne dessert.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-12T23:00:00.000Z",
+    "title": "Holiday Baking Championship",
+    "overview": "Jesse Palmer tasks the bakers with turning beautiful holiday designs into mini-tart mosaics; the bakers make merry and bright double-barrel wrapping paper cakes that feel like the perfect gift for judges Carla Hall, Duff Goldman and Nancy Fuller.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-13T00:00:00.000Z",
+    "title": "Holiday Baking Championship",
+    "overview": "After learning the latke basics, Jesse Palmer has the bakers fry up latke-inspired desserts; the bakers' imaginations run wild while creating letterboard holiday bars to put judges Carla Hall, Duff Goldman and Nancy Fuller in the holiday spirit.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-13T01:00:00.000Z",
+    "title": "Holiday Baking Championship",
+    "overview": "Jesse Palmer explores holiday traditions by challenging the bakers to craft Kwanzaa plantain desserts, make large edible ornaments and create puff pastry Christmas tree pull-aparts for judges Carla Hall, Duff Goldman and Nancy Fuller to tear into.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413:epg:2026-11-13T03:00:00.000Z",
+    "title": "Holiday Baking Championship",
+    "overview": "Jesse Palmer leads three Christmas Eve challenges as the finalists upgrade Santa's cookies with macaron wreaths, stuff their stockings with \u00e9clairs and build showstopping holiday train cakes for the title of Holiday Baking Champion.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

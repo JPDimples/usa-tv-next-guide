@@ -1,0 +1,569 @@
+{
+ "meta": {
+  "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e",
+  "type": "tv",
+  "name": "BET Her",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/bet-her-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bet-her-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Lifestyle"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T01:00:00.000Z",
+    "title": "Miles Ahead",
+    "overview": "In the 1970s, down-and-out jazz trumpeter Miles Davis (Don Cheadle) tries to recover his new session tape from music producers.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T04:00:00.000Z",
+    "title": "Ms. Pat Settles It",
+    "overview": "A friend ghosting on a floor remodel job; an aunt chasing rent from her kidney-donating niece who won't leave; a pet mom billing her ex after her dog got sick from fried chicken snagged off the kitchen table.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T04:30:00.000Z",
+    "title": "Ms. Pat Settles It",
+    "overview": "A neighbor demanding payback for trash duty and lawn care; an ex is accused of ditching a birthday bash over parking drama; a son dragging his money-hungry mom to court for sky-high rent.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T05:00:00.000Z",
+    "title": "The Ms. Pat Show",
+    "overview": "Janelle decides to skip the school dance; Terry worries that Junebug is joining the basketball team for the wrong reasons.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T05:30:00.000Z",
+    "title": "The Ms. Pat Show",
+    "overview": "Denise objects to Pat making a joke out of a shared traumatic childhood experience; Junebug and Janelle jump to conclusions about a thong in the laundry.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T06:00:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Anastasia's twin sister comes to visit, but Anastasia refuses to talk to her; the Pleasant Days crew try to get to the bottom of their estrangement and encourage the twins to reconcile.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:36:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T06:36:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "After multiple failed attempts to try and hang out with Sandra for a girl's day, Leah reaches the sad realization that her baby is no longer a baby.",
+    "released": "2026-11-11T06:36:00.000Z",
+    "startTime": "2026-11-11T06:36:00.000Z",
+    "endTime": "2026-11-11T07:12:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T07:12:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Jeremy gets an invitation to join the Chamber of Commerce; Mr. Brown, Cora and Leah share their protest stories; Phillip, Sandra and Lindor sneak off to a Black Lives Matter protest.",
+    "released": "2026-11-11T07:12:00.000Z",
+    "startTime": "2026-11-11T07:12:00.000Z",
+    "endTime": "2026-11-11T07:48:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T07:48:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Phillip has been responsible and begs to drive Jeremy's new car; Jeremy gives him the opportunity to drive and Philip wrecks Jeremy's new car after a night out with his friends.",
+    "released": "2026-11-11T07:48:00.000Z",
+    "startTime": "2026-11-11T07:48:00.000Z",
+    "endTime": "2026-11-11T08:24:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T08:24:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Mr. Brown has a new love interest from church and takes her on several dates; the Pleasant Days crew begins to grow suspicious of his new lady friend's intentions, and considers whether to butt into his love life.",
+    "released": "2026-11-11T08:24:00.000Z",
+    "startTime": "2026-11-11T08:24:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T09:00:00.000Z",
+    "title": "BET Her Playlist",
+    "overview": "New music from up-and-coming R&B artists.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T10:00:00.000Z",
+    "title": "Strictly R&B",
+    "overview": "Playlist of R&B jams from artists old and new; curated for her.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T11:00:00.000Z",
+    "title": "Morning Glow",
+    "overview": "Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T12:00:00.000Z",
+    "title": "Morning Glow",
+    "overview": "Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T13:00:00.000Z",
+    "title": "Morning Glow",
+    "overview": "Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T14:00:00.000Z",
+    "title": "Morning Glow",
+    "overview": "Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T15:00:00.000Z",
+    "title": "Morning Glow",
+    "overview": "Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T16:00:00.000Z",
+    "title": "Tyler Perry's House of Payne",
+    "overview": "The family has trouble adjusting to Jazmine's new-found independence; Miranda gets an offer that Calvin would like for her to refuse.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:36:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T16:36:00.000Z",
+    "title": "Tyler Perry's House of Payne",
+    "overview": "Curtis becomes infuriated when his sauce gets bootlegged; Malik orchestrates a date night to rejuvenate his relationship with Lisa.",
+    "released": "2026-11-11T16:36:00.000Z",
+    "startTime": "2026-11-11T16:36:00.000Z",
+    "endTime": "2026-11-11T17:12:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T17:12:00.000Z",
+    "title": "Tyler Perry's House of Payne",
+    "overview": "Calvin's domineering side rears its ugly head when he begins coaching his son's soccer team; Miranda has everyone up in arms regarding a novel she's self-published.",
+    "released": "2026-11-11T17:12:00.000Z",
+    "startTime": "2026-11-11T17:12:00.000Z",
+    "endTime": "2026-11-11T17:48:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T17:48:00.000Z",
+    "title": "Tyler Perry's House of Payne",
+    "overview": "Curtis is involved in an accident that alters his personality; C.J. takes over the twins' school project and strives for excellence.",
+    "released": "2026-11-11T17:48:00.000Z",
+    "startTime": "2026-11-11T17:48:00.000Z",
+    "endTime": "2026-11-11T18:24:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T18:24:00.000Z",
+    "title": "Tyler Perry's House of Payne",
+    "overview": "Calvin hosts a dinner to meet Laura's parents for the first time; C.J. struggles with failing the physical aptitude test.",
+    "released": "2026-11-11T18:24:00.000Z",
+    "startTime": "2026-11-11T18:24:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T19:00:00.000Z",
+    "title": "Hello",
+    "overview": "An emotionally unavailable flight attendant meets a potential love interest but finds out he has ulterior motives. As the clock ticks down on New Year's Eve, she must fight to keep her murdered ex-boyfriend's secrets or find herself dead.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T21:30:00.000Z",
+    "title": "The Equalizer",
+    "overview": "McCall joins forces with Jessie Cook, a brilliant and unpredictable master thief, to recover a valuable painting stolen from a Black family during the 1921 Tulsa Race Massacre.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T22:30:00.000Z",
+    "title": "The Equalizer",
+    "overview": "McCall and Mel work with a jaded ex-cop to find the killers of a beloved Chinese American restaurant owner who was the victim of a hate crime masked to look like an accidental electrical fire.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-11T23:30:00.000Z",
+    "title": "The Equalizer",
+    "overview": "McCall helps a mob accountant scour the city for a lost ledger of evidence he must provide to the FBI in exchange for entrance into the witness protection program; Mel frets over how to tell her best friend that Harry never died.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T00:30:00.000Z",
+    "title": "The Equalizer",
+    "overview": "McCall races to find Dante when he's abducted by a pair of panicked deputies who fear reprisal after detaining him and using excessive force before realizing he's a fellow cop; Dante experiences hallucinations that reveal his complicated childhood.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T01:30:00.000Z",
+    "title": "Hello",
+    "overview": "An emotionally unavailable flight attendant meets a potential love interest but finds out he has ulterior motives. As the clock ticks down on New Year's Eve, she must fight to keep her murdered ex-boyfriend's secrets or find herself dead.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T04:00:00.000Z",
+    "title": "Tyler Perry's Sistas",
+    "overview": "Fatima helps Danni build the strength necessary to strike back at Officer Green; Andi navigates the constant betrayal from Cheyenne; Mr. Keyes pops up at Zac and Fatima's to have a heart-to-heart with Zac.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T05:00:00.000Z",
+    "title": "The Ms. Pat Show",
+    "overview": "Pat stays with Ashley and her girlfriend while in Chicago for a comedy show; Terry is afraid to let Denise out of his sight after her setback.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T05:30:00.000Z",
+    "title": "The Ms. Pat Show",
+    "overview": "Denise finds a way to deal with her misuse of alcohol; Junebug draws the attention of an older woman.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T06:00:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Philip learns about being accountable for one's actions and putting life's obstacles in perspective; Reginald must pick himself up out of his slump and find the strength to believe in love again.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:36:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T06:36:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "When an old white woman moves into Pleasant Days, her Karen behavior throws everyone for a loop; Reginald fears an escaped convict he put in prison has plans to take revenge.",
+    "released": "2026-11-12T06:36:00.000Z",
+    "startTime": "2026-11-12T06:36:00.000Z",
+    "endTime": "2026-11-12T07:12:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T07:12:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "In a get-rich-quick scheme, Mr. Brown decides to become a country singer; Jeremy is hesitant to get his first prostate exam.",
+    "released": "2026-11-12T07:12:00.000Z",
+    "startTime": "2026-11-12T07:12:00.000Z",
+    "endTime": "2026-11-12T07:48:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T07:48:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Jeremy and Leah have an argument, and the Pleasant Days crew gives them unsolicited advice; Mr. Brown gets spray-on hair paint and his confidence goes through the roof.",
+    "released": "2026-11-12T07:48:00.000Z",
+    "startTime": "2026-11-12T07:48:00.000Z",
+    "endTime": "2026-11-12T08:24:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T08:24:00.000Z",
+    "title": "Tyler Perry's Assisted Living",
+    "overview": "Mr. Brown falls in love with Philip's history teacher and plots to sweep her off her feet; Efe romantically pursues Anastasia, raising eyebrows around the facility.",
+    "released": "2026-11-12T08:24:00.000Z",
+    "startTime": "2026-11-12T08:24:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T09:00:00.000Z",
+    "title": "Reminisce",
+    "overview": "Reminiscing with this mix of throwback R&B and Hip Hop jams to start the morning; curated for her.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T10:00:00.000Z",
+    "title": "Reminisce",
+    "overview": "Reminiscing with this mix of throwback R&B and Hip Hop jams to start the morning; curated for her.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T11:00:00.000Z",
+    "title": "Reminisce",
+    "overview": "Reminiscing with this mix of throwback R&B and Hip Hop jams to start the morning; curated for her.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T12:00:00.000Z",
+    "title": "Reminisce",
+    "overview": "Reminiscing with this mix of throwback R&B and Hip Hop jams to start the morning; curated for her.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T13:00:00.000Z",
+    "title": "Reminisce",
+    "overview": "Reminiscing with this mix of throwback R&B and Hip Hop jams to start the morning; curated for her.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T14:00:00.000Z",
+    "title": "Reminisce",
+    "overview": "Reminiscing with this mix of throwback R&B and Hip Hop jams to start the morning; curated for her.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T15:00:00.000Z",
+    "title": "Reminisce",
+    "overview": "Reminiscing with this mix of throwback R&B and Hip Hop jams to start the morning; curated for her.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T16:00:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "The school suspends Brianna; after playing a prank on Brown, two wannabe frat brothers must work for him.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:36:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T16:36:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "Fearing that she will move out, Brown interferes with Cora's relationship; Carmen announces that Brianna and Joaquin's former foster family has agreed to adopt them.",
+    "released": "2026-11-12T16:36:00.000Z",
+    "startTime": "2026-11-12T16:36:00.000Z",
+    "endTime": "2026-11-12T17:12:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T17:12:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "Will and Sasha try to find a way to get Brianna and Joaquin back before the Turners adopt them.",
+    "released": "2026-11-12T17:12:00.000Z",
+    "startTime": "2026-11-12T17:12:00.000Z",
+    "endTime": "2026-11-12T17:48:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T17:48:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "Brown starts charging the residents for amenities around the house, which gets out of hand.",
+    "released": "2026-11-12T17:48:00.000Z",
+    "startTime": "2026-11-12T17:48:00.000Z",
+    "endTime": "2026-11-12T18:24:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T18:24:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "Cora gets a job as a substitute teacher, thinking that she will teach little angels.",
+    "released": "2026-11-12T18:24:00.000Z",
+    "startTime": "2026-11-12T18:24:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T19:00:00.000Z",
+    "title": "The Deadly Getaway",
+    "overview": "A romantic glamping trip in the remote woods turns to terror when an obsessive ex-boyfriend with a dark secret and even darker intentions interrupts a couple's retreat.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T21:30:00.000Z",
+    "title": "The Equalizer",
+    "overview": "McCall receives a desperate plea for help, that leads her into a confrontation with Mason Quinn, an enemy from her past in intelligence; in need of confidential information, McCall forms a tentative alliance with a by-the-book CIA handler.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:40:00.000Z",
+    "runtime": "70 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T22:40:00.000Z",
+    "title": "The Equalizer",
+    "overview": "McCall's vigilante work further complicates her personal life when she is forced to ask her ex-husband, Dr. Miles Fulton, to help with a gunshot victim, one of two women being hunted by thieves after they witnessed a robbery.",
+    "released": "2026-11-12T22:40:00.000Z",
+    "startTime": "2026-11-12T22:40:00.000Z",
+    "endTime": "2026-11-12T23:50:00.000Z",
+    "runtime": "70 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-12T23:50:00.000Z",
+    "title": "The Equalizer",
+    "overview": "When Aunt Vi is the lone juror on a murder trial who believes the defendant is innocent, McCall covertly investigates the case to find proof that Vi's instincts are correct.",
+    "released": "2026-11-12T23:50:00.000Z",
+    "startTime": "2026-11-12T23:50:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "70 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-13T01:00:00.000Z",
+    "title": "The Deadly Getaway",
+    "overview": "A romantic glamping trip in the remote woods turns to terror when an obsessive ex-boyfriend with a dark secret and even darker intentions interrupts a couple's retreat.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-13T03:30:00.000Z",
+    "title": "Ms. Pat Settles It",
+    "overview": "Settling three cases, from a twerk that broke a Vegas mirror to siblings fighting over strip club debts, and a man demanding payback after his ex-bestie gambled away their catering profits.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:07:00.000Z",
+    "runtime": "37 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e:epg:2026-11-13T04:07:00.000Z",
+    "title": "Ms. Pat Settles It",
+    "overview": "Ms. Pat settles three cases: a Botox-happy mom who spent her daughter's dog funds on her face, a sister who loses her job when her sibling quits to chase a skincare dream, and a comic who's footing the vaca bill after her bestie got hit by a car.",
+    "released": "2026-11-13T04:07:00.000Z",
+    "startTime": "2026-11-13T04:07:00.000Z",
+    "endTime": "2026-11-13T04:45:00.000Z",
+    "runtime": "38 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

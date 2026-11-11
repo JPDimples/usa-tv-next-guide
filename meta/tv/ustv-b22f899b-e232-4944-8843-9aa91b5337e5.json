@@ -1,0 +1,689 @@
+{
+ "meta": {
+  "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5",
+  "type": "tv",
+  "name": "Reelz",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/reelz-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/reelz-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T03:00:00.000Z",
+    "title": "Most Outrageous Crimes",
+    "overview": "Influencers find out that no amount of social media clout can get one out of trouble.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T04:00:00.000Z",
+    "title": "Most Outrageous Crimes",
+    "overview": "Some meltdowns triggered by small infractions.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T05:00:00.000Z",
+    "title": "BodyCam by Law&Crime",
+    "overview": "A drunk Karen unleashes a full-blown racist rant during a disturbing incident at the Holiday Inn.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T06:00:00.000Z",
+    "title": "Most Outrageous Crimes",
+    "overview": "Influencers find out that no amount of social media clout can get one out of trouble.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T07:00:00.000Z",
+    "title": "Most Outrageous Crimes",
+    "overview": "Some meltdowns triggered by small infractions.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T08:00:00.000Z",
+    "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
+    "overview": "Join your hosts Kevin Cash & Cory Cady as we discuss the 250th Anniversary of America with the official \"America 250\" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T08:30:00.000Z",
+    "title": "Joint Relief Revolution",
+    "overview": "Join Connie Craig-Carroll and health visionary Ken Meares as they uncover OmegaXL, the groundbreaking natural supplement transforming lives by tackling joint pain and inflammation.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T09:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T09:30:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T10:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T10:30:00.000Z",
+    "title": "Joint Relief Revolution",
+    "overview": "Join Connie Craig-Carroll and health visionary Ken Meares as they uncover OmegaXL, the groundbreaking natural supplement transforming lives by tackling joint pain and inflammation.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T11:00:00.000Z",
+    "title": "Tired of Aging? Super Pill's Secret to Lasting Youth & Vitality!",
+    "overview": "Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T11:30:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T12:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T12:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T13:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T13:30:00.000Z",
+    "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
+    "overview": "Join your hosts Kevin Cash & Cory Cady as we discuss the 250th Anniversary of America with the official \"America 250\" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T14:00:00.000Z",
+    "title": "On Patrol: Live",
+    "overview": "Toledo, Ohio, officers are called to a large fight with weapons; Fullerton, Calif., officers respond after a disruptive man is stabbed; Lee County, Fla., officers search for a man involved in a domestic dispute.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T17:00:00.000Z",
+    "title": "Notorious",
+    "overview": "A crew of wealthy, spoiled kids, invaded the homes of the rich and famous, snatching Gucci purses, diamonds and pearls, but when the walls started closing in, it was every man and woman for themselves.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T18:00:00.000Z",
+    "title": "Geraldo Rivera's Murder in the Family",
+    "overview": "Academy Award nominated actor Woody Harrelson has enamored audiences with his charm, but it is his portrayal of a fictional serial killer in the 1994 film \"Natural Born Killers,\" where he channels his hitman-for-hire father, Charles Harrelson.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T19:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "Police chase a vehicle they believe was used in a homicide; a suspect is questioned for alleged drug activity; officers respond to a domestic disturbance; cops investigate a shooting.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T19:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "Police trail a stolen vehicle and are led on a foot chase; a man tries to dine and dash on a $400 restaurant tab; a cop goes undercover to investigate prostitution; an officer investigates drug use in a parking lot.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T20:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "Officers respond to a domestic dispute; a suspect is chased on foot; a couple is questioned for driving a stolen vehicle; a boy is rescued from a swimming pool.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T20:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A driver is questioned about drug possession; a man flees a car accident; a car is searched for drugs; a man with outstanding warrants takes refuge.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T21:00:00.000Z",
+    "title": "Most Shocking",
+    "overview": "A thief with a load of personal watercraft leaves a trail of destruction; a drunken man behind the wheel of a dump truck leads police on a wild chase; a drug-crazed driver runs out of road.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T22:00:00.000Z",
+    "title": "Jail",
+    "overview": "An inmate serenades guards with a guitar solo; a married couple is charged with passing a bogus prescription; a novice pot farmer gets busted after being stopped by police for a traffic violation.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T22:30:00.000Z",
+    "title": "Jail",
+    "overview": "A gangbanger is caught using his cell phone to sell prescription drugs; a woman accused of assaulting her husband claims it's a lie; two out-of-control cousins spend time in isolation after physically threatening officers.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T23:00:00.000Z",
+    "title": "Jail",
+    "overview": "A young inmate is devastated when officers tell him he killed someone while driving drunk; a woman charged with a DUI demonstrates how she \"rocked\" her field sobriety test.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-11T23:30:00.000Z",
+    "title": "Jail",
+    "overview": "Police arrest a man who went for a swim at the Mirage Hotel in the nude; an inmate goes crazy when she feels that officers are mishandling her property.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T00:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "Police chase a vehicle they believe was used in a homicide; a suspect is questioned for alleged drug activity; officers respond to a domestic disturbance; cops investigate a shooting.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T00:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "Police trail a stolen vehicle and are led on a foot chase; a man tries to dine and dash on a $400 restaurant tab; a cop goes undercover to investigate prostitution; an officer investigates drug use in a parking lot.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T01:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "Officers respond to a domestic dispute; a suspect is chased on foot; a couple is questioned for driving a stolen vehicle; a boy is rescued from a swimming pool.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T01:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A driver is questioned about drug possession; a man flees a car accident; a car is searched for drugs; a man with outstanding warrants takes refuge.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T02:00:00.000Z",
+    "title": "On Patrol: Live",
+    "overview": "Baton Rouge, LA officers find drugs during a traffic stop while officers in Greene County, MO are called to a person ramming cars; Bernalillo County, NM officers respond to a domestic situation and officers in Tempe, AZ give field sobriety tests.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T05:00:00.000Z",
+    "title": "On Patrol: Live",
+    "overview": "Toledo, OH officers investigate reports of a man threatening to shoot officers while officers in Tempe, AZ respond to an accident and encounter an uncooperative man; Greene County, MO officers are called to a wrong-way driver and officers in Baton Rouge, LA investigate shots fired.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T08:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T08:30:00.000Z",
+    "title": "Joint Relief Revolution",
+    "overview": "Join Connie Craig-Carroll and health visionary Ken Meares as they uncover OmegaXL, the groundbreaking natural supplement transforming lives by tackling joint pain and inflammation.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T09:00:00.000Z",
+    "title": "Pain Relief Revealed",
+    "overview": "Discover the hidden story of OmegaXL with John Walsh. He dives deep into the groundbreaking supplement that promises hope and relief for millions battling joint pain and inflammation.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T09:30:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T10:00:00.000Z",
+    "title": "Joint Relief Revolution",
+    "overview": "Join Connie Craig-Carroll and health visionary Ken Meares as they uncover OmegaXL, the groundbreaking natural supplement transforming lives by tackling joint pain and inflammation.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T10:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T11:00:00.000Z",
+    "title": "Get A Beautiful New Smile in 24 Hours",
+    "overview": "The Wellness Hour: Dr. Alvarez explores how Nuvia delivers a beautiful new smile in just 24 hours.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T11:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T12:00:00.000Z",
+    "title": "Get A Beautiful New Smile in 24 Hours",
+    "overview": "The Wellness Hour: Dr. Alvarez explores how Nuvia delivers a beautiful new smile in just 24 hours.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T13:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T13:30:00.000Z",
+    "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
+    "overview": "Join your hosts Kevin Cash & Cory Cady as we discuss the 250th Anniversary of America with the official \"America 250\" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T14:00:00.000Z",
+    "title": "On Patrol: Live",
+    "overview": "Toledo officers investigate an ongoing burglary; officers in Wilkes-Barre respond to an altercation.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T17:00:00.000Z",
+    "title": "Notorious",
+    "overview": "Anthony Weiner's uncontrolled compulsions and sexual exploits made national headlines; Weiner scrambled to contain the damage, but his illicit sexual cravings would result in bombshell after bombshell, overshadowing the budding political star.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T18:00:00.000Z",
+    "title": "Geraldo Rivera's Murder in the Family",
+    "overview": "On May 4, 2001, Hollywood and the nation are rocked by the news that Bonny Lee Bakley, newlywed wife of legendary actor, Robert Blake, is shot to death outside a neighborhood Italian restaurant in the suburbs of Los Angeles.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T19:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "Police pursue a suspect in a high-speed chase; a car is searched for drugs; police investigate an alleged fight; cops probe a home invasion.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T19:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A routine traffic stop turns into an arrest for narcotics; a hit-and-run call is investigated; female impersonators are questioned for allegedly causing a disturbance; a drug transaction at a truck stop is investigated.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T20:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A man shoots at alleged intruders; a driver is questioned after running through stop signs; drugs are found on a bike rider.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T20:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A man with crack cocaine in his mouth is questioned; a domestic disturbance is investigated; a child-custody dispute is investigated; a verbal altercation.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T21:00:00.000Z",
+    "title": "Most Shocking",
+    "overview": "A criminal attacks a police officer, triggering a shootout; a drugged-out felon takes on a patrolman in broad daylight; a gang of thieves raids a clothing store, opening fire on a helpless clerk.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T22:00:00.000Z",
+    "title": "Jail",
+    "overview": "An old timer's one-liners don't impress the jailhouse staff; a woman is booked for assaulting her boyfriend; two combative inmates end up in restraints.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T22:30:00.000Z",
+    "title": "Jail",
+    "overview": "A woman is busted using her bra as a stun gun holster; a DUI suspect breaks down at the sight of blood.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T23:00:00.000Z",
+    "title": "Jail",
+    "overview": "A woman faces charges of assault on a cab driver; meth addict recounts her past; mother is charged after leaving her kids in the car.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-12T23:30:00.000Z",
+    "title": "Jail",
+    "overview": "A man arrested for being drunk in public can't keep his pants on; officers are forced to separate two inmates who are kissing.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-13T00:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "Police pursue a suspect in a high-speed chase; a car is searched for drugs; police investigate an alleged fight; cops probe a home invasion.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-13T00:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A routine traffic stop turns into an arrest for narcotics; a hit-and-run call is investigated; female impersonators are questioned for allegedly causing a disturbance; a drug transaction at a truck stop is investigated.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-13T01:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A man shoots at alleged intruders; a driver is questioned after running through stop signs; drugs are found on a bike rider.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-13T01:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A man with crack cocaine in his mouth is questioned; a domestic disturbance is investigated; a child-custody dispute is investigated; a verbal altercation.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-13T02:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A carjacker with 13 warrants is outnumbered by police; an officer takes away a woman's boyfriend on drug charges; two brothers can't learn to play nice with each other; a confused man is arrested for fighting.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-13T02:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A bicyclist is apprehended for a concealed shotgun; two college students are caught attempting to steal an ornamental flamingo on the Las Vegas strip; a car thief claims to be unaware that the vehicle he is driving was stolen.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-13T03:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A suspect catches his pants on a fence and is caught; a vehicle is stopped for false registration and failure to maintain lanes; an unwelcomed family member is charged with throwing a deadly missile through a window and criminal mischief.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-13T03:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A suspect tries to flee; several drug dealers try to slip through the cracks; a known drug user denies that he tried to pawn his baby for crack; an officer questions a suspicious pair at a park.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-13T04:00:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "A detective intervenes in a chaotic fight; suspects are arrested for dealing cocaine out of their grandmother's house; a disturbed father claims he accidentally fired off five rounds inside his house; a couple argues.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

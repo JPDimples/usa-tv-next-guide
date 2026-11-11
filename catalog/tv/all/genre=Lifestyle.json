@@ -1,0 +1,134 @@
+{
+ "metas": [
+  {
+   "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920",
+   "type": "tv",
+   "name": "AWE",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/awe-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Lifestyle"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e",
+   "type": "tv",
+   "name": "BET Her",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bet-her-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Lifestyle"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a",
+   "type": "tv",
+   "name": "Cooking Channel",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cooking-channel-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Lifestyle"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe",
+   "type": "tv",
+   "name": "Destination America",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/destination-america-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Lifestyle"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413",
+   "type": "tv",
+   "name": "Food Network",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/food-network-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Lifestyle"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-c929c60f-9dc1-415a-8a7e-cc34256b2c87",
+   "type": "tv",
+   "name": "HGTV",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hgtv-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Lifestyle"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda",
+   "type": "tv",
+   "name": "Outdoor Channel",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/outdoor-channel-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Lifestyle"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a",
+   "type": "tv",
+   "name": "QVC",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/qvc-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Lifestyle"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09",
+   "type": "tv",
+   "name": "TLC",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tlc-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Lifestyle"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-c952f45e-73ae-4615-9cae-128749091758",
+   "type": "tv",
+   "name": "Travel Channel",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/travel-channel-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Lifestyle"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

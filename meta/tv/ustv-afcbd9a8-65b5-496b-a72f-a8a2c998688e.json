@@ -1,0 +1,259 @@
+{
+ "meta": {
+  "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e",
+  "type": "tv",
+  "name": "TCM",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/tcm-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tcm-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T03:15:00.000Z",
+    "title": "Gunfight at the O.K. Corral",
+    "overview": "Lawman Wyatt Earp (Burt Lancaster) and gunfighter John \"Doc\" Holliday (Kirk Douglas) find themselves together again in Tombstone, Ariz., despite the tumultuous history between them. Earp comes to Arizona on a mission to bring the Clayton clan to justice. Meanwhile, Holliday becomes incensed with the",
+    "released": "2026-11-11T03:15:00.000Z",
+    "startTime": "2026-11-11T03:15:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T05:30:00.000Z",
+    "title": "Come Back, Little Sheba",
+    "overview": "Two decades after their hasty wedding, Doc (Burt Lancaster) and Lola (Shirley Booth) are stuck in a deadening and loveless marriage. Doc, who dropped out of medical school when Lola got pregnant, blames Lola for the loss of his life's dream. Lola, who never recovered emotionally from the miscarriage",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T07:15:00.000Z",
+    "runtime": "105 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T07:15:00.000Z",
+    "title": "Trapeze",
+    "overview": "Mike Ribble (Burt Lancaster) is a hard-drinking tent pitcher. His career as a famous trapeze artist ended years ago after attempting a triple somersault gave him a permanent limp. Young acrobat Tino (Tony Curtis) tracks Mike down and asks him to teach him the dangerous stunt. Mike first refuses but ",
+    "released": "2026-11-11T07:15:00.000Z",
+    "startTime": "2026-11-11T07:15:00.000Z",
+    "endTime": "2026-11-11T09:15:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T09:15:00.000Z",
+    "title": "Jim Thorpe, All American",
+    "overview": "In this stirring biographical drama, young Native American Jim Thorpe (Burt Lancaster) pursues his dreams of athletic stardom. Mentored by a devoted coach (Charles Bickford), Thorpe succeeds at track before becoming a renowned football hero and an Olympic athlete. While remarkably accomplished on th",
+    "released": "2026-11-11T09:15:00.000Z",
+    "startTime": "2026-11-11T09:15:00.000Z",
+    "endTime": "2026-11-11T11:15:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T11:15:00.000Z",
+    "title": "It's Always Fair Weather",
+    "overview": "After returning from World War II, three soldiers (Gene Kelly, Dan Dailey, Michael Kidd) share a drink in a New York City bar. Together, they agree to return to the same location in 10 years. When the appointed date arrives, the three men reunite -- only to discover that none of them has achieved hi",
+    "released": "2026-11-11T11:15:00.000Z",
+    "startTime": "2026-11-11T11:15:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "105 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T13:00:00.000Z",
+    "title": "The Lost Squadron",
+    "overview": "After World War I, Army flying ace \"Gibby\" Gibson (Richard Dix) follows his actress girlfriend (Mary Astor) to Hollywood, Calif., even though she's spurned him for the despotic Prussian film director Arthur von Furst (Erich von Stroheim). Gibby and his friends, Woody (Robert Armstrong) and Red (Joel",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T14:30:00.000Z",
+    "title": "I Am a Fugitive From a Chain Gang",
+    "overview": "Jaded World War I veteran James Allen (Paul Muni) dreams of creating a new life, but those dreams are shattered when he is implicated in a robbery and sentenced to 10 years on a chain gang. The brutal prison conditions compel James to break out and flee to Chicago, where he assumes a new identity an",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T16:30:00.000Z",
+    "title": "Key Largo",
+    "overview": "This classic film noir by John Huston stars Humphrey Bogart as World War II vet Frank McCloud. Visiting Key Largo to pay his respects to the family of his late war buddy, McCloud attempts to comfort his comrade's widow, Nora, and father, James Temple, who operate a hotel. But McCloud realizes that m",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T18:30:00.000Z",
+    "title": "The Subject Was Roses",
+    "overview": "Timmy Cleary (Martin Sheen), who was once considered timid, returns from duty in World War II with newfound confidence. Soon, he realizes that his parents, John (Jack Albertson) and Nettie (Patricia Neal), have long been feigning happiness for the benefit of their son. John is a heavy drinker guilty",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T20:30:00.000Z",
+    "title": "Some Came Running",
+    "overview": "Hard-drinking novelist Dave Hirsh (Frank Sinatra) returns home after being gone for years. His brother (Arthur Kennedy) wants Dave to settle down, and introduces him to English teacher Gwen French (Martha Hyer). Moody Dave resents his brother, and spends his days hanging out with Bama Dillert (Dean ",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-11T23:00:00.000Z",
+    "title": "Till the End of Time",
+    "overview": "Despite being welcomed home as a hero, youthful Marine Cliff Harper (Guy Madison) tries to forget the horrific violence of World War II as he faces uncertainty, unemployment and post-traumatic stress. While transitioning back to civilian life, Cliff falls for Pat Ruscomb (Dorothy McGuire), a grievin",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T01:00:00.000Z",
+    "title": "In Harm's Way",
+    "overview": "Naval Captain Torrey (John Wayne) manages to bring his ship through the bombing of Pearl Harbor unscathed, but is later demoted when it is damaged in a subsequent battle due to his negligence. Back on land, he begins a reconciliation with his estranged son (Brandon de Wilde) and a romance with nurse",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T04:00:00.000Z",
+    "title": "The Bridge on the River Kwai",
+    "overview": "Adaptation of the Pierre Boulle novel about POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American officers plot to blow up the structure, but the commander of the bridge's construction has different plans.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T07:00:00.000Z",
+    "title": "The Deer Hunter",
+    "overview": "In 1968, Michael (Robert De Niro), Nick (Christopher Walken) and Steven (John Savage), lifelong friends from a working-class Pennsylvania steel town, prepare to ship out overseas following Steven's elaborate wedding and one final group hunting trip. In Vietnam, their dreams of military honor are qui",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T10:15:00.000Z",
+    "runtime": "195 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T10:15:00.000Z",
+    "title": "MGM Parade Show",
+    "overview": "The concept allows the viewer to see the inner workings of a movie studio and featured interviews with MGM stars and explanations of how movies were made; the format changed to show edited versions of MGM films.",
+    "released": "2026-11-12T10:15:00.000Z",
+    "startTime": "2026-11-12T10:15:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "45 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T11:00:00.000Z",
+    "title": "The Fox",
+    "overview": "Headstrong Ellen (Anne Heywood) and her more demure lesbian lover, Jill (Sandy Dennis), pass their time together on an isolated farm in backwoods Canada. While Jill longs for nothing more than their life together, Ellen is becoming discontented with their relationship. The farm's former owner's gran",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T13:00:00.000Z",
+    "title": "Sweet November",
+    "overview": "Sara (Sandy Dennis), a free-spirited single woman living in Brooklyn, invites a new man to stay with her every month. For Sara, this is an opportunity to expose a man to new things, but it's also a way to make sure she will always be remembered by someone. Her latest boarder is Charlie (Anthony Newl",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T15:00:00.000Z",
+    "title": "High Society",
+    "overview": "Jazz artist C.K. Dexter Haven (Bing Crosby) is still hung up on his ex-wife and neighbor, socialite Tracy Samantha Lord (Grace Kelly), however Tracy is engaged to another man (John Lund). Matters are complicated even further when a magazine reporter (Frank Sinatra), in town to cover Tracy's wedding,",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T17:00:00.000Z",
+    "title": "Green Fire",
+    "overview": "In the mountains of Colombia, engineer and explorer Rian Mitchell (Stewart Granger) finds an enormous emerald mine thought to have been first discovered by Spanish conquistadors centuries before. Driven by avarice, Mitchell feuds with his more circumspect business partner, Vic Leonard (Paul Douglas)",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T19:00:00.000Z",
+    "title": "Mogambo",
+    "overview": "Victor Marswell (Clark Gable) is a big-game hunter in Kenya. After Eloise Kelly (Ava Gardner) is stood up by a friend there, she falls in with Marswell. Shortly thereafter, the Nordleys (Grace Kelly, Donald Sinden) arrive for a gorilla safari. Mrs. Nordley, disillusioned with her husband, takes a li",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T21:00:00.000Z",
+    "title": "Dial M for Murder",
+    "overview": "Ex-tennis pro Tony Wendice (Ray Milland) wants to have his wealthy wife, Margot (Grace Kelly), murdered so he can get his hands on her inheritance. When he discovers her affair with Mark Halliday (Robert Cummings), he comes up with the perfect plan to kill her. He blackmails an old acquaintance into",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-12T23:00:00.000Z",
+    "title": "The Swan",
+    "overview": "Prince Albert (Alec Guinness), who is scouring Europe for a wife, arrives in a tiny town to visit a banished family of nobles. Their matriarch, Beatrix (Jessie Royce Landis), wants her daughter, Alexandra (Grace Kelly), to marry Albert so that her family will be welcomed back into the kingdom. In or",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-13T01:00:00.000Z",
+    "title": "Love With the Proper Stranger",
+    "overview": "Angie Rossini (Natalie Wood), an innocent New York City sales clerk from a repressive Italian-American family, engages in a short-lived affair with a handsome jazz musician named Rocky Papasano (Steve McQueen). When Angie becomes pregnant, she tracks down Rocky hoping he'll pay for her abortion. Roc",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e:epg:2026-11-13T03:00:00.000Z",
+    "title": "Come September",
+    "overview": "American mogul Robert L. Talbot (Rock Hudson) customarily spends the month of September in his lush Italian villa. But this year he arrives early and gets a surprise \u2014 his money-grubbing overseer has turned the villa into a hotel in his absence. Infuriated, Talbot is ready to kick his teenage guests",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

@@ -1,0 +1,949 @@
+{
+ "meta": {
+  "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd",
+  "type": "tv",
+  "name": "Disney Channel",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/disney-channel-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/disney-channel-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Kids"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T03:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Bill and Cricket follow clues from Cricket's dream to search the woods for the perfect Christmas tree; Tilly catches ennui, so Cricket tries to cheer her up.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T03:30:00.000Z",
+    "title": "Kiff",
+    "overview": "Kiff finally meets her mom's old college friends.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T04:00:00.000Z",
+    "title": "Miraculous: Tales of Ladybug and Cat Noir",
+    "overview": "Ladybug and her team face the Dirtifiers.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T04:30:00.000Z",
+    "title": "Miraculous: Tales of Ladybug and Cat Noir",
+    "overview": "As her grandparents' 75th birthdays approach, Marinette learns news that will turn hers and her family's lives upside down.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T05:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and Bingo plan to stay up late at a sleepover; Bluey needs to focus during a game of hide-and-seek; Bluey makes a new friend while camping.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T05:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Indy and Rusty can't agree in a game of Mum and Dads; Bluey and Bingo work together to climb Mount MumandDad; magic asparagus turns the family into wild animals.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T06:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Cricket teaches the local kids a new curse word, threatening to ruin the community center's choir performance; the Greens try new methods to improve sales at their produce stand.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T06:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Cricket tries to prove to Bill he can eat fast food for every meal; Tilly and Cricket debate whether the lives of people in Big City are connected.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T07:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Remy uses Cricket's antics to gain views and likes on a new video-sharing app; Gloria gives Tilly and Cricket a tour of the animation studio where she's interning.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T07:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Gramma and Cricket fume over an unsightly van parked in front of their house; Nancy joins Cricket and Tilly's Little League team to get back at their unsportsmanlike rivals.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T08:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Tilly revives Cousin Jilly, an alter-ego she created to entertain Cricket when they were younger; Gloria opens a secret caf\u00e9 in the former Big Coffee space without permission.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T08:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Bill forces his family to embrace a live, laugh, love philosophy; Gloria tries to maintain her caf\u00e9's perfect rating.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T09:00:00.000Z",
+    "title": "Kiff",
+    "overview": "Kiff and Barry want to go home, but get into a strange adventure; when he realizes Kiff doesn't know what his job is, Martin wants to prove his inventing prowess.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T09:30:00.000Z",
+    "title": "Kiff",
+    "overview": "Kiff wants to see the inside of the faculty lounge, but once inside struggles to escape; Kiff tries to fail at being Helen's personal assistant so she can retake her career test.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T10:00:00.000Z",
+    "title": "Bluey",
+    "overview": "The girls convince Mum that Dad is a Big Teaser; Bluey struggles to train her new pet; Daddy Robot helps Bluey and Bingo tidy the playroom.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T10:30:00.000Z",
+    "title": "Bluey",
+    "overview": "The Heelers take a trip to Hammerbarn; Bingo has an idea for a new game; Dad eats Bingo's last chip.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T11:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and Bingo help Uncle Stripe and Bandit play squash and spend the day with Nana; Bingo has to learn to play alone.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T11:30:00.000Z",
+    "title": "Pupstruction",
+    "overview": "Crew leader Phinny, an innovative young corgi who dreams of ideas to help his town of Petsburg, leads a construction crew of dogs.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T12:00:00.000Z",
+    "title": "Marvel's Spidey and His Amazing Friends",
+    "overview": "Aunt May becomes a superhero for the day; Team Spidey uses their Rescue-Webs vehicles to stop Electro.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T12:30:00.000Z",
+    "title": "Marvel's Spidey and His Amazing Friends",
+    "overview": "Symbie unleashes naughty mini Symbies on the city; Spin and HERBIE must work together to defeat Green Goblin.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T13:00:00.000Z",
+    "title": "Iron Man and His Awesome Friends",
+    "overview": "The Iron Friends are enjoying a bubble day when Ultron shows up with his Unpoppable Bubbles; Thor welcomes Tony and Riri to Asgard and Loki releases Odin's winged horses.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T13:30:00.000Z",
+    "title": "Bluey",
+    "overview": "The Heelers take turns remembering their favorite thing from the day; it's Dad's turn to give the kids breakfast and drop them off at school; Bingo promises to wake up in her own bed.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T14:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad washes up on the beach of a desert island; hairdressers Bluey and Bingo discover that their customer has nits; Bluey and Bingo wait for a rubber gecko to fall from the ceiling.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T14:30:00.000Z",
+    "title": "Sofia the First: Royal Magic",
+    "overview": "Sofia meets Wildfyre; Zane creates a Goo Monster.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T15:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Bingo finds a toy turtle at the playground and wants to take him home; Mom's sister Brandy comes over for a visit; Bluey and Bingo hide under the house and spy on two mysterious tradies working in the backyard.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T15:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Muffin is playing Grouchy Granny at a garage sale, making Dad push her on an old mobility scooter; Mackenzie, Jack and Rusty are playing astronauts, but Mackenzie keeps going missing; Bluey and Bingo build a very special cubby for their stuffed toy.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T16:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Mum gets everyone to play musical statues.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T16:30:00.000Z",
+    "title": "Bluey",
+    "overview": "The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T17:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey wants to know why Dad's always bossing her around; Coco wants to play Wild Girls with Indy, but Chloe wants her to play another game; Lucky's Dad, Lucky and Chucky have come over to the Heelers' house to watch a rugby final together.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T17:30:00.000Z",
+    "title": "Bluey",
+    "overview": "At the pharmacy, Bluey and Bingo have fun playing with the CCTV screens.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T18:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad pretends to sell the Grannies' house to Mum; Mum and Dad drop the girls off at Nana's so they can have some time to themselves; Bluey and Bingo want Dad to play two different games.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T18:30:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Candace and the boys are stuck in an elevator next to Doof and Agent P; the kids are visited by the Master of Fate while Agent P has his OWCA performance review.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T19:00:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Doof starts the vendpocalypse; Doof saves Norm.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T19:30:00.000Z",
+    "title": "Phineas and Ferb: The Movie: Across the 2nd Dimension",
+    "overview": "Along with their pet platypus, stepbrothers Phineas and Ferb battle evil Dr. Doofenshmirtz.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T21:00:00.000Z",
+    "title": "The Emperor's New Groove",
+    "overview": "Arrogant young Emperor Kuzco is transformed into a llama by his power-hungry advisor -- the devious diva Yzma. Stranded in the jungle, Kuzco's only chance to get back home and reclaim the high life rests with a good-hearted peasant named Pacha. Together, they must return Kuzco to the throne before Y",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:25:00.000Z",
+    "runtime": "85 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T22:25:00.000Z",
+    "title": "Lilo & Stitch",
+    "overview": "A tale of a young girl's close encounter with the galaxy's most wanted extraterrestrial. Lilo is a lonely Hawaiian girl who adopts a small ugly \"dog,\" whom she names Stitch. Stitch would be the perfect pet if he weren't in reality a genetic experiment who has escaped from an alien planet and crash-l",
+    "released": "2026-11-11T22:25:00.000Z",
+    "startTime": "2026-11-11T22:25:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "95 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T00:00:00.000Z",
+    "title": "Stitch! The Movie",
+    "overview": "It's been several years since Stitch (Chris Sanders), the result of eccentric Dr. Jookiba's (David Ogden Stiers) \"Experiment 626,\" landed on Earth and befriended a girl, Lilo (Daveigh Chase). Now Stitch, Lilo and the doctor live in Hawaii with Lilo's sister, Nani (Tia Carrere). But their lives are t",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:10:00.000Z",
+    "runtime": "70 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T01:10:00.000Z",
+    "title": "Big City Greens",
+    "overview": "To impress his new neighbors, Cricket attempts to launch a chicken into space.",
+    "released": "2026-11-12T01:10:00.000Z",
+    "startTime": "2026-11-12T01:10:00.000Z",
+    "endTime": "2026-11-12T01:25:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T01:25:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "The boys build a zoetrope that goes on an adventure of its own; the kids build a bookcase that gets attacked by an army of Doof-plants.",
+    "released": "2026-11-12T01:25:00.000Z",
+    "startTime": "2026-11-12T01:25:00.000Z",
+    "endTime": "2026-11-12T01:55:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T01:55:00.000Z",
+    "title": "Locker Diaries: Phineas and Ferb",
+    "overview": "When Phineas and Ferb invent a transportation system connected to all the lockers in the world, Candace, the school's new hall monitor, finds herself trapped on a chaotic ride.",
+    "released": "2026-11-12T01:55:00.000Z",
+    "startTime": "2026-11-12T01:55:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "5 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T02:00:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "The kids have a sleepover; Doof's cousin traps Perry.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T02:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Cricket is caught eating dog food by Gloria and must stop her from revealing his secret shame; Bill installs a parenting device to monitor and discipline Cricket for him.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T03:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Bill receives a surprise; Jade's boss suspends her from work.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T03:30:00.000Z",
+    "title": "Kiff",
+    "overview": "While babysitting Barry's younger brother, Kiff accidentally stains his favorite stuffed toy.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T04:00:00.000Z",
+    "title": "Miraculous: Tales of Ladybug and Cat Noir",
+    "overview": "Seemingly normal students Marinette and Adrien are chosen to save Paris from evil.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T04:30:00.000Z",
+    "title": "Miraculous: Tales of Ladybug and Cat Noir",
+    "overview": "Afraid that Marinette and Adrien's relationship is failing, Nino suggests making them Carapace and Rena Rouge's deputies, unaware that they are already Ladybug and Cat Noir.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T05:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and Bingo play pirates on the hammock swing; Bingo's favorite toy goes missing; Bluey needs advice on dealing with noisy neighbors.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T05:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Rusty interrupts Bluey's game at playgroup; Doctor Bluey operates on a cat in Dad's tummy; Bluey misses Mum when she goes out for the night.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T06:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Cricket mentors a wild child; Tilly develops a cult following; Nancy tries to prove herself on the farm; Bill struggles to relax at a fancy spa with Gramma.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T06:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Cricket is halted at a convenience store due to its no shoes, no service policy; when Remy throws Vasquez a surprise party, Bill's secret-keeping is put to the test.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T07:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Tilly and Bill set off on an epic journey to recycle a fluorescent light bulb at an e-waste center; Tilly tries to solve a long-standing feud between Gramma and Mr. Grigorian.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T07:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Cricket wants to prove to his family that he is not dumb during trivia night at the caf\u00e9; Tilly gets punished for the first time and decides to break bad.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T08:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Bill goes out of his way to get on a neighbor's good side; Cricket must prove himself worthy to avoid losing his delivery job to a robot.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T08:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Cricket loses his hearing and keeps it a secret from Bill; the Greens go to a hipster drive-in movie, where Gloria proves her life is fun by taking the perfect SnapAGram photo.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T09:00:00.000Z",
+    "title": "Kiff",
+    "overview": "Kiff and Barry agree to move a piano for Helen in exchange for a wish, but can't agree on the wish; Kiff shows a new kid around school but can't stop his family from interfering.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T09:30:00.000Z",
+    "title": "Kiff",
+    "overview": "Kiff has a lot to do today, but brushing her tooth is not on the list; Kiff, Barry and the crew set out to make a movie so they can have a fun blooper reel, but blooping is hard.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T10:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad plants himself on one end of the seesaw; it is Bluey's first trip to the cinema; Bluey and Bingo go on an adventure with Grandad.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T10:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Muffin plays the game of library her way; Mum, Dad and Bingo must pass swim school; Bluey, Bingo and Dad always take out the bins.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T11:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and Bingo want a lick of each other's ice cream; Bingo is playing Bad Mood with Dad; two babysitters turn up to look after Bluey and Bingo.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T11:30:00.000Z",
+    "title": "Pupstruction",
+    "overview": "The pups build a dojo; Tank and friends haul a school.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T12:00:00.000Z",
+    "title": "Marvel's Spidey and His Amazing Friends",
+    "overview": "Green Goblin disguises himself as a leprechaun; a special library story time is interrupted by a string of villains trying to steal the book to be read.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T12:30:00.000Z",
+    "title": "Marvel's Spidey and His Amazing Friends",
+    "overview": "Team Spidey and their new friend Silk must stop Doc Ock from using her Slo-Go Ray; Team Spidey must defeat new spider-villains and retrieve their stolen web-shooters.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T13:00:00.000Z",
+    "title": "Iron Man and His Awesome Friends",
+    "overview": "When Iron Friend imposters cause chaos, the team must clear their names; Vision's art tour turns dangerous as Ultron threatens to make the museum vanish.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T13:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and Bingo play The Quiet Game; when Mum and Dad have a disagreement, Bluey makes Dad write a love letter to Mum; in the park, Bluey meets a new playmate, Winnie.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T14:00:00.000Z",
+    "title": "Bluey",
+    "overview": "The Heelers go on a road trip! Mum bans the girls from saying the word 'dunny.' Bluey wants to help Dad make Bingo's birthday cake.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T14:30:00.000Z",
+    "title": "Sofia the First: Royal Magic",
+    "overview": "While on a family picnic, Amber wants to prove she's just as amazing as Sofia; when Layla meets Sofia's siblings, Amber and James, she goes to great lengths to impress them.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T15:00:00.000Z",
+    "title": "Mickey Mouse Clubhouse+",
+    "overview": "Minnie makes special backpacks, inspiring a hike to Goofy Rock; using Mousekatools, they reach the top, where Goofy climbs his namesake rock for a photo.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T15:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Mum bans the girls from saying the word 'dunny'; Bluey wants to help Dad make Bingo's birthday cake; Bingo is desperate to show off her handstand skills.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T16:00:00.000Z",
+    "title": "SuperKitties",
+    "overview": "When Zsa-Zsa steals all the pet beds in Kittydale, the SuperKitties and Willa race to get them back; the Glamsters make a glittery mess in the jungle as they look for a unicorn.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T16:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey and her friends play a game of helicopter with a tree stump; Chloe tries to teach her dad to improvise and play Bluey's game of Octopus at home; Mum reminisces about Bluey and Judo as babies, where it was a race to see who would walk first.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T17:00:00.000Z",
+    "title": "Sofia the First: Royal Magic",
+    "overview": "Sofia defends Charmswell Academy from the wicked sorceress, Zandrya, with help from Rapunzel. Camila learns to be there for her friends during the school's flying derby race.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T17:30:00.000Z",
+    "title": "Disney Jr. Ariel - The Little Mermaid",
+    "overview": "Lucia uses magic to shrink Ariel and her friends for tiny fun; when Ariel, Akiko and Axyl visit the Crystal World, they search for a green crystal to power the new Sea Mobile.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T18:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad thinks Bluey and Bingo have too many toys; Bluey and friends get ambushed by the Terriers; Bluey and Bingo play a game of Burger Shop with Dad.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T18:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey gets her own room; Bluey wants her Father's Day card to be perfect; Mum sets up a backyard obstacle course just for fun.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T19:00:00.000Z",
+    "title": "Bluey",
+    "overview": "Dad thinks Bluey and Bingo have too many toys; Bluey and friends get ambushed by the Terriers; Bluey and Bingo play a game of Burger Shop with Dad.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T19:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Bluey gets her own room; Bluey wants her Father's Day card to be perfect; Mum sets up a backyard obstacle course just for fun.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T20:00:00.000Z",
+    "title": "Kiff",
+    "overview": "Kiff and the crew learn magic, but end up in over their heads; Helen casts a spell on Kiff and Barry and won't tell them what it is.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T20:30:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Meap enlists Candace and the kids to help bust his nemesis, Mitch, before he can steal a long-lost treasure hidden somewhere on Earth.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T21:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "A pizza delivery girl from Big City has to flee from a crazed country family; when Bill gets a horse for the day, Tilly must hide how much she secretly hates horses.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T21:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Tilly and Andromeda exchange letters that reveal their outlooks on the world; Remy enlists the Greens to help him lie to his parents about his week in the country.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T22:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The kids plan a heist to steal honey from Bill's beehive; Cricket and Remy run a campaign to get Phoenix, the dog, elected as mayor.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T22:30:00.000Z",
+    "title": "Bluey",
+    "overview": "Bingo gets upset when Dad is too distracted to notice a walking leaf; Bluey dreams about being a nocturnal fruit bat; Bingo makes a salad.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T23:00:00.000Z",
+    "title": "Bluey",
+    "overview": "The kids stage a horsey wedding; Bluey, Bingo and Dad play a game of Hotel; Bluey struggles to ride her bike and won't give up.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-12T23:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-13T00:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "When the Greens return Gramma and Remy to Big City, they are determined to delay their goodbyes for as long as possible.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-13T00:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Tilly and Cricket wrestle with decision-making at a truck stop between Big City and the country; Tilly rises through the ranks as a Big City jingle writer.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-13T01:00:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "The boys bring Perry to the vet for a checkup and build a pet wash while they wait; Carl tries to help Perry stop Doof while working three other part-time jobs.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-13T01:30:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "The Flynn-Fletchers take a cruise; Doof steals shrunken goods; Isabella struggles to lead the Fireside Girls on her own, while Doof renews his evil business license.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-13T02:00:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Buford's Candace suit comes to life and tries to take over the real Candace's life; Candace ignores her brothers for a day in order to help her Mom with a bust of her own.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-13T02:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Cricket tries to come up with the perfect prank to play on his girlfriend on April Fool's Day; Bill goes to extremes to prevent Tilly from experiencing grief.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-13T03:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "Chip Whistler attempts to create an evil family, so he takes down the Greens; the Greens move to the suburbs and live under new identities to hide from Chip.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-13T03:30:00.000Z",
+    "title": "Kiff",
+    "overview": "Celebrating Halfway There Day, where everyone celebrates mild laziness.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-13T04:00:00.000Z",
+    "title": "Miraculous: Tales of Ladybug and Cat Noir",
+    "overview": "When Adrien decides to make a documentary about his father Gabriel Agreste, Marinette does her best to protect her secrets.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

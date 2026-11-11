@@ -1,0 +1,609 @@
+{
+ "meta": {
+  "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140",
+  "type": "tv",
+  "name": "National Geographic",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/national-geographic-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/national-geographic-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Documentaries"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T03:00:00.000Z",
+    "title": "Megastorm",
+    "overview": "A brutal heatwave fuels Europe's most destructive wildfire season on record.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T04:00:00.000Z",
+    "title": "Disaster Autopsy",
+    "overview": "The causes of three disasters involving a high-rise, a submarine and a subway station are dissected.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T05:00:00.000Z",
+    "title": "Surviving Alaska: Women of the Wild",
+    "overview": "The women fight through the ice and snow to forge a path through winter.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T06:00:00.000Z",
+    "title": "Ice Road Rescue",
+    "overview": "A stranded fish trailer and overturned lorry test both rescue teams.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T07:00:00.000Z",
+    "title": "Megastorm",
+    "overview": "A brutal heatwave fuels Europe's most destructive wildfire season on record.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T08:00:00.000Z",
+    "title": "Tsunami: Race Against Time",
+    "overview": "The devastating tsunami makes landfall, catching thousands unaware.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T09:00:00.000Z",
+    "title": "Tsunami: Race Against Time",
+    "overview": "As the tsunami hits Thailand, tourists and locals fight for survival.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T10:00:00.000Z",
+    "title": "Tsunami: Race Against Time",
+    "overview": "The wave hits Sri Lanka, and the world wakes up to news of the disaster.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T11:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T11:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T12:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T12:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T13:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T13:30:00.000Z",
+    "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax Debt",
+    "overview": "See how one company is changing people's lives by helping them put their tax problems to rest.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T14:00:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "A frequent flyer's attempt to get higher is stopped at the border.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T14:30:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "A passenger with a shady passport and an imaginary friend is sent back home.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T15:00:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "Immigration isn't pleased when a woman is caught with a fake passport.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T15:30:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "A half million dollars of meth is buttoned up nicely at Auckland.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T16:00:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "A hidden haul; a student's mistake; a picture worth a thousand words.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T16:30:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "A taxi driver with a story; triple trouble for Biosecurity; ecstasy lights.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T17:00:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "One of NZ's biggest drug busts; a Brazilian partier; soap bottles of meth.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T17:30:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "Bags of red flags; a family of foodies; a dubious Christmas gift.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T18:00:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "An irate English tourist; a strange vacation; meth-leisure wear.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T18:30:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "Rare Canadian artifacts; conflicting travel stories; a sticky situation.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T19:00:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "A body packing bust; a marriage of inconvenience; NZ's most unwanted.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T19:30:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "An Irishman arrives at the airport; a drug concealment; a spiritual healer's Pandora's box of problems.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T20:00:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "An illegal business is busted; a scam to smuggle drugs; a unique excuse.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T20:30:00.000Z",
+    "title": "To Catch a Smuggler: South Pacific",
+    "overview": "Witchcraft; suspicious lampshades; a man who may be a sex worker.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T21:00:00.000Z",
+    "title": "To Catch a Smuggler",
+    "overview": "CBP finds a smuggler of \"crazy pills\" at JFK and responds to the COVID-19 crisis on the southern border, seizing over 800 lbs of meth.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T22:00:00.000Z",
+    "title": "To Catch a Smuggler",
+    "overview": "CBP New York discovers priceless shipments of looted ancient artifacts; CBP Newark intercepts stolen luxury cars headed for the overseas black market.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-11T23:00:00.000Z",
+    "title": "To Catch a Smuggler",
+    "overview": "While inspecting commercial cargo from Mexico, Laredo CBP discovers liquid meth concealed within paint buckets; in Atlanta, HSI conducts a controlled delivery of an air conditioner filled with meth.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T00:00:00.000Z",
+    "title": "To Catch a Smuggler",
+    "overview": "CBP finds blind mules carrying fentanyl and HSI tails a loaded truck to a meth compound.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T01:00:00.000Z",
+    "title": "To Catch a Smuggler",
+    "overview": "CBP finds multiple doses of lethal fentanyl hidden within passenger cars; CBP Newark searches for an illegal stowaway onboard a cargo ship.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T02:00:00.000Z",
+    "title": "Contraband Capture",
+    "overview": "Officers intercept air cargo carrying hashish and cocaine.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T03:00:00.000Z",
+    "title": "True Tales of the Mob",
+    "overview": "In 1978, a team of armed robbers pulled off one of history's greatest heists.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T04:00:00.000Z",
+    "title": "To Catch a Smuggler",
+    "overview": "CBP Nogales busts a man internally smuggling fentanyl from Mexico; HSI delves into the dark web to stop a deadly party drug linked to overdoses.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T05:00:00.000Z",
+    "title": "Contraband Capture",
+    "overview": "Officers intercept air cargo carrying hashish and cocaine.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T06:00:00.000Z",
+    "title": "True Tales of the Mob",
+    "overview": "In 1978, a team of armed robbers pulled off one of history's greatest heists.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T07:00:00.000Z",
+    "title": "Contraband Capture",
+    "overview": "Agents intercept suspect boats, screen mail and stop pests from Korea.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T08:00:00.000Z",
+    "title": "Contraband Capture",
+    "overview": "The Coast Guard investigates crew mistreatment aboard a U.S.-registered vessel.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T09:00:00.000Z",
+    "title": "Contraband Capture",
+    "overview": "Agents find four abandoned jet skis linked to smuggling activity.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T10:00:00.000Z",
+    "title": "Contraband Capture",
+    "overview": "In Miami, USCG boarding officers encounter a wanted man.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T11:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T11:30:00.000Z",
+    "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
+    "overview": "Join your hosts Kevin Cash & Cory Cady as we discuss the 250th Anniversary of America with the official \"America 250\" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T12:00:00.000Z",
+    "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax Debt",
+    "overview": "See how one company is changing people's lives by helping them put their tax problems to rest.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T12:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T13:00:00.000Z",
+    "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax Debt",
+    "overview": "See how one company is changing people's lives by helping them put their tax problems to rest.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T13:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T14:00:00.000Z",
+    "title": "David Blaine Do Not Attempt",
+    "overview": "David explores humanity's ability to endure extreme temperatures.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:50:00.000Z",
+    "runtime": "50 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T14:50:00.000Z",
+    "title": "Expedition Mars: Spirit and Opportunity",
+    "overview": "Bringing to life the epic struggle to get the Spirit and Opportunity rovers safely to Mars, and their astounding journeys of exploration once they finally got there.",
+    "released": "2026-11-12T14:50:00.000Z",
+    "startTime": "2026-11-12T14:50:00.000Z",
+    "endTime": "2026-11-12T16:50:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T16:50:00.000Z",
+    "title": "Apollo: Back to the Moon",
+    "overview": "A chronicle of the Apollo space program; the first phase takes place against a backdrop of the Cold War, from the disaster of Apollo 1 to the triumph of the Apollo 8 mission.",
+    "released": "2026-11-12T16:50:00.000Z",
+    "startTime": "2026-11-12T16:50:00.000Z",
+    "endTime": "2026-11-12T17:51:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T17:51:00.000Z",
+    "title": "Apollo: Back to the Moon",
+    "overview": "The Apollo space program embraces tragic setbacks and historic success; the last stage includes the Apollo 11 space flight which landed the first two people on the Moon.",
+    "released": "2026-11-12T17:51:00.000Z",
+    "startTime": "2026-11-12T17:51:00.000Z",
+    "endTime": "2026-11-12T18:52:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T18:52:00.000Z",
+    "title": "Apollo: Missions to the Moon",
+    "overview": "The sweeping saga of NASA's Apollo space program is captured via TV news programs, radio broadcasts, home movies, NASA films, mission-control audio, and black-box recordings from Apollo capsules.",
+    "released": "2026-11-12T18:52:00.000Z",
+    "startTime": "2026-11-12T18:52:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "128 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T21:00:00.000Z",
+    "title": "Built for Mars: The Perseverance Rover",
+    "overview": "After landing on Mars, NASA's Perseverance rover will look for signs of life and collect samples.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-12T23:00:00.000Z",
+    "title": "Mars: One Day on the Red Planet",
+    "overview": "An epic journey around Mars, built from data, as one has never seen it before.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-13T01:00:00.000Z",
+    "title": "Area 51: The CIA's Secret",
+    "overview": "The history of the base's development, up-to-date information and expert interviews.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-13T02:00:00.000Z",
+    "title": "Cars That Changed History",
+    "overview": "The story of the truck that helped shape a nation.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-13T03:00:00.000Z",
+    "title": "Cars That Changed History",
+    "overview": "The story of the pursuit of speed and automotive perfection.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140:epg:2026-11-13T04:00:00.000Z",
+    "title": "Area 51: The CIA's Secret",
+    "overview": "The history of the base's development, up-to-date information and expert interviews.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

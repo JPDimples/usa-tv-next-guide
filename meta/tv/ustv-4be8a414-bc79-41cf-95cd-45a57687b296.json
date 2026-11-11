@@ -1,0 +1,549 @@
+{
+ "meta": {
+  "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296",
+  "type": "tv",
+  "name": "Telemundo",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/telemundo-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/telemundo-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Latino"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T03:00:00.000Z",
+    "title": "Lejos de ti",
+    "overview": "Kaya ata cabos y quiere recuperar a su hija. Cihan le propone un plan muy arriesgado que requiere el apoyo de la doctora de la familia. Alya se niega a ocultar el riesgo que corre Nare.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T04:00:00.000Z",
+    "title": "Noticias Telemundo",
+    "overview": "Julio Vaqueiro presenta Edici\u00f3n Noticias Telemundo, la fuente de informaci\u00f3n m\u00e1s confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las \u00faltimas noticias y entrevistas.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:35:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T04:35:00.000Z",
+    "title": "Noticias Telemundo en la noche",
+    "overview": "Noticias Telemundo en la noche presenta las \u00faltimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la informaci\u00f3n m\u00e1s relevante de todo lo que necesita saber al final del d\u00eda.",
+    "released": "2026-11-11T04:35:00.000Z",
+    "startTime": "2026-11-11T04:35:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T05:00:00.000Z",
+    "title": "El pelotazo",
+    "overview": "La nueva e innovadora apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y pol\u00e9mica. Seguimiento detallado de equipos, jugadores y partidos m\u00e1s destacados.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T05:30:00.000Z",
+    "title": "Lejos de ti",
+    "overview": "Kaya ata cabos y quiere recuperar a su hija. Cihan le propone un plan muy arriesgado que requiere el apoyo de la doctora de la familia. Alya se niega a ocultar el riesgo que corre Nare.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T06:30:00.000Z",
+    "title": "Caso cerrado",
+    "overview": "Diego exige una orden de alejamiento contra Nidia y Dajean por sabotear un proyecto que concientiza a sus alumnos sobre tiroteos escolares. Nidia asegura que su hija est\u00e1 traumatizada.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T07:00:00.000Z",
+    "title": "En casa con Telemundo",
+    "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T08:00:00.000Z",
+    "title": "En casa con Telemundo",
+    "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T09:00:00.000Z",
+    "title": "La mesa caliente",
+    "overview": "Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas m\u00e1s candentes y controversiales que afectan a la comunidad latina en Estados Unidos.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T10:00:00.000Z",
+    "title": "Caso cerrado",
+    "overview": "La doctora Ana Mar\u00eda Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisi\u00f3n. Adem\u00e1s, expertos contribuyen con sus conocimientos.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T10:30:00.000Z",
+    "title": "Noticias Telemundo en la noche",
+    "overview": "Noticias Telemundo en la noche presenta las \u00faltimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la informaci\u00f3n m\u00e1s relevante de todo lo que necesita saber al final del d\u00eda.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T11:00:00.000Z",
+    "title": "Al rojo vivo",
+    "overview": "La revista noticiosa que define la agenda de la televisi\u00f3n en espa\u00f1ol en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al p\u00fablico hispano y por presentarlas en un formato innovador que resalta el aspecto humano.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T12:00:00.000Z",
+    "title": "Noticias Telemundo AHORA",
+    "overview": "Las noticias m\u00e1s recientes y las historias m\u00e1s importantes para la comunidad latina.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T13:00:00.000Z",
+    "title": "Hoy d\u00eda",
+    "overview": "El show de las ma\u00f1anas que ofrece m\u00e1s entretenimiento y diversi\u00f3n, con contenido positivo, \u00fatil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el d\u00eda bien informada.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "210 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T16:30:00.000Z",
+    "title": "Reina de corazones",
+    "overview": "Historia de Reina y Nicol\u00e1s, quienes se enamoran a primera vista, pero ella termina casada con un traficante de joyas y \u00e9l se convierte en agente del Servicio Secreto, pero regresa para rescatar a la mujer que ama.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T17:00:00.000Z",
+    "title": "Santa Diabla",
+    "overview": "Un giro en el destino lleva a Santa Mart\u00ednez a idear un plan para la venganza perfecta, pero el amor toca a su puerta otra vez y debe decidir si sacrifica el amor o la venganza que luch\u00f3 por alcanzar.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T17:30:00.000Z",
+    "title": "Noticias Telemundo mediod\u00eda",
+    "overview": "Un informativo con un estilo \u00fanico de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes \u00e1ngulos de los acontecimientos, y entrevistas.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T18:00:00.000Z",
+    "title": "En casa con Telemundo",
+    "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T19:00:00.000Z",
+    "title": "En casa con Telemundo",
+    "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T20:00:00.000Z",
+    "title": "La mesa caliente",
+    "overview": "Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas m\u00e1s candentes y controversiales que afectan a la comunidad latina en Estados Unidos.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T21:00:00.000Z",
+    "title": "Al rojo vivo",
+    "overview": "La revista noticiosa que define la agenda de la televisi\u00f3n en espa\u00f1ol en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al p\u00fablico hispano y por presentarlas en un formato innovador que resalta el aspecto humano.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T22:00:00.000Z",
+    "title": "En casa con Telemundo",
+    "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T23:00:00.000Z",
+    "title": "Noticias Telemundo mediod\u00eda",
+    "overview": "Un informativo con un estilo \u00fanico de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes \u00e1ngulos de los acontecimientos, y entrevistas.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T23:30:00.000Z",
+    "title": "Noticias Telemundo",
+    "overview": "Julio Vaqueiro presenta Edici\u00f3n Noticias Telemundo, la fuente de informaci\u00f3n m\u00e1s confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las \u00faltimas noticias y entrevistas.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T00:00:00.000Z",
+    "title": "Juego de villanos",
+    "overview": "Dieciocho villanos ic\u00f3nicos compiten por el t\u00edtulo de \"El Emperador de los Villanos\" y 200 mil d\u00f3lares. Entre desaf\u00edos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T02:00:00.000Z",
+    "title": "El se\u00f1or de los cielos",
+    "overview": "Aurelio revela a la Tata el destino de los restos de Dalvio, mientras Diana lo acusa por la muerte de David y jura vengarse. Cifuentes enfrenta una investigaci\u00f3n por asesinato.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T03:00:00.000Z",
+    "title": "Lejos de ti",
+    "overview": "El vecino de Alya la invita con Deniz a un taller sin revelar sus verdaderas intenciones. Cihan y Kaya van por la ni\u00f1a, lo que provoca ira y discusiones. Sadakat le hace una petici\u00f3n a Nare.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T04:00:00.000Z",
+    "title": "Noticias Telemundo",
+    "overview": "Julio Vaqueiro presenta Edici\u00f3n Noticias Telemundo, la fuente de informaci\u00f3n m\u00e1s confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las \u00faltimas noticias y entrevistas.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:35:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T04:35:00.000Z",
+    "title": "Noticias Telemundo en la noche",
+    "overview": "Noticias Telemundo en la noche presenta las \u00faltimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la informaci\u00f3n m\u00e1s relevante de todo lo que necesita saber al final del d\u00eda.",
+    "released": "2026-11-12T04:35:00.000Z",
+    "startTime": "2026-11-12T04:35:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T05:00:00.000Z",
+    "title": "El pelotazo",
+    "overview": "La nueva e innovadora apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y pol\u00e9mica. Seguimiento detallado de equipos, jugadores y partidos m\u00e1s destacados.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T05:30:00.000Z",
+    "title": "Lejos de ti",
+    "overview": "El vecino de Alya la invita con Deniz a un taller sin revelar sus verdaderas intenciones. Cihan y Kaya van por la ni\u00f1a, lo que provoca ira y discusiones. Sadakat le hace una petici\u00f3n a Nare.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T06:30:00.000Z",
+    "title": "Caso cerrado",
+    "overview": "Mar\u00eda descubre que un cura es su padre biol\u00f3gico y, tras obtener la custodia, intenta llev\u00e1rsela a Panam\u00e1. Ella se niega a irse con un desconocido que pretende imponerle su religi\u00f3n.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T07:00:00.000Z",
+    "title": "En casa con Telemundo",
+    "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T08:00:00.000Z",
+    "title": "En casa con Telemundo",
+    "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T09:00:00.000Z",
+    "title": "La mesa caliente",
+    "overview": "Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas m\u00e1s candentes y controversiales que afectan a la comunidad latina en Estados Unidos.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T10:00:00.000Z",
+    "title": "Caso cerrado",
+    "overview": "Jairo sufre un derrame cerebral y al salir del coma tiene una nueva orientaci\u00f3n sexual.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T10:30:00.000Z",
+    "title": "Noticias Telemundo en la noche",
+    "overview": "Noticias Telemundo en la noche presenta las \u00faltimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la informaci\u00f3n m\u00e1s relevante de todo lo que necesita saber al final del d\u00eda.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T11:00:00.000Z",
+    "title": "Al rojo vivo",
+    "overview": "La revista noticiosa que define la agenda de la televisi\u00f3n en espa\u00f1ol en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al p\u00fablico hispano y por presentarlas en un formato innovador que resalta el aspecto humano.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T12:00:00.000Z",
+    "title": "Noticias Telemundo AHORA",
+    "overview": "Las noticias m\u00e1s recientes y las historias m\u00e1s importantes para la comunidad latina.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T13:00:00.000Z",
+    "title": "Hoy d\u00eda",
+    "overview": "El show de las ma\u00f1anas que ofrece m\u00e1s entretenimiento y diversi\u00f3n, con contenido positivo, \u00fatil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el d\u00eda bien informada.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "210 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T16:30:00.000Z",
+    "title": "Reina de corazones",
+    "overview": "Historia de Reina y Nicol\u00e1s, quienes se enamoran a primera vista, pero ella termina casada con un traficante de joyas y \u00e9l se convierte en agente del Servicio Secreto, pero regresa para rescatar a la mujer que ama.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T17:00:00.000Z",
+    "title": "Santa Diabla",
+    "overview": "Un giro en el destino lleva a Santa Mart\u00ednez a idear un plan para la venganza perfecta, pero el amor toca a su puerta otra vez y debe decidir si sacrifica el amor o la venganza que luch\u00f3 por alcanzar.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T17:30:00.000Z",
+    "title": "Noticias Telemundo mediod\u00eda",
+    "overview": "Un informativo con un estilo \u00fanico de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes \u00e1ngulos de los acontecimientos, y entrevistas.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T18:00:00.000Z",
+    "title": "En casa con Telemundo",
+    "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T19:00:00.000Z",
+    "title": "En casa con Telemundo",
+    "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T20:00:00.000Z",
+    "title": "La mesa caliente",
+    "overview": "Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas m\u00e1s candentes y controversiales que afectan a la comunidad latina en Estados Unidos.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T21:00:00.000Z",
+    "title": "Al rojo vivo",
+    "overview": "La revista noticiosa que define la agenda de la televisi\u00f3n en espa\u00f1ol en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al p\u00fablico hispano y por presentarlas en un formato innovador que resalta el aspecto humano.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T22:00:00.000Z",
+    "title": "En casa con Telemundo",
+    "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T23:00:00.000Z",
+    "title": "Noticias Telemundo mediod\u00eda",
+    "overview": "Un informativo con un estilo \u00fanico de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes \u00e1ngulos de los acontecimientos, y entrevistas.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-12T23:30:00.000Z",
+    "title": "Noticias Telemundo",
+    "overview": "Julio Vaqueiro presenta Edici\u00f3n Noticias Telemundo, la fuente de informaci\u00f3n m\u00e1s confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las \u00faltimas noticias y entrevistas.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-13T00:00:00.000Z",
+    "title": "Juego de villanos",
+    "overview": "Dieciocho villanos ic\u00f3nicos compiten por el t\u00edtulo de \"El Emperador de los Villanos\" y 200 mil d\u00f3lares. Entre desaf\u00edos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-13T02:00:00.000Z",
+    "title": "El se\u00f1or de los cielos",
+    "overview": "Al final de la d\u00e9cada de los ochentas, en el negocio il\u00edcito m\u00e1s lucrativo de la \u00e9poca, \"el oro blanco\", las rutas de las Bahamas y Florida, ya no son tan viables para el transporte de la coca\u00edna; la persecuci\u00f3n de los miembros de los carteles colombianos y su guerra entre ellos mismos se intensific",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-13T04:00:00.000Z",
+    "title": "Noticias Telemundo",
+    "overview": "Julio Vaqueiro presenta Edici\u00f3n Noticias Telemundo, la fuente de informaci\u00f3n m\u00e1s confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las \u00faltimas noticias y entrevistas.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:35:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

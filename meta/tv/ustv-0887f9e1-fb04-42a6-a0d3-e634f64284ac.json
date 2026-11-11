@@ -1,0 +1,929 @@
+{
+ "meta": {
+  "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac",
+  "type": "tv",
+  "name": "Comedy TV",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/comedy-tv-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/comedy-tv-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T03:00:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T03:30:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T04:00:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T04:30:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Jon Lovitz; Sheryl Underwood; Howie Mandel; Byron Allen; Whitney Cummings; Billy Gardell.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T05:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T05:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T06:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A weatherman has a sneezing fit in the middle of a forecast; a golfer hits a ball through a living room window.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T06:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlights of some of the best moments of the series; favorite moments of all time.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T07:00:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Billy Gardell; Joe DeRosa; Frances DiLorinzo; Bruce Bruce.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T07:30:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Claude Stuart; Al Del Bene; Tina Kim; Earthquake.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T08:00:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Geoff Keith; Andrew Norelli; Monique Marvez; Ruben Paul.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T08:30:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Greg Proops; Steve Byrne; Leighann Lord; Jim Short.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T09:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A snowboarder collides with a passing chair lift; a French bulldog watches itself on TV; outrageous road trip mishaps.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T09:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A TV chef accidentally sets fire to the set; an elephant tosses a fashion influencer into a lake; a reporter doesn't know he's on-air while doing some personal grooming.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T10:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T10:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T11:00:00.000Z",
+    "title": "Weather Gone Viral",
+    "overview": "A severe heatwave turns Turkey into a tinderbox that spawns more than 200 fires; an extreme kayaker takes on a 134-foot Chilean waterfall; in Brazil, a 19th-century mansion is gone in an instant when a hillside crumbles after days of heavy rain.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T12:00:00.000Z",
+    "title": "Weather Gone Viral",
+    "overview": "An EF-4 tornado hits Kentucky and levels homes in the middle of the night; in India, it's a battle for survival when a cyclone unleashes more than a month's worth of rain in two days; a professional freerider demonstrates 20-foot aerial tricks.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T13:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T13:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T14:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T14:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T15:00:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T15:30:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T16:00:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T16:30:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Jon Lovitz; Sheryl Underwood; Howie Mandel; Byron Allen; Whitney Cummings; Billy Gardell.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T17:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A weatherman gets an unexpected phone call in the middle of his forecast; six dogs hitch a ride on a motor scooter; a TV host can't get through a segment about cockroaches without screaming.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T17:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T18:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T18:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A ceiling collapses on a newscaster's head; a seagull makes off with a guy's lunch; a soccer ball hits an unsuspecting sunbather.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T19:00:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Jimmy Dore; John Caparulo; Melinda Hill; Deon Cole.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T19:30:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Ahmed Ahmed; Aron Kader; Maz Jobrani; Dean Obeidallah.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T20:00:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Steve Mazan; Arj Barker; Morgan Murphy; Jonathan Slocumb.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T20:30:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Stephen Thomas; Andre Kelley; Tracey MacDonald; John Caponera.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T21:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A newscaster is too busy texting to realize he's on the air; a man gets covered in dirt after slipping on a ramp with a wheelbarrow; a tribute to cold and flu season.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T21:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "An interviewee talks about proper building technique as the set falls apart behind him; a failed swing lands a golfer in a water hazard; a snowy roof becomes a sliding board for a bumbling do-it-yourselfer.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T22:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T22:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Some of the best moments of the series.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T23:00:00.000Z",
+    "title": "Weather Gone Viral",
+    "overview": "A severe heatwave turns Turkey into a tinderbox that spawns more than 200 fires; an extreme kayaker takes on a 134-foot Chilean waterfall; in Brazil, a 19th-century mansion is gone in an instant when a hillside crumbles after days of heavy rain.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T00:00:00.000Z",
+    "title": "Weather Gone Viral",
+    "overview": "An EF-4 tornado hits Kentucky and levels homes in the middle of the night; in India, it's a battle for survival when a cyclone unleashes more than a month's worth of rain in two days; a professional freerider demonstrates 20-foot aerial tricks.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T01:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T01:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T02:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T02:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T03:00:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T03:30:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T04:00:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T04:30:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Jon Lovitz; Sheryl Underwood; Howie Mandel; Byron Allen; Whitney Cummings; Billy Gardell.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T05:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A weatherman gets an unexpected phone call in the middle of his forecast; six dogs hitch a ride on a motor scooter; a TV host can't get through a segment about cockroaches without screaming.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T05:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T06:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Highlighting weather-related videos from local stations and broadcasters around the world; from reporters in the field struggling through everything Mother Nature throws at them, to meteorologists in the studio coping with technical foul-ups.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T06:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A ceiling collapses on a newscaster's head; a seagull makes off with a guy's lunch; a soccer ball hits an unsuspecting sunbather.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T07:00:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Jimmy Dore; John Caparulo; Melinda Hill; Deon Cole.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T07:30:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Ahmed Ahmed; Aron Kader; Maz Jobrani; Dean Obeidallah.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T08:00:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Steve Mazan; Arj Barker; Morgan Murphy; Jonathan Slocumb.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T08:30:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Stephen Thomas; Andre Kelley; Tracey MacDonald; John Caponera.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T09:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A newscaster is too busy texting to realize he's on the air; a man gets covered in dirt after slipping on a ramp with a wheelbarrow; a tribute to cold and flu season.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T09:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "An interviewee talks about proper building technique as the set falls apart behind him; a failed swing lands a golfer in a water hazard; a snowy roof becomes a sliding board for a bumbling do-it-yourselfer.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T10:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T10:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Some of the best moments of the series.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T11:00:00.000Z",
+    "title": "Weather Gone Viral",
+    "overview": "High winds trigger a fire in Colorado, burning 6,000 acres and destroying thousands of homes; global shipping comes to a halt when the ship Ever Given is blown sideways, blocking shipping lanes in the Suez Canal for six days.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T12:00:00.000Z",
+    "title": "Weather Gone Viral",
+    "overview": "Sixteen years to the day of Hurricane Katrina, downtown New Orleans gets another lashing with Hurricane Ida; a look inside a Category 4 hurricane with impressive new Saildrone technology; a high-speed skier gets almost vertical at 125 mph.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T13:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A streaker interrupts a live newscast; a skier gets stuck on a jungle gym while attempting a stunt.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T13:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A TV anchorman is unaware of a fist fight going on behind him during a newscast; leaked water from a burst pipe freezes and turns a car into a giant ice cube; a dog plays a variety of instruments with its nose.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T14:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Some of the best moments of the series, including wacky wedding videos, hilariously outrageous vacation moments, and crazy fits of sneezing.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T14:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A morning show is interrupted when a sweepstakes winner curses live on air; a man comes up short when he attempts to leap from a garage to a trampoline to a pool; a snowboarder loses his grip on a tow-line and takes out a bunch of skiers with him.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T15:00:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T15:30:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T16:00:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T16:30:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Jon Lovitz; Sheryl Underwood; Howie Mandel; Byron Allen; Whitney Cummings; Billy Gardell.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T17:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A newscast gets interrupted when a construction crew starts hammering and drilling on set; strong winds send a barbecue grill into a swimming pool; a golfer's buddies tie a rubber snake to his club.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T17:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A janitor starts cleaning a window behind the anchor during a live newscast; a passenger on an ATV falls in the mud; kids stuck inside on a snowy day.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T18:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A news reporter forgets he is on live TV; a skateboarding dog; gender reveal mishaps.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T18:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A news anchor has a sneezing fit on live TV; a prank with a drone and a giant water balloon; a montage of slipping and sliding cars.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T19:00:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Gene Pompa; Jeff Capri; Susan Prekel; W. Kamau Bell.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T19:30:00.000Z",
+    "title": "Comics Unleashed",
+    "overview": "Byron Allen and four of the comedians take center stage to share stories, tell jokes and bring the laughter to television.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T20:00:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Rudy Moreno; Noe Gonzalez; Sandra Valls; Manny Maldonado.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T20:30:00.000Z",
+    "title": "Comics Unleashed",
+    "overview": "Byron Allen and four of the comedians take center stage to share stories, tell jokes and bring the laughter to television.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T21:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A robotic camera goes haywire during a live newscast; a kid playing soccer in his backyard shatters his mom's patio table.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T21:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A field reporter inhales a fly mid-broadcast; a golfer loses his balance and topples into a lake; some of the funniest dog moments ever caught on camera.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T22:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A meteorologist gets left in the dark when the power goes out; a woman uses her head as a door knocker; a lumberjack sends a tree crashing into his house.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T22:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A field report goes awry when a reporter has to deal with a herd of ostriches; a woman loses her wig on a slingshot ride; some of the most comedic slips ever caught on camera.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-12T23:00:00.000Z",
+    "title": "Weather Gone Viral",
+    "overview": "High winds trigger a fire in Colorado, burning 6,000 acres and destroying thousands of homes; global shipping comes to a halt when the ship Ever Given is blown sideways, blocking shipping lanes in the Suez Canal for six days.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-13T00:00:00.000Z",
+    "title": "Weather Gone Viral",
+    "overview": "Sixteen years to the day of Hurricane Katrina, downtown New Orleans gets another lashing with Hurricane Ida; a look inside a Category 4 hurricane with impressive new Saildrone technology; a high-speed skier gets almost vertical at 125 mph.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-13T01:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A streaker interrupts a live newscast; a skier gets stuck on a jungle gym while attempting a stunt.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-13T01:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A TV anchorman is unaware of a fist fight going on behind him during a newscast; leaked water from a burst pipe freezes and turns a car into a giant ice cube; a dog plays a variety of instruments with its nose.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-13T02:00:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "Some of the best moments of the series, including wacky wedding videos, hilariously outrageous vacation moments, and crazy fits of sneezing.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-13T02:30:00.000Z",
+    "title": "The World's Funniest Weather",
+    "overview": "A morning show is interrupted when a sweepstakes winner curses live on air; a man comes up short when he attempts to leap from a garage to a trampoline to a pool; a snowboarder loses his grip on a tow-line and takes out a bunch of skiers with him.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-13T03:00:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-13T03:30:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-13T04:00:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

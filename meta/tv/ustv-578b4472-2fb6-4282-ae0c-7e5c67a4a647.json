@@ -1,0 +1,629 @@
+{
+ "meta": {
+  "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647",
+  "type": "tv",
+  "name": "Bounce",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/bounce-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bounce-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T01:30:00.000Z",
+    "title": "Parker",
+    "overview": "Daring, ruthless and meticulous, Parker (Jason Statham) is one of the most successful thieves in the business. But when his latest robbery turns deadly because of a careless crew member, he declines to join crime boss Melander (Michael Chiklis) and his gang for another heist. The crooks turn on Park",
+    "released": "2026-11-11T01:30:00.000Z",
+    "startTime": "2026-11-11T01:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T04:00:00.000Z",
+    "title": "The Last Boy Scout",
+    "overview": "Once a first-rate Secret Service agent, Joe Hallenbeck (Bruce Willis) is now a gruff private investigator whose latest gig is protecting a pole dancer (Halle Berry). When she's murdered, he grudgingly teams up with her boyfriend, Jimmy Dix (Damon Wayans), an ex-quarterback with a gambling problem, a",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T06:35:00.000Z",
+    "runtime": "155 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T06:35:00.000Z",
+    "title": "Pawn",
+    "overview": "A robbery turns into a tense hostage situation when three gunmen hold up a diner the mob uses as a front.",
+    "released": "2026-11-11T06:35:00.000Z",
+    "startTime": "2026-11-11T06:35:00.000Z",
+    "endTime": "2026-11-11T08:35:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T08:35:00.000Z",
+    "title": "The Bernie Mac Show",
+    "overview": "The kids' carelessness causes Bernie to have a near-death experience.",
+    "released": "2026-11-11T08:35:00.000Z",
+    "startTime": "2026-11-11T08:35:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T09:00:00.000Z",
+    "title": "The Bernie Mac Show",
+    "overview": "Bernie and his wife take in his sister's children; Bernie has old-fashioned notions about child-rearing.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T09:30:00.000Z",
+    "title": "The Bernie Mac Show",
+    "overview": "Bernie frets that he'll catch a debilitating bug from one of the pint-sized revelers at Bryana's birthday party.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T10:00:00.000Z",
+    "title": "Family Feud Favorites",
+    "overview": "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T10:30:00.000Z",
+    "title": "Family Feud Favorites",
+    "overview": "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T11:00:00.000Z",
+    "title": "Karamo",
+    "overview": "Kedrick is convinced that his girlfriend, Rosita, is having an affair with a man who is incarcerated.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T11:30:00.000Z",
+    "title": "Karamo",
+    "overview": "A feud between A'marianna's mother and aunt is tearing their family apart.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T12:00:00.000Z",
+    "title": "Tamron Hall",
+    "overview": "\"Tamron Hall\" is a daily talk show that brings a relatable voice to the daytime community, enlightening and entertaining the audience. As a seasoned journalist, host Tamron Hall connects to viewers through engaging, topical and newsmaking interviews, ranging from deeply personal to purely fun. An aw",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T13:00:00.000Z",
+    "title": "The Jennifer Hudson Show",
+    "overview": "Actress Goldie Hawn; comic Andy Lee (animated series \"Do Not Watch This Show\").",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T14:00:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "An Alabama woman accuses her fianc\u00e9 of cheating during a Valentine's Day disappearance.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T14:30:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "An Ohio woman measures her boyfriend's cologne and shares her stories of suspicion and deceit to determine if her lifelong friend-turned-boyfriend is cheating.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T15:00:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "Celebrity expert Natalie Nunn weighs in on the case of reality star Kiyanna Monae (\"Bad Girls Club\"), whose new boyfriend accuses her of cheating.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T15:30:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "A woman breaks off her engagement after catching her fianc\u00e9 sending naked photos of himself to other women; a former military interrogator uses her skills to find out if his actions are beyond flirtatious.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T16:00:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "An Alabama man is ready to face the truth and find out if he is the father of an Arkansas woman, but she believes another man is her dad.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T16:30:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "An Arkansas man rejects his girlfriend's 3-month-old daughter after hearing rumors that another man is the father.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T17:00:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "A 24-year-old Georgia woman confronts her mother's former lover in court, but he believes one of his friends is her biological father.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T17:30:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "A Texas man claims he felt pressured into signing the birth certificate for his girlfriend's baby girl but was recently told he is not her father.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T18:00:00.000Z",
+    "title": "In the Heat of the Night",
+    "overview": "Virgil's cousin is the prime suspect in a robbery-murder, complicating Virgil's attempts to reconcile his aunt with the family.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T19:00:00.000Z",
+    "title": "In the Heat of the Night",
+    "overview": "Gillespie must stop a hired bounty hunter who plans to kill a Sparta man wanted for questioning in a Houston murder.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T20:00:00.000Z",
+    "title": "In the Heat of the Night",
+    "overview": "A local reporter (Judith Robinson) writes an article on an unconsenting Chief Gillespie (Carroll O'Connor), who suspects her motives. With Howard Rollins and Alan Autry.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T21:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "While working undercover for 20-Squad, Alfaro encounters associates from a previous undercover case in Long Beach, embarking on a dangerous mission that stirs up unresolved issues from the past.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T22:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "During a hiking trip, Powell and Gamble stumble upon an illegal weed farm and find themselves taking on a dangerous cartel.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-11T23:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "When violent robbers loot a museum vault, Hondo and 20-Squad must chase down the thieving killers before they flee the country; Tan reckons with the fallout from a SWAT Academy accident; Gamble nervously awaits the verdict of her IA investigation.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T00:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "S.W.A.T.'s anti-terror sting operation at a bus station is thrown into chaos when felons, fleeing the police, burst in and take the bus station hostage; Bennett redoubles her efforts to force Hicks out as S.W.A.T.'s commander.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T01:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "The abduction and brutal torture of two college football stars puts the team on the trail of a violent drug dealer looking to extract vengeance for a drug deal gone bad; Deacon's heroics bring unexpected attention.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T02:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "When three of L.A.'s finest are targeted and gunned down in the street, the team enlist the help of an LAPD psychologist to stop a murderous rampage, reopening old wounds tied to the department's failed response to a school shooting.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T03:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "When a violent shooting rocks a Los Angeles nightclub, Hondo and 20-Squad are thrust into the dark world of sex trafficking, going head-to-head with a notorious biker club as they race to find a missing girl.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T04:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "After an explosive accident at a fruit-packing facility staffed by prison workers, six inmates escape and scatter across the city; Gamble gets sobering news about her jailed father.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T05:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "When Hondo's cousin goes AWOL from his Marine base during basic training, Hondo, Deacon and Daniel Sr. take a road trip to get the kid in line; Alfaro plots to work outside the law when he discovers that his mother's abusive ex is back in her life.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T06:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "When an auto carrier truck gets hijacked by a high-speed crew, Hondo encounters a ghost from his past; Gamble is thrust into a personal crisis when her brother becomes tangled in the investigation.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T07:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "The SWAT team undertakes its final mission when a violent crew of ex-pat Russian mercenaries holds Los Angeles hostage after planting hundreds of hidden explosives across the city in a bid to extort the release of their brutal leader, Dmitri Rykov.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T08:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "Former Marine Daniel Harrelson is torn between loyalties to the streets and to his fellow officers when he's assigned to run an elite unit in Los Angeles.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T09:00:00.000Z",
+    "title": "S.W.A.T.",
+    "overview": "The team must find four escaped convicts before a rival team finds them; Hondo's leadership is called into question when Street flagrantly disregards protocol.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T10:00:00.000Z",
+    "title": "Family Feud Favorites",
+    "overview": "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T10:30:00.000Z",
+    "title": "Family Feud Favorites",
+    "overview": "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T11:00:00.000Z",
+    "title": "Karamo",
+    "overview": "Steph says that since his wife, Char, has lost 150 pounds, she has been up to something.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T11:30:00.000Z",
+    "title": "Karamo",
+    "overview": "Leondra has spent her life searching for her father and believes she has come across a lead to solving the mystery.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T12:00:00.000Z",
+    "title": "Tamron Hall",
+    "overview": "\"Tamron Hall\" is a daily talk show that brings a relatable voice to the daytime community, enlightening and entertaining the audience. As a seasoned journalist, host Tamron Hall connects to viewers through engaging, topical and newsmaking interviews, ranging from deeply personal to purely fun. An aw",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T13:00:00.000Z",
+    "title": "The Jennifer Hudson Show",
+    "overview": "Zach Braff and Sarah Chalke (\"Scrubs\"); a single mom and pharmaceutical scientist who has raised two incredible young men gets a heartwarming surprise.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T14:00:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "Judges Keith and Dana Cutler revisit some of the wildest, most outrageous moments that have happened in couples court and reveal what happened when the litigants returned home.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T14:30:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "A former military interrogator and a polygraph examiner take on the case of a California woman accusing her boyfriend of cheating after finding another woman's panties under their bed.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T15:00:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "A young Utah man goes to court to find out if his fianc\u00e9e is cheating with one of their roommates.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T15:30:00.000Z",
+    "title": "Couples Court With the Cutlers",
+    "overview": "An Arkansas man sues his girlfriend for breaking his windows after she found him barricaded inside his home with another woman.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T16:00:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "A Kentucky man dated a woman he met in church and gave her twins his last name, but he's now in court to find out if he is their biological father.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T16:30:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "A Georgia woman accuses an Alabama man of fathering her 3-month-old son, but he claims she was also sleeping with another man.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T17:00:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "An Alabama woman admits she was torn between two men and does not know for certain which man fathered her 2-year-old daughter.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T17:30:00.000Z",
+    "title": "Lauren Lake's Paternity Court",
+    "overview": "Two men appear in court to find out if either of them is the father of a South Carolina woman's 6-month-old son.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T18:00:00.000Z",
+    "title": "In the Heat of the Night",
+    "overview": "An accident related to moonshine whiskey blinds a high-school football star and kills his girlfriend.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T19:00:00.000Z",
+    "title": "In the Heat of the Night",
+    "overview": "A psychiatrist protects a patient who confessed to a murder for which an innocent man stands to be executed.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T20:00:00.000Z",
+    "title": "In the Heat of the Night",
+    "overview": "Virgil's arrest of a young drug pusher has serious side effects for the youth's family, particularly his brother, and for Althea.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T21:00:00.000Z",
+    "title": "NCIS: Los Angeles",
+    "overview": "The team works with the Global Criminal Tribunal when a Syrian is attacked while delivering evidence that would prove chemical weapons were used on civilians; Kensi stays at the crime scene and comforts Sarraf, who is pinned behind a vehicle.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T22:00:00.000Z",
+    "title": "NCIS: Los Angeles",
+    "overview": "The NCIS team partners with the FBI to locate a terrorist cell in Los Angeles believed to be preparing for an imminent attack.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-12T23:00:00.000Z",
+    "title": "NCIS: Los Angeles",
+    "overview": "The team continues to search for a terrorist cell in Los Angeles; Callen and Sam remain trapped in a movie theater after multiple bombs have detonated, and every remaining exit is wired with explosives.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-13T00:00:00.000Z",
+    "title": "NCIS: Los Angeles",
+    "overview": "The NCIS team investigates the murder of a journalist who was writing an expos\u00e9 on a mishandled classified military operation; as their wedding day quickly approaches, Kensi and Deeks work on the last remaining items on their to-do list.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-13T01:00:00.000Z",
+    "title": "NCIS: Los Angeles",
+    "overview": "After months of planning, the NCIS family celebrates the wedding of Kensi and Deeks; an old acquaintance pays Deeks a surprise visit on his wedding day.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-13T02:00:00.000Z",
+    "title": "NCIS: Los Angeles",
+    "overview": "Sydney turns to her sister Nell for help after her high school crush gets mixed up in a Russian plot to steal intelligence from the Department of Defense; Special Prosecutor John Rogers conducts mandatory performance reviews with the team.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-13T03:00:00.000Z",
+    "title": "NCIS: Los Angeles",
+    "overview": "Department of Justice Agent Lance Hamilton asks Sam for assistance in locating a former U.S. Border Patrol tactical officer who disappeared following a threat by the cartel.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647:epg:2026-11-13T04:00:00.000Z",
+    "title": "NCIS: Los Angeles",
+    "overview": "After a Navy SEAL is attacked while moonlighting at a security job for a successful marijuana dispensary, Sam personally vows to apprehend the suspect out of respect for the Navy SEAL brotherhood.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

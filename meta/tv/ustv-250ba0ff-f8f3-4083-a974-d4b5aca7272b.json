@@ -1,0 +1,399 @@
+{
+ "meta": {
+  "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b",
+  "type": "tv",
+  "name": "ESPN 2",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/espn-2-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/espn-2-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Sports"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T01:00:00.000Z",
+    "title": "Live: College Football",
+    "overview": "The Ohio Bobcats visit the Miami (OH) RedHawks for an NCAA FBS division game in Ohio. Ohio rides a six-game win streak alongside linebacker Michael Molnar, and Miami comes off a 34-31 overtime loss to Buffalo alongside quarterback David McComb.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T04:00:00.000Z",
+    "title": "NFL Live",
+    "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T05:00:00.000Z",
+    "title": "Saban",
+    "overview": "Amid high expectations, Nick Saban arrives in Alabama to rebuild the program using his \"process.\".",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T06:00:00.000Z",
+    "title": "Saban",
+    "overview": "After five seasons and a contract dispute, Saban leaves Michigan State for an opportunity at LSU.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T07:00:00.000Z",
+    "title": "Saban",
+    "overview": "Saban uses the discipline he learned from his father to inspire Alabama against rival Florida.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T08:00:00.000Z",
+    "title": "Saban",
+    "overview": "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T09:00:00.000Z",
+    "title": "Saban",
+    "overview": "Saban's bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T10:00:00.000Z",
+    "title": "Saban",
+    "overview": "After a global event reaches beyond the football field, Saban faces one final test of adaptability.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T11:00:00.000Z",
+    "title": "Live: Unsportsmanlike with Evan, Canty and Michelle",
+    "overview": "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it's all about.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T13:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T14:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T15:00:00.000Z",
+    "title": "Live: Get Up",
+    "overview": "ESPN's morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T17:00:00.000Z",
+    "title": "Live: First Take",
+    "overview": "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day's trending sports topics and under-the-radar news. They're regularly joined by veteran analysts and the top guests in sports and entertainment.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T19:00:00.000Z",
+    "title": "College Football Live",
+    "overview": "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport's biggest stories and newsmakers. The half-hour program features a rotating roster of analysts ",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T20:00:00.000Z",
+    "title": "Big Day With Peter Schrager",
+    "overview": "Peter Schrager's daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T21:00:00.000Z",
+    "title": "E60",
+    "overview": "A documentary remembering NFL defensive back Pat Tillman, one of the country's most famous soldiers, and reflecting on the continuing impact of his life, death and legacy.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T22:00:00.000Z",
+    "title": "NFL Live",
+    "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-11T23:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T00:00:00.000Z",
+    "title": "SC Featured",
+    "overview": "A look at former NFL player Rocky Bleier.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T00:30:00.000Z",
+    "title": "Live: College Football",
+    "overview": "The Sacramento State Hornets visit the Central Michigan Chippewas for an NCAA FBS division game in Michigan. Sacramento State comes off a 20-17 loss to Toledo, and Central Michigan comes off a 35-7 win over Eastern Michigan with Angel Flores.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T03:30:00.000Z",
+    "title": "College Basketball Live Scoreboard",
+    "overview": "All the latest scores and highlights from college basketball.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T04:00:00.000Z",
+    "title": "Live: College Basketball",
+    "overview": "The No. 21 USC Trojans visit the California Golden Bears for an NCAA Division I game in California. USC comes off a 95-63 victory over Milwaukee alongside Adonis Ratliff, and California rides a two-game win streak with guard Nojus Indrusaitis.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T06:00:00.000Z",
+    "title": "NFL Live",
+    "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T07:00:00.000Z",
+    "title": "NBA Basketball",
+    "overview": "The Knicks host the Cavaliers in NBA regular-season play at Madison Square Garden. The New York Knicks have won all five of their most recent meetings with Cleveland, including a 109-97 victory at Rocket Arena in their most recent match.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T09:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T10:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T11:00:00.000Z",
+    "title": "Live: Unsportsmanlike with Evan, Canty and Michelle",
+    "overview": "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it's all about.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T13:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T14:00:00.000Z",
+    "title": "SportsCenter",
+    "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T15:00:00.000Z",
+    "title": "Live: Get Up",
+    "overview": "ESPN's morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T17:00:00.000Z",
+    "title": "Live: First Take",
+    "overview": "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day's trending sports topics and under-the-radar news. They're regularly joined by veteran analysts and the top guests in sports and entertainment.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T19:00:00.000Z",
+    "title": "College Football Live",
+    "overview": "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport's biggest stories and newsmakers. The half-hour program features a rotating roster of analysts ",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T19:30:00.000Z",
+    "title": "College Football Live",
+    "overview": "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport's biggest stories and newsmakers. The half-hour program features a rotating roster of analysts ",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T20:00:00.000Z",
+    "title": "Live: Golf",
+    "overview": "Action from golf tournaments around the world.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T22:00:00.000Z",
+    "title": "NFL Live",
+    "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-12T23:00:00.000Z",
+    "title": "Live: The Point",
+    "overview": "Catch all the highlights, news, analysis and access to some of the biggest stars, stories and personalities in the NHL.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-13T00:00:00.000Z",
+    "title": "Live: Women's College Basketball",
+    "overview": "The No. 1 South Carolina Gamecocks (2-0) visit the Clemson Tigers (3-0) at Littlejohn Coliseum. South Carolina eyes a third straight victory after an 84-39 rout of North Carolina, while Clemson seeks a fourth after beating UNC Greensboro, 72-44.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b:epg:2026-11-13T02:00:00.000Z",
+    "title": "Live: College Football",
+    "overview": "The Louisiana-Monroe Warhawks host the Louisiana Ragin' Cajuns in Sun Belt play. ULM looks to build on nine third-down conversions from a 19-17 road win, while Louisiana leans on late-game composure after a 28-26 victory over South Alabama.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

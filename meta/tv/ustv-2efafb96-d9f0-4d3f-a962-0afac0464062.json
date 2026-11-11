@@ -1,0 +1,989 @@
+{
+ "meta": {
+  "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062",
+  "type": "tv",
+  "name": "PBS Kids",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/pbs-kids-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/pbs-kids-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Kids"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T03:00:00.000Z",
+    "title": "Phoebe & Jay",
+    "overview": "Phoebe and Jay use Miss Jean's field guide to identify their new butterfly friend; Phoebe gets courage to perform at the talent show.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T03:30:00.000Z",
+    "title": "Xavier Riddle and the Secret Museum",
+    "overview": "Jim Thorpe shows Brad that if he wants to play flag football, observing others is a great way to learn; Norval Morrisseau shows Yadina that art has the power to share important ideas.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T04:00:00.000Z",
+    "title": "Molly of Denali",
+    "overview": "Alaska state basketball champion Kamaka Hepa offers Molly and her basketball team pointers on the court.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T04:30:00.000Z",
+    "title": "Pinkalicious & Peterrific",
+    "overview": "Pinkalicious and Peter volunteer to watch Toothy McSquint's parrot, Captain Feathers; Peter learns to blend in with his surroundings during a game of hide-and-seek.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T05:00:00.000Z",
+    "title": "Alma's Way",
+    "overview": "Alma finds a way for everyone to get books while the library is under renovation; Alma finds a doll in the park.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T05:30:00.000Z",
+    "title": "Lyla in the Loop",
+    "overview": "Lyla and a new friend build a spaceship; Lyla learns her sisters can predict what the other wants, so she tries to do the same with Luke.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T06:00:00.000Z",
+    "title": "Weather Hunters",
+    "overview": "After a groundhog predicts more winter weather, Benny is convinced he will have snow on his birthday so he plans a snow-filled birthday party.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T06:30:00.000Z",
+    "title": "Odd Squad",
+    "overview": "Agents and the maintenance workers switch jobs for a day; the agents get trapped in a computer.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T07:00:00.000Z",
+    "title": "An Arthur Thanksgiving",
+    "overview": "It's a busy time for Arthur as he and his family prepare for Thanksgiving while the elementary students prepare for the annual Thanksgiving parade.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T08:00:00.000Z",
+    "title": "Lyla in the Loop",
+    "overview": "The Loops play fun practical jokes on each other; Loops Lunch moves outside because of a blackout, but it causes many problems.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T08:30:00.000Z",
+    "title": "Arthur",
+    "overview": "D.W. meets a cool 13-year-old girl; Buster switches bodies with Mr. Ratburn for a day and learns how hard it is to be a teacher.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T09:00:00.000Z",
+    "title": "Nature Cat",
+    "overview": "The gang replants their favorite sunflower; after the gang gets lost during a treasure hunt, Nature Cat advises them to follow mossy trees home.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T09:30:00.000Z",
+    "title": "Wild Kratts",
+    "overview": "The gang discovers the variety and diverse functions of creature tails.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T10:00:00.000Z",
+    "title": "Cyberchase",
+    "overview": "The CyberSquad is excited to celebrate Giving Thanks Day with Jackie's pumpkin pie, but there's a big problem -- Hacker has taken all the pristine produce.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T10:30:00.000Z",
+    "title": "Hero Elementary",
+    "overview": "Benny and the crew investigate why monarch butterflies are missing from the school garden; AJ's shady spot disappears.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T11:00:00.000Z",
+    "title": "Clifford the Big Red Dog",
+    "overview": "Building a clubhouse causes friction between Emily Elizabeth, Samantha and Pablo; the members of the \"Birdwell Islanders\" realize they don't all agree on what it means to be a hero.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T11:30:00.000Z",
+    "title": "Sesame Street",
+    "overview": "After looking at the moon through Yasmine's telescope, Tamir, Elmo and Zoe pretend to be astronauts traveling to the moon.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T12:00:00.000Z",
+    "title": "Super Why's Comic Book Adventures",
+    "overview": "A ghost needs to find her \"oo\" sound; The Eraser gets greedy while trick-or-treating; Princess Presto's Halloween costume spell goes magically wrong.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T12:30:00.000Z",
+    "title": "Donkey Hodie",
+    "overview": "Donkey babysits a baby yodel bird who won't take a nap; Donkey and Panda argue while playing superheroes.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T13:00:00.000Z",
+    "title": "Sesame Street",
+    "overview": "Elmo, Abby and Tamir come across a wooden cricket and learn that it's Dave's favorite Cuban musical instrument called a guiro.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T13:30:00.000Z",
+    "title": "Phoebe & Jay",
+    "overview": "Phoebe, Jay, Grandma Annie and Pete create the family's first recipe for Sunday greens; Phoebe and Jay are excited about their first campout in the courtyard.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T14:00:00.000Z",
+    "title": "Work It Out Wombats!",
+    "overview": "The Wombats organize the Treeborhood Talent Show; Zeke searches for a collection to call his own for the Treeborhood's Collection Bonanza.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T14:30:00.000Z",
+    "title": "Work It Out Wombats!",
+    "overview": "Zeke is anxious about a big storm; Zeke turns into a \"Wish Monster\" when Zadie and Malik make his wish come true.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T15:00:00.000Z",
+    "title": "Daniel Tiger's Neighborhood",
+    "overview": "Chrissie encourages Daniel to ride a horse; Margaret gets scared when fireflies crash the family picnic.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T15:30:00.000Z",
+    "title": "Daniel Tiger's Neighborhood",
+    "overview": "Daniel and his family explore nature, watching a red bird build a nest; Daniel, O the Owl and Uncle X take a nature walk through the forest.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T16:00:00.000Z",
+    "title": "Super Why's Comic Book Adventures",
+    "overview": "A ghost needs to find her \"oo\" sound; The Eraser gets greedy while trick-or-treating; Princess Presto's Halloween costume spell goes magically wrong.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T16:30:00.000Z",
+    "title": "Carl the Collector",
+    "overview": "Carl doesn't know what to do when Nico falls; Carl learns a new word -- shindig.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T17:00:00.000Z",
+    "title": "Carl the Collector",
+    "overview": "Carl's favorite sour pickle scratch-n-sniff sticker loses its smell; Carl notices that his baby blanket, Knit-Knit, has a hole in it.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T17:30:00.000Z",
+    "title": "Donkey Hodie",
+    "overview": "Captain Donkey and her crew search for the Ruby Red Tater Treasure; Panda finds his favorite hoodie, but it no longer fits.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T18:00:00.000Z",
+    "title": "Elinor Wonders Why",
+    "overview": "Olive creates a lending library so she can share her books with everyone in Animal Town; Elinor, Olive and Ari make a Nature Walk for Nature Day at school.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T18:30:00.000Z",
+    "title": "Rosie's Rules",
+    "overview": "When Rosie and Javi find out Tia's bringing home a dragon, they anxiously prepare for its arrival; Rosie finds a lucky charm in her backyard, but soon her luck starts to change.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T19:00:00.000Z",
+    "title": "Phoebe & Jay",
+    "overview": "Phoebe, Jay, Grandma Annie and Pete create the family's first recipe for Sunday greens; Phoebe and Jay are excited about their first campout in the courtyard.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T19:30:00.000Z",
+    "title": "Xavier Riddle and the Secret Museum",
+    "overview": "Ravi Shankar shows Yadina that it can feel good to share her culture; Babe Didrikson Zaharias shows Yadina that practice can help her do difficult things, like making the basketball team.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T20:00:00.000Z",
+    "title": "Molly of Denali",
+    "overview": "Molly, Tooey and Trini find mysterious bubbles while canoeing on Lake Qyah; Molly, Tooey and Trini learn a ball game.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T20:30:00.000Z",
+    "title": "Pinkalicious & Peterrific",
+    "overview": "When a new girl, Iris, moves in across the street, Pinkalicious makes a new friend; Pinkalicious and Peter use Peter's new spy gear when they overhear Mayor Martinez say that everything pink has to go.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T21:00:00.000Z",
+    "title": "Alma's Way",
+    "overview": "Junior gets frustrated when Alma distracts him from learning a dance; Alma wants to celebrate Chacho's birthday.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T21:30:00.000Z",
+    "title": "Lyla in the Loop",
+    "overview": "Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T22:00:00.000Z",
+    "title": "Weather Hunters",
+    "overview": "The Hunters investigate a mysterious rain that happens with no clouds in the Indonesian rainforest.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T22:30:00.000Z",
+    "title": "Odd Squad",
+    "overview": "A virus turns people into cakes; the agents compete for Agents of the Month.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T23:00:00.000Z",
+    "title": "Wild Kratts",
+    "overview": "A joey steals car keys from Martin and Chris.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T23:30:00.000Z",
+    "title": "Weather Hunters",
+    "overview": "The Hunters try to help an injured bird so it can join its friends migrating south for the winter.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T00:00:00.000Z",
+    "title": "Lyla in the Loop",
+    "overview": "Lyla, Luke and Everett look for buried car keys at the beach; Lyla and Everett write a Super Stu comic.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T00:30:00.000Z",
+    "title": "Arthur",
+    "overview": "\"D.W.'s Name Game\" and \"Finders Key-pers.\".",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T01:00:00.000Z",
+    "title": "Nature Cat",
+    "overview": "The crew helps the Bumblebee Queen prepare for growing season; the gang learns the history of an old oak tree.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T01:30:00.000Z",
+    "title": "Wild Kratts",
+    "overview": "The Wild Kratts search for the snub-nosed monkeys in the Chinese mountains.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T02:00:00.000Z",
+    "title": "Cyberchase",
+    "overview": "A fiendish scheme causes all zeros to disappear, resulting in chaos.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T02:30:00.000Z",
+    "title": "Hero Elementary",
+    "overview": "AJ's shoe-tying car gets out of control, tying Citytown into knots; the crew tries to determine why the ice cream in Stevie Heat's ice cream cart melted.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T03:00:00.000Z",
+    "title": "Phoebe & Jay",
+    "overview": "Phoebe, Jay, Grandma Annie and Pete create the family's first recipe for Sunday greens; Phoebe and Jay are excited about their first campout in the courtyard.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T03:30:00.000Z",
+    "title": "Xavier Riddle and the Secret Museum",
+    "overview": "Ravi Shankar shows Yadina that it can feel good to share her culture; Babe Didrikson Zaharias shows Yadina that practice can help her do difficult things, like making the basketball team.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T04:00:00.000Z",
+    "title": "Molly of Denali",
+    "overview": "Molly, Tooey and Trini find mysterious bubbles while canoeing on Lake Qyah; Molly, Tooey and Trini learn a ball game.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T04:30:00.000Z",
+    "title": "Pinkalicious & Peterrific",
+    "overview": "When a new girl, Iris, moves in across the street, Pinkalicious makes a new friend; Pinkalicious and Peter use Peter's new spy gear when they overhear Mayor Martinez say that everything pink has to go.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T05:00:00.000Z",
+    "title": "Alma's Way",
+    "overview": "Junior gets frustrated when Alma distracts him from learning a dance; Alma wants to celebrate Chacho's birthday.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T05:30:00.000Z",
+    "title": "Lyla in the Loop",
+    "overview": "Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T06:00:00.000Z",
+    "title": "Weather Hunters",
+    "overview": "The Hunters investigate a mysterious rain that happens with no clouds in the Indonesian rainforest.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T06:30:00.000Z",
+    "title": "Odd Squad",
+    "overview": "A virus turns people into cakes; the agents compete for Agents of the Month.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T07:00:00.000Z",
+    "title": "Wild Kratts",
+    "overview": "A joey steals car keys from Martin and Chris.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T07:30:00.000Z",
+    "title": "Weather Hunters",
+    "overview": "The Hunters try to help an injured bird so it can join its friends migrating south for the winter.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T08:00:00.000Z",
+    "title": "Lyla in the Loop",
+    "overview": "Lyla, Luke and Everett look for buried car keys at the beach; Lyla and Everett write a Super Stu comic.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T08:30:00.000Z",
+    "title": "Arthur",
+    "overview": "\"D.W.'s Name Game\" and \"Finders Key-pers.\".",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T09:00:00.000Z",
+    "title": "Nature Cat",
+    "overview": "The crew helps the Bumblebee Queen prepare for growing season; the gang learns the history of an old oak tree.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T09:30:00.000Z",
+    "title": "Wild Kratts",
+    "overview": "The Wild Kratts search for the snub-nosed monkeys in the Chinese mountains.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T10:00:00.000Z",
+    "title": "Cyberchase",
+    "overview": "A fiendish scheme causes all zeros to disappear, resulting in chaos.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T10:30:00.000Z",
+    "title": "Hero Elementary",
+    "overview": "AJ's shoe-tying car gets out of control, tying Citytown into knots; the crew tries to determine why the ice cream in Stevie Heat's ice cream cart melted.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T11:00:00.000Z",
+    "title": "Clifford the Big Red Dog",
+    "overview": "Emily Elizabeth, Pablo and Jack plan a special surprise party for Samantha's birthday; Pablo rallies his friends to welcome his favorite author Natalie Chan to Birdwell Island.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T11:30:00.000Z",
+    "title": "Sesame Street",
+    "overview": "Cookie Monster feels nervous about going to cooking school for the first time; Rosita shows him how to do a heart breath to help him feel better, but he's still not ready yet.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T12:00:00.000Z",
+    "title": "Super Why's Comic Book Adventures",
+    "overview": "A Lettersaur is loose in Reader Valley; things go crazy when Mr. More uses Princess Presto's wand; The Shuffler has a new dance.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T12:30:00.000Z",
+    "title": "Donkey Hodie",
+    "overview": "Donkey Hodie takes Cousin Hodie and Purple Panda on a road trip around Someplace Else, but the plan goes off course.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T13:00:00.000Z",
+    "title": "Sesame Street",
+    "overview": "Elmo is feeling excited and a little scared to go down the big slide for the very first time; Chris helps Elmo by holding his hand as he goes down the slide.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T13:30:00.000Z",
+    "title": "Phoebe & Jay",
+    "overview": "Phoebe, Jay and Lupe practice their fire safety plan when the fire inspector visits; Phoebe and Jay buy juice from Mr. Aguilar.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T14:00:00.000Z",
+    "title": "Work It Out Wombats!",
+    "overview": "Wombats look for unicorns on the moon; Louisa commands the moon to change its shape.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T14:30:00.000Z",
+    "title": "Work It Out Wombats!",
+    "overview": "Wombats unstick a stuck train; the group goes to Bellyflop Lake.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T15:00:00.000Z",
+    "title": "Daniel Tiger's Neighborhood",
+    "overview": "Daniel learns the importance of sharing his feelings; Daniel pays attention to how many feelings he experiences in a day.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T15:30:00.000Z",
+    "title": "Daniel Tiger's Neighborhood",
+    "overview": "Daniel and Prince Wednesday make a lemonade stand together but disagree about how to hand out the lemonade; Daniel and Miss Elaina get mad when their sandcastle is knocked down by a wave.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T16:00:00.000Z",
+    "title": "Super Why's Comic Book Adventures",
+    "overview": "A Lettersaur is loose in Reader Valley; things go crazy when Mr. More uses Princess Presto's wand; The Shuffler has a new dance.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T16:30:00.000Z",
+    "title": "Carl the Collector",
+    "overview": "Lotta is determined to show Skyler that she is more than just \"headphone girl\"; the new kid in school causes a hullabaloo on the playground.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T17:00:00.000Z",
+    "title": "An Arthur Thanksgiving",
+    "overview": "It's a busy time for Arthur as he and his family prepare for Thanksgiving while the elementary students prepare for the annual Thanksgiving parade.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T18:00:00.000Z",
+    "title": "Elinor Wonders Why",
+    "overview": "The kids learn the meaning of stories when they visit Olive's family in the rainforest.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T18:30:00.000Z",
+    "title": "Rosie's Rules",
+    "overview": "Rosie finally gets the courage to go into the Fun House at the carnival, but then finds out she doesn't have enough tickets; Rosie goes to the pet store to get something for Crystal's new bunny.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T19:00:00.000Z",
+    "title": "Phoebe & Jay",
+    "overview": "Phoebe, Jay and Lupe practice their fire safety plan when the fire inspector visits; Phoebe and Jay buy juice from Mr. Aguilar.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T19:30:00.000Z",
+    "title": "Xavier Riddle and the Secret Museum",
+    "overview": "Xavier, Yadina and Brad learn a lesson about treating everyone equally when they meet Rosa Parks; Thurgood Marshall shows Xavier how to be fair with everyone when it comes to a big piece of pie.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T20:00:00.000Z",
+    "title": "Molly of Denali",
+    "overview": "Molly and Trini look for firewood to make treats, but plans are interrupted by a storm; Molly and Tooey hope to teach Trini how to skate in time for the River Skate and bonfire.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T20:30:00.000Z",
+    "title": "Pinkalicious & Peterrific",
+    "overview": "Peter wants to go on a quest with the Knights of the Pink Table, but he is not a knight; following an encounter with a sprite named Spritely, nothing sounds like it should in Pinkville.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T21:00:00.000Z",
+    "title": "Alma's Way",
+    "overview": "Alma accidentally embarrasses Rafia during a sleepover at the community center; Alma and her friends jump in the leaves.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T21:30:00.000Z",
+    "title": "Lyla in the Loop",
+    "overview": "Lyla struggles to sleep and tries to figure out what is wrong with her sleep routine; Lyla tries to do her own hairstyle.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T22:00:00.000Z",
+    "title": "Weather Hunters",
+    "overview": "Benny becomes enamored with the mail carrier, and wonders how she delivers the mail in different weather conditions.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T22:30:00.000Z",
+    "title": "Odd Squad",
+    "overview": "All the agents want a piece when a new room opens up in headquarters; when the tubes are down for maintenance, getting a villain back to headquarters proves difficult.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T23:00:00.000Z",
+    "title": "Wild Kratts",
+    "overview": "The bros are off on a creature mission to find as many colorful parrots as they can in the Amazon.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-12T23:30:00.000Z",
+    "title": "Weather Hunters",
+    "overview": "Dot and Al announce the Hunters are spending Christmas in Nigeria, and Corky wonders if she can have a fun Christmas without snow.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-13T00:00:00.000Z",
+    "title": "Lyla in the Loop",
+    "overview": "Lyla and Luke clean Stu without a bath; Lyla and Ale find a way to protect the callaloo plants from stink bugs.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-13T00:30:00.000Z",
+    "title": "Arthur",
+    "overview": "Binky fears others will think he is a baby when he is caught holding his mom's hand; the Tibbles learn that different characteristics make them each unique.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-13T01:00:00.000Z",
+    "title": "Nature Cat",
+    "overview": "The crew needs to find a way to pull parade floats when Nature Cat forgets to put gas in the tractors; the gang searches for Hal's pond pals.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-13T01:30:00.000Z",
+    "title": "Wild Kratts",
+    "overview": "Chris sets up a massive cross-country race in the North; each team member sets off across the tundra with little more than one form of transportation and a small pack of gear.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-13T02:00:00.000Z",
+    "title": "Cyberchase",
+    "overview": "Hacker's niece Harmony returns to the Northern Frontier with a new pet, Sparkletoes, which quickly outstays its welcome.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-13T02:30:00.000Z",
+    "title": "Hero Elementary",
+    "overview": "The crew tries to help catch a frightened horse on the loose in Citytown; mysterious purple plants keep popping up all over Citytown.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-13T03:00:00.000Z",
+    "title": "Phoebe & Jay",
+    "overview": "Phoebe, Jay and Lupe practice their fire safety plan when the fire inspector visits; Phoebe and Jay buy juice from Mr. Aguilar.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-13T03:30:00.000Z",
+    "title": "Xavier Riddle and the Secret Museum",
+    "overview": "Xavier, Yadina and Brad learn a lesson about treating everyone equally when they meet Rosa Parks; Thurgood Marshall shows Xavier how to be fair with everyone when it comes to a big piece of pie.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-13T04:00:00.000Z",
+    "title": "Molly of Denali",
+    "overview": "Molly and Trini look for firewood to make treats, but plans are interrupted by a storm; Molly and Tooey hope to teach Trini how to skate in time for the River Skate and bonfire.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

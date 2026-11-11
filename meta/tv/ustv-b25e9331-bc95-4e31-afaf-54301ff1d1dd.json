@@ -1,0 +1,999 @@
+{
+ "meta": {
+  "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd",
+  "type": "tv",
+  "name": "Disney XD",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/disney-xd-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/disney-xd-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Kids"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T03:00:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Harper is transported into a Cinderella-like world after reading one of Alex's wizard story books; Harper must rely on her fairy godmother, Alex to turn things back to normal.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T03:30:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Alex discovers her favorite store is having a crazy sale, but Jerry won't let her go.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T04:00:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Alex uses wizardry to reverse time to prevent the embarrassing incidents leading up to Justin's first kiss.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T04:30:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Alex takes a pocket elf into her Spanish test to help her pass. Her brothers find out, and secretly sends a chocolate-devouring elf on her date to teach her a lesson.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T05:00:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Alex's spell to help Harper overcome clumsiness at a new job backfires; Justin sets up a tutorial program in the Sub Station causing problems with the local Wiz Kid.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T05:30:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "When Alex's parents meet the parents of another young wizard, things get strange.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T06:00:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Alex and her father argue while he teaches her how to fly a magic carpet.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T06:30:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Gigi invites Harper to her annual tea party, but Alex is cross when she accepts. Alex finds out that Gigi plans to embarrass Harper, so uses her magic to get revenge on Gigi.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T07:00:00.000Z",
+    "title": "Wizards of Waverly Place",
+    "overview": "Justin's new pet beagle turns out to be a dragon; someone else claims the 'dog' and enters it in a dog show.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T07:30:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles a",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T08:00:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles a",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T08:30:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles a",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T09:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T09:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T10:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T10:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T11:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T11:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T12:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T12:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T13:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T13:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T14:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T14:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T15:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T15:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T16:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T16:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T17:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T17:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T18:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T18:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T19:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T19:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T20:00:00.000Z",
+    "title": "Beyblade Burst QuadStrike",
+    "overview": "The stage is set for a masquerade tournament, but the Dark Prince isn't the only belle at this ball.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T20:30:00.000Z",
+    "title": "Gravity Falls",
+    "overview": "Twins Dipper and Mabel Pines are sent to spend the summer with their great-uncle, Grunkle Stan, in the mysterious town of Gravity Falls, Ore. Grunkle Stan has the kids help him run The Mystery Shack, the tourist trap that he owns. The twins try to adapt to the weird surroundings but sense there is s",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T21:00:00.000Z",
+    "title": "Big Hero 6 The Series",
+    "overview": "\"Big Hero 6 The Series\" takes place after the events of the film \"Big Hero 6\" and continues the adventures of 14-year-old tech genius Hiro Hamada. He is joined by the compassionate robot Baymax which is created by Hiro's brother, Tadashi. Hiro and Baymax are also joined by their friends, including W",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T21:30:00.000Z",
+    "title": "Big Hero 6 The Series",
+    "overview": "\"Big Hero 6 The Series\" takes place after the events of the film \"Big Hero 6\" and continues the adventures of 14-year-old tech genius Hiro Hamada. He is joined by the compassionate robot Baymax which is created by Hiro's brother, Tadashi. Hiro and Baymax are also joined by their friends, including W",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T22:00:00.000Z",
+    "title": "Big Hero 6 The Series",
+    "overview": "\"Big Hero 6 The Series\" takes place after the events of the film \"Big Hero 6\" and continues the adventures of 14-year-old tech genius Hiro Hamada. He is joined by the compassionate robot Baymax which is created by Hiro's brother, Tadashi. Hiro and Baymax are also joined by their friends, including W",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T22:30:00.000Z",
+    "title": "Big Hero 6 The Series",
+    "overview": "\"Big Hero 6 The Series\" takes place after the events of the film \"Big Hero 6\" and continues the adventures of 14-year-old tech genius Hiro Hamada. He is joined by the compassionate robot Baymax which is created by Hiro's brother, Tadashi. Hiro and Baymax are also joined by their friends, including W",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T23:00:00.000Z",
+    "title": "Big Hero 6 The Series",
+    "overview": "\"Big Hero 6 The Series\" takes place after the events of the film \"Big Hero 6\" and continues the adventures of 14-year-old tech genius Hiro Hamada. He is joined by the compassionate robot Baymax which is created by Hiro's brother, Tadashi. Hiro and Baymax are also joined by their friends, including W",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T23:30:00.000Z",
+    "title": "Big Hero 6 The Series",
+    "overview": "\"Big Hero 6 The Series\" takes place after the events of the film \"Big Hero 6\" and continues the adventures of 14-year-old tech genius Hiro Hamada. He is joined by the compassionate robot Baymax which is created by Hiro's brother, Tadashi. Hiro and Baymax are also joined by their friends, including W",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T00:00:00.000Z",
+    "title": "Big Hero 6 The Series",
+    "overview": "\"Big Hero 6 The Series\" takes place after the events of the film \"Big Hero 6\" and continues the adventures of 14-year-old tech genius Hiro Hamada. He is joined by the compassionate robot Baymax which is created by Hiro's brother, Tadashi. Hiro and Baymax are also joined by their friends, including W",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T00:30:00.000Z",
+    "title": "Big Hero 6 The Series",
+    "overview": "\"Big Hero 6 The Series\" takes place after the events of the film \"Big Hero 6\" and continues the adventures of 14-year-old tech genius Hiro Hamada. He is joined by the compassionate robot Baymax which is created by Hiro's brother, Tadashi. Hiro and Baymax are also joined by their friends, including W",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T01:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T01:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T02:00:00.000Z",
+    "title": "Kiff",
+    "overview": "Kiff's thirst for life takes her on countless adventures through her city alongside her best friend, Barry.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T02:30:00.000Z",
+    "title": "Kiff",
+    "overview": "Kiff's thirst for life takes her on countless adventures through her city alongside her best friend, Barry.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T03:00:00.000Z",
+    "title": "Hamster & Gretel",
+    "overview": "Gretel and her pet hamster, named Hamster, get superpowers; Kevin must work with them to figure out how to protect their city from mysterious dangers.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T03:30:00.000Z",
+    "title": "Hamster & Gretel",
+    "overview": "Gretel and her pet hamster, named Hamster, get superpowers; Kevin must work with them to figure out how to protect their city from mysterious dangers.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T04:00:00.000Z",
+    "title": "Marvel's Moon Girl and Devil Dinosaur",
+    "overview": "After 13-year-old supergenius Lunella accidentally brings 10-ton Tyrannosaurus rex Devil Dinosaur into present-day New York City via a time vortex, they work together to protect the city's Lower East Side from danger.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T04:30:00.000Z",
+    "title": "Hailey's on It!",
+    "overview": "Hailey, a risk-averse but resourceful teenager in Oceanside, Calif., is on a mission to complete every item on her long list of challenging -- and sometimes impractical -- tasks to save the world.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T05:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T05:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T06:00:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles a",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T06:30:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles a",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T07:00:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles a",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T07:30:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles a",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T08:00:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles a",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T08:30:00.000Z",
+    "title": "Phineas and Ferb",
+    "overview": "Phineas Flynn and his stepbrother, Ferb Fletcher, are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles a",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T09:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T09:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T10:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T10:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T11:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T11:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T12:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T12:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T13:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T13:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T14:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T14:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T15:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T15:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T16:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T16:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T17:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T17:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T18:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T18:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T19:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T19:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T20:00:00.000Z",
+    "title": "Beyblade Burst QuadDrive",
+    "overview": "Valt Aoi and other Blading legends rise to the challenge to battle the Dark Prince, and the wielder of the incredible Quad Bey Destruction Belfyre.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T20:30:00.000Z",
+    "title": "Gravity Falls",
+    "overview": "Twins Dipper and Mabel Pines are sent to spend the summer with their great-uncle, Grunkle Stan, in the mysterious town of Gravity Falls, Ore. Grunkle Stan has the kids help him run The Mystery Shack, the tourist trap that he owns. The twins try to adapt to the weird surroundings but sense there is s",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T21:00:00.000Z",
+    "title": "Marvel's Moon Girl and Devil Dinosaur",
+    "overview": "After 13-year-old supergenius Lunella accidentally brings 10-ton Tyrannosaurus rex Devil Dinosaur into present-day New York City via a time vortex, they work together to protect the city's Lower East Side from danger.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T22:00:00.000Z",
+    "title": "Marvel's Moon Girl and Devil Dinosaur",
+    "overview": "After 13-year-old supergenius Lunella accidentally brings 10-ton Tyrannosaurus rex Devil Dinosaur into present-day New York City via a time vortex, they work together to protect the city's Lower East Side from danger.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T22:30:00.000Z",
+    "title": "Marvel's Moon Girl and Devil Dinosaur",
+    "overview": "After 13-year-old supergenius Lunella accidentally brings 10-ton Tyrannosaurus rex Devil Dinosaur into present-day New York City via a time vortex, they work together to protect the city's Lower East Side from danger.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T23:00:00.000Z",
+    "title": "Marvel's Moon Girl and Devil Dinosaur",
+    "overview": "After 13-year-old supergenius Lunella accidentally brings 10-ton Tyrannosaurus rex Devil Dinosaur into present-day New York City via a time vortex, they work together to protect the city's Lower East Side from danger.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-12T23:30:00.000Z",
+    "title": "Marvel's Moon Girl and Devil Dinosaur",
+    "overview": "After 13-year-old supergenius Lunella accidentally brings 10-ton Tyrannosaurus rex Devil Dinosaur into present-day New York City via a time vortex, they work together to protect the city's Lower East Side from danger.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-13T00:00:00.000Z",
+    "title": "Marvel's Moon Girl and Devil Dinosaur",
+    "overview": "After 13-year-old supergenius Lunella accidentally brings 10-ton Tyrannosaurus rex Devil Dinosaur into present-day New York City via a time vortex, they work together to protect the city's Lower East Side from danger.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-13T00:30:00.000Z",
+    "title": "Marvel's Moon Girl and Devil Dinosaur",
+    "overview": "After 13-year-old supergenius Lunella accidentally brings 10-ton Tyrannosaurus rex Devil Dinosaur into present-day New York City via a time vortex, they work together to protect the city's Lower East Side from danger.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-13T01:00:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-13T01:30:00.000Z",
+    "title": "Big City Greens",
+    "overview": "The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-13T02:00:00.000Z",
+    "title": "Kiff",
+    "overview": "Kiff's thirst for life takes her on countless adventures through her city alongside her best friend, Barry.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-13T02:30:00.000Z",
+    "title": "Kiff",
+    "overview": "Kiff's thirst for life takes her on countless adventures through her city alongside her best friend, Barry.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-13T03:00:00.000Z",
+    "title": "Hamster & Gretel",
+    "overview": "Gretel and her pet hamster, named Hamster, get superpowers; Kevin must work with them to figure out how to protect their city from mysterious dangers.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-13T03:30:00.000Z",
+    "title": "Hamster & Gretel",
+    "overview": "Gretel and her pet hamster, named Hamster, get superpowers; Kevin must work with them to figure out how to protect their city from mysterious dangers.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-13T04:00:00.000Z",
+    "title": "Marvel's Moon Girl and Devil Dinosaur",
+    "overview": "After 13-year-old supergenius Lunella accidentally brings 10-ton Tyrannosaurus rex Devil Dinosaur into present-day New York City via a time vortex, they work together to protect the city's Lower East Side from danger.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

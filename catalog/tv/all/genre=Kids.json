@@ -1,0 +1,147 @@
+{
+ "metas": [
+  {
+   "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08",
+   "type": "tv",
+   "name": "Boomerang",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/boomerang-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20",
+   "type": "tv",
+   "name": "Cartoon Network",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cartoon-network-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-f4ce7266-386e-4563-872e-21576026999a",
+   "type": "tv",
+   "name": "Discovery Family",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/discovery-family-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd",
+   "type": "tv",
+   "name": "Disney Channel",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/disney-channel-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f",
+   "type": "tv",
+   "name": "Disney Jr",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/disney-jr-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd",
+   "type": "tv",
+   "name": "Disney XD",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/disney-xd-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-7a8bd02a-c334-450d-a7f8-64263a64757f",
+   "type": "tv",
+   "name": "Nick Jr",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nick-jr-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b",
+   "type": "tv",
+   "name": "Nickelodeon",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nick-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da",
+   "type": "tv",
+   "name": "Nicktoons",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nicktoons-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062",
+   "type": "tv",
+   "name": "PBS Kids",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/pbs-kids-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e",
+   "type": "tv",
+   "name": "TeenNick",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/teennick-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Kids"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

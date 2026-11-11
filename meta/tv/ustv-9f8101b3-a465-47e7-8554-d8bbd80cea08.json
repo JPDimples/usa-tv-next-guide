@@ -1,0 +1,1899 @@
+{
+ "meta": {
+  "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08",
+  "type": "tv",
+  "name": "Boomerang",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/boomerang-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/boomerang-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Kids"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T03:15:00.000Z",
+    "title": "Clarence",
+    "overview": "Jeff must overcome his germ phobias when Clarence and Sumo steal his french fries.",
+    "released": "2026-11-11T03:15:00.000Z",
+    "startTime": "2026-11-11T03:15:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T03:30:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence, Jeff and Sumo try to have fun at the arcade with only a dollar to spend.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T03:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T03:45:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence creates his own form of currency, turning the school upside down.",
+    "released": "2026-11-11T03:45:00.000Z",
+    "startTime": "2026-11-11T03:45:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T04:00:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "A simple trip to the mall turns into another mystery when toys come to life.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T04:30:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "A sea monster destroys tourists' boats. Mimi Rogers provides guest voice.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T05:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Beans and his stowaway nephews, Ham and Ex, search for a lost treasure on a haunted ship in the frozen North.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T05:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A monster targets Porky and his family for their inheritance.",
+    "released": "2026-11-11T05:10:00.000Z",
+    "startTime": "2026-11-11T05:10:00.000Z",
+    "endTime": "2026-11-11T05:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T05:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Porky Pig goes duck hunting and tries to get Daffy Duck, but fails.",
+    "released": "2026-11-11T05:20:00.000Z",
+    "startTime": "2026-11-11T05:20:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T05:30:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Assigned to lay turquoise eggs for Easter, Prissy accidentally produces a gold egg.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T05:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T05:40:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs humiliates Elmer while he's out hunting rabbits.",
+    "released": "2026-11-11T05:40:00.000Z",
+    "startTime": "2026-11-11T05:40:00.000Z",
+    "endTime": "2026-11-11T05:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T05:50:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Yosemite Sam and his brother are starving in their desolate snow-bound cabin, and when Daffy shows up as a salesman, he finds himself their target for dinner.",
+    "released": "2026-11-11T05:50:00.000Z",
+    "startTime": "2026-11-11T05:50:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T06:00:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom threatens to ruin Spike's plans for a quiet father-son barbecue with Tyke.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T06:10:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Spike the bulldog warns Tom not to wake up his sleeping son Tyke; Tom accidentally grabs Tyke when he is trying to get to Jerry.",
+    "released": "2026-11-11T06:10:00.000Z",
+    "startTime": "2026-11-11T06:10:00.000Z",
+    "endTime": "2026-11-11T06:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T06:20:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Cousin George plans a visit, but unlike Tom, he's very afraid of mice; to ease his fears, Tom nails Jerry's mouse hole shut, but Jerry finds a way around it.",
+    "released": "2026-11-11T06:20:00.000Z",
+    "startTime": "2026-11-11T06:20:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T06:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom, the Olympic, U.S., and World Champion Mouse Catcher, heads to Spain to catch the mouse El Magnifico.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T06:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T06:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom frames the bulldog, Spike, for stealing chicken from the fridge, but Jerry uses photography to prove Spike's innocence.",
+    "released": "2026-11-11T06:40:00.000Z",
+    "startTime": "2026-11-11T06:40:00.000Z",
+    "endTime": "2026-11-11T06:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T06:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "On Easter morning, Tom and Jerry join forces to get a baby duckling called Quacker out of the house.",
+    "released": "2026-11-11T06:50:00.000Z",
+    "startTime": "2026-11-11T06:50:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T07:00:00.000Z",
+    "title": "The Marvelous Misadventures of Flapjack",
+    "overview": "Capt. K'nuckles wants to prove that he is a legitimate captain; Flap wants to prove that he is a real adventurer.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T07:30:00.000Z",
+    "title": "The Marvelous Misadventures of Flapjack",
+    "overview": "Time passes K'nuckles by; never cry Sea Monster.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T08:00:00.000Z",
+    "title": "Ben 10",
+    "overview": "After an argument with Grandpa Max, Ben leaves for the city and meets a boy who can absorb energy, including the power of the Omnitrix.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T08:30:00.000Z",
+    "title": "Ben 10",
+    "overview": "Ben discovers that a gang leader has merged with parts of Vilgax's robot drones to become an alien cyborg.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T09:00:00.000Z",
+    "title": "Ben 10",
+    "overview": "Ben must overcome his deathly fear of clowns and face an evil circus with a psychic vampire clown when Gwen is kidnapped.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T09:30:00.000Z",
+    "title": "The Powerpuff Girls",
+    "overview": "The mayor tries a hair growth chemical; the Amoeba boys learn how to divide.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T10:00:00.000Z",
+    "title": "The New Adventures of Captain Planet",
+    "overview": "Verminous Skumm unleashes a swarm of hungry weevils upon a small town.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T10:30:00.000Z",
+    "title": "The New Adventures of Captain Planet",
+    "overview": "Aliens pit the Planeteers and the eco-villains against each other in a high-stakes game show to determine the fate of Captain Planet.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T11:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs reads the title to his own cartoon and fumes at the possibility that a tortoise could beat him in a race, so he challenges Cecil the Turtle, who calls up his look-alike relatives to pull one over on the overconfident rabbit.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T11:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs attempts to keep Casbah away from Daisy, so Bugs can date her himself.",
+    "released": "2026-11-11T11:10:00.000Z",
+    "startTime": "2026-11-11T11:10:00.000Z",
+    "endTime": "2026-11-11T11:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T11:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Elmer Fudd's quest for rest and relaxation at Jellystone National Park is spoiled after he sets up camp in the vicinity of Bugs Bunny's rabbit hole.",
+    "released": "2026-11-11T11:20:00.000Z",
+    "startTime": "2026-11-11T11:20:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T11:30:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Beakey Buzzard's mother sends him out on a mission to bring back a rabbit for their nest; he chooses Bugs as his target.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T11:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T11:40:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Elmer attempts to hypnotize Bugs.",
+    "released": "2026-11-11T11:40:00.000Z",
+    "startTime": "2026-11-11T11:40:00.000Z",
+    "endTime": "2026-11-11T11:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T11:50:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Abbott and Costello try to capture Tweety.",
+    "released": "2026-11-11T11:50:00.000Z",
+    "startTime": "2026-11-11T11:50:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T12:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "When Bugs eats a special carrot, he gets superpowers that help him battle a famous rabbit hunter.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T12:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Sylvester mistakes an escaped baby kangaroo for a giant mouse and sets off in pursuit.",
+    "released": "2026-11-11T12:10:00.000Z",
+    "startTime": "2026-11-11T12:10:00.000Z",
+    "endTime": "2026-11-11T12:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T12:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A shipwreck strands two hungry survivors on a small island, where the only food is Bugs Bunny.",
+    "released": "2026-11-11T12:20:00.000Z",
+    "startTime": "2026-11-11T12:20:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T12:30:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Daffy tries to sell Sleepy Lagoon to talent scout Porky.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T12:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T12:40:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A gremlin hijacks a World War II bomber and Bugs must stop him.",
+    "released": "2026-11-11T12:40:00.000Z",
+    "startTime": "2026-11-11T12:40:00.000Z",
+    "endTime": "2026-11-11T12:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T12:50:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs must avoid getting eaten by a wolf when an obnoxious girl delivers him to her grandma's house.",
+    "released": "2026-11-11T12:50:00.000Z",
+    "startTime": "2026-11-11T12:50:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T13:00:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom tries to keep Jerry and Tuffy from waking the sleeping king.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T13:10:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Jerry and his singing duckling friend discover the delights of vanishing cream, while Tom suffers because of it.",
+    "released": "2026-11-11T13:10:00.000Z",
+    "startTime": "2026-11-11T13:10:00.000Z",
+    "endTime": "2026-11-11T13:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T13:20:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "A babysitter more concerned with the phone leaves Tom and Jerry to watch the baby; Tom and Jerry are forced to protect a precocious baby when it wanders from its home.",
+    "released": "2026-11-11T13:20:00.000Z",
+    "startTime": "2026-11-11T13:20:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T13:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "A lost puppy follows Jerry home.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T13:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T13:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "A mad scientist's experiments have Tom in a tizzy.",
+    "released": "2026-11-11T13:40:00.000Z",
+    "startTime": "2026-11-11T13:40:00.000Z",
+    "endTime": "2026-11-11T13:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T13:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom wants to go fishing with his master, but Jerry ruins his plans.",
+    "released": "2026-11-11T13:50:00.000Z",
+    "startTime": "2026-11-11T13:50:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T14:00:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom chases Jerry around during the times of Ancient Greece.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T14:10:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom and Jerry have their eyes on steak.",
+    "released": "2026-11-11T14:10:00.000Z",
+    "startTime": "2026-11-11T14:10:00.000Z",
+    "endTime": "2026-11-11T14:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T14:20:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Jerry tries to thwart Tom's attempts to catch a bird for his dinner.",
+    "released": "2026-11-11T14:20:00.000Z",
+    "startTime": "2026-11-11T14:20:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T14:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom becomes jealous when his lady cat appears to return Calypso cat's affections.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T14:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T14:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom believes at first that he is going on a cruise, but the captain of the Kumquat soon puts him to work scrubbing the deck.",
+    "released": "2026-11-11T14:40:00.000Z",
+    "startTime": "2026-11-11T14:40:00.000Z",
+    "endTime": "2026-11-11T14:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T14:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom and Jerry are in Kenya on a hunting safari and don't get along as usual.",
+    "released": "2026-11-11T14:50:00.000Z",
+    "startTime": "2026-11-11T14:50:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T15:00:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "The gang heads to the southwest to watch a hang gliding contest, only to run into a ghostly pterodactyl.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T15:30:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "The gang is having a beach party when a bizarre monster emerges from the deep; soon after they meet an old sea captain who tells them about the monster, only to have it steal his soul.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T16:00:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "The gang follows Daphne to Africa in search of disappearing wildlife.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T16:30:00.000Z",
+    "title": "Codename: Kids Next Door",
+    "overview": "A fly finds its way into Treehouse headquarters; the team suspects teenagers of adult training.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T17:00:00.000Z",
+    "title": "Codename: Kids Next Door",
+    "overview": "A children's cable network is interested in the KND; Numbah One believes summer camp brainwashes children.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T17:30:00.000Z",
+    "title": "Chowder",
+    "overview": "Mung and Ms. Endive grandstand each other with their parties; Chowder's friends are driven away by a parasite.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T18:00:00.000Z",
+    "title": "Chowder",
+    "overview": "After ingesting hot peppers, Chowder can't stop breathing fire; Chowder is obsessed with joining some circus performers.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T18:30:00.000Z",
+    "title": "Clarence",
+    "overview": "Jeff and Clarence clash over keeping a toy in its box.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T18:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T18:45:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence tries to improve his communication skills through a squeeze horn.",
+    "released": "2026-11-11T18:45:00.000Z",
+    "startTime": "2026-11-11T18:45:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T19:00:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence and Belson get paired up during a field trip to the zoo.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T19:15:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence's first night home alone goes out of control.",
+    "released": "2026-11-11T19:15:00.000Z",
+    "startTime": "2026-11-11T19:15:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T19:30:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs reads the title to his own cartoon and fumes at the possibility that a tortoise could beat him in a race, so he challenges Cecil the Turtle, who calls up his look-alike relatives to pull one over on the overconfident rabbit.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T19:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T19:40:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs attempts to keep Casbah away from Daisy, so Bugs can date her himself.",
+    "released": "2026-11-11T19:40:00.000Z",
+    "startTime": "2026-11-11T19:40:00.000Z",
+    "endTime": "2026-11-11T19:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T19:50:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Elmer Fudd's quest for rest and relaxation at Jellystone National Park is spoiled after he sets up camp in the vicinity of Bugs Bunny's rabbit hole.",
+    "released": "2026-11-11T19:50:00.000Z",
+    "startTime": "2026-11-11T19:50:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T20:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Beakey Buzzard's mother sends him out on a mission to bring back a rabbit for their nest; he chooses Bugs as his target.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T20:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Elmer attempts to hypnotize Bugs.",
+    "released": "2026-11-11T20:10:00.000Z",
+    "startTime": "2026-11-11T20:10:00.000Z",
+    "endTime": "2026-11-11T20:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T20:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Abbott and Costello try to capture Tweety.",
+    "released": "2026-11-11T20:20:00.000Z",
+    "startTime": "2026-11-11T20:20:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T20:30:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "When Bugs eats a special carrot, he gets superpowers that help him battle a famous rabbit hunter.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T20:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T20:40:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Sylvester mistakes an escaped baby kangaroo for a giant mouse and sets off in pursuit.",
+    "released": "2026-11-11T20:40:00.000Z",
+    "startTime": "2026-11-11T20:40:00.000Z",
+    "endTime": "2026-11-11T20:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T20:50:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A shipwreck strands two hungry survivors on a small island, where the only food is Bugs Bunny.",
+    "released": "2026-11-11T20:50:00.000Z",
+    "startTime": "2026-11-11T20:50:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T21:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Daffy tries to sell Sleepy Lagoon to talent scout Porky.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T21:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A gremlin hijacks a World War II bomber and Bugs must stop him.",
+    "released": "2026-11-11T21:10:00.000Z",
+    "startTime": "2026-11-11T21:10:00.000Z",
+    "endTime": "2026-11-11T21:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T21:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs must avoid getting eaten by a wolf when an obnoxious girl delivers him to her grandma's house.",
+    "released": "2026-11-11T21:20:00.000Z",
+    "startTime": "2026-11-11T21:20:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T21:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom tries to keep Jerry and Tuffy from waking the sleeping king.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T21:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T21:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Jerry and his singing duckling friend discover the delights of vanishing cream, while Tom suffers because of it.",
+    "released": "2026-11-11T21:40:00.000Z",
+    "startTime": "2026-11-11T21:40:00.000Z",
+    "endTime": "2026-11-11T21:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T21:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "A babysitter more concerned with the phone leaves Tom and Jerry to watch the baby; Tom and Jerry are forced to protect a precocious baby when it wanders from its home.",
+    "released": "2026-11-11T21:50:00.000Z",
+    "startTime": "2026-11-11T21:50:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T22:00:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "A lost puppy follows Jerry home.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T22:10:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "A mad scientist's experiments have Tom in a tizzy.",
+    "released": "2026-11-11T22:10:00.000Z",
+    "startTime": "2026-11-11T22:10:00.000Z",
+    "endTime": "2026-11-11T22:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T22:20:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom wants to go fishing with his master, but Jerry ruins his plans.",
+    "released": "2026-11-11T22:20:00.000Z",
+    "startTime": "2026-11-11T22:20:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T22:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom chases Jerry around during the times of Ancient Greece.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T22:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T22:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom and Jerry have their eyes on steak.",
+    "released": "2026-11-11T22:40:00.000Z",
+    "startTime": "2026-11-11T22:40:00.000Z",
+    "endTime": "2026-11-11T22:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T22:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Jerry tries to thwart Tom's attempts to catch a bird for his dinner.",
+    "released": "2026-11-11T22:50:00.000Z",
+    "startTime": "2026-11-11T22:50:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T23:00:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom becomes jealous when his lady cat appears to return Calypso cat's affections.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T23:10:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom believes at first that he is going on a cruise, but the captain of the Kumquat soon puts him to work scrubbing the deck.",
+    "released": "2026-11-11T23:10:00.000Z",
+    "startTime": "2026-11-11T23:10:00.000Z",
+    "endTime": "2026-11-11T23:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T23:20:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom and Jerry are in Kenya on a hunting safari and don't get along as usual.",
+    "released": "2026-11-11T23:20:00.000Z",
+    "startTime": "2026-11-11T23:20:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T23:30:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "The gang heads to the southwest to watch a hang gliding contest, only to run into a ghostly pterodactyl.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T00:00:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "The gang is having a beach party when a bizarre monster emerges from the deep; soon after they meet an old sea captain who tells them about the monster, only to have it steal his soul.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T00:30:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "The gang follows Daphne to Africa in search of disappearing wildlife.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T01:00:00.000Z",
+    "title": "Codename: Kids Next Door",
+    "overview": "A fly finds its way into Treehouse headquarters; the team suspects teenagers of adult training.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T01:30:00.000Z",
+    "title": "Codename: Kids Next Door",
+    "overview": "A children's cable network is interested in the KND; Numbah One believes summer camp brainwashes children.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T02:00:00.000Z",
+    "title": "Chowder",
+    "overview": "Mung and Ms. Endive grandstand each other with their parties; Chowder's friends are driven away by a parasite.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T02:30:00.000Z",
+    "title": "Chowder",
+    "overview": "After ingesting hot peppers, Chowder can't stop breathing fire; Chowder is obsessed with joining some circus performers.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T03:00:00.000Z",
+    "title": "Clarence",
+    "overview": "Jeff and Clarence clash over keeping a toy in its box.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T03:15:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence tries to improve his communication skills through a squeeze horn.",
+    "released": "2026-11-12T03:15:00.000Z",
+    "startTime": "2026-11-12T03:15:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T03:30:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence and Belson get paired up during a field trip to the zoo.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T03:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T03:45:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence's first night home alone goes out of control.",
+    "released": "2026-11-12T03:45:00.000Z",
+    "startTime": "2026-11-12T03:45:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T04:00:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "The gang visits an amusement park that is haunted by the Roller Ghoster, a speed-happy specter that frightens customers away from the fast rides.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T04:30:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "Members of the gang investigate claims that the ghost of a magician is haunting the concert hall where their friend is playing.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T05:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "The masked marauder strikes again, and a local hero is hired to catch the villain.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T05:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Elmer Fudd visits the future, while Bugs recalls the past.",
+    "released": "2026-11-12T05:10:00.000Z",
+    "startTime": "2026-11-12T05:10:00.000Z",
+    "endTime": "2026-11-12T05:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T05:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Elmer disturbs Bugs' rest with his singing.",
+    "released": "2026-11-12T05:20:00.000Z",
+    "startTime": "2026-11-12T05:20:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T05:30:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs is invited to play a game of baseball after heckling the players.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T05:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T05:40:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A post-war baby boom overworks the storks, so Porky and Daffy lend a hand.",
+    "released": "2026-11-12T05:40:00.000Z",
+    "startTime": "2026-11-12T05:40:00.000Z",
+    "endTime": "2026-11-12T05:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T05:50:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Mad scientist Elmer tries his best to make a \"Jekyll and Hyde\" potion, but his experiments always end in failure.",
+    "released": "2026-11-12T05:50:00.000Z",
+    "startTime": "2026-11-12T05:50:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T06:00:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "While trying to catch Jerry, Tom keeps running afoul of an angry conductor, who believes Tom's antics are ruining his opera.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T06:10:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "A snooty woman hires Tom and Calaboose Cal to rid her apartment of Jerry.",
+    "released": "2026-11-12T06:10:00.000Z",
+    "startTime": "2026-11-12T06:10:00.000Z",
+    "endTime": "2026-11-12T06:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T06:20:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom is a famous opera singer, but his performance interrupts Jerry's sleeping; the mouse does his best to ruin the show for the cat.",
+    "released": "2026-11-12T06:20:00.000Z",
+    "startTime": "2026-11-12T06:20:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T06:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Jerry brews a mysterious drink that triggers a change in him after he drinks it, making him fast enough to eat the food out of Tom's paw without the cat realizing what is happening to him.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T06:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T06:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom makes more attempts to catch Jerry but is thwarted by Spike.",
+    "released": "2026-11-12T06:40:00.000Z",
+    "startTime": "2026-11-12T06:40:00.000Z",
+    "endTime": "2026-11-12T06:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T06:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "A brown and white kitten is delivered to the house and instantly wins Jerry's heart, but Tom takes an instant disliking to it.",
+    "released": "2026-11-12T06:50:00.000Z",
+    "startTime": "2026-11-12T06:50:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T07:00:00.000Z",
+    "title": "The Marvelous Misadventures of Flapjack",
+    "overview": "Flapjack wants to mingle with children his own age; Lady Nickelbottoms gets herself a new dog.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T07:30:00.000Z",
+    "title": "The Marvelous Misadventures of Flapjack",
+    "overview": "Flapjack is taken away from Bubbie and K'nuckles; Sally Syrup comes back to Stormalong.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T08:00:00.000Z",
+    "title": "Ben 10",
+    "overview": "Ben defeats a magician whose power comes from mystical charms; when Gwen finds one of his charms, she develops amazing luck in battle.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T08:30:00.000Z",
+    "title": "Ben 10",
+    "overview": "Ben changes into an alien form to ride a roller-coaster; he gets stuck as Grey Matter and finds himself captured by a sci-fi geek.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T09:00:00.000Z",
+    "title": "Ben 10",
+    "overview": "Ben's summer cold causes strange side effects in his alien forms while he tries to deal with a cockroach monster.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T09:30:00.000Z",
+    "title": "The Powerpuff Girls",
+    "overview": "A burglar robs the Powerpuff Girls' house; the Professor investigates a Lumpkin.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T10:00:00.000Z",
+    "title": "The New Adventures of Captain Planet",
+    "overview": "When the Planeteers investigate a string of bat attacks in New Mexico, they discover Looten Plunder's nephew, Robin, staged the attacks to build publicity for his upcoming movie, and must put an end to Robin's fearmongering.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T10:30:00.000Z",
+    "title": "The New Adventures of Captain Planet",
+    "overview": "The tables turn on the Planeteers when Hoggish Greedly secures a legal permit from the Army Corps of Engineers to build over precious wetlands and the authorities arrest Captain Planet; the team must stop Greedly while being hunted as fugitives.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T11:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A mad scientist sends a sexy rabbit-robot to lure Bugs in as food for his monster.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T11:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A circus is being set up above Bugs' home and the lion cage is placed directly above the hole.",
+    "released": "2026-11-12T11:10:00.000Z",
+    "startTime": "2026-11-12T11:10:00.000Z",
+    "endTime": "2026-11-12T11:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T11:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs infuriates Pirate Yosemite Sam by stealing his treasure and chases Bugs onto the pirate ship.",
+    "released": "2026-11-12T11:20:00.000Z",
+    "startTime": "2026-11-12T11:20:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T11:30:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs battles Yosemite Sam in a western showdown.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T11:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T11:40:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs, a concert pianist, must overcome a coughing audience member, sheet music distractions, hunger pangs and an irksome musical mouse in his piano.",
+    "released": "2026-11-12T11:40:00.000Z",
+    "startTime": "2026-11-12T11:40:00.000Z",
+    "endTime": "2026-11-12T11:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T11:50:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs gets blasted into space and makes it all the way up to the moon.",
+    "released": "2026-11-12T11:50:00.000Z",
+    "startTime": "2026-11-12T11:50:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T12:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A woman rescues Tweety before her cat can devour him.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T12:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs challenges Cecil to a race after reading a fable.",
+    "released": "2026-11-12T12:10:00.000Z",
+    "startTime": "2026-11-12T12:10:00.000Z",
+    "endTime": "2026-11-12T12:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T12:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Daffy Duck is sent to a hen house to babysit an egg, but while he is there, the egg hatches a little chick who is afraid of strangers; the chick runs away from Daffy, who must chase him all over the barnyard.",
+    "released": "2026-11-12T12:20:00.000Z",
+    "startTime": "2026-11-12T12:20:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T12:30:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Sylvester, Foghorn, Henery Hawk and the dog all battle it out; Sylvester wants the dog's bone, and Henery Hawk is in the middle of Foghorn and Sylvester, trying to decide who is the real chicken to eat.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T12:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T12:40:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A tired businessman goes to Elmer's hotel for some peace and quiet; the only problem is that Daffy is a bellman who doesn't know how to be quiet; every time the businessman is disturbed he hits Elmer, which turns out to be a lot.",
+    "released": "2026-11-12T12:40:00.000Z",
+    "startTime": "2026-11-12T12:40:00.000Z",
+    "endTime": "2026-11-12T12:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T12:50:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Rabbit is on the menu, and it appears that Bugs Bunny will be the dish of the day unless he can outwit Elmer Fudd.",
+    "released": "2026-11-12T12:50:00.000Z",
+    "startTime": "2026-11-12T12:50:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T13:00:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "A high-speed, energetic Tom chases Jerry throughout the city; Tom chases Jerry through a bunch of different scenarios, never resting.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T13:10:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Christmas Eve antics prompt Tom to toss Jerry out in the cold.",
+    "released": "2026-11-12T13:10:00.000Z",
+    "startTime": "2026-11-12T13:10:00.000Z",
+    "endTime": "2026-11-12T13:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T13:20:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom chases Jerry into an empty bowling alley.",
+    "released": "2026-11-12T13:20:00.000Z",
+    "startTime": "2026-11-12T13:20:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T13:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom makes a mother hen angry.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T13:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T13:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom battles a scruffy cat for possession of Jerry.",
+    "released": "2026-11-12T13:40:00.000Z",
+    "startTime": "2026-11-12T13:40:00.000Z",
+    "endTime": "2026-11-12T13:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T13:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Jerry makes fun of Tom after he is dressed as a baby by a little girl.",
+    "released": "2026-11-12T13:50:00.000Z",
+    "startTime": "2026-11-12T13:50:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T14:00:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom finds out that he'll inherit a million dollars if he is kind to all animals, including Jerry.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T14:10:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "After Jerry saves Spike from the dogcatcher, the bulldog becomes the mouse's bodyguard; Jerry uses a whistle given to him by a grateful bulldog to stop Tom from chasing him.",
+    "released": "2026-11-12T14:10:00.000Z",
+    "startTime": "2026-11-12T14:10:00.000Z",
+    "endTime": "2026-11-12T14:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T14:20:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom disguises himself as a canine to hunt for Jerry in a dog pound.",
+    "released": "2026-11-12T14:20:00.000Z",
+    "startTime": "2026-11-12T14:20:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T14:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom takes advice from a book about how to catch mice.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T14:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T14:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom uses Jerry as his special tee in a game of golf.",
+    "released": "2026-11-12T14:40:00.000Z",
+    "startTime": "2026-11-12T14:40:00.000Z",
+    "endTime": "2026-11-12T14:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T14:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Jerry tries to ruin Tom's dream date by convincing a rival cat to vie for her affections.",
+    "released": "2026-11-12T14:50:00.000Z",
+    "startTime": "2026-11-12T14:50:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T15:00:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "Scooby-Doo, Scooby-Dum and the gang set out to protect Scooby's cousin, Scooby-Dee, from the phantom of Milo Booth, a long dead silent film actor determined to keep Dee from remaking one of his greatest films.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T15:30:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "The gang goes to watch a grand prix race, only to run afoul of a phantom race car driver that makes the other drivers and their cars disappear.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T16:00:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "The Scooby gang is disturbed to find that the van has taken on a life of its own.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T16:30:00.000Z",
+    "title": "Codename: Kids Next Door",
+    "overview": "Operatives are neutralized by Mega Mom and Destructo Dad. Numbuh Two's little brother does anything to hang out with his brother.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T17:00:00.000Z",
+    "title": "Codename: Kids Next Door",
+    "overview": "In 'Operation P.I.A.N.O.', a hamster is sent to replace Number Four for disobeying orders and smashing a piano; in 'Operation Z.O.O.', the Kids Next Door are captured by a children's zoo to be their kid exhibit.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T17:30:00.000Z",
+    "title": "Chowder",
+    "overview": "Chowder worries that he will not get the gift he wants; Mung works on making a Schmingerbread house.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T18:00:00.000Z",
+    "title": "Chowder",
+    "overview": "Sgt. Hoagie and the Marzipan City Police Department must solve a crime; Mung, Chowder and Shnitzel go on a spending spree.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T18:30:00.000Z",
+    "title": "Clarence",
+    "overview": "Sumo devotes himself to building a boat.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T18:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T18:45:00.000Z",
+    "title": "Clarence",
+    "overview": "When Clarence, Sumo and Jeff go on a nature hike that veers off course courtesy of their underqualified guide, Clarence must take the lead.",
+    "released": "2026-11-12T18:45:00.000Z",
+    "startTime": "2026-11-12T18:45:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T19:00:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence and Sumo chase a lizard and find unexpected rewards; Jeff jockeys for playing time on Belson's gaming system.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T19:15:00.000Z",
+    "title": "Clarence",
+    "overview": "When Clarence sees a teacher in a social setting outside of school, he cannot stop himself from intruding on her date.",
+    "released": "2026-11-12T19:15:00.000Z",
+    "startTime": "2026-11-12T19:15:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T19:30:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A mad scientist sends a sexy rabbit-robot to lure Bugs in as food for his monster.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T19:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T19:40:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A circus is being set up above Bugs' home and the lion cage is placed directly above the hole.",
+    "released": "2026-11-12T19:40:00.000Z",
+    "startTime": "2026-11-12T19:40:00.000Z",
+    "endTime": "2026-11-12T19:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T19:50:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs infuriates Pirate Yosemite Sam by stealing his treasure and chases Bugs onto the pirate ship.",
+    "released": "2026-11-12T19:50:00.000Z",
+    "startTime": "2026-11-12T19:50:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T20:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs battles Yosemite Sam in a western showdown.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T20:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs, a concert pianist, must overcome a coughing audience member, sheet music distractions, hunger pangs and an irksome musical mouse in his piano.",
+    "released": "2026-11-12T20:10:00.000Z",
+    "startTime": "2026-11-12T20:10:00.000Z",
+    "endTime": "2026-11-12T20:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T20:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs gets blasted into space and makes it all the way up to the moon.",
+    "released": "2026-11-12T20:20:00.000Z",
+    "startTime": "2026-11-12T20:20:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T20:30:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A woman rescues Tweety before her cat can devour him.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T20:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T20:40:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Bugs challenges Cecil to a race after reading a fable.",
+    "released": "2026-11-12T20:40:00.000Z",
+    "startTime": "2026-11-12T20:40:00.000Z",
+    "endTime": "2026-11-12T20:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T20:50:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Daffy Duck is sent to a hen house to babysit an egg, but while he is there, the egg hatches a little chick who is afraid of strangers; the chick runs away from Daffy, who must chase him all over the barnyard.",
+    "released": "2026-11-12T20:50:00.000Z",
+    "startTime": "2026-11-12T20:50:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T21:00:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Sylvester, Foghorn, Henery Hawk and the dog all battle it out; Sylvester wants the dog's bone, and Henery Hawk is in the middle of Foghorn and Sylvester, trying to decide who is the real chicken to eat.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T21:10:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "A tired businessman goes to Elmer's hotel for some peace and quiet; the only problem is that Daffy is a bellman who doesn't know how to be quiet; every time the businessman is disturbed he hits Elmer, which turns out to be a lot.",
+    "released": "2026-11-12T21:10:00.000Z",
+    "startTime": "2026-11-12T21:10:00.000Z",
+    "endTime": "2026-11-12T21:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T21:20:00.000Z",
+    "title": "Looney Tunes",
+    "overview": "Rabbit is on the menu, and it appears that Bugs Bunny will be the dish of the day unless he can outwit Elmer Fudd.",
+    "released": "2026-11-12T21:20:00.000Z",
+    "startTime": "2026-11-12T21:20:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T21:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "A high-speed, energetic Tom chases Jerry throughout the city; Tom chases Jerry through a bunch of different scenarios, never resting.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T21:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T21:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Christmas Eve antics prompt Tom to toss Jerry out in the cold.",
+    "released": "2026-11-12T21:40:00.000Z",
+    "startTime": "2026-11-12T21:40:00.000Z",
+    "endTime": "2026-11-12T21:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T21:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom chases Jerry into an empty bowling alley.",
+    "released": "2026-11-12T21:50:00.000Z",
+    "startTime": "2026-11-12T21:50:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T22:00:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom makes a mother hen angry.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T22:10:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom battles a scruffy cat for possession of Jerry.",
+    "released": "2026-11-12T22:10:00.000Z",
+    "startTime": "2026-11-12T22:10:00.000Z",
+    "endTime": "2026-11-12T22:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T22:20:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Jerry makes fun of Tom after he is dressed as a baby by a little girl.",
+    "released": "2026-11-12T22:20:00.000Z",
+    "startTime": "2026-11-12T22:20:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T22:30:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom finds out that he'll inherit a million dollars if he is kind to all animals, including Jerry.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T22:40:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T22:40:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "After Jerry saves Spike from the dogcatcher, the bulldog becomes the mouse's bodyguard; Jerry uses a whistle given to him by a grateful bulldog to stop Tom from chasing him.",
+    "released": "2026-11-12T22:40:00.000Z",
+    "startTime": "2026-11-12T22:40:00.000Z",
+    "endTime": "2026-11-12T22:50:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T22:50:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom disguises himself as a canine to hunt for Jerry in a dog pound.",
+    "released": "2026-11-12T22:50:00.000Z",
+    "startTime": "2026-11-12T22:50:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T23:00:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom takes advice from a book about how to catch mice.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:10:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T23:10:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Tom uses Jerry as his special tee in a game of golf.",
+    "released": "2026-11-12T23:10:00.000Z",
+    "startTime": "2026-11-12T23:10:00.000Z",
+    "endTime": "2026-11-12T23:20:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T23:20:00.000Z",
+    "title": "Tom & Jerry",
+    "overview": "Jerry tries to ruin Tom's dream date by convincing a rival cat to vie for her affections.",
+    "released": "2026-11-12T23:20:00.000Z",
+    "startTime": "2026-11-12T23:20:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "10 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-12T23:30:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "Scooby-Doo, Scooby-Dum and the gang set out to protect Scooby's cousin, Scooby-Dee, from the phantom of Milo Booth, a long dead silent film actor determined to keep Dee from remaking one of his greatest films.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T00:00:00.000Z",
+    "title": "The Scooby-Doo Show",
+    "overview": "The gang goes to watch a grand prix race, only to run afoul of a phantom race car driver that makes the other drivers and their cars disappear.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T00:30:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "The Scooby gang is disturbed to find that the van has taken on a life of its own.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T01:00:00.000Z",
+    "title": "Codename: Kids Next Door",
+    "overview": "Operatives are neutralized by Mega Mom and Destructo Dad. Numbuh Two's little brother does anything to hang out with his brother.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T01:30:00.000Z",
+    "title": "Codename: Kids Next Door",
+    "overview": "In 'Operation P.I.A.N.O.', a hamster is sent to replace Number Four for disobeying orders and smashing a piano; in 'Operation Z.O.O.', the Kids Next Door are captured by a children's zoo to be their kid exhibit.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T02:00:00.000Z",
+    "title": "Chowder",
+    "overview": "Chowder worries that he will not get the gift he wants; Mung works on making a Schmingerbread house.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T02:30:00.000Z",
+    "title": "Chowder",
+    "overview": "Sgt. Hoagie and the Marzipan City Police Department must solve a crime; Mung, Chowder and Shnitzel go on a spending spree.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T03:00:00.000Z",
+    "title": "Clarence",
+    "overview": "Sumo devotes himself to building a boat.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T03:15:00.000Z",
+    "title": "Clarence",
+    "overview": "When Clarence, Sumo and Jeff go on a nature hike that veers off course courtesy of their underqualified guide, Clarence must take the lead.",
+    "released": "2026-11-13T03:15:00.000Z",
+    "startTime": "2026-11-13T03:15:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T03:30:00.000Z",
+    "title": "Clarence",
+    "overview": "Clarence and Sumo chase a lizard and find unexpected rewards; Jeff jockeys for playing time on Belson's gaming system.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T03:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T03:45:00.000Z",
+    "title": "Clarence",
+    "overview": "When Clarence sees a teacher in a social setting outside of school, he cannot stop himself from intruding on her date.",
+    "released": "2026-11-13T03:45:00.000Z",
+    "startTime": "2026-11-13T03:45:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T04:00:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "Ghosts re-enact a duel every night in a New Orleans graveyard.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

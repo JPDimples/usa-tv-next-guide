@@ -1,0 +1,649 @@
+{
+ "meta": {
+  "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b",
+  "type": "tv",
+  "name": "SYFY",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/syfy-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/syfy-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T03:00:00.000Z",
+    "title": "Click",
+    "overview": "Michael Newman seems to have it all but his wife, Donna, is increasingly frustrated by the amount of time he has to spend at work. Michael cannot find time to be at home until he meets an eccentric inventor who gives him a universal remote that controls time. At first he happily skips the boring tim",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T05:30:00.000Z",
+    "title": "Strays",
+    "overview": "Abandoned on the mean city streets by his lowlife owner, Doug, a naive but lovable dog named Reggie falls in with a fast-talking, foul-mouthed Boston Terrier and his gang of strays. Determined to seek revenge, Reggie and his new canine pals embark on an epic adventure to get him home and make Doug p",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T07:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Two unloved children escape from their squabbling parents to a world that offers them a chance of happiness with a strange, kindly woman.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T08:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "The manager of a baseball team on a losing streak hires a robot pitcher called Casey.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T08:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A man (John McGiver) who enjoys loud noises is driven crazy when trivial sounds become deafening to him.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T09:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A couple is awakened in the middle of the night by the cries of their six-year-old daughter who has fallen through a mysterious door into another dimension.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T09:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A six-year-old boy holds a town in terror with his powers to change or destroy anyone or anything at will.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T10:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A man makes a pact with the devil for immortality then finds he doesn't get a kick out of living anymore.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T10:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Librarian Romney Wordsworth is condemned to death for obsolescence.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T11:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Three astronauts discover the wreckage of a ship identical to their own on an unexplored planet. With Jack Klugman.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T12:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Elva Keene, confined to her bed and wheelchair, is driven to distraction by mysterious telephone calls on a dead line.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T12:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Thomas Patrick McNulty is given a watch that possesses a strange power.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T13:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A playwright describes characters into his tape recorder, and they materialize before his eyes.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T13:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Driving cross-country, a girl keeps seeing the same hitchhiker on the road ahead, beckoning her toward a fatal accident.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T14:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Newlywed Alex Walker returns to his home and yearns for the days of his childhood.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T14:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A man (Charles Bronson) and a woman (Elizabeth Montgomery) -- the sole survivors of a devastating global war -- meet in the shambles of a city destroyed six years prior.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T15:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "The Earth falls out of its orbit and starts moving toward the sun.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T15:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Jana rebels from the monotonous life she and her parents are living.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T16:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "In the 1880s, outlaw Joe Caswell's body disappears from the hangman's noose.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T16:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "The leader of a wagon train across the New Mexico territory in 1847 comes across a highway.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T17:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "An American destroyer picks up signals from a submarine that sank 20 years earlier. With Simon Oakland, Bill Bixby.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T18:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A man's ambition to be the best pool shark on Chicago's Randolph Street carries a high cost. With Jonathan Winters, Jack Klugman.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T18:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Oliver Pope kills a bicyclist in a hit-and-run, but a business rival is identified as the driver.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T19:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "An angel (Jesse White) can earn his wings by helping a down-on-her-luck woman (Carol Burnett).",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T19:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A man recovering from a nervous breakdown sees a horrifying creature on the wing of his plane. With William Shatner.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T20:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A broken-down gunslinger finds a magic potion that restores his shooting skill, but brings an end to his fast-draw career.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T20:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Fleeing from a World War I aerial battle, a pilot gets lost in both space and time.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T21:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A woman hopes a trans-Atlantic cruise and holiday in London will help save her marriage.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T22:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A man considers several possibilities when he is offered one wish by a genie in a magic lamp. With Jack Albertson.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T23:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Two men try to make their fortune at Las Vegas from the power one of them has to move inanimate objects.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-11T23:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "On the night of a UFO sighting, seven people at a diner claim to be of Earth, though one of them is not.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T00:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A small-time hoodlum gets killed by the police during a robbery and finds an afterlife where he can have anything he wants.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T00:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Arch Hammer can change his face to look exactly like someone else, a talent that he depends on for a living.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T01:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A terrified man stumbles into a psychiatrist's office, afraid that if he falls asleep a woman in his dream will murder him.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T01:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "An astronaut (Steve Forrest) arrives in a world much like his own -- except for a few small differences. With Frank Aletter.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T02:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A man (Dana Andrews) travels backward in time and tries to change events surrounding Hiroshima, Hitler and the Lusitania.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T03:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A toy designer (Pat Hingle) visits his old neighborhood and finds it exactly as it was in his childhood.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T04:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "An astronaut (Roddy McDowall) experiences Martian hospitality.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T05:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A wealthy man devises an elaborate hoax to force three people to apologize for humiliating him earlier in his life.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T05:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A con man convinces the inhabitants of a Western town that he can raise the dead from the local cemetery.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T06:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Modern National Guardsmen maneuvering at Little Big Horn find ominous signs of an impending Indian attack.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T06:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Movie star Bunny Blake receives an opal ring from her hometown fan club which enables her to see images of her friends and family.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T07:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A wax-museum employee (Martin Balsam) moves the figures of several notorious murderers into the basement of his home.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T08:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Taking refuge in a European monastery during a storm, a man hears someone howling and is told it's the Devil who is being held prisoner.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T08:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Unique circumstances allow a meek bank teller to indulge his passion for reading. With Burgess Meredith.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T09:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "An astronaut returns from a 30-year mission to find that his girlfriend hasn't aged at all.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T09:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Marsha White goes to a department store to buy a gold thimble.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T10:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "An obsessed Oliver Crangle (Theodore Bikel) tells an FBI agent that a drastic transformation will take place on all the evil people in the world.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T10:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A happy-go-lucky man loses his job, gets evicted and wrecks his car, all in one day.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T11:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "An airline official tests his theory that a newly arrived but totally empty plane is imaginary-with startling results.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T11:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "Three astronauts, returning from man's first space flight, can not remember the events of their trip; they begin to disappear one by one.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T12:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A timid man (Burgess Meredith) acquires superhuman strength; with Don Rickles.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T12:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A power-hungry American Nazi (Dennis Hopper) receives advice from a mysterious benefactor. With Paul Mazursky.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T13:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "On the morning that a man is to hang for killing one of his bigoted neighbors, the townspeople find themselves thrown into an unending night.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T14:00:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "During a battle, a fanatical and racist World War II soldier mysteriously experiences the situation in the body of a Japanese counterpart.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T14:30:00.000Z",
+    "title": "The Twilight Zone",
+    "overview": "A space traveler terrorizes the tiny inhabitants of a space station into accepting him as their God, but when another spaceship arrives the tyrannical man discovers everything is relative.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T15:00:00.000Z",
+    "title": "Ruby Gillman, Teenage Kraken",
+    "overview": "Sweet and awkward 16-year-old Ruby Gillman is desperate to fit in at school, but she mostly just feels invisible. She's prevented from hanging out with the cool kids at the beach because her over-protective mom forbids her from getting in the water. When she breaks her mom's rule, Ruby discovers tha",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T17:00:00.000Z",
+    "title": "Migration",
+    "overview": "A family of ducks decides to leave the safety of a New England pond for an adventurous trip to Jamaica. However, their well-laid plans quickly go awry when they get lost and wind up in New York City. The experience soon inspires them to expand their horizons, open themselves up to new friends, and a",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T19:00:00.000Z",
+    "title": "The Croods: A New Age",
+    "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the ",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T21:00:00.000Z",
+    "title": "Ruby Gillman, Teenage Kraken",
+    "overview": "Sweet and awkward 16-year-old Ruby Gillman is desperate to fit in at school, but she mostly just feels invisible. She's prevented from hanging out with the cool kids at the beach because her over-protective mom forbids her from getting in the water. When she breaks her mom's rule, Ruby discovers tha",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-12T23:00:00.000Z",
+    "title": "Migration",
+    "overview": "A family of ducks decides to leave the safety of a New England pond for an adventurous trip to Jamaica. However, their well-laid plans quickly go awry when they get lost and wind up in New York City. The experience soon inspires them to expand their horizons, open themselves up to new friends, and a",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-13T01:00:00.000Z",
+    "title": "The Super Mario Bros. Movie",
+    "overview": "Mario and Luigi go on a whirlwind adventure through Mushroom Kingdom, uniting with a cast of familiar characters to defeat Bowser.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b:epg:2026-11-13T03:00:00.000Z",
+    "title": "The Croods: A New Age",
+    "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the ",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

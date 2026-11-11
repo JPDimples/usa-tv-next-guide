@@ -1,0 +1,429 @@
+{
+ "meta": {
+  "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d",
+  "type": "tv",
+  "name": "HBO",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/hbo-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Premium"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T02:27:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-11T02:27:00.000Z",
+    "startTime": "2026-11-11T02:27:00.000Z",
+    "endTime": "2026-11-11T03:21:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T03:21:00.000Z",
+    "title": "The Invite",
+    "overview": "Joe and Angela's marriage is on thin ice. When their upstairs neighbors visit for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+    "released": "2026-11-11T03:21:00.000Z",
+    "startTime": "2026-11-11T03:21:00.000Z",
+    "endTime": "2026-11-11T05:10:00.000Z",
+    "runtime": "109 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T05:10:00.000Z",
+    "title": "If I Had Legs I'd Kick You",
+    "overview": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
+    "released": "2026-11-11T05:10:00.000Z",
+    "startTime": "2026-11-11T05:10:00.000Z",
+    "endTime": "2026-11-11T07:05:00.000Z",
+    "runtime": "115 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T07:05:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-11T07:05:00.000Z",
+    "startTime": "2026-11-11T07:05:00.000Z",
+    "endTime": "2026-11-11T07:59:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T07:59:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-11T07:59:00.000Z",
+    "startTime": "2026-11-11T07:59:00.000Z",
+    "endTime": "2026-11-11T08:53:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T08:53:00.000Z",
+    "title": "The Revenant",
+    "overview": "While exploring the uncharted wilderness in 1823, frontiersman Hugh Glass (Leonardo DiCaprio) sustains life-threatening injuries from a brutal bear attack. When a member (Tom Hardy) of his hunting team kills his young son (Forrest Goodluck) and leaves him for dead, Glass must utilize his survival sk",
+    "released": "2026-11-11T08:53:00.000Z",
+    "startTime": "2026-11-11T08:53:00.000Z",
+    "endTime": "2026-11-11T11:32:00.000Z",
+    "runtime": "159 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T11:32:00.000Z",
+    "title": "Last Week Tonight With John Oliver",
+    "overview": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.",
+    "released": "2026-11-11T11:32:00.000Z",
+    "startTime": "2026-11-11T11:32:00.000Z",
+    "endTime": "2026-11-11T12:17:00.000Z",
+    "runtime": "45 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T12:17:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-11T12:17:00.000Z",
+    "startTime": "2026-11-11T12:17:00.000Z",
+    "endTime": "2026-11-11T13:10:00.000Z",
+    "runtime": "53 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T13:10:00.000Z",
+    "title": "The Hobbit: An Unexpected Journey",
+    "overview": "Bilbo Baggins lives a simple life with his fellow hobbits in the Shire, until the wizard Gandalf arrives and convinces him to join a group of dwarves on a quest to reclaim the kingdom of Erebor. The journey takes Bilbo on a path through treacherous lands swarming with orcs, goblins and other dangers",
+    "released": "2026-11-11T13:10:00.000Z",
+    "startTime": "2026-11-11T13:10:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "170 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T16:00:00.000Z",
+    "title": "Real Time With Bill Maher",
+    "overview": "Guests Peter Berg, Coleman Hughes and Ali Vitali.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T17:00:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha faces Gladys's difficult childbirth, Peggy achieves a milestone and Agnes makes plans to host a prestigious dinner.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:57:00.000Z",
+    "runtime": "57 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T17:57:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-11T17:57:00.000Z",
+    "startTime": "2026-11-11T17:57:00.000Z",
+    "endTime": "2026-11-11T18:51:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T18:51:00.000Z",
+    "title": "Sing Street",
+    "overview": "In 1985, a Dublin teenager (Ferdia Walsh-Peelo) forms a rock 'n' roll band to win the heart of an aspiring model (Lucy Boynton).",
+    "released": "2026-11-11T18:51:00.000Z",
+    "startTime": "2026-11-11T18:51:00.000Z",
+    "endTime": "2026-11-11T20:37:00.000Z",
+    "runtime": "106 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T20:37:00.000Z",
+    "title": "Last Week Tonight With John Oliver",
+    "overview": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.",
+    "released": "2026-11-11T20:37:00.000Z",
+    "startTime": "2026-11-11T20:37:00.000Z",
+    "endTime": "2026-11-11T21:22:00.000Z",
+    "runtime": "45 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T21:22:00.000Z",
+    "title": "Backrooms",
+    "overview": "A strange doorway appears in the basement of a furniture showroom, leading to an endless network of interconnected rooms where time bends and the only thing scarier than getting lost is the sense that something is lying in wait.",
+    "released": "2026-11-11T21:22:00.000Z",
+    "startTime": "2026-11-11T21:22:00.000Z",
+    "endTime": "2026-11-11T23:13:00.000Z",
+    "runtime": "111 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T23:13:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-11T23:13:00.000Z",
+    "startTime": "2026-11-11T23:13:00.000Z",
+    "endTime": "2026-11-12T00:07:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T00:07:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-12T00:07:00.000Z",
+    "startTime": "2026-11-12T00:07:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "53 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T01:00:00.000Z",
+    "title": "Band Of Brothers Legacy",
+    "overview": "",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:05:00.000Z",
+    "runtime": "65 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T02:05:00.000Z",
+    "title": "This Is Not a War Story",
+    "overview": "Some veterans take part in an unusual art project designed to help them deal with the leftover trauma associated with their combat experiences.",
+    "released": "2026-11-12T02:05:00.000Z",
+    "startTime": "2026-11-12T02:05:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "115 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T04:00:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha faces Gladys's difficult childbirth, Peggy achieves a milestone and Agnes makes plans to host a prestigious dinner.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:57:00.000Z",
+    "runtime": "57 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T04:57:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-12T04:57:00.000Z",
+    "startTime": "2026-11-12T04:57:00.000Z",
+    "endTime": "2026-11-12T05:51:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T05:51:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-12T05:51:00.000Z",
+    "startTime": "2026-11-12T05:51:00.000Z",
+    "endTime": "2026-11-12T06:45:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T06:45:00.000Z",
+    "title": "Rain Man",
+    "overview": "When car dealer Charlie Babbitt (Tom Cruise) learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has an autistic older brother named Raymond (Dustin Hoffman) and that his father's $3 million fortune is being left to the mental institution in which Ray",
+    "released": "2026-11-12T06:45:00.000Z",
+    "startTime": "2026-11-12T06:45:00.000Z",
+    "endTime": "2026-11-12T08:59:00.000Z",
+    "runtime": "134 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T08:59:00.000Z",
+    "title": "Kate Berlant: Parmesan",
+    "overview": "Seamlessly weaving through personal stories and stream-of-consciousness epiphanies, Kate offers up razor-sharp reflections on everything from the moon, to her destructive relationship to technology, to the evolving nature of sexuality.",
+    "released": "2026-11-12T08:59:00.000Z",
+    "startTime": "2026-11-12T08:59:00.000Z",
+    "endTime": "2026-11-12T10:02:00.000Z",
+    "runtime": "63 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T10:02:00.000Z",
+    "title": "The Death of Robin Hood",
+    "overview": "After a lifetime of violent crime, a gravely wounded Robin Hood is rescued by a mysterious woman and offered one last chance at salvation.",
+    "released": "2026-11-12T10:02:00.000Z",
+    "startTime": "2026-11-12T10:02:00.000Z",
+    "endTime": "2026-11-12T12:07:00.000Z",
+    "runtime": "125 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T12:07:00.000Z",
+    "title": "Real Time With Bill Maher",
+    "overview": "Guests Peter Berg, Coleman Hughes and Ali Vitali.",
+    "released": "2026-11-12T12:07:00.000Z",
+    "startTime": "2026-11-12T12:07:00.000Z",
+    "endTime": "2026-11-12T13:07:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T13:07:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha faces Gladys's difficult childbirth, Peggy achieves a milestone and Agnes makes plans to host a prestigious dinner.",
+    "released": "2026-11-12T13:07:00.000Z",
+    "startTime": "2026-11-12T13:07:00.000Z",
+    "endTime": "2026-11-12T14:04:00.000Z",
+    "runtime": "57 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T14:04:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-12T14:04:00.000Z",
+    "startTime": "2026-11-12T14:04:00.000Z",
+    "endTime": "2026-11-12T14:58:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T14:58:00.000Z",
+    "title": "Skyscraper",
+    "overview": "Will Sawyer is a former FBI agent and U.S. war veteran who now assesses security for skyscrapers. While he's on assignment in China, the world's tallest and safest building catches on fire -- and Will gets framed for it. Now a wanted man and on the run, he must find those responsible, clear his name",
+    "released": "2026-11-12T14:58:00.000Z",
+    "startTime": "2026-11-12T14:58:00.000Z",
+    "endTime": "2026-11-12T16:41:00.000Z",
+    "runtime": "103 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T16:41:00.000Z",
+    "title": "Last Week Tonight With John Oliver",
+    "overview": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.",
+    "released": "2026-11-12T16:41:00.000Z",
+    "startTime": "2026-11-12T16:41:00.000Z",
+    "endTime": "2026-11-12T17:26:00.000Z",
+    "runtime": "45 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T17:26:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-12T17:26:00.000Z",
+    "startTime": "2026-11-12T17:26:00.000Z",
+    "endTime": "2026-11-12T18:20:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T18:20:00.000Z",
+    "title": "NFL Film Short: Miller Night Football",
+    "overview": "Comedian Dennis Miller joins Al Michaels and Dan Fouts as a commentator on ABC's \"Monday Night Football\" in 2000.",
+    "released": "2026-11-12T18:20:00.000Z",
+    "startTime": "2026-11-12T18:20:00.000Z",
+    "endTime": "2026-11-12T19:02:00.000Z",
+    "runtime": "42 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T19:02:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-12T19:02:00.000Z",
+    "startTime": "2026-11-12T19:02:00.000Z",
+    "endTime": "2026-11-12T19:57:00.000Z",
+    "runtime": "55 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T19:57:00.000Z",
+    "title": "Real Time With Bill Maher",
+    "overview": "Guests Peter Berg, Coleman Hughes and Ali Vitali.",
+    "released": "2026-11-12T19:57:00.000Z",
+    "startTime": "2026-11-12T19:57:00.000Z",
+    "endTime": "2026-11-12T20:57:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T20:57:00.000Z",
+    "title": "Goodbye Christopher Robin",
+    "overview": "After leaving London for the English countryside, writer A.A. Milne starts to spin fanciful yarns about his son's growing collection of stuffed animals. These stories form the basis for Winnie-the-Pooh and The House at Pooh Corner, published respectively in 1926 and 1928. Milne and his family soon b",
+    "released": "2026-11-12T20:57:00.000Z",
+    "startTime": "2026-11-12T20:57:00.000Z",
+    "endTime": "2026-11-12T22:44:00.000Z",
+    "runtime": "107 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T22:44:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-12T22:44:00.000Z",
+    "startTime": "2026-11-12T22:44:00.000Z",
+    "endTime": "2026-11-12T23:38:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-12T23:38:00.000Z",
+    "title": "Last Week Tonight With John Oliver",
+    "overview": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.",
+    "released": "2026-11-12T23:38:00.000Z",
+    "startTime": "2026-11-12T23:38:00.000Z",
+    "endTime": "2026-11-13T00:23:00.000Z",
+    "runtime": "45 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-13T00:23:00.000Z",
+    "title": "The Cabin in the Woods",
+    "overview": "When five college friends (Kristen Connolly, Chris Hemsworth, Anna Hutchison, Fran Kranz, Jesse Williams) arrive at a remote forest cabin for a little vacation, little do they expect the horrors that await them. One by one, the youths fall victim to backwoods zombies, but there is another factor at ",
+    "released": "2026-11-13T00:23:00.000Z",
+    "startTime": "2026-11-13T00:23:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "97 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-13T02:00:00.000Z",
+    "title": "War",
+    "overview": "As the court dissects Carla and Morgan's marriage, Johnny races to find key evidence; Carla finds an unexpected ally.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:51:00.000Z",
+    "runtime": "51 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-13T02:51:00.000Z",
+    "title": "War",
+    "overview": "As the court dissects Carla and Morgan's marriage, Johnny races to find key evidence; Carla finds an unexpected ally.",
+    "released": "2026-11-13T02:51:00.000Z",
+    "startTime": "2026-11-13T02:51:00.000Z",
+    "endTime": "2026-11-13T03:42:00.000Z",
+    "runtime": "51 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-13T03:42:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-13T03:42:00.000Z",
+    "startTime": "2026-11-13T03:42:00.000Z",
+    "endTime": "2026-11-13T04:37:00.000Z",
+    "runtime": "55 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

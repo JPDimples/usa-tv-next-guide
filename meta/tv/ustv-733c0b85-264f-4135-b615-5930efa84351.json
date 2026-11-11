@@ -1,0 +1,459 @@
+{
+ "meta": {
+  "id": "ustv-733c0b85-264f-4135-b615-5930efa84351",
+  "type": "tv",
+  "name": "Paramount Network",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/paramount-network-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/paramount-network-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T01:35:00.000Z",
+    "title": "Saving Private Ryan",
+    "overview": "Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching for Ryan, each man embarks upon a personal journey and discovers their own strength to triumph over ",
+    "released": "2026-11-11T01:35:00.000Z",
+    "startTime": "2026-11-11T01:35:00.000Z",
+    "endTime": "2026-11-11T05:45:00.000Z",
+    "runtime": "250 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T05:45:00.000Z",
+    "title": "Goodfellas",
+    "overview": "Henry Hill, a poor Irish-Italian growing up in the 1950s New York City, rises through the ranks of his neighborhood's organized crime branch; he ends up in the FBI's witness protection program after testifying against his former partners.",
+    "released": "2026-11-11T05:45:00.000Z",
+    "startTime": "2026-11-11T05:45:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "195 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T09:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Jon Taffer helps a failing Detroit strip club looking to stimulate profits before the entire business goes bottoms up.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T10:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "A Long Beach dive bar becomes infested with more than just bar problems -- they have bug problems.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T11:00:00.000Z",
+    "title": "Inside Edition",
+    "overview": "Meghan Markle and Prince Harry make their first public appearance since her father's arrest.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T11:30:00.000Z",
+    "title": "Entertainment Tonight",
+    "overview": "News and features about performers, productions and the milieu.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T12:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray and Debra do not know how to prevent their daughter from bullying another student on the school bus.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T12:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray decides to imitate his father by going to church every week, until he realizes why it is he never misses a sermon.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T13:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray cancels his plans with Robert, but later feels guilty when Robert is injured and lands in the hospital.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T13:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "On their 10th anniversary, Debra discovers that Ray taped over their wedding video with a Super Bowl game.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T14:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Jon patches holes in a sinking pirate-themed bar in Silver Spring; he forces the bar's staff to cater to the city's corporate clientele.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T15:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Jon Taffer's discovery of a used condom at a rundown Florida tiki bar redefines owner neglect.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T16:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "A bitter brawl when Taffer uses the help of an owner's ex-wife and former manager to help turn a bar around.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T17:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Taffer tries to corral an out-of-control staff, the owner's freeloading friends and a violent physical fight threatens the bar's rescue potential.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T18:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Jon Taffer must turn an aspiring musician into a responsible bar owner if he's going to save a roadhouse and a marriage.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T19:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "After losing their father and stepmom, three sisters find themselves unexpectedly owning a bar that they never learned how to run.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T20:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "In Banning, Calif., a failing bar causes a major rift between a brother and sister; Jon Taffer must find a way to help them repair the damage.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T21:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Jon heads to Gilbert, Ariz., to help an owner who has dedicated her life to a bar with a dangerously dirty kitchen and an untrained bar staff.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T22:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "A married couple's dream of a successful art-themed bar is in jeopardy, so Jon Taffer steps in to help in Douglasville, Ga.; their passion for art is undeniable, but their lack of business acumen is leading to failure.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-11T23:00:00.000Z",
+    "title": "The Devil Wears Prada",
+    "overview": "Andy is a recent college graduate with big dreams. Upon landing a job at prestigious Runway magazine, she finds herself the assistant to diabolical editor Miranda Priestly. Andy questions her ability to survive her grim tour as Miranda's whipping girl without getting scorched.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T01:30:00.000Z",
+    "title": "Legally Blonde",
+    "overview": "Elle Woods (Reese Witherspoon) has it all. She wants nothing more than to be Mrs. Warner Huntington III. But there is one thing stopping him (Matthew Davis) from proposing: She is too blond. Elle rallies all of her resources and gets into Harvard, determined to win him back.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T03:35:00.000Z",
+    "runtime": "125 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T03:35:00.000Z",
+    "title": "The Devil Wears Prada",
+    "overview": "Andy is a recent college graduate with big dreams. Upon landing a job at prestigious Runway magazine, she finds herself the assistant to diabolical editor Miranda Priestly. Andy questions her ability to survive her grim tour as Miranda's whipping girl without getting scorched.",
+    "released": "2026-11-12T03:35:00.000Z",
+    "startTime": "2026-11-12T03:35:00.000Z",
+    "endTime": "2026-11-12T06:05:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T06:05:00.000Z",
+    "title": "Legally Blonde",
+    "overview": "Elle Woods (Reese Witherspoon) has it all. She wants nothing more than to be Mrs. Warner Huntington III. But there is one thing stopping him (Matthew Davis) from proposing: She is too blond. Elle rallies all of her resources and gets into Harvard, determined to win him back.",
+    "released": "2026-11-12T06:05:00.000Z",
+    "startTime": "2026-11-12T06:05:00.000Z",
+    "endTime": "2026-11-12T08:05:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T08:05:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Jon Taffer's discovery of a used condom at a rundown Florida tiki bar redefines owner neglect.",
+    "released": "2026-11-12T08:05:00.000Z",
+    "startTime": "2026-11-12T08:05:00.000Z",
+    "endTime": "2026-11-12T09:03:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T09:03:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "A bitter brawl when Taffer uses the help of an owner's ex-wife and former manager to help turn a bar around.",
+    "released": "2026-11-12T09:03:00.000Z",
+    "startTime": "2026-11-12T09:03:00.000Z",
+    "endTime": "2026-11-12T10:01:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T10:01:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Taffer tries to corral an out-of-control staff, the owner's freeloading friends and a violent physical fight threatens the bar's rescue potential.",
+    "released": "2026-11-12T10:01:00.000Z",
+    "startTime": "2026-11-12T10:01:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "59 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T11:00:00.000Z",
+    "title": "Inside Edition",
+    "overview": "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T11:30:00.000Z",
+    "title": "Entertainment Tonight",
+    "overview": "News and features about performers, productions and the milieu.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T12:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray pays a high price for a Hackidu card when the owner of a comic-book store gives him a hard time.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T12:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Debra throws the Barone family into turmoil when she finally cooks something good.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T13:00:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray and Debra scheme to get Frank and Marie out of their hair by having them make new friends, but the plan blows up in their faces.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T13:30:00.000Z",
+    "title": "Everybody Loves Raymond",
+    "overview": "Ray is worried when Debra asks him to take the kids out more so she can have time to herself.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T14:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Jon tries to rescue the Black Sheep in Ohio but is set back due to the owner's massive debt.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T15:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Wrangling with an incompetent owner and undertrained staff; actress Maria Menounos guest stars.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T16:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Taffer enforces tough love when a live music bar owner is more concerned with the spirit of wonderment than appealing to her trendy Chicago community.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T17:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "In a desert town, Taffer collides with the owner of a bar in a roller rink, a local landmark close to closing for good.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T18:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "An owner must change his frat boy ways or risk losing his bar and the financial legacy he could leave to his three grandsons.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T19:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Jon arrives at Bottoms Up to discover a staff running wild, a manager lacking courage to control his staff, and an owner ready to sell her bar.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T20:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Jon Taffer tries to help a struggling married couple save their karaoke bar in downtown Las Vegas and get back on track with their goals to start a family.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T21:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "A bar in St. Clair, Missouri, whose owners, a pair of estranged brothers, have let the business collapse amidst their fighting and now need help saving it.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T22:00:00.000Z",
+    "title": "Bar Rescue",
+    "overview": "Jon Taffer heads to Nolensville, Tenn., to help a couple whose plans for an upscale wine bar have backfired, leaving their business on the brink of failure and their dreams shattered.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-12T23:00:00.000Z",
+    "title": "Planes, Trains and Automobiles",
+    "overview": "Easily excitable Neal Page (Steve Martin) is somewhat of a control freak. Trying to get home to Chicago to spend Thanksgiving with his wife (Laila Robins) and kids, his flight is rerouted to a distant city in Kansas because of a freak snowstorm, and his sanity begins to fray. Worse yet, he is forced",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T01:15:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-13T01:15:00.000Z",
+    "title": "Tommy Boy",
+    "overview": "After his beloved father (Brian Dennehy) dies, dim-witted Tommy Callahan (Chris Farley) inherits a near-bankrupt automobile parts factory in Sandusky, Ohio. His brand-new stepmother, Beverly (Bo Derek), wants to cash out and close, but Tommy's sentimental attachment to his father's employees spurs h",
+    "released": "2026-11-13T01:15:00.000Z",
+    "startTime": "2026-11-13T01:15:00.000Z",
+    "endTime": "2026-11-13T03:40:00.000Z",
+    "runtime": "145 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351:epg:2026-11-13T03:40:00.000Z",
+    "title": "Planes, Trains and Automobiles",
+    "overview": "Easily excitable Neal Page (Steve Martin) is somewhat of a control freak. Trying to get home to Chicago to spend Thanksgiving with his wife (Laila Robins) and kids, his flight is rerouted to a distant city in Kansas because of a freak snowstorm, and his sanity begins to fray. Worse yet, he is forced",
+    "released": "2026-11-13T03:40:00.000Z",
+    "startTime": "2026-11-13T03:40:00.000Z",
+    "endTime": "2026-11-13T05:55:00.000Z",
+    "runtime": "135 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

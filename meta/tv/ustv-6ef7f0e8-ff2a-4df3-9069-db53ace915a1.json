@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1",
+  "type": "tv",
+  "name": "Buzzr",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/buzzr-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/buzzr-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T03:00:00.000Z",
+    "title": "Card Sharks",
+    "overview": "Contestants vie for money and prizes with playing cards.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T03:30:00.000Z",
+    "title": "Card Sharks",
+    "overview": "Contestants vie for money and prizes with playing cards.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T04:00:00.000Z",
+    "title": "Body Language",
+    "overview": "Two teams, each consisting of a contestant and a celebrity guest, compete in a game of charades to guess clue words for a puzzle.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T04:30:00.000Z",
+    "title": "Body Language",
+    "overview": "Two teams, each consisting of a contestant and a celebrity guest, compete in a game of charades to guess clue words for a puzzle.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T06:00:00.000Z",
+    "title": "Match Game Hollywood Squares Hour",
+    "overview": "Contestants compete to win cash prizes in a mash-up of two game show formats, first by trying to match celebrities' answers to fill-in-the-blank questions and then by choosing to either agree or disagree with celebrities' answers to trivia questions.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T07:00:00.000Z",
+    "title": "Family Feud",
+    "overview": "Two families, each composed of five members, compete against each other to guess the results of a survey of 100 people.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T07:30:00.000Z",
+    "title": "Family Feud",
+    "overview": "Two families, each composed of five members, compete against each other to guess the results of a survey of 100 people.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T08:00:00.000Z",
+    "title": "Beat the Clock",
+    "overview": "Contestants race time to complete stunts for prizes.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T08:30:00.000Z",
+    "title": "Tattletales",
+    "overview": "Celebrity couples answer questions to win money for the audience.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T09:00:00.000Z",
+    "title": "Trivia Trap",
+    "overview": "BUZZR US",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

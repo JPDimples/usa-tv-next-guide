@@ -1,0 +1,559 @@
+{
+ "meta": {
+  "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3",
+  "type": "tv",
+  "name": "History",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/history-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/history-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Documentaries"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T03:03:00.000Z",
+    "title": "History's Mystery Files",
+    "overview": "The search for treasure doesn't always lead to ancient ruins; sometimes, priceless history is concealed inside a home, buried among unwanted possessions, or waiting unnoticed at a garage sale.",
+    "released": "2026-11-11T03:03:00.000Z",
+    "startTime": "2026-11-11T03:03:00.000Z",
+    "endTime": "2026-11-11T04:05:00.000Z",
+    "runtime": "62 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T04:05:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "As Rick, Marty and Craig relaunch the team's quest to find the legendary treasure, they are rocked by new discoveries in the Money Pit and in the massive boulder feature on Lot 8.",
+    "released": "2026-11-11T04:05:00.000Z",
+    "startTime": "2026-11-11T04:05:00.000Z",
+    "endTime": "2026-11-11T05:03:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T05:03:00.000Z",
+    "title": "The Curse of Oak Island: Drilling Down",
+    "overview": "Before the epic Season 14 premiere of The Curse of Oak Island, check out the biggest discoveries made last year by Rick, Marty and the team that suggest they are closer than ever to solving the Oak Island mystery.",
+    "released": "2026-11-11T05:03:00.000Z",
+    "startTime": "2026-11-11T05:03:00.000Z",
+    "endTime": "2026-11-11T06:02:00.000Z",
+    "runtime": "59 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T06:02:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "As Rick, Marty and Craig relaunch the team's quest to find the legendary treasure, they are rocked by new discoveries in the Money Pit and in the massive boulder feature on Lot 8.",
+    "released": "2026-11-11T06:02:00.000Z",
+    "startTime": "2026-11-11T06:02:00.000Z",
+    "endTime": "2026-11-11T07:04:00.000Z",
+    "runtime": "62 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T07:04:00.000Z",
+    "title": "History's Mystery Files",
+    "overview": "The search for treasure doesn't always lead to ancient ruins; sometimes, priceless history is concealed inside a home, buried among unwanted possessions, or waiting unnoticed at a garage sale.",
+    "released": "2026-11-11T07:04:00.000Z",
+    "startTime": "2026-11-11T07:04:00.000Z",
+    "endTime": "2026-11-11T08:05:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T08:05:00.000Z",
+    "title": "The Curse of Oak Island",
+    "overview": "As Rick, Marty and Craig relaunch the team's quest to find the legendary treasure, they are rocked by new discoveries in the Money Pit and in the massive boulder feature on Lot 8.",
+    "released": "2026-11-11T08:05:00.000Z",
+    "startTime": "2026-11-11T08:05:00.000Z",
+    "endTime": "2026-11-11T09:01:00.000Z",
+    "runtime": "56 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T09:01:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T09:01:00.000Z",
+    "startTime": "2026-11-11T09:01:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T09:30:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T10:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T10:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T11:00:00.000Z",
+    "title": "Amazing Facts With Doug Batchelor",
+    "overview": "Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T11:30:00.000Z",
+    "title": "David Jeremiah",
+    "overview": "In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Gr",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T12:00:00.000Z",
+    "title": "Tuskegee Airmen: Legacy of Courage",
+    "overview": "Exploring the legacy of the Tuskegee Airmen, the legendary group of African American pilots, revealing how these warriors for change helped end segregation in the military and pave the way for the civil rights movement.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T13:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "In September 1939, Germany invades Poland, setting the stage for the most destructive war in history.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T14:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "After toppling the Netherlands and Belgium, Nazi Germany pushes further west; the Allies scramble to support France as Churchill is forced to defend Britain from the skies and FDR rushes to mobilize wartime production.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T15:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "Examine the story of Operation Barbarossa, Hitler's surprise invasion of the Soviet Union in 1941, the largest and costliest land offensive in human history.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T16:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "Japan escalates their war in China, drawing increasing U.S. sanctions and widespread outrage; driven by resource shortages and military ideology, Japan attacks Pearl Harbor in a move that reshapes the course of World War II.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T17:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "Examine how America's battle to control the seas against the German U-boats in the Atlantic and Japan's navy in the Pacific turns the tide of the war.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T18:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "After the attack on Pearl Harbor, Japanese forces sweep across Southeast Asia; on Guadalcanal, United States Marines are given the bloody task of stopping their relentless advance.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T19:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "As Hitler's reach extends beyond Germany and darkness descends on Europe, his hateful rhetoric leads to anti-Jewish persecution and ultimately, genocide.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T20:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "The first joint U.S.-British offensive of the war, thousands of inexperienced U.S. troops and their untested leader Eisenhower, face off against the hardened German Afrika Korps and the infamous Field Marshal Erwin Rommel.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T21:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "Behind the fierce frontline clashes of WWII, a hidden battle rages - one of espionage, deception, and codebreaking; in rural England, a group of brilliant academics work to crack Germany's unbreakable Enigma Code and change the course of the war.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T22:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "In Operation Blue, the German Army fights to take Soviet oil fields and the city of Stalingrad, becoming one of the deadliest battles ever fought and a major turning point on the Eastern Front.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-11T23:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "The Allies hope to quickly penetrate the Nazi Reich via Italy but instead endure a months-long slog with devastating results.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T00:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "Allied air forces engage in a fierce and costly battle with the German Luftwaffe over the skies of Europe.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T01:00:00.000Z",
+    "title": "Forged by War: The Navy SEALs",
+    "overview": "This Veterans Day, History honors the men and women who serve by telling the story of one of America's most elite fighting forces; from their origins in World War II to the missions that shaped modern warfare, this special traces the pivotal moments that forged the U.S. Navy SEALs, and reflects on t",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T03:03:00.000Z",
+    "runtime": "123 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T03:03:00.000Z",
+    "title": "Mission to Honor: A 250th Salute to American Veterans",
+    "overview": "Through intimate interviews, archival footage and personal photographs, this documentary creates a powerful living history of American courage and sacrifice.",
+    "released": "2026-11-12T03:03:00.000Z",
+    "startTime": "2026-11-12T03:03:00.000Z",
+    "endTime": "2026-11-12T04:05:00.000Z",
+    "runtime": "62 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T04:05:00.000Z",
+    "title": "Pawn Stars: Best Of",
+    "overview": "ATTENTION! Enlist with the Pawn Stars as they storm the fields of battle in the fiercest negotiations over the mightiest tech the government will allow you to legally own.",
+    "released": "2026-11-12T04:05:00.000Z",
+    "startTime": "2026-11-12T04:05:00.000Z",
+    "endTime": "2026-11-12T05:03:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T05:03:00.000Z",
+    "title": "Forged by War: The Navy SEALs",
+    "overview": "This Veterans Day, History honors the men and women who serve by telling the story of one of America's most elite fighting forces; from their origins in World War II to the missions that shaped modern warfare, this special traces the pivotal moments that forged the U.S. Navy SEALs, and reflects on t",
+    "released": "2026-11-12T05:03:00.000Z",
+    "startTime": "2026-11-12T05:03:00.000Z",
+    "endTime": "2026-11-12T07:04:00.000Z",
+    "runtime": "121 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T07:04:00.000Z",
+    "title": "Mission to Honor: A 250th Salute to American Veterans",
+    "overview": "Through intimate interviews, archival footage and personal photographs, this documentary creates a powerful living history of American courage and sacrifice.",
+    "released": "2026-11-12T07:04:00.000Z",
+    "startTime": "2026-11-12T07:04:00.000Z",
+    "endTime": "2026-11-12T08:05:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T08:05:00.000Z",
+    "title": "Pawn Stars: Best Of",
+    "overview": "ATTENTION! Enlist with the Pawn Stars as they storm the fields of battle in the fiercest negotiations over the mightiest tech the government will allow you to legally own.",
+    "released": "2026-11-12T08:05:00.000Z",
+    "startTime": "2026-11-12T08:05:00.000Z",
+    "endTime": "2026-11-12T09:01:00.000Z",
+    "runtime": "56 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T09:01:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T09:01:00.000Z",
+    "startTime": "2026-11-12T09:01:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "29 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T09:30:00.000Z",
+    "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax Debt",
+    "overview": "See how one company is changing people's lives by helping them put their tax problems to rest.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T10:00:00.000Z",
+    "title": "Operation Smile",
+    "overview": "Transforming lives and bringing smiles to children around the world.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T10:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T11:00:00.000Z",
+    "title": "Amazing Facts With Doug Batchelor",
+    "overview": "Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T11:30:00.000Z",
+    "title": "David Jeremiah",
+    "overview": "In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Gr",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T12:00:00.000Z",
+    "title": "A Distant Shore: African Americans of D-Day",
+    "overview": "The African American contribution to the Normandy invasion.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T13:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "The Allies undertake Operation Overlord, a complicated and massive military invasion, to liberate Occupied France and open a true second front in Western Europe.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T14:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "The Allies and Japan clash in the jungles and plains of Asia, the \"forgotten theater\" of World War II, as America struggles to bring the fight to Tokyo's door.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T15:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "As the tide begins to turn against the Axis powers, the leaders of Germany and Japan deploy opposite strategies on their home fronts.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T16:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "Resistance to Nazi occupation and oppression is a constant throughout the war, with results both triumphant and devastating.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T17:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "The Pacific campaign reaches a brutal and bloody fever pitch from 1944 to 1945.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T18:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "The war in Europe reaches a climax as Allied armies advance towards Berlin and Hitler orders his people to fight to the last man.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T19:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "The most terrible weapon ever created will change the course of the war in the Pacific.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T20:00:00.000Z",
+    "title": "World War II With Tom Hanks",
+    "overview": "The end of the second world war and the dawn of the nuclear age see its two great victors go from allies to adversaries.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T21:00:00.000Z",
+    "title": "The UnXplained",
+    "overview": "Bizarre, mysterious tales ran rampant and are still being told to this day; are these strange tales of the American frontier simply legend, or was the west far stranger than one could possibly imagine?",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T22:00:00.000Z",
+    "title": "The UnXplained",
+    "overview": "All over the world, there are places and objects that are thought to be cursed; many people avoid these locations and things, believing they will bring harm, while others think that curses are nothing more than superstition and folklore.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-12T23:00:00.000Z",
+    "title": "The UnXplained",
+    "overview": "While modern science has stopped many dangerous viruses and bacteria in their tracks, there is a concern that contagious germs could be traveling through the vacuum of space.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-13T00:00:00.000Z",
+    "title": "The UnXplained",
+    "overview": "The possibility of bones holding sacred power after death.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-13T01:00:00.000Z",
+    "title": "The UnXplained",
+    "overview": "Humanity has launched satellites into outer space and submarines to the ocean floor, but the ground below Earth's surface remains shrouded in mystery.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:02:00.000Z",
+    "runtime": "62 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-13T02:02:00.000Z",
+    "title": "The UnXplained",
+    "overview": "During World War II, a number of persistent mysteries were born, including unexplained stories about everything from lost gold to secret societies and highly advanced technology.",
+    "released": "2026-11-13T02:02:00.000Z",
+    "startTime": "2026-11-13T02:02:00.000Z",
+    "endTime": "2026-11-13T03:05:00.000Z",
+    "runtime": "63 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-13T03:05:00.000Z",
+    "title": "The UnXplained",
+    "overview": "Whether legends of vast, lost treasures hidden throughout the U.S. are real or tall tales.",
+    "released": "2026-11-13T03:05:00.000Z",
+    "startTime": "2026-11-13T03:05:00.000Z",
+    "endTime": "2026-11-13T04:05:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3:epg:2026-11-13T04:05:00.000Z",
+    "title": "The UnXplained",
+    "overview": "Humans can survive catastrophic injuries and deadly scenarios that defy the odds in ways that are inexplicable; these survivals challenge the best attempts to explain how anyone could live through such circumstances.",
+    "released": "2026-11-13T04:05:00.000Z",
+    "startTime": "2026-11-13T04:05:00.000Z",
+    "endTime": "2026-11-13T05:03:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

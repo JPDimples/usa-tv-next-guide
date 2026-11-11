@@ -1,0 +1,619 @@
+{
+ "meta": {
+  "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8",
+  "type": "tv",
+  "name": "Vice TV",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/vice-tv-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/vice-tv-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T03:00:00.000Z",
+    "title": "Cornette Side of the Ring",
+    "overview": "Jim Cornette examines the WWF's attempt to turn its biggest star, Stone Cold Steve Austin, heel, and details the catastrophe that was the WCW Invasion storyline.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T03:30:00.000Z",
+    "title": "Cornette Side of the Ring",
+    "overview": "Jim Cornette explains how CM Punk's iconic Pipe Bomb promo blurred the line between reality and fiction and gets heated revealing how Vince Russo has desecrated the WCW Championship.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T04:00:00.000Z",
+    "title": "Cornette Side of the Ring",
+    "overview": "Jim Cornette revisits the night Hulk Hogan left a talk-show host unconscious on live TV and tells the disastrous tale of the former Pizza Hut executive who ran WCW.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T04:30:00.000Z",
+    "title": "Cornette Side of the Ring",
+    "overview": "Jim Cornette examines the WWF's attempt to turn its biggest star, Stone Cold Steve Austin, heel, and details the catastrophe that was the WCW Invasion storyline.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T05:00:00.000Z",
+    "title": "Everybody Hates",
+    "overview": "Undefeated, filthy rich, and polarizing: the real Mayweather story; he built an empire, then left a trail of scandals behind the wins.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T06:00:00.000Z",
+    "title": "Everybody Hates",
+    "overview": "A cold, calculated underdog story becomes something darker: Rodgers' rise from rejection to icon, and the spiral into a culture-war and locker-room friction.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T07:00:00.000Z",
+    "title": "Everybody Hates",
+    "overview": "Jake Paul isn't just a YouTuber who boxes, he's a ringleader; welcome to the circus he built after hijacking a sport and making it a spectacle.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T08:00:00.000Z",
+    "title": "Everybody Hates",
+    "overview": "Undefeated, filthy rich, and polarizing: the real Mayweather story; he built an empire, then left a trail of scandals behind the wins.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T09:00:00.000Z",
+    "title": "Everybody Hates",
+    "overview": "A cold, calculated underdog story becomes something darker: Rodgers' rise from rejection to icon, and the spiral into a culture-war and locker-room friction.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T10:00:00.000Z",
+    "title": "Everybody Hates",
+    "overview": "Jake Paul isn't just a YouTuber who boxes, he's a ringleader; welcome to the circus he built after hijacking a sport and making it a spectacle.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T11:00:00.000Z",
+    "title": "Joint Relief Revolution",
+    "overview": "Join Connie Craig-Carroll and health visionary Ken Meares as they uncover OmegaXL, the groundbreaking natural supplement transforming lives by tackling joint pain and inflammation.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T11:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T12:00:00.000Z",
+    "title": "Tired of Aging? Super Pill's Secret to Lasting Youth & Vitality!",
+    "overview": "Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T12:30:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T13:00:00.000Z",
+    "title": "Abandoned",
+    "overview": "Canada's east coast is scattered with dead and dying fishing towns, but there is still plenty of life there.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T14:00:00.000Z",
+    "title": "Abandoned",
+    "overview": "Rick connects with drivers and fans of NASCAR as they try to keep the legacy of the sport alive.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T15:00:00.000Z",
+    "title": "Abandoned",
+    "overview": "Rick visits California to find out more about its water problems and what the future holds for the \"Sunburned State.\".",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T16:00:00.000Z",
+    "title": "Post Radical",
+    "overview": "Obsessive, passionate, and reliably fanatical, skateboarders obsess over the culture that surrounds them; Rick introduces the skateboard fetishist.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T17:00:00.000Z",
+    "title": "Post Radical",
+    "overview": "From a high school in Sweden to a playground in rural Ethiopia, exploring the ways skateboarding empowers the next generation from opposite ends of the spectrum.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T18:00:00.000Z",
+    "title": "Post Radical",
+    "overview": "Even in skateboarding, some are maligned by the status quo; exploring the worlds of downhill and fingerboarding to find that being outside is often better than being in.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T19:00:00.000Z",
+    "title": "Post Radical",
+    "overview": "The Middle East, a volatile and complicated place where a wall separates two countries; groups of skateboarders work towards transcending religious and cultural boundaries.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T20:00:00.000Z",
+    "title": "Post Radical",
+    "overview": "Rick McCrank; Frank Gerwer; two seasoned pros throw their hats into the ring to see if they can cut it in the highly competitive worlds of freestyle and slalom.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T21:00:00.000Z",
+    "title": "The Devil You Know",
+    "overview": "With two victims now connected to Shriner's Ministry, we ask, who the real Sherry Shriner is; a former member of Sherry's flock takes viewers deep inside the mind of a cult leader.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T22:00:00.000Z",
+    "title": "The Devil You Know",
+    "overview": "With Barbara on trial and Sherry exploiting Steve's murder to gain followers, a ballistics expert shows how it's possible that Steve turned the gun on himself.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T23:00:00.000Z",
+    "title": "The Devil You Know",
+    "overview": "An investigation into how Sherry's ministry lives on after her death from a heart attack, as well as the proliferation of her conspiracy theories about the New Age Alien Agenda.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T00:00:00.000Z",
+    "title": "Ancient Aliens",
+    "overview": "Reports of encounters with strange beings and UFO sightings have occurred throughout history; a 13th-century history book depicts a creature descending from a craft; medieval art represents disc-shaped objects in the heavens.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T02:00:00.000Z",
+    "title": "Ancient Aliens",
+    "overview": "Joan of Arc's defeat of the English Army; a young boy from India learns advanced mathematical formulas; an American serviceman receives a message while touching an alien aircraft; the ancient astronaut theory.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T03:00:00.000Z",
+    "title": "The Proof Is Out There",
+    "overview": "Several mysterious objects are spotted over Miami and in the skies above Mexico; strange remains found on a North Carolina beach could be from an escaped mutant monkey.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T03:30:00.000Z",
+    "title": "The Proof Is Out There",
+    "overview": "Strange objects caught on a drone cam over Wisconsin; a strange sound recorded in a North Carolina backyard; several airplanes appearing to defy the laws of physics.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T04:00:00.000Z",
+    "title": "The Proof Is Out There",
+    "overview": "A trail camera in Michigan captures potential footage of the elusive Sasquatch; a large flock of blackbirds plunges to their death in Mexico; a ghostly phantom and a Filipino ghost legend.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T05:00:00.000Z",
+    "title": "The Devil You Know",
+    "overview": "With two victims now connected to Shriner's Ministry, we ask, who the real Sherry Shriner is; a former member of Sherry's flock takes viewers deep inside the mind of a cult leader.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T06:00:00.000Z",
+    "title": "The Devil You Know",
+    "overview": "With Barbara on trial and Sherry exploiting Steve's murder to gain followers, a ballistics expert shows how it's possible that Steve turned the gun on himself.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T07:00:00.000Z",
+    "title": "The Devil You Know",
+    "overview": "An investigation into how Sherry's ministry lives on after her death from a heart attack, as well as the proliferation of her conspiracy theories about the New Age Alien Agenda.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T08:00:00.000Z",
+    "title": "The Devil You Know",
+    "overview": "With two victims now connected to Shriner's Ministry, we ask, who the real Sherry Shriner is; a former member of Sherry's flock takes viewers deep inside the mind of a cult leader.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T09:00:00.000Z",
+    "title": "The Devil You Know",
+    "overview": "With Barbara on trial and Sherry exploiting Steve's murder to gain followers, a ballistics expert shows how it's possible that Steve turned the gun on himself.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T10:00:00.000Z",
+    "title": "The Devil You Know",
+    "overview": "An investigation into how Sherry's ministry lives on after her death from a heart attack, as well as the proliferation of her conspiracy theories about the New Age Alien Agenda.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T11:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T11:30:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T12:00:00.000Z",
+    "title": "Tired of Aging? Super Pill's Secret to Lasting Youth & Vitality!",
+    "overview": "Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T12:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T13:00:00.000Z",
+    "title": "Black Market: Dispatches",
+    "overview": "In Japan, young gangs are looking to break away from the older Yakuza through underground fighting.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T13:30:00.000Z",
+    "title": "Black Market: Dispatches",
+    "overview": "With their economy in decline and a simmering war with Russia, Ukraine's citizens depend on smuggling contaminated, illegal cigarettes into the E.U. for survival.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T14:00:00.000Z",
+    "title": "Black Market: Dispatches",
+    "overview": "Amid a housing crisis, scammers set up shop for their criminal enterprises inside London's public housing.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T14:30:00.000Z",
+    "title": "Black Market: Dispatches",
+    "overview": "Discriminated against and shunned, Vietnam's trans community turns to illegal hormone and cosmetic treatments.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T15:00:00.000Z",
+    "title": "Black Market: Dispatches",
+    "overview": "Colombian smugglers, known as kamikazes, eke out a living by smuggling gas.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T15:30:00.000Z",
+    "title": "Black Market: Dispatches",
+    "overview": "The world's most trafficked mammal may go extinct before most people know what it is.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T16:00:00.000Z",
+    "title": "Black Market: Dispatches",
+    "overview": "Desperate young women fleeing the Syrian war are being trafficked into the sex trade under the guise of religion.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T16:30:00.000Z",
+    "title": "Black Market: Dispatches",
+    "overview": "Suffering under economic blockade, Gazans resort to smuggling goods through an illegal network of tunnels; the tunnels are under attack from Israel and Egypt.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T17:00:00.000Z",
+    "title": "Fringe Nation",
+    "overview": "Gianna explores the new generation of modern militias, the tactics and ideologies that define them, and the likelihood of them going to war with the government.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T18:00:00.000Z",
+    "title": "Fringe Nation",
+    "overview": "Alzo Slade talks to a member of Antifa to get a perspective from their side.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T19:00:00.000Z",
+    "title": "Fringe Nation",
+    "overview": "Ben Makuch travels the U.S. to investigate the spread of the growing American neo-Nazi movement which has already proven deadly.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T20:00:00.000Z",
+    "title": "Fringe Nation",
+    "overview": "Examining the legacy of the most notorious white nationalist group, the Ku Klux Klan, and the influence it's had in shaping extremism and systemic injustice in America today.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T21:00:00.000Z",
+    "title": "United Gangs of America",
+    "overview": "Loyal and lethal, Aryan Sisters fly under the radar for white supremacist prison gangs; former members share stories of deadly crime and complicity.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T22:00:00.000Z",
+    "title": "United Gangs of America",
+    "overview": "Girls are choosing to join gangs in increasing numbers; they're breaking the glass ceiling and becoming killers.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-12T23:00:00.000Z",
+    "title": "United Gangs of America",
+    "overview": "As of 2020, Atomwaffen had publicly disbanded; but in 2023, two men were arrested with affiliations to the accelerationist group, raising questions about whether these lone wolves went away or if they went underground.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-13T00:00:00.000Z",
+    "title": "United Gangs of America",
+    "overview": "A massive fire at an apartment complex in Los Angeles exposes a sect of the 18th Street Gang, setting off a chain reaction of chaos and bloodshed.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-13T01:00:00.000Z",
+    "title": "United Gangs of America",
+    "overview": "Until recently, women were prohibited from joining the notorious MS-13 gang; now in the United States, they're actively being recruited and rising in the ranks.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-13T02:00:00.000Z",
+    "title": "Hells Angels: Ride or Die",
+    "overview": "Former Hells Angels' President George Christie, the man some call the last American outlaw, reveals the secret set of rules that govern the club.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-13T03:00:00.000Z",
+    "title": "Hells Angels: Ride or Die",
+    "overview": "From its humble origins as a ragtag collection of misfits and outlaws, the Hells Angels grew into a multimillion dollar empire; An insider reveals the means by which members lined their pockets.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-13T04:00:00.000Z",
+    "title": "Hells Angels: Ride or Die",
+    "overview": "Since the birth of the Hells Angels, the most notorious outlaw motorcycle club has been a target for law enforcement intent on locking them up and shutting them down; A decades-long war has seen glorious victories and bitter defeats on both sides.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

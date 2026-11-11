@@ -1,0 +1,559 @@
+{
+ "meta": {
+  "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811",
+  "type": "tv",
+  "name": "Crime + Investigation",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/crime-and-investigation-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/crime-and-investigation-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Documentaries"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T03:00:00.000Z",
+    "title": "Crime 360",
+    "overview": "Detective Morello responds to the scene of a suspicious fire and hunts for the victim's killer.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T04:00:00.000Z",
+    "title": "Crime 360",
+    "overview": "A body is found face up in an abandoned lot used to shoot off guns on Independence Day.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T05:00:00.000Z",
+    "title": "Crime 360",
+    "overview": "Four masked men invade a Cleveland home and rob the inhabitants at gunpoint; one of the intruders is shot to death; police try to determine if the man was shot by one of the homeowners, or by one of his accomplices.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T06:00:00.000Z",
+    "title": "Crime 360",
+    "overview": "Detectives probe the case of two men who got into a deadly argument, leaving one shot and killed.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T07:00:00.000Z",
+    "title": "Crime 360",
+    "overview": "Detective Morello responds to the scene of a suspicious fire and hunts for the victim's killer.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T08:00:00.000Z",
+    "title": "Crime 360",
+    "overview": "A body is found face up in an abandoned lot used to shoot off guns on Independence Day.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T09:00:00.000Z",
+    "title": "Crime 360",
+    "overview": "A young man is shot dead in his front yard in broad daylight; a store clerk appears have had knowledge of the shooting before it happened; investigators use ballistic analysis, cell records and surveillance tape to find the killer.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T10:00:00.000Z",
+    "title": "Crime 360",
+    "overview": "A quiet neighborhood becomes a war zone when a gun battle breaks out during the night; detectives find a young father of two lying dead in his bedroom.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T11:00:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T11:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T12:00:00.000Z",
+    "title": "Pain Relief Revealed",
+    "overview": "Discover the hidden story of OmegaXL with John Walsh. He dives deep into the groundbreaking supplement that promises hope and relief for millions battling joint pain and inflammation.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T12:30:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T13:00:00.000Z",
+    "title": "I Survived",
+    "overview": "A woman is raped, shot three times and left for dead; a man is caught in a blizzard that threatens to bury him alive; two boys survive a plane crash.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T14:00:00.000Z",
+    "title": "I Survived",
+    "overview": "A hitchhiker turns on the two girls who pick him up; three men are stranded on an island for 13 days; two people are kidnapped at gunpoint by a hitchhiker.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T15:00:00.000Z",
+    "title": "I Survived",
+    "overview": "The crew of a ferry abandons the boat and its passengers when the vessel begins to sink; a woman is trapped with an attacker for days; a man is attacked by his neighbor.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T16:00:00.000Z",
+    "title": "I Survived",
+    "overview": "A woman plays dead after her boyfriend chokes and shoots; a man gets stuck in a frozen stream while snowmobiling; a federal prosecutor is abducted.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T17:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "In 1984, Jack Kennedy discovers his daughters brutally murdered; their mother and niece spend their lives keeping the case alive; thirty years later, an informant gives up a name, but the family's ordeal is far from over.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T18:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When a deadly house fire claims the life of a family in rural Oklahoma, investigators suspect foul play and a mother goes on a decadeslong crusade to find out what happened to her missing teenage daughter and best friend.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T19:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "In June 1985, a 20-year-old Sucker Day Festival Queen is found brutalized; the small community of Nixa, Mo., is certain her blood is on the hands of a local wealthy businessman, but after 25 years DNA reveals the true killer.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T20:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When Cree woman Shirley Soosay goes missing in 1980, her niece Violet promises her grandmother that she will bring Shirley home; Violet never dreamed the search for Shirley -- and justice -- would take a lifetime.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T21:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When human bones are discovered in the woods in December 1985, it puts an end to the search for missing teen David Reed; skull fractures point to murder, but it will be decades before investigators can find David's killer.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T22:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When 30-year-old mother Lisa Gaudenzi fails to report for duty in Virginia, the Army lists her as AWOL; her family immediately suspects foul play, so they embark on a 13-year quest for answers before an eyewitness blows the case wide open.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-11T23:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When firefighter Gary Parks is killed in a fire ruled to be arson, the investigation into his death shifts to homicide; a serial arsonist is thought to be the culprit, but it takes a dogged cold-case detective to track down the real killer.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T00:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "In 1979, Janie Landers disappears from a home for the impaired; when Janie's body is found, there are many suspects, but it is years before the killer and the atrocities in the facility are revealed.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T01:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When the body of 81-year-old Helen Gale is found in her burned-out car, investigators in Southfield, Mich., wonder who would murder this pillar of the community; it will be eight years before a blown alibi brings them face-to face with her killer.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T02:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When 37-year-old Lee Rotatori is found dead in her hotel room in 1982 with a single stab wound to the heart, police suspect the work of a professional; it takes four decades to identify her killer and, in the process, reveal a shocking truth.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T03:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When Sherry Leighty goes missing in 1999, her family is left wondering how a dedicated mother of three could vanish without a trace; a decade later, the cold case heats up when Sherry's sister launches a social media campaign.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T04:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "In early 1984, 3-year-old Vanessa Bennett becomes the lone survivor of her family's brutal murder; initial investigators suspect a serial killer is at large, but decades pass before DNA narrows the suspect pool to one man.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T05:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When the body of 81-year-old Helen Gale is found in her burned-out car, investigators in Southfield, Mich., wonder who would murder this pillar of the community; it will be eight years before a blown alibi brings them face-to face with her killer.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T06:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When 37-year-old Lee Rotatori is found dead in her hotel room in 1982 with a single stab wound to the heart, police suspect the work of a professional; it takes four decades to identify her killer and, in the process, reveal a shocking truth.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T07:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When Sherry Leighty goes missing in 1999, her family is left wondering how a dedicated mother of three could vanish without a trace; a decade later, the cold case heats up when Sherry's sister launches a social media campaign.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T08:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "In early 1984, 3-year-old Vanessa Bennett becomes the lone survivor of her family's brutal murder; initial investigators suspect a serial killer is at large, but decades pass before DNA narrows the suspect pool to one man.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T09:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "When firefighter Gary Parks is killed in a fire ruled to be arson, the investigation into his death shifts to homicide; a serial arsonist is thought to be the culprit, but it takes a dogged cold-case detective to track down the real killer.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T10:00:00.000Z",
+    "title": "Cold Case Files",
+    "overview": "In 1979, Janie Landers disappears from a home for the impaired; when Janie's body is found, there are many suspects, but it is years before the killer and the atrocities in the facility are revealed.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T11:00:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T11:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T12:00:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T12:30:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T13:00:00.000Z",
+    "title": "I Survived",
+    "overview": "Danielle is shot point-blank in the head by a 14-year-old boy; Amy falls 60 feet into a rocky ravine; Mark is attacked with a knife on his boat.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T14:00:00.000Z",
+    "title": "I Survived",
+    "overview": "A pregnant woman is abducted, raped and left to die; a man faces freezing to death after a plane crash; a man must play dead to fight for his life.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T15:00:00.000Z",
+    "title": "I Survived",
+    "overview": "Jayne fights to save Eduardo after he is kidnapped, tortured, confined to a box and shot twice.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T16:00:00.000Z",
+    "title": "I Survived",
+    "overview": "A man, high on the drug PCP, goes on a rampage, stabbing his 11-year-old daughter and viciously attacking and stabbing a neighbor and her son; a man is beaten unconscious by his building contractor.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T17:00:00.000Z",
+    "title": "#TextMeWhenYouGetHome",
+    "overview": "Kelsey's family knew something was amiss when their usually responsible and responsive daughter didn't respond to their texts while out running an errand.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T18:00:00.000Z",
+    "title": "#TextMeWhenYouGetHome",
+    "overview": "Nia Wilson and her two sisters decide to take public transportation back home to Oakland, Calif.; the sisters are targeted at a train station; the knife attack sparks a search for the perpetrator.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T19:00:00.000Z",
+    "title": "#TextMeWhenYouGetHome",
+    "overview": "Residents of small-town Robeson, Penn. were stunned when 23-year-old Ashley Kline went missing on New Year's Eve; the gruesome truth rocked the community.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T20:00:00.000Z",
+    "title": "#TextMeWhenYouGetHome",
+    "overview": "Travel blogger Carla Stefaniak goes to Costa Rica to celebrate her 36th birthday, but when she is to arrive back home in Miami, her awaiting loved ones realize she never got on the plane; Carla's friends and family recount the search to find her.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T21:00:00.000Z",
+    "title": "#TextMeWhenYouGetHome",
+    "overview": "The missing and murder rates of Indigenous women are disproportionately higher than any other group, so when beautiful Jalajhia Finklea vanishes the day before her 18th birthday, her Wampanoag tribe members immediately take action.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T22:00:00.000Z",
+    "title": "#TextMeWhenYouGetHome",
+    "overview": "Hannah Anderson's best friend knew something was wrong when Hannah stopped responding to her texts; no one knew that Hannah had been abducted by someone close to her; the amber alert system was used for the first time.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-12T23:00:00.000Z",
+    "title": "I Killed My BFF",
+    "overview": "After a man inherits money from his wealthy father, his banker best friend offers to help him manage the windfall, but a falling out between the friends ends in murder.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-13T00:00:00.000Z",
+    "title": "I Killed My BFF",
+    "overview": "What starts out as an unlikely friendship becomes a deep bond, until a tragic event leads to suspicion and revenge; two people are dead and one is on the way to Death Row.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-13T01:00:00.000Z",
+    "title": "I Killed My BFF",
+    "overview": "A dark secret unravels the friendship between an organic farmer and a lumber mill worker, leading to a killing spree and a manhunt.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-13T02:00:00.000Z",
+    "title": "I Killed My BFF",
+    "overview": "Two best friends turn on each other; a showdown that will end in a gruesome death.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-13T03:00:00.000Z",
+    "title": "I Killed My BFF",
+    "overview": "Lula and Linda are best friends and perfect neighbors but one of them will do anything to make her dreams come true.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811:epg:2026-11-13T04:00:00.000Z",
+    "title": "I Killed My BFF",
+    "overview": "Three friends turn to small-time criminal activity to survive; as the crimes get bigger, so do the stakes.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

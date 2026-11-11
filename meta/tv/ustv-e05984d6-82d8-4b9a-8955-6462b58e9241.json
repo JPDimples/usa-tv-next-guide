@@ -1,0 +1,489 @@
+{
+ "meta": {
+  "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241",
+  "type": "tv",
+  "name": "USA Network",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/usa-network-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/usa-network-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T03:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Reports of an assault by a guest at a celebrity fan convention leads to a murder investigation; Tynan presents Capt. Curry with a career opportunity.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T04:00:00.000Z",
+    "title": "The Rainmaker",
+    "overview": "A class action takes shape as Amanda tests Sarah's loyalty and Bruiser helps Tom's star pitcher.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T05:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Benson and Stabler have to get creative when a rape victim's father refuses to help the detectives get the information they need to solve a case.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T06:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Detective Tutuola's future son-in-law becomes the latest victim in a series of hate crimes against gay men; the squad searches for a connection when a school teacher (Tony Hale) is attacked similarly.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T07:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "When the investigation into a missing teen leads the detectives to a severed leg, they are drawn into the world of self-mutilation and ritual amputation.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T08:00:00.000Z",
+    "title": "Dateline",
+    "overview": "When 16-year-old Britney Ujlaky disappears, a small town in Nevada bands together to track down a potential suspect - an unknown cowboy; soon, their focus turns to someone much closer to Britney.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T09:00:00.000Z",
+    "title": "Dateline",
+    "overview": "When a California housewife is murdered in broad daylight, the suspected killer claims it was a burglary gone awry.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T10:00:00.000Z",
+    "title": "Dateline",
+    "overview": "When a California housewife is murdered in broad daylight, the suspected killer claims it was a burglary gone awry.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T11:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "When Upton and Ruzek answer an emergency call to an abandoned house, their investigation leads them down a dark path.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T12:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "As the team works to solve a deadly shooting in Burnside, Atwater realizes he has a very personal connection to the case.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T13:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "Ruzek reunites with an old colleague to take down a crime ring, but when things don't add up, Voight and Burgess do some investigating of their own.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T14:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "As the team works to bring down a drug ring, Voight builds trust with a new informant; however, it soon becomes clear she has a plan of her own.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T15:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "As the team investigates the stabbing of a father with two young daughters, they begin to suspect there is more to the story than meets the eye; the FBI investigation into Roy Walton's death intensifies while Voight, Upton and Halstead feel the heat.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T16:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "With the FBI closing in on the Roy Walton investigation, Voight and Halstead strategize a way out; after a city bus driver is shot by a passenger, the team investigates a possible abduction.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T17:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "The team searches for a missing child in what turns out to be a very complicated case; Burgess and Ruzek are in for a shock when someone from Makayla's past comes forward.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T18:00:00.000Z",
+    "title": "Chicago P.D.",
+    "overview": "Voight employs his new informant to help solve a tricky drug trafficking case; Atwater, who once again struggles to reconcile his personal and professional life, reaches a decision.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T19:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "Things get messy for the 118 following a massive pipe explosion; Athena investigates the brutal beating of a man found behind a grocery store.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T20:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "The 118 responds to a fire at a local animal shelter and races to evacuate all the animals; Maddie takes a 9-1-1 call that sets her on a quest for answers.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T21:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "Following Maddie's mysterious 911 call, Chimney returns home to find his daughter alone and Maddie nowhere to be found.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T22:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "The 118 responds to a call at a megachurch, where Bobby runs into his estranged mother; Buck is looking to expand his social circle now that Eddie has left.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-11T23:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "Hen's attempts at keeping her mysterious health issues private are starting to impact more than just her physical well-being; Buck and Ravi decide Eddie needs a night out on the town.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T00:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "Following Hen's firing, Chimney grapples with his decision and how it has affected the team; a new AI call center assistant, meant to help, has begun to create more complications, and the 118 must intervene.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T01:00:00.000Z",
+    "title": "Live: Proud to Honor Veterans Day Classic",
+    "overview": "Twelve Ford Racing drivers compete representing each branch of the U.S. Armed Forces in custom-liveried Ford Mustang Dark Horse R cars. Plus, live musical performances headlined by the Zac Brown Band. From Daytona International Speedway.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T03:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "Hen continues to seek out a diagnosis for her mysterious symptoms; Harry hits a wall in his attempts to complete the academy firefighting exam and looks for some much-needed motivation.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T04:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "Bobby and the 118 race to save lives after an explosion rocks the hospital where Dr. David Hale is performing surgery; Michael makes a life-changing decision.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T05:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "An abandoned oil well erupts and causes a massive sinkhole in downtown LA; Athena investigates a 30-year-old cold case involving a casino robbery; Buck fears his relationship with Taylor might be ending.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T06:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "The members of the 118 are called to a series of emergencies around Christmas Eve; Eddie struggles with an emotional Christopher.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T07:00:00.000Z",
+    "title": "9-1-1",
+    "overview": "Athena, Bobby and the 118 must rescue a family whose pick-up truck has been rigged with a pipe bomb that will detonate if the vehicle slows down and goes under 55 mph; Eddie has a rough transition into his new job; Buck makes a relationship decision.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T08:00:00.000Z",
+    "title": "Dateline",
+    "overview": "A pregnant woman vanishes before her own baby shower and her worried family raises the alarm; detectives unravel a chilling mystery.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T09:00:00.000Z",
+    "title": "Dateline",
+    "overview": "The murder of a California mother beloved by four men reopens a mystery surrounding another young woman's death that occurred decades earlier.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T10:00:00.000Z",
+    "title": "Dateline",
+    "overview": "The murder of a California mother beloved by four men reopens a mystery surrounding another young woman's death that occurred decades earlier.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T11:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "A man (Chris \"Ludacris\" Bridges) connected to Fin's son goes on trial for the murders of a woman and her baby.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T12:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Benson and Stabler investigate the case of a woman (Cynthia Nixon) with multiple personalities who may have abused and killed her daughter; the detectives must adjust to sweeping changes in the SVU.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T13:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "A 15-year-old with a sexually transmitted disease says he caught it from his teacher (Melissa Joan Hart); Benson and Stabler uncover dark secrets while searching into the pair's lives.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T14:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "The only witness to the beating of a woman (Judy Kuhn) is her daughter (Paulina Gerzon) who has Williams syndrome.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T15:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "When a collegian is found dead in her formal wear, detectives recognize the body's mutilation as that of the copycat of a serial killer; a woman goes missing, and comic books are the key to finding her.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T16:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Detectives discover a kidnapped girl in the trunk of a stolen rental car; the suspect's rage seriously injures Stabler; the trial forces Novak to face dark things in her past.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T17:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "A troubled teen (David Del Rio) is the first suspect when a money manager is found murdered in his loft, but a hidden video camera leads detectives to a star football player whose agent is willing to do almost anything to protect his client.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T18:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "The life of a law-abiding engineer (Robin Williams) goes terribly wrong, leading him to challenge authority and to urge others to do so as well.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T19:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Detective Benson goes into hiding to find justice for an abused housewife (Clea Duvall), uncovering a 34-year-old unsolved murder case in the process.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T20:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "Benson and Stabler begin to question the story of a missing teenager (Ellen Woglom) who returns home after four years, claiming to have been kept as a sex slave in a concrete cell.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T21:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "A pediatrician found guilty of sexually assaulting four of his patients is murdered; after three years in the Witness Protection Program, Alexandra Cabot returns.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T22:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "A former dancer (Carol Burnett) is caught up in the murder of a young couple.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-12T23:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "An abused foster child (Jae Head), apprehended while driving a runaway van, leads the detectives to re-examine a case involving a rape victim (Sara Gilbert).",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-13T00:00:00.000Z",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "A judge asks Benson and Stabler to ask a convicted serial killer about the location of his son's body.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-13T01:00:00.000Z",
+    "title": "The Longest Yard",
+    "overview": "Disgraced pro football quarterback Paul Crewe (Adam Sandler) lands in jail, where manipulative Warden Hazen (James Cromwell) recruits him to advise the institution's team. This turns into a lead role quarterbacking a crew of inmates in a game against a team of prison guards. Aided by incarcerated ex",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241:epg:2026-11-13T03:30:00.000Z",
+    "title": "The Longest Yard",
+    "overview": "Disgraced pro football quarterback Paul Crewe (Adam Sandler) lands in jail, where manipulative Warden Hazen (James Cromwell) recruits him to advise the institution's team. This turns into a lead role quarterbacking a crew of inmates in a game against a team of prison guards. Aided by incarcerated ex",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T06:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

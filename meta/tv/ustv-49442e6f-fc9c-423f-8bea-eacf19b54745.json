@@ -1,0 +1,449 @@
+{
+ "meta": {
+  "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745",
+  "type": "tv",
+  "name": "Newsmax",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/newsmax-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/newsmax-us.png",
+  "posterShape": "square",
+  "genres": [
+   "News"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T03:00:00.000Z",
+    "title": "Live: The Right Squad",
+    "overview": "The panelists engage in analysis with conversation and debates.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T04:00:00.000Z",
+    "title": "Ed Henry The Big Take",
+    "overview": "Ed Henry offers his common-sense take on the news, helping viewers better understand the deeper details behind today's stories.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T05:00:00.000Z",
+    "title": "Finnerty",
+    "overview": "Rob Finnerty gives straight talk on the biggest issues facing America and the world!",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T06:00:00.000Z",
+    "title": "Carl Higbie Frontline",
+    "overview": "Carl Higbie gives news analysis as he fights for American values.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T07:00:00.000Z",
+    "title": "Greg Kelly Reports",
+    "overview": "Greg Kelly gives hardest-hitting reports and analysis from L.A. to N.Y., from Beltway to Rust Belt, talking with you and for you!",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T08:00:00.000Z",
+    "title": "David Harris Jr. The Pulse",
+    "overview": "Hard-hitting analysis and opinion on the latest news and events delivered.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T09:00:00.000Z",
+    "title": "Ed Henry The Big Take",
+    "overview": "Ed Henry offers his common-sense take on the news, helping viewers better understand the deeper details behind today's stories.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T10:00:00.000Z",
+    "title": "Caught on Bodycam",
+    "overview": "Officers make life-or-death decisions in 40 seconds.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T10:30:00.000Z",
+    "title": "Caught on Bodycam",
+    "overview": "Raw bodycam footage capturing high-stake police incidents.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T11:00:00.000Z",
+    "title": "Live: Wake Up America Early",
+    "overview": "Presents news delivering key facts, expert insights, and in-depth analysis to kickstart your day.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T12:00:00.000Z",
+    "title": "Live: Wake Up America",
+    "overview": "Starting the day with real news and analysis.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T14:00:00.000Z",
+    "title": "Live: National Report",
+    "overview": "Your source for up-to-the-minute breaking news; the ideal way to stay informed with eye-opening coverage that makes sense of the stories that affect our lives every day.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T17:00:00.000Z",
+    "title": "Live: Bianca Across the Nation",
+    "overview": "Bianca de la Garza tackles the big news from Washington, D.C., to New York, across America and around the world.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T18:00:00.000Z",
+    "title": "Troopathon 2026",
+    "overview": "Troopathon Special - care packages for our troops -- with top celebs!",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T19:00:00.000Z",
+    "title": "Live: American Agenda",
+    "overview": "Bob Brooks and Katrina Szish present news and analysis.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T21:00:00.000Z",
+    "title": "Live: The Record With Greta Van Susteren",
+    "overview": "Greta Van Susteren gives the big news from Washington, D.C., New York, across America and around the world.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T22:00:00.000Z",
+    "title": "Live: Ed Henry The Big Take",
+    "overview": "Ed Henry offers his common-sense take on the news, helping viewers better understand the deeper details behind today's stories.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-11T23:00:00.000Z",
+    "title": "Live: Carl Higbie Frontline",
+    "overview": "Carl Higbie gives news analysis as he fights for American values.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T00:00:00.000Z",
+    "title": "Live: Rob Schmitt Tonight",
+    "overview": "Rob Schmitt wraps up all the latest news and opinion, and sets the stage for the next day.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T01:00:00.000Z",
+    "title": "Live: Finnerty",
+    "overview": "Rob Finnerty gives straight talk on the biggest issues facing America and the world!",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T02:00:00.000Z",
+    "title": "Live: Greg Kelly Reports",
+    "overview": "Greg Kelly gives hardest-hitting reports and analysis from L.A. to N.Y., from Beltway to Rust Belt, talking with you and for you!",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T03:00:00.000Z",
+    "title": "Live: The Right Squad",
+    "overview": "The panelists engage in analysis with conversation and debates.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T04:00:00.000Z",
+    "title": "Rob Schmitt Tonight",
+    "overview": "Rob Schmitt wraps up all the latest news and opinion, and sets the stage for the next day.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T05:00:00.000Z",
+    "title": "Finnerty",
+    "overview": "Rob Finnerty gives straight talk on the biggest issues facing America and the world!",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T06:00:00.000Z",
+    "title": "Carl Higbie Frontline",
+    "overview": "Carl Higbie gives news analysis as he fights for American values.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T07:00:00.000Z",
+    "title": "Greg Kelly Reports",
+    "overview": "Greg Kelly gives hardest-hitting reports and analysis from L.A. to N.Y., from Beltway to Rust Belt, talking with you and for you!",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T08:00:00.000Z",
+    "title": "David Harris Jr. The Pulse",
+    "overview": "Hard-hitting analysis and opinion on the latest news and events delivered.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T09:00:00.000Z",
+    "title": "Ed Henry The Big Take",
+    "overview": "Ed Henry offers his common-sense take on the news, helping viewers better understand the deeper details behind today's stories.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T10:00:00.000Z",
+    "title": "Caught on Bodycam",
+    "overview": "This gripping documentary reveals the complexities and challenges faced by law enforcement on a campus where safety and tragedy often collide.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T10:30:00.000Z",
+    "title": "Caught on Bodycam",
+    "overview": "A look at the balance between maintaining peace and navigating chaos in the everyday lives of law enforcement officers.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T11:00:00.000Z",
+    "title": "Live: Wake Up America Early",
+    "overview": "Presents news delivering key facts, expert insights, and in-depth analysis to kickstart your day.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T12:00:00.000Z",
+    "title": "Live: Wake Up America",
+    "overview": "Starting the day with real news and analysis.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T14:00:00.000Z",
+    "title": "Live: National Report",
+    "overview": "Your source for up-to-the-minute breaking news; the ideal way to stay informed with eye-opening coverage that makes sense of the stories that affect our lives every day.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T17:00:00.000Z",
+    "title": "Live: Bianca Across the Nation",
+    "overview": "Bianca de la Garza tackles the big news from Washington, D.C., to New York, across America and around the world.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T19:00:00.000Z",
+    "title": "Live: American Agenda",
+    "overview": "Bob Brooks and Katrina Szish present news and analysis.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T21:00:00.000Z",
+    "title": "Live: The Record With Greta Van Susteren",
+    "overview": "Greta Van Susteren gives the big news from Washington, D.C., New York, across America and around the world.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T22:00:00.000Z",
+    "title": "Live: Ed Henry The Big Take",
+    "overview": "Ed Henry offers his common-sense take on the news, helping viewers better understand the deeper details behind today's stories.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-12T23:00:00.000Z",
+    "title": "Live: Carl Higbie Frontline",
+    "overview": "Carl Higbie gives news analysis as he fights for American values.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-13T00:00:00.000Z",
+    "title": "Live: Ed Henry The Big Take",
+    "overview": "Ed Henry offers his common-sense take on the news, helping viewers better understand the deeper details behind today's stories.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-13T01:00:00.000Z",
+    "title": "Live: Finnerty",
+    "overview": "Rob Finnerty gives straight talk on the biggest issues facing America and the world!",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-13T02:00:00.000Z",
+    "title": "Live: Greg Kelly Reports",
+    "overview": "Greg Kelly gives hardest-hitting reports and analysis from L.A. to N.Y., from Beltway to Rust Belt, talking with you and for you!",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-13T03:00:00.000Z",
+    "title": "Live: The Right Squad",
+    "overview": "The panelists engage in analysis with conversation and debates.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745:epg:2026-11-13T04:00:00.000Z",
+    "title": "Ed Henry The Big Take",
+    "overview": "Ed Henry offers his common-sense take on the news, helping viewers better understand the deeper details behind today's stories.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

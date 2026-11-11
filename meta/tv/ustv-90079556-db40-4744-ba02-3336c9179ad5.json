@@ -1,0 +1,799 @@
+{
+ "meta": {
+  "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5",
+  "type": "tv",
+  "name": "VH1",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/vh1-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/vh1-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Music"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T03:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Evelyn and Jen are left off Ashley's guest list; Tami and Jen fight over a harmless remark.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T04:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Evelyn and Jen regret volunteering to help Royce; Tami has surgery done.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T05:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Evelyn is dating again; Tami has surgery done.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T06:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick Cannon, Justina Valentine and Tonio Skits battle it out in games like Got Props, Let Me Holla, Hip Hop Potluck and the Wildstyle Battle; Justina Valentine performs \"Fever.\".",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T06:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick Cannon and Big Boss Vette battle it out in games: Big Ol' Booty, Talking Spit, Kick 'Em Out the Classroom and the Wildstyle battle; Big Boss Vette performs Pretty Girls Walk.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T07:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick Cannon and Lil Tjay battle it out in games like Alphabet Train, What You Call That?, Kick 'Em Out the Classroom and the Wildstyle Battle; Lil Tjay performs \"Project Walls.\".",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T07:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick Cannon and Luh Tyler battle it out in games like Turn Up for What?, Let Me Holla, Kick 'Em Out the Classroom and the Wildstyle Battle; Luh Tyler performs \"Law & Order Part 2.\".",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T08:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick Cannon and Lola Brooke battle it out in games like Pick Up and Kill It, Hood Jeopardy, Kick 'Em Out the Classroom and the Wildstyle Battle; Lola Brooke performs \"Just Relax.\".",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T08:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick Cannon and Kali battle it out in games like Flow Job, What You Call That?, Talking Spit and the Wildstyle Battle; Kali performs \"Area Codes.\".",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T09:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick Cannon and Tasha K battle it out in games: Alphabet Train, Talking Spit, Plead the Fifth and the Wildstyle battle; Hitman Holla performs \"U Killin Em\".",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T09:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick Cannon, BigXthaPlug, Conceited and Finesse Mitchell battle it out in games, including Let Me Holla, Roast Roulette, Kick 'Em Out the Classroom, and the Wildstyle battle; BigXthaPlug also performs Texas.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T10:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick Cannon and Mariah The Scientist battle it out in games: Talking Spit, Kick 'Em Out the Classroom, R&Beef and the Wildstyle battle; Mariah The Scientist performs \"Stone Cold.\".",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T10:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Orlando Jones; Cassidy; Biz Markie.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T11:00:00.000Z",
+    "title": "America's Funniest Home Videos",
+    "overview": "A woman learns she is going to be a grandmother by finding a bun in the oven; a drone gets stuck in a woman's hair; a woman's family pranks her with a whoopee cushion; a grandmother is excited when she gets tickets to \"Dancing With the Stars.\".",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T12:00:00.000Z",
+    "title": "America's Funniest Home Videos",
+    "overview": "People are stumped by a simple riddle; a toddler is confused by his mom and her identical twin; funny wedding proposals; treadmill mishaps.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T13:00:00.000Z",
+    "title": "America's Funniest Home Videos",
+    "overview": "Nine winning videos compete for the ultimate cash prize; a music montage featuring toy mishaps; blunders taking place in the snow.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T14:00:00.000Z",
+    "title": "Flip Side",
+    "overview": "Laura and Rylee battle Nicole and Shuntae.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T14:30:00.000Z",
+    "title": "Flip Side",
+    "overview": "Monday and Vee battle Brandy and Rob.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T15:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Christina Milian; Common.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T15:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Ying Yang Twins.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T16:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Kanye West.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T16:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Eva Pigford; T.I.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T17:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Fonzworth Bentley; Lil' Wayne.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T17:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Omarion; Trillville.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T18:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Kevin Hart; David Banner.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T18:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Comic Kevin Hart; DJ Khaled performs.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T19:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Shaunie's announcement delays Evelyn's connection.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T20:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "The ladies' trip to Madrid suffers; Royce has a phantom illness; Tami's mood swings; Jen finds a romantic mark.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T21:00:00.000Z",
+    "title": "My Wife and Kids",
+    "overview": "Michael and Jay end up serving on the same jury together; Michael suspects he has been the victim of jury tampering.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T21:30:00.000Z",
+    "title": "My Wife and Kids",
+    "overview": "Michael calls a family court session when Jr. battles Claire over ownership of a discovered wallet containing $500.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T22:00:00.000Z",
+    "title": "My Wife and Kids",
+    "overview": "Michael's fears come true when he tries to teach Claire how to drive.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T22:30:00.000Z",
+    "title": "My Wife and Kids",
+    "overview": "Jay wonders why Michael saved a picture of an attractive ex-girlfriend; Franklin cannot admit Aretha is as good a singer as he is a pianist.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T23:00:00.000Z",
+    "title": "Everybody Hates Chris",
+    "overview": "Chris realizes he needs to make the best campaign speech of all time in order to win the class presidential election.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T23:30:00.000Z",
+    "title": "Everybody Hates Chris",
+    "overview": "After Chris makes the neighborhood think he and Tasha are dating, Rochelle gets an earful from Tasha's grandmother (Whoopi Goldberg).",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T00:00:00.000Z",
+    "title": "Everybody Hates Chris",
+    "overview": "Chris is robbed by a notorious repeat offender, Malvo (Ricky Harris), when Doc entrusts him with watching the cash register.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T00:30:00.000Z",
+    "title": "Everybody Hates Chris",
+    "overview": "Chris' new principal (guest star Jason Alexander) pairs him with Caruso as buddies on the school field trip.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T01:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Jen and Ev accuse Royce of playing both sides; Ashley Walker and Rafer Alston ambush Jen and Ev.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T02:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Royce is at odds with Evelyn; Jen and Tami want to prevent Evelyn from profiting.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T03:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Suzie's return upsets Royce; Tami confronts Meeka about playing both sides.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T04:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Royce's father raises concerns; Evelyn checks out a fertility clinic.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T05:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Jen is curious when Eric wants to meet with Suzie; Tami and Meeka fight at an upscale event.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T06:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick and Mac Miller battle; \"So Fly\"; \"Pause\"; \"Remix\"; \"Wildstyle.\".",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T06:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nick and 2 Chainz battle; \"ThreeWordsAfter\"; \"Who's on the Pole\"; \"Let Me Holla\"; \"Wildstyle.\".",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T07:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Vinny Guadagnino; \"Spoken Word\"; \"Breaking Up Is Hard to Do\"; \"Tore Up From the Floor Up\"; \"Wildstyle.\".",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T07:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "French Montana and the cast of \"Guy Code\"; \"Trending Topics\"; \"Tore Up From the Floor Up\"; \"Family Reunion\"; \"Wildstyle.\".",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T08:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "A$AP Rocky takes on a set of challenges, including So Fly, Remix, Flow Job, and Wildstyle.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T08:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Amar'e Stoudemire; \"So Fly\"; \"Family Reunion\"; \"Let Me Holla\"; \"Wildstyle.\".",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T09:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Chanel West Coast; \"Talkin' Spit\"; \"Hood Jeopardy\"; \"R & Beef\"; \"Wildstyle.\".",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T09:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "MGK; \"Flow Job\"; \"Breaking Up Is Hard to Do\"; \"Remix\"; \"Wildstyle.\".",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T10:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Rick Ross and Nick battle; \"So Fly\"; \"Let Me Holla\"; \"Who's on the Pole\"; \"Wildstyle\"; MMG performs.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T10:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Nelly faces off against Cannon; \"Plead the Fifth\"; \"Remix\"; \"Who's on the Pole\"; \"Wildstyle.\".",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T11:00:00.000Z",
+    "title": "America's Funniest Home Videos",
+    "overview": "Cheerleading fails; people are scared of animals; the two $100,000 winners of the season compete for a trip for four to Aulani, a Disney resort and spa in Ko Olina, Hawaii.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T12:00:00.000Z",
+    "title": "America's Funniest Home Videos",
+    "overview": "A dad discovers his toddler has covered himself and the backseat with Nutella; a couple locked out of their house encourages their dog to unlock the door from the inside; parents trick their daughters into thinking they're taking a limo to school.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T13:00:00.000Z",
+    "title": "America's Funniest Home Videos",
+    "overview": "Magic tricks go awry; a dog delivers a beer to its owner and then steals his pizza; a little boy cries over his mom's haircut; birthday party mishaps.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T14:00:00.000Z",
+    "title": "Flip Side",
+    "overview": "Mark and Darby take on Stephanie and Natalie.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T14:30:00.000Z",
+    "title": "Flip Side",
+    "overview": "Dimescha and Cortese oppose Lautel and Matt.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T15:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Skylar Diggins; \"Twerk Werk\"; \"Got Props\"; \"Bail Me Out\"; \"The Wildstyle\"; Vic Mensa performs.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T15:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Bow Wow; \"Let Me Holla\"; \"Plead the Fifth\"; \"Exclusive Hits\"; \"Wildstyle\"; Que performs.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T16:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Chrissy Teigen; \"Got Props\"; \"The World's Worst\"; \"Talking Spit\"; \"Wildstyle\"; PWD performs.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T16:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Austin Mahone; \"Turn Up for What\"; \"Instagram\"; \"Remix\"; \"Wildstyle.\".",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T17:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Riff Raff; \"So Fly\"; \"Plead the Fifth\"; \"Twerk Werk\"; \"Wildstyle.\".",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T17:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Asher Roth; \"Turn Up for What\"; \"Breaking Up Is Hard to Do\"; \"Twerk Werk\"; \"The Wildstyle\"; Troy Ave performs.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T18:00:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Tech N9ne; \"Turn Up for What\"; \"Bail Me Out\"; \"Hood Jeopardy\"; \"The Wildstyle.\".",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T18:30:00.000Z",
+    "title": "Nick Cannon Presents: Wild 'n Out",
+    "overview": "Amber Rose; \"Talking Spit\"; \"Instagram\"; \"Star Sightings\"; \"The Wildstyle\"; Wiz Khalifa performs.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T19:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Evelyn and Tami's beef resurfaces; Jen agrees to her first date; Evelyn reconciles with her father.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T20:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Shaunie proposes another international trip but excludes Royce.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T21:00:00.000Z",
+    "title": "My Wife and Kids",
+    "overview": "Jay decides to watch Michael play golf in order to spend more quality time with him; Jr. asks Franklin to help him with his college essay.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T21:30:00.000Z",
+    "title": "My Wife and Kids",
+    "overview": "Claire and Tony announce the time has come for them to consummate their relationship; Kady catches Jr. playing with her dolls.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T22:00:00.000Z",
+    "title": "My Wife and Kids",
+    "overview": "Michael and Jay volunteer to be chaperons at Claire's high-school prom; Jr. gets excited about fixing up his first car.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T22:30:00.000Z",
+    "title": "My Wife and Kids",
+    "overview": "Jr.'s high-school graduation day is a cause for celebration and concern about his future for Michael and Jay, who want him to go to college.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T23:00:00.000Z",
+    "title": "Everybody Hates Chris",
+    "overview": "Chris must defend himself at an impeachment hearing after the school newspaper runs several inflammatory stories about his class presidency.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-12T23:30:00.000Z",
+    "title": "Everybody Hates Chris",
+    "overview": "Chris notices that he can do no wrong after Julius lends him a pair of lucky socks; Drew and Tonya decide to play their parents against each other.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-13T00:00:00.000Z",
+    "title": "Everybody Hates Chris",
+    "overview": "Julius' successful brother, Louis (Wayne Brady), visits the family for a memorable Thanksgiving dinner.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-13T00:30:00.000Z",
+    "title": "Everybody Hates Chris",
+    "overview": "Julius and Chris pick up extra work for the holidays by playing Santa Claus at a local department store.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-13T01:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Jen's radio interview threatens her friendship with Evelyn; Tami and Meeka butt heads.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-13T02:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Tami's feud with Meeka comes to a head in Italy; one member calls it quits.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-13T03:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Royce's meeting with Eric bothers Jen; Chad takes Evelyn on a unique outing; Jen has a blind date.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-13T04:00:00.000Z",
+    "title": "Basketball Wives",
+    "overview": "Evelyn catches Chad having lunch with another woman; Jen's divorce party heats up.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

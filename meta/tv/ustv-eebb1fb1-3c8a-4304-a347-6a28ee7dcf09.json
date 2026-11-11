@@ -1,0 +1,479 @@
+{
+ "meta": {
+  "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09",
+  "type": "tv",
+  "name": "TLC",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/tlc-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tlc-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Lifestyle"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T03:00:00.000Z",
+    "title": "My Big Fat Fabulous Life",
+    "overview": "Whitney has a brand-new life in Charlotte and a budding romance! But her dreams of motherhood are complicating her love life; and when Whitney's mystery man crashes her dance performance, she's forced to question if it's a situationship or something more.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:02:00.000Z",
+    "runtime": "62 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T04:02:00.000Z",
+    "title": "90 Day: Hunt for Love",
+    "overview": "Eight singles from the \"90 Day\" universe are ready to embark on a quest for love once again, joined by fresh, new faces and romantic hopefuls.",
+    "released": "2026-11-11T04:02:00.000Z",
+    "startTime": "2026-11-11T04:02:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T05:00:00.000Z",
+    "title": "1000-lb Sisters",
+    "overview": "With bonus scenes; back from Nashville, Tammy must face her siblings; Chris gets a taste of his own medicine from Amanda and Misty; Tammy is left scrambling when Andrea has a medical emergency.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T06:00:00.000Z",
+    "title": "1000-lb Sisters",
+    "overview": "Amy gets an update on her skin removal surgery; Tammy stands by Andrea as she faces a scary diagnosis; Amy hopes her siblings show up to her music video shoot; she releases her song for the world to hear.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T07:00:00.000Z",
+    "title": "My Big Fat Fabulous Life",
+    "overview": "Whitney has a brand-new life in Charlotte and a budding romance! But her dreams of motherhood are complicating her love life; and when Whitney's mystery man crashes her dance performance, she's forced to question if it's a situationship or something more.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:02:00.000Z",
+    "runtime": "62 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T08:02:00.000Z",
+    "title": "90 Day: Hunt for Love",
+    "overview": "Eight singles from the \"90 Day\" universe are ready to embark on a quest for love once again, joined by fresh, new faces and romantic hopefuls.",
+    "released": "2026-11-11T08:02:00.000Z",
+    "startTime": "2026-11-11T08:02:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T09:00:00.000Z",
+    "title": "Love & Translation",
+    "overview": "Dylan is in hot water when the women find out about his night with Yam; Gisele wonders if there's still a chance for her and Tripp; the men and women go out dancing, and Kahlil finds himself drawn to Jhenyfer.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T10:00:00.000Z",
+    "title": "Love & Translation",
+    "overview": "While Dylan works to win back trust, Yam is desperate to make her true feelings known; two women go head-to-head for Kahlil's attention; Tripp makes a choice that leaves one woman's path to love unclear.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T11:00:00.000Z",
+    "title": "The Jennifer Hudson Show",
+    "overview": "Doja Cat (\"Tour Ma Vie\" tour); WNBA star Nneka Ogwumike.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T12:00:00.000Z",
+    "title": "My 600-Lb. Life",
+    "overview": "Paul weighs in at 700 pounds, and his girlfriend struggles with how this limits their ability to live a normal life; he thinks their relationship won't survive if he moves to work with Dr. Now, but prioritizing his own health is the only option.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T14:00:00.000Z",
+    "title": "My 600-Lb. Life",
+    "overview": "For Julian and his wife, Irma, it was love at first sight; in order to grow old together, Julian will have to overcome the food addiction that made him more than 800 pounds.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T16:00:00.000Z",
+    "title": "Dr. Pimple Popper",
+    "overview": "With pandemic safety protocols in place, Dr. Lee reopens her office; Monica has a large birthmark growing on the side of her face; Jackie has a melon-sized lump on the back of her shoulder; Reginald has large, rare growths on the back of his head.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T17:00:00.000Z",
+    "title": "Dr. Pimple Popper",
+    "overview": "Dennis has several giant growths on the back of his head; Juan has a rare condition he hopes Dr. Lee will understand; Natalie searches for answers as to why her body is covered in hundreds of mysterious dark bumps.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T18:00:00.000Z",
+    "title": "Dr. Pimple Popper",
+    "overview": "John fears the large lump on his neck could become so big that it may eventually suffocate him; Shoshana is depressed because of the big growth on her forehead; Ashley hopes Dr. Lee can provide some relief from her three painful skin conditions.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T19:00:00.000Z",
+    "title": "ER: Caught on Camera",
+    "overview": "Pimple popping can be deadly; a stroke tries to take her husband, so she locks in to save his life; an influencer with something eating her eye; a video game leads to an impaled buttock; a man run over by a train wakes up a month later with no legs.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T20:00:00.000Z",
+    "title": "ER: Caught on Camera",
+    "overview": "A husband suffers a widow-maker heart attack in front of his wife; a woman's heating pad becomes a hurting pad; sometimes small things like a headache or a broken nail can be lethal; beware of dog, especially when their saliva can cost you a limb.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T21:00:00.000Z",
+    "title": "ER: Caught on Camera",
+    "overview": "A day at the beach is anything but as a surfing accident changes multiple lives, and a sunburn victim goes to the burn unit. An expectant mother faces an unexpected crisis. A widowmaker heart attack is captured on camera.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T22:00:00.000Z",
+    "title": "Save My Skin",
+    "overview": "Dr Emma gets to the bottom of why Claire is incessantly picking her skin; after 20 years, Robert finally gets a diagnosis for his painful lumps.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-11T23:00:00.000Z",
+    "title": "Save My Skin",
+    "overview": "Robert has a lump on his forehead that other doctors have told him is inoperable, but Dr Emma thinks she can help.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T00:00:00.000Z",
+    "title": "Untold Stories of the E.R.",
+    "overview": "A full moon and dense fog bring a parade of patients straight out of a horror movie. A patient's Covid-like symptoms mask a hidden danger. One man's neck swells up like a balloon as another collapses in the waiting room.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T01:00:00.000Z",
+    "title": "Untold Stories of the E.R.",
+    "overview": "A meth-fueled giant goes on a rampage in the ER; rival bikers land on side-by-side gurneys after a knife fight; a newborn arrives in the hospital parking lot blue and not breathing in her mother's lap.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T02:00:00.000Z",
+    "title": "Untold Stories of the E.R.",
+    "overview": "Real doctors, nurses and EMTs re-enact the most unusual, touching, humorous and life-changing cases of their careers in the ultimate insider's look at the life-and-death drama, medical mysteries and unexpected twists that play out every day in the ER.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T03:00:00.000Z",
+    "title": "Save My Skin",
+    "overview": "Dr Emma meets Hester, who has one of the most extreme cases of lupus she has ever seen; Andie has been battling a painful verruca for over a decade.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T04:00:00.000Z",
+    "title": "Save My Skin",
+    "overview": "Mohammed's body is covered with hundreds of tumors. Dr Emma performs three intense surgeries to remove over a hundred and fifty from his face.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T05:00:00.000Z",
+    "title": "Untold Stories of the E.R.",
+    "overview": "A meth-fueled giant goes on a rampage in the ER; rival bikers land on side-by-side gurneys after a knife fight; a newborn arrives in the hospital parking lot blue and not breathing in her mother's lap.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T06:00:00.000Z",
+    "title": "Untold Stories of the E.R.",
+    "overview": "Real doctors, nurses and EMTs re-enact the most unusual, touching, humorous and life-changing cases of their careers in the ultimate insider's look at the life-and-death drama, medical mysteries and unexpected twists that play out every day in the ER.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T07:00:00.000Z",
+    "title": "Save My Skin",
+    "overview": "Dr Emma meets Hester, who has one of the most extreme cases of lupus she has ever seen; Andie has been battling a painful verruca for over a decade.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T08:00:00.000Z",
+    "title": "Save My Skin",
+    "overview": "Mohammed's body is covered with hundreds of tumors. Dr Emma performs three intense surgeries to remove over a hundred and fifty from his face.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T09:00:00.000Z",
+    "title": "Love & Translation",
+    "overview": "A twist shakes up the house, and some women's journeys come to an end; Dylan struggles to narrow down his connections, while Kahlil must convince someone to stay.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T10:00:00.000Z",
+    "title": "Love & Translation",
+    "overview": "Three couples leave the villa to go on overnight dates, translation devices in hand; Tripp's way of coping with emotions gets in the way of making a connection; Kahlil tries to get physical; Dylan receives an ultimatum.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T11:00:00.000Z",
+    "title": "The Jennifer Hudson Show",
+    "overview": "Zach Braff and Sarah Chalke (\"Scrubs\"); a single mom and pharmaceutical scientist who has raised two incredible young men gets a heartwarming surprise.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T12:00:00.000Z",
+    "title": "Four Weddings",
+    "overview": "Barefoot and laid back beachfront nuptials; traditional African attire; a water ski show; cheese steaks.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T13:00:00.000Z",
+    "title": "Four Weddings",
+    "overview": "Heather makes wine and her own dress for her castle nuptials; vows made of icing; a BBQ buffet and line dancing.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T14:00:00.000Z",
+    "title": "Four Weddings",
+    "overview": "Laura Ann's football stadium nuptials; a whiskey distillery event for Lauren; Elizabeth's wood theme; a red, white and blue theme for Captain Jen.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T15:00:00.000Z",
+    "title": "My Big Fat American Gypsy Wedding",
+    "overview": "Hunter and her boyfriend are madly in love, but her gun-toting mom puts him through grueling trials; Cherub hopes her 21st birthday gives her a chance to put a horrific accident behind her.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T16:00:00.000Z",
+    "title": "My Big Fat American Gypsy Wedding",
+    "overview": "Maquayla can't wait to wear her dream wedding gown, but disaster strikes when it arrives; Mom plans to use Yazzie's birthday party to marry her off, but things take a turn when her boyfriend makes an appearance.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T17:00:00.000Z",
+    "title": "90 Day Fianc\u00e9: The Other Way",
+    "overview": "Andi comes face to face with Nigel's lover; Jessy and Vittorio's fight continues at home; Michelle spies on Felix from across the globe; Zuri tries to mend fences with Ben's sister; Niles comes clean to Mr. Arc. Jon and Ally debate breaking up.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T19:00:00.000Z",
+    "title": "90 Day Fianc\u00e9: The Other Way",
+    "overview": "Niles reveals his secret to Matilda. Zuri gets a crash course in French etiquette. Jon surprises Ally with a proposal. Michelle gives Felix another chance in Ghana. Jessy gets a frosty welcome from Vittorio's friends. Andi defends her texts to other men.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T21:00:00.000Z",
+    "title": "Sister Wives",
+    "overview": "Meri celebrates her birthday with her chosen family of friends, and Janelle continues her journey of reinvention; the wives meet on video chat to share old recipes; Meri decides she needs to have a conversation with Christine.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T22:00:00.000Z",
+    "title": "Sister Wives",
+    "overview": "Janelle continues to push outside her comfort zone and attends a line dancing event; Christine and David play a risqu\u00e9 board game to test their compatibility; Meri and Christine meet one-on-one to confront their tumultuous past.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-12T23:00:00.000Z",
+    "title": "Sister Wives",
+    "overview": "Meri and Christine find common ground as their conversation continues; Janelle faces her fear of bees and tries beekeeping with Maddie; the three ex-wives meet to melt down their wedding rings.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-13T00:00:00.000Z",
+    "title": "Sister Wives",
+    "overview": "Meri, Janelle and Christine come together to burn jewelry from their marriages. Meri travels to San Francisco to take part in a tantra yoga speed-dating event. Christine and Janelle discuss polygamy while camping.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-13T01:00:00.000Z",
+    "title": "Crown of Deceit: Inside the Miss Universe Scandal",
+    "overview": "Behind the glamour, former contestants expose disturbing allegations, secret recordings, shocking resignations and a fight over who really controls one of the world's biggest pageants; what started as a dream became something far darker.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-13T02:00:00.000Z",
+    "title": "Crown of Deceit: Inside the Miss Universe Scandal",
+    "overview": "As the pageant world spirals deeper into chaos, allegations of rigged competitions, financial turmoil, lawsuits, and a last-minute battle to save Miss USA raise one question: can the crown and its reputation be saved?",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-13T03:00:00.000Z",
+    "title": "Crown of Deceit: Inside the Miss Universe Scandal",
+    "overview": "Miss Universe descends into chaos as contestants walk out, judges resign, secret recordings emerge, and allegations of rigging, corruption and criminal ties threaten to destroy the world's biggest pageant from the inside.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09:epg:2026-11-13T04:00:00.000Z",
+    "title": "My Big Fat Fabulous Life",
+    "overview": "Whitney has a brand-new life in Charlotte and a budding romance! But her dreams of motherhood are complicating her love life; and when Whitney's mystery man crashes her dance performance, she's forced to question if it's a situationship or something more.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

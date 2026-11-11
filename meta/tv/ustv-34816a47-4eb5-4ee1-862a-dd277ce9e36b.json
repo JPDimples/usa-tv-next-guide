@@ -1,0 +1,779 @@
+{
+ "meta": {
+  "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b",
+  "type": "tv",
+  "name": "Nickelodeon",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nick-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nick-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Kids"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T03:00:00.000Z",
+    "title": "Friends",
+    "overview": "Elizabeth and Ross decide to hide their relationship from her father and head up to his cabin for the weekend.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T03:30:00.000Z",
+    "title": "Friends",
+    "overview": "Chandler asks Phoebe to help him choose a special ring; Rachel urges Paul (Bruce Willis) to express his feelings.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T04:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "During their weekend in Las Vegas, Bernadette and Amy accuse Penny of being a buzz kill; the guys try to invent the next big thing.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T04:30:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Raj and Sheldon try to simulate a dark-matter research expedition; after a fight about money, Penny and Leonard turn to Bernadette and Wolowitz for advice.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T05:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "The guys try to help when Penny is faced with an awkward dilemma at work; Bernadette and Amy discuss sexuality and female scientists.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T05:30:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Sheldon feels pressured to participate in romantic traditions when the gang re-creates a high-school prom on the roof.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T06:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Leonard has minor surgery on his nose, causing Sheldon to overreact; Bernadette and Howard work on their marriage.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T06:30:00.000Z",
+    "title": "Friends",
+    "overview": "Chandler continues to pretend to hate the idea of marriage, unaware Richard wants Monica back; Rachel and Phoebe discuss their backup plans.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T07:00:00.000Z",
+    "title": "Friends",
+    "overview": "Monica and Chandler encounter Richard (Tom Selleck), Monica's former boyfriend, in a romantic restaurant.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T07:30:00.000Z",
+    "title": "Friends",
+    "overview": "Monica feels that Rachel is trying to steal the spotlight from her engagement; Chandler worries about his performance in the bedroom.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T08:00:00.000Z",
+    "title": "Friends",
+    "overview": "Monica learns what her parents have done with her wedding fund; Joey teases Rachel about her late-night reading material.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T08:30:00.000Z",
+    "title": "Friends",
+    "overview": "Chandler's efforts to bond with Monica's father (Elliott Gould) backfire during a racquetball game; Rachel tries to teach Joey how to sail; Monica tries to replicate Phoebe's grandmother's cookie recipe.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T09:00:00.000Z",
+    "title": "Friends",
+    "overview": "Rachel considers hiring an inexperienced but handsome man over a better qualified woman as her executive assistant.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T09:30:00.000Z",
+    "title": "Friends",
+    "overview": "Rachel makes her handsome new assistant (Eddie Cahill) hang out with Joey rather than the women in her office.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T10:00:00.000Z",
+    "title": "Friends",
+    "overview": "Ross' doctoral dissertation is stored in a remote corner of the university library frequently used by students having sex; Rachel and Phoebe bond with Joey's date (Kristin Davis), then try to convince him to continue seeing her.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T10:30:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "Gemma surprises Dave with wanting another baby; he enlists a robotic doll and Marty's engineering skills to remind her how difficult a newborn is; Calvin and Tina disagree on how to proceed when they unexpectedly discover a stash of cash.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T11:00:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "Calvin's archrivals, the Pink Ladies, move their manicure business into the local barbershop; Dave encourages him to make peace; when the women take a prank too far, the guys decide to plot revenge.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T11:30:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Squidward sculpts a statue of Mr. Krabs; giant sea whelks terrorize the citizens of Bikini Bottom.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T12:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Chickaletta's family is scattered around town, causing traffic jams; the Safety and Rescue Pups have to help the chickens cross the road; Chase leads a mission to rescue a lost Ryder which involves clues, tools and Chewington.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T12:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Shortly after listening to the story of Thundermouth, the pups are on a mission to save elephants spooked by a scary noise; Mayor Goodway is left in charge of a class pet, but the hamster escapes.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T13:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Having made a big blunder in a recent rescue, Zuma trades in his usual chill attitude and becomes a super serious pup; his new persona gets tested when an actual pirate arrives, bent on hidden treasure and willing to destroy things to get it!",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T14:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "While trying to save Traveling Travis, Ryder and the pups stumble across the legendary Elephants Spa; Uncle Otis believes he's found gold but when Sid the Pirate tries to jump on Otis' claim, Otis gets trapped in a sunken shipping container.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T14:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "After a drone carrying Humdinger's reflecting panel crashes in a tree, the reflector concentrates a beam of light on a wooden bridge, causing it to burn; the PAW Patrol rescues Winnie and a capybara when they go rolling off in a giant exercise ball.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T15:00:00.000Z",
+    "title": "Rubble & Crew",
+    "overview": "When Speed Meister rains on the Builder Cove Sing-Off, Rubble and Crew saves the show by building a giant dome over the stadium; Rubble and crew build an elaborate baggage claim system at the airport when nobody can find their bags after flying home.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T15:30:00.000Z",
+    "title": "Rubble & Crew",
+    "overview": "Rubble and Crew use their vehicles to rock climb up a giant mountain to rescue a stuck Speed Meister; when there's no room to play inside a sandbox, the pups build a giant octopus with eight slides leading to eight different sandboxes to play in.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T16:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "The pups try to save Jake's chalet from crashing; the mayor downs a satellite dish.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T16:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "When an unhappy Merpup tries to float Puplantis to the surface, it's up to the PAW Patrol and their newest member Coral to save the city and stop him.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T17:00:00.000Z",
+    "title": "Rubble & Crew",
+    "overview": "The pups give Omar, Juniper, Lucas, and Lily a good vacation by transforming their house into a floating houseboat!; Rubble and Crew want to treat Auntie Crane to a special spa day for all her hard work, until Speed Meister gets in the way!",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T17:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "The Mighty Pups have to save the day when Harold makes a cloning machine; Harold uses his superpowers to turn Cap'n Turbot's lighthouse into a rocket.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T18:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Claw finds a way to make Sparks' breath icy; Chase accidentally pulls the legendary Golden Bone of Excalibark from its stone.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T18:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "The PAW Patrol takes part in a big mer-race, but Moby's cheating puts Puplantis in serious danger.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T19:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "A dance contest being judged by Luke Stars goes wrong when a floating dance floor carries the contestants away; the pups investigate a mystery at an undersea-themed museum exhibit and discover an octopus that wants to return to the ocean.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T19:30:00.000Z",
+    "title": "Dr. Seuss' the Lorax",
+    "overview": "Twelve-year-old Ted (Zac Efron) lives in a place virtually devoid of nature; no flowers or trees grow in the town of Thneedville. Ted would very much like to win the heart of Audrey (Taylor Swift), the girl of his dreams, but to do this, he must find that which she most desires: a Truffula tree. To ",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T21:30:00.000Z",
+    "title": "Sing",
+    "overview": "Dapper Koala Buster Moon presides over a once-grand theater that has fallen on hard times. An eternal optimist, and a bit of a scoundrel, he loves his theater above all and will do anything to preserve it. Facing the crumbling of his life's ambition, he takes one final chance to restore his fading j",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T00:00:00.000Z",
+    "title": "Sing 2",
+    "overview": "Can-do koala Buster Moon and his all-star cast of animal performers prepare to launch a dazzling stage extravaganza in the glittering entertainment capital of the world. There's just one hitch, he has to find and persuade the world's most reclusive rock star to join them. What begins as Buster's dre",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T02:30:00.000Z",
+    "title": "Friends",
+    "overview": "Tag joins for Thanksgiving dinner; Joey may have ruined Rachel's chances with Tag when he opens his mouth during dinner; Phoebe reveals that she has been secretly keeping a dog in her room for a few days while its owner is away.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T03:00:00.000Z",
+    "title": "Friends",
+    "overview": "Rachel finds it embarrassing that she is paying the way for her hunky new boyfriend (Eddie Cahill), who is also her assistant at work.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T03:30:00.000Z",
+    "title": "Friends",
+    "overview": "Ross' attempts to introduce his son, Ben, to Hanukkah are thwarted by the tyke's like of all things Christmas.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T04:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Sheldon says goodbye to Fun With Flags; Howard, Leonard and Raj look through their dead professor's research; Bernadette learns her co-workers' true feelings.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T04:30:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "When the guys agree to do something the girls like, Sheldon and Leonard end up having a confrontation.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T05:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Sheldon asks his friends to challenge him in hope of achieving a scientific breakthrough; Wolowitz invents a game about Raj.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T05:30:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Sheldon and Leonard must defend themselves from an online bully's criticism after they co-publish a paper; Bernadette, Penny and Amy confront embarrassing moments during a girls night.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T06:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "While the gang waits for the reopening of Stuart's comic book store Wolowitz gets some shocking news; Penny has trouble taking her own advice; Leonard and Raj think they spot Nathan Fillion at a restaurant.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T06:30:00.000Z",
+    "title": "Friends",
+    "overview": "Phoebe and Joey are at odds when she tries to cancel their weekly dinner plans so she can meet an old beau.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T07:00:00.000Z",
+    "title": "Friends",
+    "overview": "During their first night together, Rachel and Tag realize they forgot to ship out an important package at the office.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T07:30:00.000Z",
+    "title": "Friends",
+    "overview": "On her first day as a telemarketer, Phoebe encounters a distraught man (Jason Alexander) who is determined to end his life.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T08:00:00.000Z",
+    "title": "Friends",
+    "overview": "Celebrating Rachel's 30th birthday inspires the friends to reminisce about their own 30th birthdays -- Joey got angry with God for breaking their deal; Ross bought a sports car; Monica got drunk and embarrassed herself at her surprise party.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T08:30:00.000Z",
+    "title": "Friends",
+    "overview": "Joey accidentally informs a cast member (Susan Sarandon) that she will be fired so that his character will get her character's brain.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T09:00:00.000Z",
+    "title": "Friends",
+    "overview": "Monica and Chandler fondly reminisce about London until a startling revelation leaves Chandler floored.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T09:30:00.000Z",
+    "title": "Friends",
+    "overview": "Monica regrets telling a woman about a discount bridal shop when they end up competing for a wedding dress.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T10:00:00.000Z",
+    "title": "Friends",
+    "overview": "Joey is overjoyed to be nominated for a \"Soapie\" award; engaged Monica frets when she realizes she will never experience the thrill of a new relationship again; Ross spots Chandler sneaking out of a male strip club.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T10:30:00.000Z",
+    "title": "Friends",
+    "overview": "Joey auditions for a big role which will require him to appear naked; Rachel and Phoebe plan Monica's bridal shower; Ross and Monica's attractive cousin visits and stirs the passions of all men who meet her.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T11:00:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "When Dave starts researching his genealogy, he makes a surprising discovery; he and Calvin are more than just neighbors; Tina offers to help Gemma when she's overcome with morning sickness, and inadvertently stumbles on a new business idea.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T11:30:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "A new secret Krabby Patty formula has disastrous results for Bikini Bottom, and only SpongeBob can save the day; Mr. Krabs and Plankton have to take boating school classes.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T12:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Mr. Park's rooftop garden catches fire and there's no water in Adventure Bay; a trio of mischievous squirrels have concocted a plan to take over Jake's cozy mountain cabin.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T12:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Digi and Tal's inventions to help a busy Mayor Goodway go haywire and lead to a wild woodland chase; when Mayor Humdinger squeezes himself into the Trekkers' friendly dune buggy race, his cheating ways put the other racers in jeopardy.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T13:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "The Pups must help to find Mayor Humdinger's mustache after he accidentally shaves it off; after a carnival train gets stuck in a tunnel, it results in a mountainside funhouse-style wild ride.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T13:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "When Rocky Kitty runs away and tries to join the \"PAW Patrol,\" he helps the pups rescue Humdinger and the kitties from a hang-glider ride; when the Good Neighbor Robots confuse Farmer Al's request, they wind up being the target of a hungry eagle.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T14:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "When Travelling Travis yelps for help when he finds a mysterious creature in trouble, the PAW Patrol heads to Foggy Bottom to save a Humsquatch; when a robo-toy causes mayhem in Adventure Bay, Ryder knows just who to call.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T14:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "After Chickaletta accidentally takes flight on a toy airplane, it's up to the team to rescue her; Mayor Humdinger mistakes a sloth for a monkey, racing to find it and cover up his blunder.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T15:00:00.000Z",
+    "title": "Rubble & Crew",
+    "overview": "The pups enlist a kitten named Marble to go inside a pipe and fix the blockage; when a traveling basketball team fails to show up, the construction pups gear up and put on their own basketball show.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T15:30:00.000Z",
+    "title": "Rubble & Crew",
+    "overview": "Rubble and Wheeler team up to construct a solution for a mysterious mess on Farmer Zoe's farm; coach Karima is throwing Checkers Day for all the Builder Cove kids; when everyone can't play together, Rubble and Crew save the day with construction.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T16:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "When Mayor Humdinger and his mother help Mayor Goodway look for a rare tulip, Humdinger gets them all in trouble; the pups must save Daring Danny X when a mechanical shark stunt goes awry.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T16:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "A pair of alligators take Mayor Humdinger's mother, Helga Humdinger, on a wild ride across Foggy Bottom!; Winnie Winnington is determined to beat Mayor Goodway and Chickaletta in a cooking competition to find Adventure Bay's best bakers.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T17:00:00.000Z",
+    "title": "Rubble & Crew",
+    "overview": "The crew works on building a skatepark that fits perfectly in a farmyard setting; the pups take on the challenge of creating a space that captures the beauty of Builder Cove.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T17:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Mayor Humdinger's kitties make off with Mayor Goodway's book delivery truck; Julius and Julia get into a sticky situation when the paper bag puppets they created for a puppet show become stuck on the antlers of a deer.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T18:00:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "Things begin to melt during a hot day, and the pups will need a lot of fire-pup power to cool things down; cell phones vanish all over Adventure Bay.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T18:30:00.000Z",
+    "title": "PAW Patrol",
+    "overview": "The PAW Patrol uses its new big trucks and the help of new pup pal Al to repair a dam before Adventure Bay is flooded.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T19:00:00.000Z",
+    "title": "Sing",
+    "overview": "Dapper Koala Buster Moon presides over a once-grand theater that has fallen on hard times. An eternal optimist, and a bit of a scoundrel, he loves his theater above all and will do anything to preserve it. Facing the crumbling of his life's ambition, he takes one final chance to restore his fading j",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-12T21:30:00.000Z",
+    "title": "Sing 2",
+    "overview": "Can-do koala Buster Moon and his all-star cast of animal performers prepare to launch a dazzling stage extravaganza in the glittering entertainment capital of the world. There's just one hitch, he has to find and persuade the world's most reclusive rock star to join them. What begins as Buster's dre",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-13T00:00:00.000Z",
+    "title": "Shrek",
+    "overview": "Once upon a time, in a far away swamp, there lived an ogre named Shrek whose precious solitude is suddenly shattered by an invasion of annoying fairy tale characters. They were all banished from their kingdom by the evil Lord Farquaad. Determined to save their home, not to mention his, Shrek cuts a ",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-13T02:00:00.000Z",
+    "title": "Friends",
+    "overview": "Monica encounters a high-school friend (guest star Brad Pitt) and invites him to Thanksgiving Day dinner.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-13T02:30:00.000Z",
+    "title": "Friends",
+    "overview": "A college friend with whom Rachel shared an embarrassing and passionate moment shows up at Central Perk; Chandler and Ross argue for possession of Val Kilmer's tuxedo; Joey drives Monica crazy over the wedding schedule.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-13T03:00:00.000Z",
+    "title": "Friends",
+    "overview": "With only four weeks until their wedding, Monica and Chandler try to write their vows; Chandler enlists the boys' help, while Monica does the same with the girls.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-13T03:30:00.000Z",
+    "title": "Friends",
+    "overview": "Trying to ensure an ideal wedding, Monica arranges a meeting so Chandler and his estranged father can reconcile.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-13T04:00:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Penny and Sheldon design an experiment -- as a joke -- to make participants fall in love; Howard and Bernadette get into trouble at the airport.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

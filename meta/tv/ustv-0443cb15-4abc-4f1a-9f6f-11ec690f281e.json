@@ -1,0 +1,599 @@
+{
+ "meta": {
+  "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e",
+  "type": "tv",
+  "name": "Lifetime",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/lifetime-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/lifetime-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T03:03:00.000Z",
+    "title": "Castle",
+    "overview": "When two women are found dead dressed as fairytale characters, Castle and Beckett must race to find the killer before he strikes again.",
+    "released": "2026-11-11T03:03:00.000Z",
+    "startTime": "2026-11-11T03:03:00.000Z",
+    "endTime": "2026-11-11T04:03:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T04:03:00.000Z",
+    "title": "Castle",
+    "overview": "The investigation into the death of a contestant on a popular dance competition show leads Castle and Beckett to a shocking secret that may have led to her death.",
+    "released": "2026-11-11T04:03:00.000Z",
+    "startTime": "2026-11-11T04:03:00.000Z",
+    "endTime": "2026-11-11T05:01:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T05:01:00.000Z",
+    "title": "Castle",
+    "overview": "Castle and Beckett discover that the killer they are pursuing is part of an international conspiracy, and they must work with a CIA agent with whom Castle has a history.",
+    "released": "2026-11-11T05:01:00.000Z",
+    "startTime": "2026-11-11T05:01:00.000Z",
+    "endTime": "2026-11-11T06:01:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T06:01:00.000Z",
+    "title": "Castle",
+    "overview": "Beckett and Castle must stop a series of events that could result in a war.",
+    "released": "2026-11-11T06:01:00.000Z",
+    "startTime": "2026-11-11T06:01:00.000Z",
+    "endTime": "2026-11-11T07:04:00.000Z",
+    "runtime": "63 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T07:04:00.000Z",
+    "title": "Castle",
+    "overview": "When two women are found dead dressed as fairytale characters, Castle and Beckett must race to find the killer before he strikes again.",
+    "released": "2026-11-11T07:04:00.000Z",
+    "startTime": "2026-11-11T07:04:00.000Z",
+    "endTime": "2026-11-11T08:04:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T08:04:00.000Z",
+    "title": "Castle",
+    "overview": "The investigation into the death of a contestant on a popular dance competition show leads Castle and Beckett to a shocking secret that may have led to her death.",
+    "released": "2026-11-11T08:04:00.000Z",
+    "startTime": "2026-11-11T08:04:00.000Z",
+    "endTime": "2026-11-11T09:02:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T09:02:00.000Z",
+    "title": "RateEscape: Stop Overpaying For Cellular",
+    "overview": "Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.",
+    "released": "2026-11-11T09:02:00.000Z",
+    "startTime": "2026-11-11T09:02:00.000Z",
+    "endTime": "2026-11-11T09:32:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T09:32:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-11T09:32:00.000Z",
+    "startTime": "2026-11-11T09:32:00.000Z",
+    "endTime": "2026-11-11T10:02:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T10:02:00.000Z",
+    "title": "Tired of Pain? Go Drug-Free",
+    "overview": "See how a drug-free patch is helping people find relief-without medication.",
+    "released": "2026-11-11T10:02:00.000Z",
+    "startTime": "2026-11-11T10:02:00.000Z",
+    "endTime": "2026-11-11T10:32:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T10:32:00.000Z",
+    "title": "David Jeremiah",
+    "overview": "In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Gr",
+    "released": "2026-11-11T10:32:00.000Z",
+    "startTime": "2026-11-11T10:32:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "28 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T11:00:00.000Z",
+    "title": "Creflo Dollar",
+    "overview": "Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; based on the belief that the Bible is the written and inspired Word of God, the show is meant to invoke change in the lives of people across the gl",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T11:30:00.000Z",
+    "title": "Life Today",
+    "overview": "James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in ",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T12:00:00.000Z",
+    "title": "Joyce Meyer Enjoying Everyday Life",
+    "overview": "Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T12:30:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T13:00:00.000Z",
+    "title": "NCIS",
+    "overview": "NCIS investigates the death of a Navy lieutenant whose body was found at a construction site; Ziva thinks about her future.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T14:00:00.000Z",
+    "title": "NCIS",
+    "overview": "Gibbs questions the choices he has made during the course of his life when a man pulls a gun on him at a diner.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T15:00:00.000Z",
+    "title": "NCIS",
+    "overview": "A dead Navy captain dressed in an unusual costume underneath his uniform leads the team to discover a secret society; DiNozzo is forced to work with his ex-fiancee (Perrey Reeves).",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T16:00:00.000Z",
+    "title": "The Rookie",
+    "overview": "Officers Nolan and Harper help Skip Tracer Randy on his first bounty hunter case; Officer Chen and Sgt. Bradford hunt for a perpetrator on a citywide crime spree.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T17:00:00.000Z",
+    "title": "The Rookie",
+    "overview": "Officer Harper puts Officer Aaron through Plain Clothes Day, but the exercise is interrupted by an unsuspected visitor; after two witnesses for an upcoming grand jury case are murdered, the team must track down the killers before it's too late.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T18:00:00.000Z",
+    "title": "The Rookie",
+    "overview": "Desperate to reset the way the world sees him, Officer Thorsen reluctantly decides to be a part of a reality show to help rebrand his image; the show's producer is found murdered, and the team must investigate before Aaron is made suspect number one.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T19:00:00.000Z",
+    "title": "Castle",
+    "overview": "When a bomb kills five people at a protest rally, Beckett and Castle try to solve the case by reconstructing the 47 seconds prior to the explosion.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T20:00:00.000Z",
+    "title": "Castle",
+    "overview": "An attractive detective from Scotland Yard (Brett Tucker) teams up with Castle and Beckett to investigate the murder of his friend's daughter; Lanie tries to talk Beckett into making a move on Castle.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T21:00:00.000Z",
+    "title": "Castle",
+    "overview": "Castle takes on Detective Ethan Slaughter (Adam Baldwin) as his partner when tension between himself and Beckett rises, and he sees a new side to police work that puts him in danger.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T22:00:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "A girl is found dead shortly after sailors invade Boston for Fleet Week; Frost's father comes to town; Maura goes on a date with Angela's mechanic.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-11T23:00:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "When a police officer's daughter is kidnapped, Jane and the team must race to find the girl.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T00:00:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "Jane and Maura investigate when a baseball coach is found dead in a locker room; Tommy returns home after being released from jail.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T01:00:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "A Revolutionary War re-enactment becomes a murder scene; Maura's knowledge of American history helps with an investigation; Maura's mother comes to Boston for an art exhibit.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T02:00:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "Jane and Maura investigate a modern witch hunt; Frankie's old girlfriend returns with a surprise.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:03:00.000Z",
+    "runtime": "63 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T03:03:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "Jane and Maura investigate a family's background when a man is killed; Jane suspects that Maura is hiding something.",
+    "released": "2026-11-12T03:03:00.000Z",
+    "startTime": "2026-11-12T03:03:00.000Z",
+    "endTime": "2026-11-12T04:03:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T04:03:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "When a young dockworker is found dead, the team discovers that there are mob connections; Jane tries to avoid sensitivity training; Maura starts spending time with Jane's brother.",
+    "released": "2026-11-12T04:03:00.000Z",
+    "startTime": "2026-11-12T04:03:00.000Z",
+    "endTime": "2026-11-12T05:01:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T05:01:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "A Revolutionary War re-enactment becomes a murder scene; Maura's knowledge of American history helps with an investigation; Maura's mother comes to Boston for an art exhibit.",
+    "released": "2026-11-12T05:01:00.000Z",
+    "startTime": "2026-11-12T05:01:00.000Z",
+    "endTime": "2026-11-12T06:01:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T06:01:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "Jane and Maura investigate a modern witch hunt; Frankie's old girlfriend returns with a surprise.",
+    "released": "2026-11-12T06:01:00.000Z",
+    "startTime": "2026-11-12T06:01:00.000Z",
+    "endTime": "2026-11-12T07:04:00.000Z",
+    "runtime": "63 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T07:04:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "Jane and Maura investigate a family's background when a man is killed; Jane suspects that Maura is hiding something.",
+    "released": "2026-11-12T07:04:00.000Z",
+    "startTime": "2026-11-12T07:04:00.000Z",
+    "endTime": "2026-11-12T08:04:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T08:04:00.000Z",
+    "title": "Rizzoli & Isles",
+    "overview": "When a young dockworker is found dead, the team discovers that there are mob connections; Jane tries to avoid sensitivity training; Maura starts spending time with Jane's brother.",
+    "released": "2026-11-12T08:04:00.000Z",
+    "startTime": "2026-11-12T08:04:00.000Z",
+    "endTime": "2026-11-12T09:02:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T09:02:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-12T09:02:00.000Z",
+    "startTime": "2026-11-12T09:02:00.000Z",
+    "endTime": "2026-11-12T09:32:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T09:32:00.000Z",
+    "title": "Tired of Pain? Go Drug-Free",
+    "overview": "See how a drug-free patch is helping people find relief-without medication.",
+    "released": "2026-11-12T09:32:00.000Z",
+    "startTime": "2026-11-12T09:32:00.000Z",
+    "endTime": "2026-11-12T10:02:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T10:02:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T10:02:00.000Z",
+    "startTime": "2026-11-12T10:02:00.000Z",
+    "endTime": "2026-11-12T10:32:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T10:32:00.000Z",
+    "title": "David Jeremiah",
+    "overview": "In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Gr",
+    "released": "2026-11-12T10:32:00.000Z",
+    "startTime": "2026-11-12T10:32:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "28 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T11:00:00.000Z",
+    "title": "Creflo Dollar",
+    "overview": "Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; based on the belief that the Bible is the written and inspired Word of God, the show is meant to invoke change in the lives of people across the gl",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T11:30:00.000Z",
+    "title": "Life Today",
+    "overview": "James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in ",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T12:00:00.000Z",
+    "title": "Joyce Meyer Enjoying Everyday Life",
+    "overview": "Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T12:30:00.000Z",
+    "title": "Military Makeover",
+    "overview": "The team has demoed the old to make room for the new as the remodel takes shape; Billy and Autumn get some great advice for their future, and former Makeover recipients stop by to help; the bedroom, backyard and windows get an upgrade.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T13:00:00.000Z",
+    "title": "NCIS",
+    "overview": "Gibbs clashes with Dr. Samantha Ryan (Jamie Lee Curtis) of the PsyOps Division when a Navy reservist is found dead from a suspected suicide; DiNozzo sees McGee's paycheck.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T14:00:00.000Z",
+    "title": "NCIS",
+    "overview": "Security at a Naval research laboratory is in jeopardy after a petty officer's murder links to an arms dealer; probationer Ned Dorneget sucks up to Gibbs.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T15:00:00.000Z",
+    "title": "NCIS",
+    "overview": "When classified information is leaked, the Secretary of the Navy (Matt Craven) investigates alongside Gibbs and Dr. Samantha Ryan (Jamie Lee Curtis).",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T16:00:00.000Z",
+    "title": "The Rookie",
+    "overview": "Officer John Nolan and the team feel they must negotiate with a distraught man who is holding a hospital hostage to ensure his wife receives a lifesaving surgery.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T17:00:00.000Z",
+    "title": "The Rookie",
+    "overview": "The team is called to investigate a train robbery; Officer Chen has doubts about being Sgt. Bradford's aide; Officer Harper takes matters into her own hands and makes a life-changing decision about her personal life.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T18:00:00.000Z",
+    "title": "The Rookie",
+    "overview": "Officer Nolan and the LA division of the FBI enlist the help of FBI trainee Simone Clark when one of her former students is suspected of terrorism following an explosion at a local power station.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T19:00:00.000Z",
+    "title": "Castle",
+    "overview": "When a dead man is found with human bite marks on his body, a witness claims the deceased was attacked by a zombie.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T20:00:00.000Z",
+    "title": "Castle",
+    "overview": "Castle tries to protect Beckett as she pursues the man who shot her; the 12th precinct is forever changed as feelings and secrets are revealed.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T21:00:00.000Z",
+    "title": "Castle",
+    "overview": "Castle and Beckett set aside questions about their relationship in order to take on the forces responsible for the murder of Beckett's mother.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T22:00:00.000Z",
+    "title": "NCIS",
+    "overview": "The investigation into a petty officer's murder leads the team to its prime suspect: Director Vance's brother-in-law.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-12T23:00:00.000Z",
+    "title": "NCIS",
+    "overview": "Tony helps Ziva and her mentor look for a missing Marine lieutenant in Colombia; Jimmy Palmer chooses his best man.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-13T00:00:00.000Z",
+    "title": "NCIS",
+    "overview": "The team works with the Baltimore police to investigate a warehouse fire that revealed missing Navy documents that could potentially threaten national security; Tony reunites with a boy from his past.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-13T01:00:00.000Z",
+    "title": "NCIS",
+    "overview": "An investigation into a fire on a Navy vessel leads to a discovery that elevates security at Navy facilities worldwide; Ziva and DiNozzo are called in when an explosive device is found on a ship in Italy.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-13T02:00:00.000Z",
+    "title": "NCIS",
+    "overview": "As the team searches for a terrorist targeting the Navy, a bug is found in a probationary agent's tooth; Jimmy Palmer has a bachelor party.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:03:00.000Z",
+    "runtime": "63 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-13T03:03:00.000Z",
+    "title": "NCIS",
+    "overview": "Shaken by terrorism, the NCIS faces devastating surprises; the case impacts Jimmy Palmer's destination wedding.",
+    "released": "2026-11-13T03:03:00.000Z",
+    "startTime": "2026-11-13T03:03:00.000Z",
+    "endTime": "2026-11-13T04:03:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e:epg:2026-11-13T04:03:00.000Z",
+    "title": "NCIS",
+    "overview": "Following the bombing of NCIS headquarters, the team engages in a cross-agency manhunt for Harper Dearing.",
+    "released": "2026-11-13T04:03:00.000Z",
+    "startTime": "2026-11-13T04:03:00.000Z",
+    "endTime": "2026-11-13T05:01:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

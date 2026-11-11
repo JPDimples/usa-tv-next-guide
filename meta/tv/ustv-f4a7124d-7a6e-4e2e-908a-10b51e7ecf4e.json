@@ -1,0 +1,519 @@
+{
+ "meta": {
+  "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e",
+  "type": "tv",
+  "name": "Investigation Discovery",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/investigation-discovery-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/investigation-discovery-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Documentaries"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T03:00:00.000Z",
+    "title": "Murder in Whitehouse",
+    "overview": "A 19-year-old nurse's aide heads out with a friend and never returns. As suspects emerge, investigators uncover a darker story of her final night.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T04:00:00.000Z",
+    "title": "Lethally Blonde",
+    "overview": "When the torso of a murdered French Quarter dancer washes up on a Mississippi beach, a community is driven to panic; to catch her killer, detectives must dive into the dark side of New Orleans, uncovering a world of sex, cults and ritual sacrifice.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T05:00:00.000Z",
+    "title": "Deadly Women 2.0",
+    "overview": "A jealous mother in Longmont, Colorado, uses her son to retaliate against an ex who left her for her sister; in Gulf Breeze, Florida, an intense custody dispute escalates into murder.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T06:00:00.000Z",
+    "title": "Murder in Whitehouse",
+    "overview": "A 19-year-old nurse's aide heads out with a friend and never returns. As suspects emerge, investigators uncover a darker story of her final night.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T07:00:00.000Z",
+    "title": "Lethally Blonde",
+    "overview": "When the torso of a murdered French Quarter dancer washes up on a Mississippi beach, a community is driven to panic; to catch her killer, detectives must dive into the dark side of New Orleans, uncovering a world of sex, cults and ritual sacrifice.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T08:00:00.000Z",
+    "title": "A Killer Among Friends",
+    "overview": "When a woman disappears in Florida, her friends uncover a hidden life filled with new relationships and secrets. As investigators follow the trail, suspicion shifts toward someone in her inner circle who may know more than they admit.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T09:00:00.000Z",
+    "title": "Murder Comes to Town",
+    "overview": "When a couple is gunned down, a scrawled message leads police to suspect the crime may be related to drugs, even though there's no evidence the victims were involved in the drug trade.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T10:00:00.000Z",
+    "title": "Murder Comes to Town",
+    "overview": "The discovery of the bullet-riddled bodies of Skyla Whitaker and Taylor Placker inspires panic among the community members of Weleetka, Okla.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T11:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "A 13-year-old girl goes missing, sending Kenda's city into a panic; just when investigators think they've got a handle on what is going on, a cryptic letter to the district attorney's office suggests that the girl isn't the only victim.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T12:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "Lt. Joe Kenda finds the bullet-ridden bodies of a middle-aged couple in a musty suburban house alongside the corpses of their two beloved pets; the case gets stuck in neutral until detectives discover an essential clue hidden behind a birdcage.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T13:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "The murder of a popular teenager at a crowded house party sends Lt. Joe Kenda down a winding road paved with lies, misdirection and innuendo; detectives use blood evidence to solve the shooting death of a firearms enthusiast.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T14:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "A woman is found in the mountains, naked and covered in blood; Detective Joe Kenda's investigation leads him to uncover a world of violence and sexual fetishes, culminating in the most intense interrogation of his career.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T15:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "Teenagers find a woman's corpse while attending a party on the outskirts of the city; detectives quickly determine that the victim was strangled with her own shoelace, but they struggle to identify her.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T16:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "Two teenagers stumble upon a woman engulfed in flames, leaving detectives to wonder who was capable of this magnitude of cruelty; when a college student is strangled in his home, Lt. Joe Kenda must figure out which of his roommates is lying.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T17:00:00.000Z",
+    "title": "Murder in the Heartland",
+    "overview": "In Payette, Idaho, teacher Elizabeth Baune is the pillar of her community until she is stabbed to death in her own home; townspeople suspect Baune's kindness may have been behind her death.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T18:00:00.000Z",
+    "title": "Murder in the Heartland",
+    "overview": "In Aurora, Ind., the townspeople are horrified when beloved mother and hairstylist Leigh Jennings is killed in her own home.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T19:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "Lt. Joe Kenda must put his faith in a burglar to crack the case of a drive-by shooting; Cherie Bradley and her ex-boyfriend Anthony Carroll are found dead, and it's up to Kenda to discover which of their relatives did the deed.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T20:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "When a woman's severed head is found, Lt. Joe Kenda uses forensics and interrogation to find both her body and her killer; a young man's murder looks like a robbery gone wrong until Kenda investigates further.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T21:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "Led astray by addiction, George Ferribee is found executed, then Lt. Joe Kenda learns the victim had recently been kidnapped and assumes the two crimes are related, but Kenda soon discovers things are much more complicated than he had expected.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T22:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "It's New Year's Eve weekend, and in the midst of the revelry, Miguel Mendez is beaten to death outside a convenience store; Lt. Joe Kenda faces a challenging investigation, his only clues coming from a drunken witness and Miguel's strange injuries.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-11T23:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "After two teenagers discover a lifeless body in the street, Lt. Joe Kenda must determine whether the killer was a jealous lover or an unhinged individual; then, Kenda turns to a forensic expert to see if a young mother hanged herself.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T00:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "A star athlete is gunned down just weeks before starting college, leaving his family heartbroken and detectives stumped; Lt. Joe Kenda pries into the victim's personal life and learns more about his last night on Earth.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T01:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "After a young woman is found murdered on the steps of a trailer, Joe Kenda and the homicide team must track down the vile perpetrators responsible for a string of cold-blooded murders.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T02:00:00.000Z",
+    "title": "Homicide Hunter: American Detective",
+    "overview": "The abduction and murder of a beloved young schoolteacher shakes a sleepy New England town to its core. Veteran investigator Robert Cushing is called in to lead the manhunt, but even he is caught off guard by the depravity of the killer's plan.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T03:00:00.000Z",
+    "title": "A Body in the Basement",
+    "overview": "Days after New Year, the close-knit Baychester community in the Bronx is stunned by the sudden disappearance of a beloved local daycare owner. Investigators soon grapple with a shocking twist in the story right under their noses.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T04:00:00.000Z",
+    "title": "A Body in the Basement",
+    "overview": "In rural Pennsylvania, a young family discovers a mysterious skeleton buried in their basement; archeologists come in to identify the body, uncovering the truth about a decades-old missing person's case and a family secret.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T05:00:00.000Z",
+    "title": "Homicide Hunter: American Detective",
+    "overview": "The abduction and murder of a beloved young schoolteacher shakes a sleepy New England town to its core. Veteran investigator Robert Cushing is called in to lead the manhunt, but even he is caught off guard by the depravity of the killer's plan.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T06:00:00.000Z",
+    "title": "A Body in the Basement",
+    "overview": "Days after New Year, the close-knit Baychester community in the Bronx is stunned by the sudden disappearance of a beloved local daycare owner. Investigators soon grapple with a shocking twist in the story right under their noses.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T07:00:00.000Z",
+    "title": "A Body in the Basement",
+    "overview": "In rural Pennsylvania, a young family discovers a mysterious skeleton buried in their basement; archeologists come in to identify the body, uncovering the truth about a decades-old missing person's case and a family secret.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T08:00:00.000Z",
+    "title": "Homicide Hunter: Lt. Joe Kenda",
+    "overview": "After a young woman is found murdered on the steps of a trailer, Joe Kenda and the homicide team must track down the vile perpetrators responsible for a string of cold-blooded murders.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T09:00:00.000Z",
+    "title": "Nightmare Next Door",
+    "overview": "When 18-year-old college freshman Katherine Foster goes missing, rumors fly as fellow students at the University of South Alabama fear the worst.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T10:00:00.000Z",
+    "title": "Nightmare Next Door",
+    "overview": "When Staff Sgt. Michael Severance goes AWOL, the community of San Angelo, Texas, rallies around his bride, then investigators discover a sinister side to his disappearance, uncovering a saga of treachery and passion as big as the state of Texas.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T11:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "In 2011, a 10-month-old baby girl goes missing from her home in Kansas City, Mo., and her family fears she's been kidnapped by a drifter, only to be accused by the police of being responsible for her disappearance.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T12:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "In Grand Prairie, Texas, a game of truth-or-dare leads to a startling confession in the 1995 shooting death of 16-year-old Adrianne Jones.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T13:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "In Craig, Ala., townspeople are shocked when police discover the charred body of beloved mother and wife Lauri Waterman; people have no idea who would want to kill her, then an unlikely witness reveals a sordid story of secrets and lies.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T14:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "A brutal 1970 home invasion claims the lives of Army surgeon Jeffrey MacDonald's wife and daughters, leaving him the lone survivor; authorities doubt his story of murderous hippies and believe MacDonald committed the crime himself.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T15:00:00.000Z",
+    "title": "Where Murder Lies",
+    "overview": "A pregnant woman goes missing, then reappears.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T16:00:00.000Z",
+    "title": "Where Murder Lies",
+    "overview": "A missing mother's ransom notes lead to a mad chase and a disturbing twist.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T17:00:00.000Z",
+    "title": "Where Murder Lies",
+    "overview": "A couple learns their spicy lifestyle may not be a secret to everyone.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T18:00:00.000Z",
+    "title": "Where Murder Lies",
+    "overview": "A Texas housewife finds it easier to keep a secret than to live with one.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T19:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "When a young woman goes missing, a rookie police officer's intuition leads to an intense investigation, as they race against the clock to find her.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T20:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "Detectives must get creative to find their suspect when a Mennonite woman goes missing in January 2020 and forensic evidence from her body leads them to a dead end.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T21:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "One family's American dream goes up in flames; as they try to rebuild what's left, they vow to search for justice.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T22:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "During an armed robbery, a father of three is fatally shot, but for 23 years, another family questions if the wrong man is behind bars.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-12T23:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "The murder of James Byrd, Jr. throws his family into turmoil as law enforcement investigates one of the most gruesome hate crimes in U.S. history.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-13T00:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "Investigators search for links to the mysterious cases of five young people who disappear over a span of four years in the rural area of Lewis-Clark Valley along the Idaho-Washington border.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-13T01:00:00.000Z",
+    "title": "People Magazine Investigates",
+    "overview": "In 2001, someone murders a father, sets his Florida home ablaze and his sons disappear; as prayers rise for their safe return, a so-called family friend steps forward, shifting the case; an interview finally uncovers the truth.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-13T02:00:00.000Z",
+    "title": "Mean Girl Murders",
+    "overview": "Las Vegas is a playground for top female fitness competitors; winning is important, and when jealousy spirals out of control, one woman loses her life.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-13T03:00:00.000Z",
+    "title": "Deadly Women 2.0",
+    "overview": "A jealous mother in Longmont, Colorado, uses her son to retaliate against an ex who left her for her sister; in Gulf Breeze, Florida, an intense custody dispute escalates into murder.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e:epg:2026-11-13T04:00:00.000Z",
+    "title": "The Playboy Murders",
+    "overview": "In the late '90s, Playboy twins Sandy and Mandy Bentley's fame soars until an affair with a Vegas High Roller leads to a fall from fame, stolen jewels, a shadowy buyer and a brutal double murder in the Hollywood Hills.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

@@ -1,0 +1,519 @@
+{
+ "meta": {
+  "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1",
+  "type": "tv",
+  "name": "Smithsonian Channel",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/smithsonian-channel-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/smithsonian-channel-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Documentaries"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T03:00:00.000Z",
+    "title": "Mighty Cruise Ships",
+    "overview": "Royal Clipper is the largest sailing cruise ship in the world, celebrating tall ships of the 19th century while offering modern-day service for its guests.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T04:00:00.000Z",
+    "title": "Mighty Cruise Ships",
+    "overview": "Sailing from Chile and Peru to Ecuador and Costa Rica, the luxurious Seven Seas Explorer cruise ship is full of marble, granite and almost 500 chandeliers.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T05:00:00.000Z",
+    "title": "Mighty Trains",
+    "overview": "The Indian Pacific is a four-day, 4,352-kilometer transcontinental journey across Australia, a trip which features the world's longest straight stretch of railway and steepest incline.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T06:00:00.000Z",
+    "title": "Mighty Trains",
+    "overview": "Go behind the scenes with NTV's two Italo trains - the AGV and the EVO - as they expand to cover more of the Italian railway network, connecting passengers from Turin to Venice, and Naples to Milan, on two of the world's fastest trains.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T07:00:00.000Z",
+    "title": "Mighty Cruise Ships",
+    "overview": "We hop aboard a seven-day cruise to the Canary Islands and Madeira aboard the first large liner to run purely on cleaner-burning liquefied natural gas.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T08:00:00.000Z",
+    "title": "Mighty Cruise Ships",
+    "overview": "The only cruise ship designed specifically to navigate the treasures and dangers at the southern tip of South America.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T09:00:00.000Z",
+    "title": "Mighty Cruise Ships",
+    "overview": "Follow mega cruiser Regal Princess as she whisks guests to Germany, Russia, and Scandinavia in style.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T10:00:00.000Z",
+    "title": "Mighty Cruise Ships",
+    "overview": "Azamara Journey travels the rivers of Southeast Asia, delivering passengers to exotic cities and hidden treasures that larger cruise ships cannot reach.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T11:00:00.000Z",
+    "title": "How Did They Build That?",
+    "overview": "Milwaukee commissions Calatrava to design a museum with 90-ton wings that take flight; Oslo tears down its national ski jump and rebuilds it for the World Championships; and in LA, a 235-foot tower is wrapped in steel bands.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T12:00:00.000Z",
+    "title": "How Did They Build That?",
+    "overview": "In Oklahoma, a sacred spiral mound rises on a former oilfield, honouring 39 tribes; London's crumbling Battersea Power Station is reborn with two million new bricks. And in Spain, Frank Gehry crowns a historic winery.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T13:00:00.000Z",
+    "title": "How Did They Build That?",
+    "overview": "Witness amazing buildings, bridges, lifts, and other structures that pushed structural concrete engineering to the edge.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T14:00:00.000Z",
+    "title": "How Did They Build That?",
+    "overview": "Lord Foster's five-winged steel towers cool Abu Dhabi's national museum naturally; Robots 3D-print a steel bridge in Amsterdam & a concrete tower in Switzerland; and in Sydney, engineers pump out the harbour to build a fish market.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T15:00:00.000Z",
+    "title": "How Did They Build That?",
+    "overview": "NASA's 3D-printed Mars habitat rehearses human life on the red planet. Seoul's historic city hall gains a 13-story glass wave. And in Dallas, 68,000 square feet of concrete galleries balance on legs that want to splay open under.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T16:00:00.000Z",
+    "title": "How Did They Build That?",
+    "overview": "Traveling to New York, Denver and Nice, France to visit Little Island, the Denver Museum of Art and La T\u00eate Carr\u00e9e; the secrets to how they were built are revealed.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T17:00:00.000Z",
+    "title": "How Did They Build That?",
+    "overview": "Witness amazing buildings, bridges, lifts, and other structures that pushed structural concrete engineering to the edge.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T18:00:00.000Z",
+    "title": "How Did They Build That?",
+    "overview": "A Manhattan high-rise; an Athens cultural center; a Singapore university.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T19:00:00.000Z",
+    "title": "How Did They Fix That?",
+    "overview": "Following a million-dollar freight run across four European countries and meeting the drivers, engineers and maintenance teams who keep the train running.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T20:00:00.000Z",
+    "title": "How Did They Fix That?",
+    "overview": "Mike works with repair and construction teams at Dreamworld, Australia's largest theme park, after a cyclone caused $4M in damage; they fix scream machines and finish a $50M expansion featuring the world's first triple switch rollercoaster.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T21:00:00.000Z",
+    "title": "How Did They Fix That?",
+    "overview": "Host Mike Davidson assists on a multi-million-dollar tunnel-boring project underground in Toronto.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T22:00:00.000Z",
+    "title": "How Did They Fix That?",
+    "overview": "Mike Davidson goes on a cross-country road trip to help the Well Done Foundation; they work to find and cap some of the estimated 2 million leaking, toxic abandoned oil and gas wells scattered throughout the U.S.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-11T23:00:00.000Z",
+    "title": "How Did They Fix That?",
+    "overview": "In Grindavik, Iceland, crews repair earthquake fissures, build lava barriers and track magma, gases and ground movement while divers inspect a damaged harbor pier in a town shaped by ongoing eruptions.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T00:00:00.000Z",
+    "title": "How Did They Fix That?",
+    "overview": "In Philadelphia, Mike is on streets, in tunnels, on tracks and in trolley restoration garages; he is working shoulder-to-shoulder with the team that keeps one of America's largest and oldest mass transit systems running smoothly and on time.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T01:00:00.000Z",
+    "title": "How Did They Fix That?",
+    "overview": "At the Panama Canal, crews repair dam and lock gates, dredge the Culebra Cut, maintain electric mules and restore the watershed while battling drought, erosion and rising salinity.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T02:00:00.000Z",
+    "title": "Ice Airport Alaska",
+    "overview": "Coast Guard aviators test themselves in a dangerous exercise to rescue casualties from a mountain; Scientists struggle to land on icy tundra; a bush pilot battles America's tallest peak and cargo crews fight to fit an entire bank on a single plane.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T03:00:00.000Z",
+    "title": "Air Disasters",
+    "overview": "A pilot's decision to let his 15-year-old son fly has disastrous consequences on a commercial flight.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T04:00:00.000Z",
+    "title": "Air Disasters",
+    "overview": "JFK Jr. disappears on the way to Martha's Vineyard; a captain loses his bearings and crashes over the Red Sea; pilots crash a plane over Indonesia.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T05:00:00.000Z",
+    "title": "Air Disasters",
+    "overview": "A complex recovery operation is launched to find out if a 747 which disappeared into the Indian Ocean was carrying illegal weapons.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T06:00:00.000Z",
+    "title": "Air Disasters",
+    "overview": "A Boeing 737 leaving Panama City crashes into one of the most remote and treacherous jungles on the planet.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T07:00:00.000Z",
+    "title": "Air Disasters",
+    "overview": "Investigating the 2009 crash of Colgan Air Flight 3407; the plane stalls at low altitude and dives into a residential area near Buffalo, N.Y.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T08:00:00.000Z",
+    "title": "Air Disasters",
+    "overview": "When Ethiopian Airlines Flight 302 crashes shortly after takeoff, the catastrophe leads to the grounding of the entire Boeing 737 MAX 8 fleet.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T09:00:00.000Z",
+    "title": "Air Disasters",
+    "overview": "Three flight crews face impossible odds: a Boeing 707 loses engines over the Alps as fire spreads, Air Astana 1388 goes out of control over Portugal, and a bomb on PA 434 severs control cables and blasts a hole in the fuselage.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T10:00:00.000Z",
+    "title": "Air Disasters",
+    "overview": "Airplane crashes involving high-profile passengers put added pressure on investigators.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T11:00:00.000Z",
+    "title": "Combat Ships",
+    "overview": "Examining some of maritime history's most effective lightning strikes; how the French frigate Niv\u00f4se set a trap to lure Somali pirates; how the HMS Illustrious captured a well-defended Mediterranean harbor in WWII; a surprise attack on Tokyo in 1942.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T12:00:00.000Z",
+    "title": "Combat Ships",
+    "overview": "Recounting some of maritime warfare's explosions, from world wars and Vietnam to the nuclear tests at Bikini Atoll.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T13:00:00.000Z",
+    "title": "Combat Ships",
+    "overview": "The story of one of the world's most effective war machines: the Viking longship, seeing how its design evolved from swift war canoe to versatile and feared ship that would change the course of history.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T14:00:00.000Z",
+    "title": "Combat Ships",
+    "overview": "A look at the most famous wooden warships over the course of 500 years.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T15:00:00.000Z",
+    "title": "Combat Ships",
+    "overview": "The ships that made mighty empires, from the lone wolves that patrolled the high seas for imperial Britain to the USS Laffey's heroic WWII battle against kamikazes at Okinawa.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T16:00:00.000Z",
+    "title": "Combat Ships",
+    "overview": "A look at some of the rescue ships of the past 200 years of wartime and the brave men and women who risked their lives to save others.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T17:00:00.000Z",
+    "title": "Combat Ships",
+    "overview": "A look at experimental ships and revolutionary designers that have changed the tide of war through the centuries.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T18:00:00.000Z",
+    "title": "Combat Ships",
+    "overview": "A chronological look at the events of the 1944 D-Day landings, and the vessels that made the invasion possible, with an insight into personal stories and engineering wonders.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T19:00:00.000Z",
+    "title": "Combat Ships",
+    "overview": "A look at how technological advances over the centuries have transformed maritime warfare.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T20:00:00.000Z",
+    "title": "Combat Ships",
+    "overview": "Vessels that operate in secret, unseen by their enemies, from secret missions that helped win World War II to modern stealth ships using strange shapes and technology to avoid spying ears and eyes.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T21:00:00.000Z",
+    "title": "Air Warriors",
+    "overview": "Innovative engineering allows the P-38 Lightning to fly faster and climb higher than any other WWII warplane; a twin-propeller fighter with heavy armaments packed into its nose, the P-38 becomes one of America's premiere combat planes during the war.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T22:00:00.000Z",
+    "title": "Air Warriors",
+    "overview": "The AH-64 Apache, one of the most heavily fortified and well-armed helicopters ever built.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-12T23:00:00.000Z",
+    "title": "Air Warriors",
+    "overview": "Exploring the history of the F-18 and how the U.S. Navy's dual-role aircraft has dominated both the air and the battlefields for over three decades.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-13T00:00:00.000Z",
+    "title": "Air Warriors",
+    "overview": "The inside story of the Harrier, the world's most famous short takeoff and vertical landing fighter jet.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-13T01:00:00.000Z",
+    "title": "Air Warriors",
+    "overview": "During the Vietnam War, the United States needed a helicopter that could defend itself; the AH-1 Cobra, the world's first pure attack helicopter.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-13T02:00:00.000Z",
+    "title": "Air Warriors",
+    "overview": "Electronic warfare aircraft; the EA-6B Prowler; the EA-18G Growler.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-13T03:00:00.000Z",
+    "title": "Air Warriors",
+    "overview": "The history of the longest serving bomber in the U.S. military: the B-52 Stratofortress.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1846bbd0-d1e9-4350-9f6d-9e48ae8b57d1:epg:2026-11-13T04:00:00.000Z",
+    "title": "Air Warriors",
+    "overview": "The 50-year evolution of the Army's top transport helicopter, the CH-47 Chinook.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

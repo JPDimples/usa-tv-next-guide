@@ -1,0 +1,579 @@
+{
+ "meta": {
+  "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65",
+  "type": "tv",
+  "name": "Discovery Channel",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/discovery-channel-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/discovery-channel-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Documentaries"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T03:02:00.000Z",
+    "title": "Secret Life of a Vegas Casino",
+    "overview": "Four unique weddings in one day stretch the Golden Nugget's wedding team to their limit; a crack in the 200,000-gallon shark tank raises the alarm; stolen casino keys cause chaos; security breaks up a rowdy wedding party of seniors.",
+    "released": "2026-11-11T03:02:00.000Z",
+    "startTime": "2026-11-11T03:02:00.000Z",
+    "endTime": "2026-11-11T04:02:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T04:02:00.000Z",
+    "title": "Secret Life of a Vegas Casino",
+    "overview": "Reports of loud bangs and bullet holes on the eighth floor spark a tense night before the cause of the chaos is discovered one floor above; a VIP host loses her most valuable client and puts all her hopes of making her monthly quota on a walk-in whale.",
+    "released": "2026-11-11T04:02:00.000Z",
+    "startTime": "2026-11-11T04:02:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T05:00:00.000Z",
+    "title": "Moonshiners",
+    "overview": "When their hillbilly scotch experiment flames out, Mark and Digger light a fire under their still hand, Kelly. Josh's lucrative 80-gallon moonshine order rides on Jerry's unproven vacuum still experiment. Mike devises a recipe to poach Jerry's buyer.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:01:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T06:01:00.000Z",
+    "title": "Secret Life of a Vegas Casino",
+    "overview": "The annual blackjack tournament lures more than big money to the Nugget; it becomes an opportunity to nab notorious thieves; while a VIP host faces a crowd-shy high roller, security hunts down a slot thief and sets a trap for a serial hotel room burglar.",
+    "released": "2026-11-11T06:01:00.000Z",
+    "startTime": "2026-11-11T06:01:00.000Z",
+    "endTime": "2026-11-11T07:02:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T07:02:00.000Z",
+    "title": "Secret Life of a Vegas Casino",
+    "overview": "Four unique weddings in one day stretch the Golden Nugget's wedding team to their limit; a crack in the 200,000-gallon shark tank raises the alarm; stolen casino keys cause chaos; security breaks up a rowdy wedding party of seniors.",
+    "released": "2026-11-11T07:02:00.000Z",
+    "startTime": "2026-11-11T07:02:00.000Z",
+    "endTime": "2026-11-11T08:02:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T08:02:00.000Z",
+    "title": "Secret Life of a Vegas Casino",
+    "overview": "Reports of loud bangs and bullet holes on the eighth floor spark a tense night before the cause of the chaos is discovered one floor above; a VIP host loses her most valuable client and puts all her hopes of making her monthly quota on a walk-in whale.",
+    "released": "2026-11-11T08:02:00.000Z",
+    "startTime": "2026-11-11T08:02:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T09:00:00.000Z",
+    "title": "Mysteries of the Deep",
+    "overview": "A sunken Nazi submarine packed with toxic cargo is a ticking time bomb that could put the whole world at risk; Jeremy Wade reveals the sub's top-secret mission it was on when it sank and how experts keep it from sparking a global catastrophe.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T10:00:00.000Z",
+    "title": "Mysteries of the Deep",
+    "overview": "Jeremy Wade investigates the whereabouts of a lost relic of the Space Age that tarnished the reputation of NASA's first astronauts; cutting-edge technology turns up brand-new evidence that might finally vindicate this American hero.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T11:00:00.000Z",
+    "title": "Tales From the Explorers Club",
+    "overview": "Josh Gates tackles history's most chilling polar adventures, including Robert Peary and Matthew Henson's brave push to the North Pole as well as Ernest Shackleton's epic survival in Antarctic ice.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T12:00:00.000Z",
+    "title": "Tales From the Explorers Club",
+    "overview": "Josh Gates recounts the death-defying exploits of Edmund Hillary and Tenzing Norgay, who summit Mount Everest; two submariners plunge seven miles under the Pacific; a pilot skydives from the edge of space.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T13:00:00.000Z",
+    "title": "Tales From the Explorers Club",
+    "overview": "Josh Gates explores daring journeys, including the Kon-Tiki balsa raft crossing the Pacific, NASA's lunar rover making tracks on the moon and an airplane flying around the world without the use of fuel.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T14:00:00.000Z",
+    "title": "Tales From the Explorers Club",
+    "overview": "Josh Gates explores how club members' swashbuckling exploits inspired Hollywood; a bullwhip-cracking archaeologist may be the real-life Indiana Jones; a Nazi mountaineer's life-changing \"Seven Years in Tibet\" became a Brad Pitt star turn.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T15:00:00.000Z",
+    "title": "Tales From the Explorers Club",
+    "overview": "Josh Gates boldly explores members' most heart-pounding journeys into space; Apollo 13 astronauts fight to bring their crippled spacecraft 238,000 miles back to Earth and futuristic SpaceShipOne could give others a chance to travel to space.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T16:00:00.000Z",
+    "title": "Expedition Files",
+    "overview": "Josh Gates investigates conspiracy theories, including new discoveries suggesting the Titanic was sunk by more than just an iceberg, the true story behind the death of Harry Houdini and lost Civil War gold that spawned a lawsuit against the FBI.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T17:00:00.000Z",
+    "title": "Expedition Files",
+    "overview": "Josh Gates looks closely at some of history's most intriguing hoaxes and unexplained events, including the Amityville Horror, the strange fate of a military submarine crew, and a phenomenon in which people's body fat causes them to burn alive.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T18:00:00.000Z",
+    "title": "Expedition Files",
+    "overview": "Josh Gates investigates sensationalistic stories, seeking the truth behind the unexplained: rock legend Jim Morrison's death, a bizarre, preserved mermaid found in a Japanese temple, and claims of alien abduction from a U.S. Airman.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T19:00:00.000Z",
+    "title": "Expedition Files",
+    "overview": "From a secret World War II unit that deceived Nazis, to the alleged crimes of the Knights Templar and a royal death tied to a scandal, Josh Gates explores mysteries built on coverups; was the truth buried to protect power, reputation and empires?",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T20:00:00.000Z",
+    "title": "Expedition Files",
+    "overview": "Josh Gates explores American history, including a theory that John Wilkes Booth escaped justice -- only to meet a stranger fate; learn myth-busting truths behind Paul Revere's midnight ride and a U.S. Navy sub that vanished in the Cold War.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T21:00:00.000Z",
+    "title": "Expedition Unknown",
+    "overview": "Josh investigates America's daring response to Pearl Harbor, which destroyed a vital Japanese base in the South Pacific; using brand-new intel, Josh dives in with Project Recover to find 40 planes and 200 American heroes lost in Operation Hailstone.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T22:00:00.000Z",
+    "title": "Expedition Unknown",
+    "overview": "Josh dives deep into the Navy's Pearl Harbor counterattack, uncovering an eyewitness who shares details of American soldiers' executions; new intel leads to the discovery of the first U.S. plane ever found from this battle.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-11T23:00:00.000Z",
+    "title": "Expedition Unknown",
+    "overview": "A three-man crew of Navy pilots training for World War II crashed into the Pacific Ocean 75 years ago; Josh Gates teams up with Project Recover on a daring mission to find the plane and bring closure for the three souls who have never been found.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T00:00:00.000Z",
+    "title": "Expedition Unknown",
+    "overview": "Josh Gates explores the case of WASP pilot Gertrude \"Tommy\" Tompkins who went missing in her P-51 Mustang during World War II; Josh joins search teams using modern technology to locate Tompkins' lost aircraft.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T01:00:00.000Z",
+    "title": "Expedition Unknown",
+    "overview": "Josh Gates takes on the Indian Ocean's punishing waters as he chases a lost treasure that is rumored to be worth more than $1 billion.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T02:00:00.000Z",
+    "title": "Expedition Unknown",
+    "overview": "Josh Gates travels the world in search of adventure, leaving no stone unturned as he investigates history's most iconic legends. Now, he's offering brand-new updates on his favorite stories, including behind-the-scenes details he's never shared before.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:01:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T03:01:00.000Z",
+    "title": "Monsters Inside Me",
+    "overview": "Revealing an extraordinary medical first, a woman pulls live worms from her eye; a hunter discovers that a tick bite has turned eating everyday food into a dangerous gamble; a woman returns from Hawaii with parasites attacking her nervous system.",
+    "released": "2026-11-12T03:01:00.000Z",
+    "startTime": "2026-11-12T03:01:00.000Z",
+    "endTime": "2026-11-12T04:02:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T04:02:00.000Z",
+    "title": "Expedition Unknown",
+    "overview": "Josh dives the Atlantic in search of millions in lost coins that sunk with America's Titanic.",
+    "released": "2026-11-12T04:02:00.000Z",
+    "startTime": "2026-11-12T04:02:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T05:00:00.000Z",
+    "title": "Expedition Unknown",
+    "overview": "Josh Gates takes on the Indian Ocean's punishing waters as he chases a lost treasure that is rumored to be worth more than $1 billion.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T06:00:00.000Z",
+    "title": "Expedition Unknown",
+    "overview": "Josh Gates travels the world in search of adventure, leaving no stone unturned as he investigates history's most iconic legends. Now, he's offering brand-new updates on his favorite stories, including behind-the-scenes details he's never shared before.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:01:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T07:01:00.000Z",
+    "title": "Monsters Inside Me",
+    "overview": "Revealing an extraordinary medical first, a woman pulls live worms from her eye; a hunter discovers that a tick bite has turned eating everyday food into a dangerous gamble; a woman returns from Hawaii with parasites attacking her nervous system.",
+    "released": "2026-11-12T07:01:00.000Z",
+    "startTime": "2026-11-12T07:01:00.000Z",
+    "endTime": "2026-11-12T08:02:00.000Z",
+    "runtime": "61 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T08:02:00.000Z",
+    "title": "Expedition Unknown",
+    "overview": "Josh dives the Atlantic in search of millions in lost coins that sunk with America's Titanic.",
+    "released": "2026-11-12T08:02:00.000Z",
+    "startTime": "2026-11-12T08:02:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "58 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T09:00:00.000Z",
+    "title": "Mysteries of the Abandoned",
+    "overview": "A Mediterranean island paradise is not all that it seems; a complex of abandoned buildings once served to imprison the world's most dangerous Mafiosi; experts reveal who was imprisoned here and the secrets they left behind.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T10:00:00.000Z",
+    "title": "Mysteries of the Abandoned",
+    "overview": "A complex of tall, windowless buildings in the American Rust Belt hold the secrets to a lost empire of industry and wealth; experts investigate these mysterious structures to reveal why this once powerful metropolis is now home to abandoned ruins.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T11:00:00.000Z",
+    "title": "How It's Made",
+    "overview": "Leather briefcases; crop-dusters; corn whiskey; drag-racing clutches.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T11:30:00.000Z",
+    "title": "How It's Made",
+    "overview": "Worcestershire sauce; lawn bowls; radio-controlled model jets.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T12:00:00.000Z",
+    "title": "How It's Made",
+    "overview": "How flying water bikes, paint and cinnamon cordial are made.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T12:30:00.000Z",
+    "title": "How It's Made",
+    "overview": "An insight into how steel bistro furniture, letterpress printing, bamboo ceramic lights and asphalt compactors are made.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T13:00:00.000Z",
+    "title": "How It's Made",
+    "overview": "Witness samples; pressure washers; beehives; cast iron cookers.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T13:30:00.000Z",
+    "title": "How It's Made",
+    "overview": "Fish rubbings; clay shooting machines; almonds; high-end motorcycles.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T14:00:00.000Z",
+    "title": "How It's Made",
+    "overview": "The processes of making compression and extension springs, micro drill bits, skiffs, and painted glass backsplashes.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T14:30:00.000Z",
+    "title": "How It's Made",
+    "overview": "Steamer baskets; three-wheel scooters; pre-fabricated conservatories; copper cookware.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T15:00:00.000Z",
+    "title": "How It's Made",
+    "overview": "Exploring the production processes of everyday items, including spinning reels, plasma protein therapies, 3D cups and stainless steel beer kegs.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T15:30:00.000Z",
+    "title": "How It's Made",
+    "overview": "How classic car gauges, chocolate marble cake, ghillie kettles and rubber gloves are made.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T16:00:00.000Z",
+    "title": "How It's Made",
+    "overview": "Exploring how everyday items like pasta dies, blueberries, composting toilets and surge arresters are made.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T16:30:00.000Z",
+    "title": "How It's Made",
+    "overview": "Curious minds find out how things like graphene, the world's smallest car, force testers and composite cars are manufactured.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T17:00:00.000Z",
+    "title": "Filthy Fortunes",
+    "overview": "Matt chases a rare copy of the Declaration of Independence in a hoard; he digs through a 4,000-square-foot chicken coop for vintage motorcycles; a vintage Coca-Cola vending machine could be a big find if they can get it out of the chicken coop.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T18:00:00.000Z",
+    "title": "Filthy Fortunes",
+    "overview": "The team pulls 50,000 pounds of trash from a hoarder's Tennessee farmhouse. A safe could hold a generational jewelry collection. Matt takes down a hazardous barn and salvages the wood for hard cash. A rare Spider-Man comic sells for more than $15,000.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T19:00:00.000Z",
+    "title": "Filthy Fortunes",
+    "overview": "A New York City home features Back to the Future self-lacing sneakers worth up to $100,000, mint-condition Knight Rider toys, and hip-hop tour jackets. The team also cleans a rural property covered in scrap metal to hunt for rare Olympics memorabilia.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T20:00:00.000Z",
+    "title": "Filthy Fortunes",
+    "overview": "A widower's home is so dangerously packed and impassable that his family will no longer visit. Matt's team scrambles to sell boats, vintage motorcycles, and barbershop equipment. A surprise find of unique Magic Johnson memorabilia could score big bucks.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T21:00:00.000Z",
+    "title": "Filthy Fortunes",
+    "overview": "Matt hunts for rare liquor, hand-rolled cigars and vintage drums in two California hoards; when the owners refuse to part with key items, Matt's bottom line is threatened.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T22:00:00.000Z",
+    "title": "Filthy Fortunes",
+    "overview": "Matt and his troops head to the Pacific Northwest to search a three-barn hoard loaded with U.S. military treasures, including Willy's Jeeps and uniforms; a biohazard mess hides first-generation computers and video equipment at a second location.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-12T23:00:00.000Z",
+    "title": "MythBusters",
+    "overview": "The team tests if NASA really did land on the Moon.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-13T00:00:00.000Z",
+    "title": "MythBusters",
+    "overview": "Adam and Jamie take a fan mail film and use it to dial in on a phone book fable; the rest of the team test a fishy tale of Hollywood pyrotechnics with their own big bang theories.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-13T01:00:00.000Z",
+    "title": "MythBusters",
+    "overview": "The MythBusters go to the Indianapolis Motor Speedway to test racing myths.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-13T02:00:00.000Z",
+    "title": "MythBusters",
+    "overview": "Adam and Jamie test whether hands-free driving is a safe way to make a call while behind the wheel.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-13T03:00:00.000Z",
+    "title": "MythBusters",
+    "overview": "Stow your tray tables because in this aviation extravaganza Adam and Jamie tackle two flights of fantasy.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65:epg:2026-11-13T04:00:00.000Z",
+    "title": "MythBusters",
+    "overview": "Adam and Jamie test out theories surrounding driving in the rain; they find out whether it is possible to stay dry by putting pedal to the metal.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

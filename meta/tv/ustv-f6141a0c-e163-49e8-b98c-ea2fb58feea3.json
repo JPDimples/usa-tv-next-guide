@@ -1,0 +1,829 @@
+{
+ "meta": {
+  "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3",
+  "type": "tv",
+  "name": "BET",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/bet-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bet-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T03:00:00.000Z",
+    "title": "Nick Cannon @ Night",
+    "overview": "Dondre Whitfield and Dr. Zoe Indigo join Nick for a candid conversation about hygiene, attraction and dating; from washing your legs to sleeping in makeup, they ask: how clean is clean enough and what really turns a partner off?",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T04:00:00.000Z",
+    "title": "Martin",
+    "overview": "A garage sale becomes necessary after Gina (Tisha Campbell) and her clutter move back in with Martin (Martin Lawrence).",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T04:30:00.000Z",
+    "title": "Martin",
+    "overview": "Martin (Martin Lawrence) befriends his old prom date's son and begins to suspect the boy might be his own child; with Tisha Campbell and Tichina Arnold.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T05:00:00.000Z",
+    "title": "Martin",
+    "overview": "Martin (Martin Lawrence) goes on a spending spree when he discovers he has a winning lottery ticket; with Tisha Campbell and Tichina Arnold.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T05:30:00.000Z",
+    "title": "Martin",
+    "overview": "Martin (Martin Lawrence) recruits Gina (Tisha Campbell) to help spy on Tommy (Thomas Mikal Ford) to find out what he does for a living.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T06:00:00.000Z",
+    "title": "Martin",
+    "overview": "The men decide they are better cooks than Gina and Pam, creating a Thanksgiving battle of the sexes.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T06:30:00.000Z",
+    "title": "Martin",
+    "overview": "Gina secretly withdraws $600 from the joint account she shares with Martin to pay off unpaid parking fines.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T07:00:00.000Z",
+    "title": "Martin",
+    "overview": "Martin celebrates Christmas, Hanukkah and Kwanzaa on his cable show; Santa threatens to blow up the station.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T07:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie (Jamie Foxx) is swindled by a music producer (Ed Lover) who steals the love song he wrote for Fancy (Garcelle Beauvais).",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T08:00:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie and Fancy's (Jamie Foxx, Garcelle Beauvais) fledgling friendship founders because they can't stay out of the bedroom.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T08:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "While Jamie recoils from selling his soul to a big record label, he has a nightmare inspired by \"The Matrix.\".",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T09:00:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Aunt Helen won't let Jamie make his steamy music video at the hotel, and his star refuses to get naked.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T09:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "When Fancy (Garcelle Beauvais) meets someone new, Jamie (Jamie Foxx) tries to monopolize her time by pretending to be sick.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T10:00:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie (Jamie Foxx) finds size 22 basketball shoes underneath Fancy's (Garcelle Beauvais) bed while poking around her apartment. Guest stars: NBA players Kevin Garnett and Derek Fisher.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T10:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie (Jamie Foxx) finds himself competing with Cupid (guest star Gary Coleman) for Fancy's (Garcelle Beauvais) affections.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T11:00:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie and Fancy agree not to have bachelor and bachelorette parties, and then promptly begin planning wild blowouts.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T11:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Helen and Junior bequeath the hotel to Jamie and Fancy as they announce their retirement from the business.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T12:00:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie (Jamie Foxx) serenades his bride (Garcelle Beauvais) with a wedding song on their special day. Guest stars: Gladys Knight, Gerald Levert, Marilyn McCoo, James Avery, Billy Davis Jr. and E-40.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T12:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Trying to win favor with Fancy, Jamie becomes a Big Brother, but ends up with more than he bargained for.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T13:00:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "Will and Carlton convince Geoffrey that he has won a multimillion-dollar lottery.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T13:30:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "The house is robbed after Philip hires an ex-convict handyman.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T14:00:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T14:30:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "Will is smitten with an old-fashioned young woman who insists his amorous intentions include marriage.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T15:00:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "A despondent Carlton is visited by his guardian angel after being rejected by Princeton.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T15:30:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "Carlton is hospitalized when he mistakes Will's amphetamines for vitamins on the night of the senior prom.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T16:00:00.000Z",
+    "title": "Family Matters",
+    "overview": "Ventriloquist Steve's look-alike dummy comes to life on Halloween.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T16:30:00.000Z",
+    "title": "Family Matters",
+    "overview": "As a playground supervisor, Steve has a hard time controlling the bullies.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T17:00:00.000Z",
+    "title": "Family Matters",
+    "overview": "The music group New Edition helps Stefan woo Laura when their long-distance relationship begins to suffer.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T17:30:00.000Z",
+    "title": "Family Matters",
+    "overview": "Myrtle Urkel pushes Eddie to marry her and has Big Daddy help her apply the pressure.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T18:00:00.000Z",
+    "title": "Family Matters",
+    "overview": "Carl hopes to get a promotion by hosting a fancy dinner party for his superiors.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T18:30:00.000Z",
+    "title": "Family Matters",
+    "overview": "Carl and Steve serve on the same jury, where Steve's investigative talent comes into play.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T19:00:00.000Z",
+    "title": "The Jennifer Hudson Show",
+    "overview": "Actress Goldie Hawn; comic Andy Lee (animated series \"Do Not Watch This Show\").",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T20:00:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "Renee quits, and Sasha hires a replacement; Derek turns to Brown after loosing his girlfriend.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:32:00.000Z",
+    "runtime": "32 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T20:32:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "An overzealous bill collector harasses Brown; Will finds out Sasha is taking birth control.",
+    "released": "2026-11-11T20:32:00.000Z",
+    "startTime": "2026-11-11T20:32:00.000Z",
+    "endTime": "2026-11-11T21:05:00.000Z",
+    "runtime": "33 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T21:05:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "When Tina insists Calvin find something to do in retirement, he decides to enter a competitive cornhole tournament; Marty plans an elaborate \"groom-posal\" to ask Malcolm to be his best man.",
+    "released": "2026-11-11T21:05:00.000Z",
+    "startTime": "2026-11-11T21:05:00.000Z",
+    "endTime": "2026-11-11T21:42:00.000Z",
+    "runtime": "37 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T21:42:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "A bombshell about Marty's future plans leaves Calvin and Tina reeling; Dave unleashes his wild side at Marty's bachelor party.",
+    "released": "2026-11-11T21:42:00.000Z",
+    "startTime": "2026-11-11T21:42:00.000Z",
+    "endTime": "2026-11-11T22:18:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T22:18:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "The Butlers and Johnsons come together to support Marty in the aftermath of a major life change.",
+    "released": "2026-11-11T22:18:00.000Z",
+    "startTime": "2026-11-11T22:18:00.000Z",
+    "endTime": "2026-11-11T22:55:00.000Z",
+    "runtime": "37 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-11T22:55:00.000Z",
+    "title": "Celebrity Family Feud",
+    "overview": "Celebrity contestants Rosie O'Donnell and Billy Porter.",
+    "released": "2026-11-11T22:55:00.000Z",
+    "startTime": "2026-11-11T22:55:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "65 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T00:00:00.000Z",
+    "title": "Celebrity Family Feud",
+    "overview": "Celebrity contestants from \"Inside the NBA\" and MLB All-Stars; retired football player Rashad Jennings and TV personality Eve.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T01:00:00.000Z",
+    "title": "Celebrity Family Feud",
+    "overview": "Celebrity contestants include Steph Curry, Chris Paul, Laurie Hernandez and Shawn Johnson East.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T02:00:00.000Z",
+    "title": "Tyler Perry's Sistas",
+    "overview": "Fatima helps Danni build the strength necessary to strike back at Officer Green; Andi navigates the constant betrayal from Cheyenne; Mr. Keyes pops up at Zac and Fatima's to have a heart-to-heart with Zac.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T03:00:00.000Z",
+    "title": "Church Wives",
+    "overview": "Morgan and Dominique collaborate and try to get Brianna on their side; just as everything starts to come together for them to take down First Lady Graves, sabotage at the fashion show threatens their plans.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T03:30:00.000Z",
+    "title": "Tyler Perry's Zatima",
+    "overview": "Leslie's obsession with Fatima escalates with a trip to Belinda's salon, Dr. Reid provides Zac with much-needed accountability and Connie finds Jeremiah in a state of despair.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T04:00:00.000Z",
+    "title": "Church Wives",
+    "overview": "Morgan and Dominique collaborate and try to get Brianna on their side; just as everything starts to come together for them to take down First Lady Graves, sabotage at the fashion show threatens their plans.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T04:30:00.000Z",
+    "title": "Tyler Perry's Sistas",
+    "overview": "Fatima helps Danni build the strength necessary to strike back at Officer Green; Andi navigates the constant betrayal from Cheyenne; Mr. Keyes pops up at Zac and Fatima's to have a heart-to-heart with Zac.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T05:30:00.000Z",
+    "title": "Martin",
+    "overview": "Gina and Pam attempt to elevate their careers by joining the Ladies League of Detroit; guest stars Roxanne Reese, Simbi Khali, Ann Weldon and Ethel Ayler.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T06:00:00.000Z",
+    "title": "Martin",
+    "overview": "Martin (Martin Lawrence) and his friends are snowed in at Martin's apartment with no gas, water or electricity; with Tisha Campbell, Tichina Arnold, Thomas Mikal Ford and Carl Anthony Payne II.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T06:30:00.000Z",
+    "title": "Martin",
+    "overview": "Martin and Gina dine together with their former sweethearts to make sure there aren't any unresolved feelings.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T07:00:00.000Z",
+    "title": "Martin",
+    "overview": "Martin (Martin Lawrence) arranges a fund-raiser for a troubled movie theater with stars from the '70s attending; guest stars: Pam Grier, Ja'net DuBois, Nathaniel Taylor and Antonio Fargas.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T07:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Trying to win favor with Fancy, Jamie becomes a Big Brother, but ends up with more than he bargained for.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T08:00:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "When Jamie's (Jamie Foxx) ex turns up at the hotel, he misreads her intentions about getting together again.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T08:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Braxton (Christopher B. Duncan) proves himself a ladykiller when he and Jamie (Jamie Foxx) spend a night on the town. NBA star Gary Payton guest stars.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T09:00:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie uses Aunt Helen's sweet-potato pie recipe to go into business.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T09:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Braxton's (Christopher B. Duncan) uncouth parents embarrass him when they attend a dinner held in his honor.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T10:00:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "The diamond ring Junior bought for Helen won't come off Fancy's finger.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T10:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "An accidental Halloween kiss leaves Jamie and Fancy (Jamie Foxx, Garcelle Beauvais) fantasizing about each other.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T11:00:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie (Jamie Foxx) looks to get his big show biz break from one of Uncle Junior's (Garrett Morris) old Army buddies.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T11:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie lands a small role in an action film, but when he knocks out a main actor, he must face the film's star, Jackie Chin.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T12:00:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie (Jamie Foxx) suspects a serial killer is loose in the hotel and that Fancy (Garcelle Beauvais) is his next victim. Guest stars David Koechner.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T12:30:00.000Z",
+    "title": "The Jamie Foxx Show",
+    "overview": "Jamie (Jamie Foxx) takes advantage of his acquaintance with a football star (guest star Dondre Whitfield) to promote the hotel. With Garrett Morris.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T13:00:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "Will and Uncle Phil get stuck in an elevator just as Vivian is about to give birth.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:36:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T13:36:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "The boys gamble away their money to a female card shark who takes a fancy to Carlton, making her boyfriend jealous.",
+    "released": "2026-11-12T13:36:00.000Z",
+    "startTime": "2026-11-12T13:36:00.000Z",
+    "endTime": "2026-11-12T14:12:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T14:12:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "Will welcomes a childhood friend who is in L.A. to compete in a comedy club showcase.",
+    "released": "2026-11-12T14:12:00.000Z",
+    "startTime": "2026-11-12T14:12:00.000Z",
+    "endTime": "2026-11-12T14:48:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T14:48:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "Aunt Vivian and Uncle Phil decide to renew their wedding vows on their 25th wedding anniversary.",
+    "released": "2026-11-12T14:48:00.000Z",
+    "startTime": "2026-11-12T14:48:00.000Z",
+    "endTime": "2026-11-12T15:24:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T15:24:00.000Z",
+    "title": "The Fresh Prince of Bel-Air",
+    "overview": "In order to graduate, Will must enroll in a music class for child prodigies and dress as a flower for the school play.",
+    "released": "2026-11-12T15:24:00.000Z",
+    "startTime": "2026-11-12T15:24:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "36 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T16:00:00.000Z",
+    "title": "Family Matters",
+    "overview": "Laura is excited about joining a sorority until she learns Steve has been named the star of its annual geek party.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T16:30:00.000Z",
+    "title": "Family Matters",
+    "overview": "Laura and Maxine realize they can share almost anything, except their affection for Curtis. With Jaleel White.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T17:00:00.000Z",
+    "title": "Family Matters",
+    "overview": "Carl and Steve (Reginald VelJohnson, Jaleel White) go back in time together, where Carl ignores Steve's warnings and alters history.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T17:30:00.000Z",
+    "title": "Family Matters",
+    "overview": "Steve's cousin, Myrtle, arrives with her sights set on winning the local beauty pageant and Eddie's affections.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T18:00:00.000Z",
+    "title": "Family Matters",
+    "overview": "Eddie transforms himself into Steve Urkel to compete in a game show, not knowing that Steve is competing in the same show.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T18:30:00.000Z",
+    "title": "Family Matters",
+    "overview": "Carl invites Harriette to join his poker game; Eddie convinces Steve to fill in for him at work and comes to regret it.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T19:00:00.000Z",
+    "title": "The Jennifer Hudson Show",
+    "overview": "Zach Braff and Sarah Chalke (\"Scrubs\"); a single mom and pharmaceutical scientist who has raised two incredible young men gets a heartwarming surprise.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T20:00:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "Someone steals Sasha's wallet while at a club; Brianna knows who stole the wallet.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T20:30:00.000Z",
+    "title": "Tyler Perry's Meet the Browns",
+    "overview": "Brown's cousin shows up with a get rich scheme; Brianna learns a lesson about texting and driving.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T21:00:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "Calvin and Marty encounter difficulties trying to secure financing for their new business; Dave invites his boss to Grover's 13th birthday party, much to Gemma's frustration.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T21:30:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "With her usual stylist unavailable, Gemma decides to use Tina's hairdresser for an important work event; Malcolm discovers a connection with his new professor.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T22:00:00.000Z",
+    "title": "The Neighborhood",
+    "overview": "Calvin and Marty are surprised when their new business sparks protests from residents concerned about gentrification; Grover's family tree project reveals fresh details about the whereabouts of Dave's estranged father.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T22:30:00.000Z",
+    "title": "Celebrity Family Feud",
+    "overview": "Celebrity contestants include Jeff Dunham, Ming-Na Wen, Taye Diggs and Caroline Rhea.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:40:00.000Z",
+    "runtime": "70 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-12T23:40:00.000Z",
+    "title": "Celebrity Family Feud",
+    "overview": "Celebrity teams are led by Sherri Shepherd, Ian Ziering, Tommy Chong, and Derek Fisher and Gloria Govan.",
+    "released": "2026-11-12T23:40:00.000Z",
+    "startTime": "2026-11-12T23:40:00.000Z",
+    "endTime": "2026-11-13T00:50:00.000Z",
+    "runtime": "70 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-13T00:50:00.000Z",
+    "title": "Celebrity Family Feud",
+    "overview": "Celebrity contestants include Jason George, Jaina Lee Ortiz, Danielle Kathleen Savre, Okieriete Onaodowan, Barrett Doss, Chandra Wilson, James Pickens Jr., Kelly McCreary, Sarah Drew and Giacomo Gianniotti.",
+    "released": "2026-11-13T00:50:00.000Z",
+    "startTime": "2026-11-13T00:50:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "70 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3:epg:2026-11-13T02:00:00.000Z",
+    "title": "Money Train",
+    "overview": "Charlie (Woody Harrelson) is a New York City transit cop with a mountain of gambling debts, and John (Wesley Snipes) is his responsible, and frequently exasperated, foster brother. They compete amicably for the affections of fellow officer Grace (Jennifer Lopez), but things become more serious when ",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

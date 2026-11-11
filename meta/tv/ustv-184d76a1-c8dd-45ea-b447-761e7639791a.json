@@ -1,0 +1,809 @@
+{
+ "meta": {
+  "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a",
+  "type": "tv",
+  "name": "Cooking Channel",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cooking-channel-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cooking-channel-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Lifestyle"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T03:00:00.000Z",
+    "title": "Anthony Bourdain: No Reservations",
+    "overview": "Sushi, kendo and Japanese flower arranging in Tokyo.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T04:00:00.000Z",
+    "title": "Anthony Bourdain: No Reservations",
+    "overview": "Tony visits with Egyptian locals to get a taste for what it means to be Egyptian.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T05:00:00.000Z",
+    "title": "Man Fire Food",
+    "overview": "Custom earthenware bakers; 50-gallon metal-barrel oven.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T05:30:00.000Z",
+    "title": "Man Fire Food",
+    "overview": "Barbecue destinations in Charleston, S.C.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T06:00:00.000Z",
+    "title": "Anthony Bourdain: No Reservations",
+    "overview": "In a stadium filled with excited fans, Tony experiences baseball through the eyes of the Cuban spectator; Tony visits Robert Salas, who shows him some incredible pictures of Castro and the revolution.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T07:00:00.000Z",
+    "title": "Anthony Bourdain: No Reservations",
+    "overview": "Sushi, kendo and Japanese flower arranging in Tokyo.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T08:00:00.000Z",
+    "title": "Anthony Bourdain: No Reservations",
+    "overview": "Tony visits with Egyptian locals to get a taste for what it means to be Egyptian.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T09:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T09:30:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T10:00:00.000Z",
+    "title": "See Wrinkles and Bags Vanish Instantly With GEN90!!",
+    "overview": "GEN90 Instant Wrinkle Treatment with Retinol will turn back the clock! The Pharmacist's solution for wrinkles, instant and long-term! Visibly reduces the appearance of crow's feet and fine lines instantly! Get fast, visible, long-lasting results!",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T10:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T11:00:00.000Z",
+    "title": "Roadtrip With G. Garvin",
+    "overview": "New Orleans-style jambalaya that brings Bourbon Street straight to Oahu; a juicy pulled pork sandwich and classic down-home kale salad, topped off with strawberry cream pie.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T11:30:00.000Z",
+    "title": "Roadtrip With G. Garvin",
+    "overview": "Lau Lau pork and cabbage; ribs, brisket and chicken; Hawaiian poke.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T12:00:00.000Z",
+    "title": "Roadtrip With G. Garvin",
+    "overview": "G. Garvin heads back to his hometown of Atlanta; shrimp and grits; red velvet cake; fried chicken.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T12:30:00.000Z",
+    "title": "Roadtrip With G. Garvin",
+    "overview": "A visit to 610 Magnolia in Louisville, Ky., for slow-cooked oxtails; Hammerheads' eclectic menu; Juanita's Burger Boy Diner, serves classic diner fare; The Rudyard Kipling, known for burgoo, a meat and veggie stew.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T13:00:00.000Z",
+    "title": "Cheap Eats",
+    "overview": "Ali Khan searches for the best deals in Philadelphia for breakfast, lunch, dinner and a snack; Ali starts with a local favorite: a scrapple, egg and cheese dip sandwich, then he hunts down roast pork with provolone and spinach for lunch.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T13:30:00.000Z",
+    "title": "Cheap Eats",
+    "overview": "Ali enjoys a day off with creamy grits; crab cake sandwich; seafood-stuffed hushpuppies; Carolina pulled pork dinner.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T14:00:00.000Z",
+    "title": "Cheap Eats",
+    "overview": "Ali enjoys pancakes, Chinese noodles and a shrimp po' boy in Boulder, Colo.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T14:30:00.000Z",
+    "title": "Cheap Eats",
+    "overview": "Ali visits a Richmond bakery that adds a spicy twist to a traditional Southern biscuit; he heads to a diner for a curry-inspired country omelet; he finishes up his visit with a soul food dinner of fried catfish.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T15:00:00.000Z",
+    "title": "Cheap Eats",
+    "overview": "Ali visits Indianapolis and tries a decadent sourdough sugar pearl waffle breakfast and enjoys a house-cured sausage sandwich for lunch; a vegan key-lime cheesecake; a breaded pork tenderloin sandwich.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T15:30:00.000Z",
+    "title": "Cheap Eats",
+    "overview": "Ali Khan visits Asheville, N.C., and he starts his day off big with a breakfast of fried chicken covered in sausage gravy, accompanied by Southern-sized sides; the booming food truck scene; tasty Thai served up fresh on a homemade bao.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T16:00:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Margaret's Soul Food Fried Chicken; Big Daddy's BBQ Ribs; fried green tomatoes; lobster rolls; apple pie fries.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T16:30:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Visiting the Brandywine Strawberry Festival in Pennsylvania for a crab cake/roast beef combo; Silver Dollar Fair in Chico, Calif., to sample the Sinfully Sweet Spicy Cheese Pretzel.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T17:00:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Bacon is the star of its own blockbuster sequel and host Noah Cappe is at the front of the line to savor even more bacon-tastic fairground favorites.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T17:30:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Noah Cappe hits the Wisconsin State Fair, where a local brewery is serving a deep-fried combo of beer, brats and cheese curds; milk and cookies are inverted; a combination of onion rings and a grilled hot dog; cold brew coffee treat.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T18:00:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Beef tongue tacos in Portland; donut Sloppy Joe in North Carolina.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T18:30:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "The Indiana State Fair serves up fair foods including a colossal grilled cheese sandwich and YaYa's tomato balls; Noah samples fare from Old Canal Days in Lockport, Ill. including loaded potato bites and a Chicago-style pizza pie.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T19:00:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "Uncovering the most famous foods in a Peruvian city by the sea.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T19:30:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "Beer, cheese curds, bratwurst, frozen custard and butter burgers.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T20:00:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "Chicago, Illinois, is a world-class food paradise; Andrew explores Windy City classics, from deep dish pizza and all-beef hot dogs to chicken Vesuvio and Garrett Popcorn.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T20:30:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "Divulging Honolulu's favorite culinary classics; from smoky, tender kalua pig and sweet-tooth-satisfying shaved ice to raw fish poke and a Hawaiian favorite spiked with Spam, there's a bounty of multicultural delights.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T21:00:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "Andrew Zimmern introduces the rich and welcoming dishes of Amman, Jordan, including multi-tiered towers of goat and veggies, sumac-coated chicken with onions, lamb cooked in creamy yogurt sauce, and fava bean spreads.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T21:30:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "From beef stew to French pizza for edible icons from Marseille.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T22:00:00.000Z",
+    "title": "Unique Sweets",
+    "overview": "Sweets to have with morning coffee.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T22:30:00.000Z",
+    "title": "Unique Sweets",
+    "overview": "Some of the most delicious Unique Cakes out there.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T23:00:00.000Z",
+    "title": "Unique Sweets",
+    "overview": "The unique sweet sports in L.A.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-11T23:30:00.000Z",
+    "title": "Unique Sweets",
+    "overview": "Chocolates that have no chocolate; brownies and cookies baked together; mini pancakes.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T00:00:00.000Z",
+    "title": "Unique Sweets",
+    "overview": "Treats that take classic desserts and give them a modern twist; shakedown ice cream parlor in San Francisco presents all the flavors of a German chocolate cake to enjoy in a drinkable way.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T00:30:00.000Z",
+    "title": "Unique Sweets",
+    "overview": "Visiting Portland, Ore., to discover some of the city's delicious treats; Bushel and Peck Bakeshop serves a sweet and tart marionberry mint muffin, a double chocolate squash scone with espresso maple glaze and a pretzel almond caramel bar.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T01:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "The five remaining teams of cake and sugar artists are challenged to imagine friendly aliens celebrating their own holidays on another planet; at the end of the face-off, the field of competition narrows with one team's elimination.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T02:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "The four remaining teams of master cake and sugar artists are challenged to bring the story of a carol to life using their imagination, with cake.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T03:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "In the penultimate battle, three teams of master cake and sugar artists bring Dr. Seuss' iconic \"How the Grinch Stole Christmas\" to life by re-imagining the world-famous story as a big-screen epic in a whole new movie genre.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T04:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "With $25,000 and the title of Holiday Wars Champion at stake, the last two teams of cake and sugar artists must showcase the wildest, most powerful, modernization imaginable for Santa's new ride.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T05:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "The five remaining teams of cake and sugar artists are challenged to imagine friendly aliens celebrating their own holidays on another planet; at the end of the face-off, the field of competition narrows with one team's elimination.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T06:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "The four remaining teams of master cake and sugar artists are challenged to bring the story of a carol to life using their imagination, with cake.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T07:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "In the penultimate battle, three teams of master cake and sugar artists bring Dr. Seuss' iconic \"How the Grinch Stole Christmas\" to life by re-imagining the world-famous story as a big-screen epic in a whole new movie genre.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T08:00:00.000Z",
+    "title": "Holiday Wars",
+    "overview": "With $25,000 and the title of Holiday Wars Champion at stake, the last two teams of cake and sugar artists must showcase the wildest, most powerful, modernization imaginable for Santa's new ride.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T09:00:00.000Z",
+    "title": "See Wrinkles and Bags Vanish Instantly With GEN90!!",
+    "overview": "GEN90 Instant Wrinkle Treatment with Retinol will turn back the clock! The Pharmacist's solution for wrinkles, instant and long-term! Visibly reduces the appearance of crow's feet and fine lines instantly! Get fast, visible, long-lasting results!",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T09:30:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T10:00:00.000Z",
+    "title": "H2O HD Dual Buff 8-1 Steam Cleaner",
+    "overview": "H2O HD Dual Buff 8-1 Steam Cleaner All in one Steam Mop, Floor Polisher and Scrubber, Lightweight, Fast, Powerful & Completely Chemical Free.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T10:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T11:00:00.000Z",
+    "title": "Food Truck Nation",
+    "overview": "A food truck in Raleigh, N.C., with 30 unusual meatball creations; a food truck giving locals an authentic taste of Spanish paella in Lakewood, Calif.; a Los Angeles truck that has earned a cult following with its complex pho.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T11:30:00.000Z",
+    "title": "Food Truck Nation",
+    "overview": "Tempura-battered Baja shrimp tacos in Malibu, Calif.; chicken shawarma stuffed pitas in Durham, N.C.; homestyle Puerto Rican mofongo in Los Angeles.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T12:00:00.000Z",
+    "title": "Food Truck Nation",
+    "overview": "Neapolitan-style pizzas; Hatch Pizza with shredded chicken and roasted green chilies; Belgian Farmer Pizza with bacon, Brussels sprouts and goat cheese; artisanal burgers.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T12:30:00.000Z",
+    "title": "Food Truck Nation",
+    "overview": "A fried chicken biscuit with bourbon-bacon jam and a brisket biscuit sandwich with cherry cola barbecue sauce; hickory-smoked fried chicken wings slathered in homemade Asian hot sauce; dessert hand pies, like the strawberry French toast creation.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T13:00:00.000Z",
+    "title": "Food Paradise",
+    "overview": "From seriously saucy barbecue sandwiches to nachos on a pizza and the perfect burger for \"Dirty Dancing,\" these restaurants serve up some of the best dishes in America's heartland.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T14:00:00.000Z",
+    "title": "Food Paradise",
+    "overview": "From authentic tacos and first-class pizza to succulent seafood paella and beer-can chicken, these dishes all come with a side of great weather, breathtaking scenery and the laid-back vibes of the Golden State.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T15:00:00.000Z",
+    "title": "Food Paradise",
+    "overview": "From a lobster and filet mignon taco donut to a classic Japanese noodle dish done as juicy burger, chefs serve up some of the country's most mouthwatering mashups.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T16:00:00.000Z",
+    "title": "Food Paradise",
+    "overview": "From s'mores-topped milkshakes to sushi burgers, Sin City's most over-the-top eats are explored.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T17:00:00.000Z",
+    "title": "Man's Greatest Food",
+    "overview": "The best surf-and-turf dishes in restaurants across America, including the classic lobster tail and steak, clam and bacon pizza, crab cakes with sausage, and even a lobster-and-steak roll.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T18:00:00.000Z",
+    "title": "Man's Greatest Food",
+    "overview": "Roger Mooking bites down on nachos, pizzas, fried chicken, tacos and desserts; chefs offer recipes and tips on making the crispiest skin, crunchiest chips and the most crumbly crusts.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T19:00:00.000Z",
+    "title": "Man's Greatest Food",
+    "overview": "The 12 best super-sized dishes; Roger Mooking hangs out with chefs to learn all their secrets for creating ultimate omelets, steaks, sandwiches, seafood platters and more decadent, XXL-sized dishes.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T20:00:00.000Z",
+    "title": "Yum and Yummer",
+    "overview": "Breakfast isn't the only time to enjoy a delicious doughnut; Eddie Jackson runs through a full day of sweet, savory and surprising doughnuts for every meal.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T20:30:00.000Z",
+    "title": "Yum and Yummer",
+    "overview": "A day's worth of foods that are jam-packed, crammed full and superstuffed with the tastiest, most delicious flavors imaginable; these aren't just everyday delicacies -- to make this list, foods have to be brimming with the biggest flavors.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T21:00:00.000Z",
+    "title": "Yum and Yummer",
+    "overview": "Hot and spicy dishes that give a little sweet, a little savory and a whole lot of spice.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T21:30:00.000Z",
+    "title": "Yum and Yummer",
+    "overview": "Eddie Jackson shares home-cooked meals that are packed with locally grown vegetables.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T22:00:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "Dungeness Crab Louie and sourdough bread on the West Coast in San Francisco; some of the best eating on the West Coast.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T22:30:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "Andrew digs into the diversity of San Juan, Puerto Rico, with comfort foods and beach eats.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T23:00:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "Andrew Zimmern samples the culinary mashups of Trinidad and Tobago, including curried crab with dumplings, crispy fried shark sandwiches and soft flatbreads perfect for scooping veggies and curries.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-12T23:30:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "Cuban sandwiches, fresh stone crabs and Key lime pie are some of Miami's most iconic foods in an international hot spot.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-13T00:00:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "Exploring iconic foods in Detroit including Middle Eastern shawarma, soul food classics, Detroit-style pizza and city chicken.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-13T00:30:00.000Z",
+    "title": "Bizarre Foods: Delicious Destinations",
+    "overview": "From savory potato pastries and silver-garnished syrupy fried bread to spicy pancakes and hearty meals of meat and rice, Hyderabad's menus are fit for royalty.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-13T01:00:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Thanksgiving Waffle in Toronto at the Canadian National Exhibition; Korean Kimchi Dog at Prairiefest in Illinois.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-13T01:30:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Noah Cappe goes hog-wild with fantastic porky delights made by amazing carnival cooks; whether it's grilled, smoked or even incorporated into dessert, it's time to pig out.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-13T02:00:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "Noah Cappe travels coast to coast sampling the best carnival creations inspired by the cuisine of Latin America; this fiesta of food features both classic and crazy carnival treats, from Tex-Mex to traditional.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-13T02:30:00.000Z",
+    "title": "Carnival Eats",
+    "overview": "These fairground vendors have combined two iconic treats into one revolutionary new midway masterpiece.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-13T03:00:00.000Z",
+    "title": "Cheap Eats",
+    "overview": "Ali Khan visits Athens, Ga.; he grabs sweet and sticky Georgia peach French toast; a delicious bowl of authentic Mexican posole; a snack that's part doughnut and part biscuit; Ali wraps up the day with a visit to hometown band R.E.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-13T03:30:00.000Z",
+    "title": "Cheap Eats",
+    "overview": "The best deals in Birmingham, Ala.; hash brown baskets stuffed with Andouille sausage and eggs; bacon-wrapped meatloaf made with a lot of love; a red velvet cheesecake brownie; blackened chicken with habanero Jack cheese.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a:epg:2026-11-13T04:00:00.000Z",
+    "title": "The Zimmern List",
+    "overview": "Andrew heads to Reno, Nev., for a food scene that loves to entertain; he embraces Reno's small-town pride as he savors homemade meatballs and ravioli, gets a taste of Basque culture and meets some forward-thinking chefs.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

@@ -1,0 +1,339 @@
+{
+ "meta": {
+  "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9",
+  "type": "tv",
+  "name": "NFL Network",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nfl-network-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nfl-network-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Sports"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T01:00:00.000Z",
+    "title": "NFL Football",
+    "overview": "The Dallas Cowboys visit the Indianapolis Colts for an NFL game. Dallas comes off a 33-30 loss to Arizona, while Indianapolis rides a four-game skid heading into an interconference clash playing inside Lucas Oil Stadium in Indiana.",
+    "released": "2026-11-11T01:00:00.000Z",
+    "startTime": "2026-11-11T01:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T04:00:00.000Z",
+    "title": "The Insiders",
+    "overview": "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T05:00:00.000Z",
+    "title": "NFL Fantasy Live",
+    "overview": "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T06:00:00.000Z",
+    "title": "NFL Football",
+    "overview": "The Carolina Panthers host the Denver Broncos in NFL regular-season play at Bank of America Stadium. Carolina looks to home turf to end a two-game skid and stay atop the NFC South, while a Denver win would keep the Broncos atop the AFC West.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T09:00:00.000Z",
+    "title": "The Insiders",
+    "overview": "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T10:00:00.000Z",
+    "title": "NFL Fantasy Live",
+    "overview": "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T11:00:00.000Z",
+    "title": "The Insiders",
+    "overview": "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T12:00:00.000Z",
+    "title": "NFL Fantasy Live",
+    "overview": "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T13:00:00.000Z",
+    "title": "Live: Good Morning Football",
+    "overview": "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide arr",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T15:00:00.000Z",
+    "title": "Good Morning Football",
+    "overview": "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide arr",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T17:00:00.000Z",
+    "title": "Live: NFL Total Access",
+    "overview": "The NFL Network's flagship program airs six nights a week, churning out the day's top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis wi",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T19:00:00.000Z",
+    "title": "NFL Football",
+    "overview": "The Green Bay Packers visit the New England Patriots for an NFL Week 9 game at Gillette Stadium. The Patriots have won three of the last five times they've met. The Packers beat the Pats, 27-24, in October 2022 when they last played each other.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T22:00:00.000Z",
+    "title": "NFL Fantasy Live",
+    "overview": "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-11T23:00:00.000Z",
+    "title": "NFL Live",
+    "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T00:00:00.000Z",
+    "title": "Live: The Insiders",
+    "overview": "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T01:00:00.000Z",
+    "title": "NFL Football",
+    "overview": "The Buccaneers visit the Bears for an NFL Week 9 game at Soldier Field. Chicago holds a 40-22 all-time series lead over Tampa Bay, but the Buccaneers beat the Bears, 27-17, in September 2023 when they last played each other.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T04:00:00.000Z",
+    "title": "The Insiders",
+    "overview": "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T05:00:00.000Z",
+    "title": "NFL Fantasy Live",
+    "overview": "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T06:00:00.000Z",
+    "title": "NFL Football",
+    "overview": "The Buffalo Bills visit the Minnesota Vikings for an NFL Week 9 game at U.S. Bank Stadium. The Vikings hold a 9-6 series lead over the Bills after beating Buffalo, 33-30, in overtime back in November 2022 when they last played each other.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T09:00:00.000Z",
+    "title": "The Insiders",
+    "overview": "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T10:00:00.000Z",
+    "title": "NFL Fantasy Live",
+    "overview": "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T11:00:00.000Z",
+    "title": "The Insiders",
+    "overview": "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T12:00:00.000Z",
+    "title": "NFL Fantasy Live",
+    "overview": "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T13:00:00.000Z",
+    "title": "Live: Good Morning Football",
+    "overview": "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide arr",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T15:00:00.000Z",
+    "title": "Good Morning Football",
+    "overview": "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide arr",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T17:00:00.000Z",
+    "title": "Live: NFL Total Access",
+    "overview": "The NFL Network's flagship program airs six nights a week, churning out the day's top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis wi",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T19:00:00.000Z",
+    "title": "NFL Football",
+    "overview": "The Dallas Cowboys visit the Indianapolis Colts for an NFL game. Dallas comes off a 33-30 loss to Arizona, while Indianapolis rides a four-game skid heading into an interconference clash playing inside Lucas Oil Stadium in Indiana.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T22:00:00.000Z",
+    "title": "NFL Fantasy Live",
+    "overview": "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-12T23:00:00.000Z",
+    "title": "NFL Gameday Kickoff",
+    "overview": "",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-13T00:00:00.000Z",
+    "title": "The Timeline",
+    "overview": "The story of the moment that New York Giants receiver David Tyree secures a seemingly uncatchable pass that thwarts the New England Patriots' chance at a perfect season that was set to end in a Super Bowl victory.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-13T01:00:00.000Z",
+    "title": "NFL Football",
+    "overview": "The Green Bay Packers visit the New England Patriots for an NFL Week 9 game at Gillette Stadium. The Patriots have won three of the last five times they've met. The Packers beat the Pats, 27-24, in October 2022 when they last played each other.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-13T04:00:00.000Z",
+    "title": "Sound FX",
+    "overview": "On-field sights and sounds of Michael Strahan's career.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

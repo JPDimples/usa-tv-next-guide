@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "ustv-3902457a-7818-4fbe-8209-9d43a903c784",
+  "type": "tv",
+  "name": "Fox",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Local"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": false
+  },
+  "videos": []
+ }
+}

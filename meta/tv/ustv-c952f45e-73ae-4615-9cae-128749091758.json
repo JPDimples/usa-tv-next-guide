@@ -1,0 +1,559 @@
+{
+ "meta": {
+  "id": "ustv-c952f45e-73ae-4615-9cae-128749091758",
+  "type": "tv",
+  "name": "Travel Channel",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/travel-channel-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/travel-channel-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Lifestyle"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T03:00:00.000Z",
+    "title": "Paranormal Nightshift",
+    "overview": "A security guard hears ghostly wails at a secluded campground; a gas station clerk is plagued by unexplained terror while working the night shift; a mysterious intruder leaves an overnight manager on edge at a fishing resort.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T04:00:00.000Z",
+    "title": "Paranormal Nightshift",
+    "overview": "A peace officer senses an unusual, unfriendly presence; a pianist is spooked at a concert hall.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T05:00:00.000Z",
+    "title": "Paranormal Nightshift",
+    "overview": "Ronnie works the overnight shift at a group home which requires him to sleep over.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T06:00:00.000Z",
+    "title": "Paranormal Nightshift",
+    "overview": "Troy's experience as a military police office has trained him in situational awareness and response to physical threats; he is forced to change his playbook when confronted by something of a paranormal nature.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T07:00:00.000Z",
+    "title": "Paranormal Nightshift",
+    "overview": "A security guard hears ghostly wails at a secluded campground; a gas station clerk is plagued by unexplained terror while working the night shift; a mysterious intruder leaves an overnight manager on edge at a fishing resort.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T08:00:00.000Z",
+    "title": "Paranormal Nightshift",
+    "overview": "A peace officer senses an unusual, unfriendly presence; a pianist is spooked at a concert hall.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T09:00:00.000Z",
+    "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax Debt",
+    "overview": "See how one company is changing people's lives by helping them put their tax problems to rest.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T09:30:00.000Z",
+    "title": "Natural Blood Pressure Management",
+    "overview": "Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T10:00:00.000Z",
+    "title": "Inogen Portable Oxygen - No More Tanks!",
+    "overview": "Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T10:30:00.000Z",
+    "title": "The Aging Brain",
+    "overview": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T11:00:00.000Z",
+    "title": "Unexplained: Caught on Camera",
+    "overview": "Dreams of an idyllic life on a rural Pennsylvania farm are shot down by terrifying activity; an urban explorer finds himself scared witless when he visits one of the UK's most haunted houses.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T12:00:00.000Z",
+    "title": "Unexplained: Caught on Camera",
+    "overview": "A Maine resident endures a series of heart-stopping encounters with apparitions in his bedroom; an investigator gets a chilling message from a 17th-century witch-hunter and a series of disturbing encounters are caught on camera at a haunted museum.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T13:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A Florida man encounters an elusive Sasquatch; ghost hunters attempt to contact the spirit of a murder victim in Tennessee; a Las Vegas resident captures incredible footage of UFOs soaring through the skies.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T14:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "Paranormal investigators get a chilling response from a dearly departed rock legend; a ghostly canine joins its former owner for a nighttime stroll; a man and his co-workers spot a gaggle of UFOs in the Louisiana bayou.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T15:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A shadow person in an abandoned Pennsylvania asylum; an Iowa couple accidentally brings home a haunted statue; a mom in Kentucky discovers a boogeyman hiding in her daughter's closet.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T16:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A father and son record evidence of a monster in a lake in Canada; a doorbell security camera captures fiery orbs falling from the skies above California; an investigative team is accosted by the spirits of a murdered family in Nevada.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T17:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A man is possessed by an evil entity during a s\u00e9ance in York, England; an Oregon woman is stunned by a glowing UFO; a ghost hunter is attacked by a poltergeist in a haunted nursing home.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T18:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "Two men stumble upon the apparition of a ghostly bride in a haunted church; drone footage captures the elusive Ohio Grassman; frightened ferry passengers witness an alien invasion at sunset.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T19:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "Mysterious lights hover in the skies above Stonehenge on the eve of the summer solstice; a woman witnesses a soul leaving a dead deer's body; a Florida man finds grisly proof of a violent extraterrestrial attack.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T20:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A researcher finds the remains of a legendary dragon deep in the Mediterranean Sea; a beloved factory worker clocks into her shift years after her death in Japan; a Civil War spirit strolls along a battlefield.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T21:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A team of researchers captures compelling evidence of the Yowie in Australia; an ethereal mist engulfs a roomful of ghost hunters in England; a camper is surrounded by glowing orbs deep in the Arizona forest.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T22:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A real-life gnome frolics in an Arizona garden; a coffin opens by itself in an English hostel; leaked footage shows a UFO hovering near a bomb testing site in Nevada.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-11T23:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A family captures footage of an emaciated cryptid on their home security camera; haunted objects compete for museum guests' attention; strange lights in the sky bring commuters to a halt.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T00:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "Hunters spot a skinwalker emerging from the woods; a man spots thousands of UFOs from his backyard; an apparition manifests on a haunted highway.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T01:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A family spots Bigfoot in their backyard; UFOs speed by in broad daylight; a cryptid peruses a zoo in search of its next meal.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T02:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A phantom monk roams around a 13th-century church; a family moves and takes their poltergeist with them; three UFOs fall in formation.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T03:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A mermaid serenades a commercial fisherman; a shadow figure scuffles with a small dog; a ghost blows out birthday candles.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T04:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "Shadow figures roam the halls of an abandoned manor; a couple and their friend get up close and personal with a local lake monster; a woman declared dead comes back to life at her own funeral.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T05:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A family spots Bigfoot in their backyard; UFOs speed by in broad daylight; a cryptid peruses a zoo in search of its next meal.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T06:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A phantom monk roams around a 13th-century church; a family moves and takes their poltergeist with them; three UFOs fall in formation.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T07:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "A mermaid serenades a commercial fisherman; a shadow figure scuffles with a small dog; a ghost blows out birthday candles.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T08:00:00.000Z",
+    "title": "Paranormal Caught on Camera",
+    "overview": "Shadow figures roam the halls of an abandoned manor; a couple and their friend get up close and personal with a local lake monster; a woman declared dead comes back to life at her own funeral.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T09:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T09:30:00.000Z",
+    "title": "Under Eye Bags? SOLUTION!",
+    "overview": "Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T10:00:00.000Z",
+    "title": "Overwhelmed with IRS Debt? Keys to Resolving Tax Debt",
+    "overview": "See how one company is changing people's lives by helping them put their tax problems to rest.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T10:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T11:00:00.000Z",
+    "title": "Unexplained: Caught on Camera",
+    "overview": "Twin brothers claim they were abducted by beings from another planet when they were teens; one urban explorer is brought to his knees in an abandoned asylum; an isolated motion camera captures something not of this world.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T12:00:00.000Z",
+    "title": "Unexplained: Caught on Camera",
+    "overview": "After hearing strange noises, family man Steve captures images of spine-chilling shape-shifting Skinwalkers.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T13:00:00.000Z",
+    "title": "Legendary Locations",
+    "overview": "From a samurai smack-down in Japan to a writer who found inspiration at a Boston fort, Josh Gates shares locations where people's vocations compelled them to act in the name of passion and dedication.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T14:00:00.000Z",
+    "title": "Legendary Locations",
+    "overview": "Josh Gates explores stories of perseverance, including a tragic Salem witch trial case that led to a lasting change in the United States justice system and a Mexican folktale that's still celebrated in a festival today.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T15:00:00.000Z",
+    "title": "Legendary Locations",
+    "overview": "From a secret underground government bunker to a town that survived a tsunami, Josh Gates explores five locations where the end of the world was just the beginning.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T16:00:00.000Z",
+    "title": "Legendary Locations",
+    "overview": "From an abandoned American dream in the Amazon jungle to an abbey in France where countless souls lost their lives, Josh Gates reveals legendary locations where humans battled the forces of nature.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T17:00:00.000Z",
+    "title": "Legendary Locations",
+    "overview": "Josh Gates shares five locations where the natural and supernatural worlds can be explored, including a haunted asylum in upstate New York and an underground cathedral built entirely of salt in Poland.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T18:00:00.000Z",
+    "title": "Legendary Locations",
+    "overview": "From a tense standoff near the Berlin Wall at the height of the Cold War to an Arizona prison where an unlikely outlaw finagled her freedom, Josh Gates explores five legendary locations where fight or flight were the only options.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T19:00:00.000Z",
+    "title": "The Alaska Triangle",
+    "overview": "A top-secret government facility beneath the Alaskan wilderness may be hiding an extraterrestrial pyramid; strange forces within the Alaska Triangle are making wildlife more aggressive toward humans.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T20:00:00.000Z",
+    "title": "The Alaska Triangle",
+    "overview": "A Sasquatch colony terrorizes the residents of remote Prince of Wales Island; decades of UFO sightings on Kodiak Island lead many to believe that aliens are working with the US military.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T21:00:00.000Z",
+    "title": "The Alaska Triangle",
+    "overview": "A sonar recording may prove that a prehistoric monster stalks the seas surrounding Kodiak Island; researchers investigate why thousands of airplanes have disappeared without a trace in the Alaska Triangle.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T22:00:00.000Z",
+    "title": "The Alaska Triangle",
+    "overview": "A ghost hunter seeks out spirits from the gold rush in Skagway, Alaska; tiny demonic creatures may be behind thousands of strange disappearances in the Alaska Triangle.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-12T23:00:00.000Z",
+    "title": "The Alaska Triangle",
+    "overview": "Dark forces disrupt a paranormal investigation at an old fairground near Fairbanks, Alaska; hundreds of Alaskans go missing every year.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-13T00:00:00.000Z",
+    "title": "The Alaska Triangle",
+    "overview": "A team of ghost hunters reaches out to the dead in an abandoned gold mine; numerous sightings and strange disappearances suggest a fearsome yeti inhabits the frozen landscape of the Alaskan mountains.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-13T01:00:00.000Z",
+    "title": "The Alaska Triangle",
+    "overview": "The Alaskan skies are filled with unexplainable lights and objects, but evidence suggests these extraterrestrial visitors are landing; prehistoric monsters may be alive and well in the Alaska Triangle.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-13T02:00:00.000Z",
+    "title": "The Alaska Triangle",
+    "overview": "Hostile Sasquatches leave the wilderness behind for Alaska's major cities; a paranormal investigator searches for evidence of ghosts at an infamous haunted hotel.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-13T03:00:00.000Z",
+    "title": "The Alaska Triangle",
+    "overview": "An underwater alien base may be located off the coast of a quiet Alaskan town; a cannibalistic creature preys upon those brave enough to venture into the Alaska Triangle.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758:epg:2026-11-13T04:00:00.000Z",
+    "title": "The Alaska Triangle",
+    "overview": "Ominous sounds from the skies could be a sign of the impending apocalypse; drivers are spooked by phantom headlights and ghostly hitchhikers along Alaska's haunted highways.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

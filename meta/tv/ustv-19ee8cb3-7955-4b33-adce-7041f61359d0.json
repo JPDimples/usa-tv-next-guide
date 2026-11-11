@@ -1,0 +1,309 @@
+{
+ "meta": {
+  "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0",
+  "type": "tv",
+  "name": "Starz",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/starz-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/starz-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Premium"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T02:00:00.000Z",
+    "title": "Trainwreck",
+    "overview": "Ever since her father drilled into her head that monogamy isn't realistic, magazine writer Amy has made promiscuity her credo. As much as she enjoys an uninhibited life free of commitment, Amy is really in a rut. While writing a profile about charming and successful sports doctor Aaron Conners, she ",
+    "released": "2026-11-11T02:00:00.000Z",
+    "startTime": "2026-11-11T02:00:00.000Z",
+    "endTime": "2026-11-11T04:08:00.000Z",
+    "runtime": "128 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T04:08:00.000Z",
+    "title": "What Men Want",
+    "overview": "Passed up for a well-deserved promotion, sports agent Ali Davis wonders what else she needs to do to succeed in a man's world. Hoping to find answers from a psychic, Ali drinks a weird concoction that suddenly allows her to hear what men are thinking. Using her newfound ability, Ali starts to turn t",
+    "released": "2026-11-11T04:08:00.000Z",
+    "startTime": "2026-11-11T04:08:00.000Z",
+    "endTime": "2026-11-11T06:09:00.000Z",
+    "runtime": "121 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T06:09:00.000Z",
+    "title": "Christmas Cover-Up",
+    "overview": "Best friends Tori, Gwen and Sam have spent years dreaming of killing their terrible boss. This Christmas is no different, but when their holiday takes an unexpected turn, they may need more than Christmas spirit.",
+    "released": "2026-11-11T06:09:00.000Z",
+    "startTime": "2026-11-11T06:09:00.000Z",
+    "endTime": "2026-11-11T07:38:00.000Z",
+    "runtime": "89 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T07:38:00.000Z",
+    "title": "Adam Sandler's Eight Crazy Nights",
+    "overview": "Davey Stone, a 33-year-old party animal, finds himself in trouble with the law after his wild ways go too far. In keeping with the holiday spirit, the judge gives Davey one last chance at redemption, spend the holiday performing community service as the assistant referee for the youth basketball lea",
+    "released": "2026-11-11T07:38:00.000Z",
+    "startTime": "2026-11-11T07:38:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "82 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T09:00:00.000Z",
+    "title": "SIGN OFF",
+    "overview": "Sign off.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:50:00.000Z",
+    "runtime": "50 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T09:50:00.000Z",
+    "title": "Make or Bake Christmas",
+    "overview": "A woman finds herself falling in love while working undercover as a seasonal employee at a quaint bakery.",
+    "released": "2026-11-11T09:50:00.000Z",
+    "startTime": "2026-11-11T09:50:00.000Z",
+    "endTime": "2026-11-11T11:19:00.000Z",
+    "runtime": "89 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T11:19:00.000Z",
+    "title": "Adam Sandler's Eight Crazy Nights",
+    "overview": "Davey Stone, a 33-year-old party animal, finds himself in trouble with the law after his wild ways go too far. In keeping with the holiday spirit, the judge gives Davey one last chance at redemption, spend the holiday performing community service as the assistant referee for the youth basketball lea",
+    "released": "2026-11-11T11:19:00.000Z",
+    "startTime": "2026-11-11T11:19:00.000Z",
+    "endTime": "2026-11-11T12:40:00.000Z",
+    "runtime": "81 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T12:40:00.000Z",
+    "title": "Miss Bala",
+    "overview": "Young Gloria seeks help from the police when cartel hit men kidnap her friend from a nightclub in Mexico. She soon finds herself in big trouble when a corrupt cop hands her over to the same goons who shot up the place. Their gang leader, Lino, decides to use Gloria for his dirty work to avoid detect",
+    "released": "2026-11-11T12:40:00.000Z",
+    "startTime": "2026-11-11T12:40:00.000Z",
+    "endTime": "2026-11-11T14:25:00.000Z",
+    "runtime": "105 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T14:25:00.000Z",
+    "title": "Fifty Shades of Grey (Extended Version)",
+    "overview": "When college senior Anastasia Steele (Dakota Johnson) steps in for her sick roommate to interview prominent businessman Christian Grey (Jamie Dornan) for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strange",
+    "released": "2026-11-11T14:25:00.000Z",
+    "startTime": "2026-11-11T14:25:00.000Z",
+    "endTime": "2026-11-11T16:35:00.000Z",
+    "runtime": "130 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T16:35:00.000Z",
+    "title": "Walk of Shame",
+    "overview": "Meghan (Elizabeth Banks) is an aspiring news anchor in the cutthroat world of Los Angeles television. After an audition for her dream job ends in failure, she goes out for an uncharacteristic night of partying. The next morning, she awakes in a stranger's bed and hears a phone message from her agent",
+    "released": "2026-11-11T16:35:00.000Z",
+    "startTime": "2026-11-11T16:35:00.000Z",
+    "endTime": "2026-11-11T18:10:00.000Z",
+    "runtime": "95 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T18:10:00.000Z",
+    "title": "In the Grey",
+    "overview": "A covert team of elite operatives live in the global shadows, as comfortable wielding power and influence as they are automatic weapons and high explosives. When a ruthless despot steals a billion-dollar fortune, the team is sent to steal it back on what would be for anyone else a suicide mission. W",
+    "released": "2026-11-11T18:10:00.000Z",
+    "startTime": "2026-11-11T18:10:00.000Z",
+    "endTime": "2026-11-11T19:50:00.000Z",
+    "runtime": "100 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T19:50:00.000Z",
+    "title": "The 40 Year-Old Virgin",
+    "overview": "Three dysfunctional co-workers embark on a mission to help their newfound friend lose his sexual innocence.",
+    "released": "2026-11-11T19:50:00.000Z",
+    "startTime": "2026-11-11T19:50:00.000Z",
+    "endTime": "2026-11-11T21:50:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T21:50:00.000Z",
+    "title": "Enough",
+    "overview": "Working-class waitress Slim (Jennifer Lopez) finds her life transformed when she marries wealthy contractor Mitch (Billy Campbell). She settles into an idyllic suburban life and seems to have everything she wants. Her dream is shattered when she discovers her husband is anything but perfect. His abu",
+    "released": "2026-11-11T21:50:00.000Z",
+    "startTime": "2026-11-11T21:50:00.000Z",
+    "endTime": "2026-11-11T23:48:00.000Z",
+    "runtime": "118 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-11T23:48:00.000Z",
+    "title": "Fifty Shades of Grey (Extended Version)",
+    "overview": "When college senior Anastasia Steele (Dakota Johnson) steps in for her sick roommate to interview prominent businessman Christian Grey (Jamie Dornan) for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strange",
+    "released": "2026-11-11T23:48:00.000Z",
+    "startTime": "2026-11-11T23:48:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "132 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T02:00:00.000Z",
+    "title": "Fifty Shades Darker: Extended Version",
+    "overview": "When a wounded Christian Grey tries to entice a cautious Anastasia Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian's past start to circle them, determined to destroy t",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T04:14:00.000Z",
+    "runtime": "134 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T04:14:00.000Z",
+    "title": "Fifty Shades Freed: Extended Version",
+    "overview": "Believing they've left behind the shadowy figures from the past, billionaire Christian Grey and his new wife, Anastasia, fully embrace their inextricable connection and shared life of luxury. Just as the Greys begin to step into their new roles, sinister events come to light and jeopardize their hap",
+    "released": "2026-11-12T04:14:00.000Z",
+    "startTime": "2026-11-12T04:14:00.000Z",
+    "endTime": "2026-11-12T06:06:00.000Z",
+    "runtime": "112 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T06:06:00.000Z",
+    "title": "Marshall",
+    "overview": "Young Thurgood Marshall faces one of his greatest challenges while working as a lawyer for the NAACP. Marshall travels to conservative Connecticut when wealthy socialite Eleanor Strubing accuses Black chauffeur Joseph Spell of sexual assault and attempted murder. He soon teams up with Sam Friedman, ",
+    "released": "2026-11-12T06:06:00.000Z",
+    "startTime": "2026-11-12T06:06:00.000Z",
+    "endTime": "2026-11-12T08:05:00.000Z",
+    "runtime": "119 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T08:05:00.000Z",
+    "title": "Curve",
+    "overview": "A young woman becomes trapped in her wrecked car after a hitchhiker causes an accident.",
+    "released": "2026-11-12T08:05:00.000Z",
+    "startTime": "2026-11-12T08:05:00.000Z",
+    "endTime": "2026-11-12T09:31:00.000Z",
+    "runtime": "86 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T09:31:00.000Z",
+    "title": "Avengers: Age of Ultron",
+    "overview": "When Tony Stark (Robert Downey Jr.) jump-starts a dormant peacekeeping program, things go terribly awry, forcing him, Thor (Chris Hemsworth), the Incredible Hulk (Mark Ruffalo) and the rest of the Avengers to reassemble. As the fate of Earth hangs in the balance, the team is put to the ultimate test",
+    "released": "2026-11-12T09:31:00.000Z",
+    "startTime": "2026-11-12T09:31:00.000Z",
+    "endTime": "2026-11-12T11:56:00.000Z",
+    "runtime": "145 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T11:56:00.000Z",
+    "title": "Pixels",
+    "overview": "When aliens intercept video feeds of classic arcade games and misinterpret them as a declaration of war, they attack Earth, using the games as models. Knowing that he must employ a similar strategy, President Will Cooper (Kevin James) recruits his childhood pal, former video-game champ and home-thea",
+    "released": "2026-11-12T11:56:00.000Z",
+    "startTime": "2026-11-12T11:56:00.000Z",
+    "endTime": "2026-11-12T13:45:00.000Z",
+    "runtime": "109 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T13:45:00.000Z",
+    "title": "The Night Before",
+    "overview": "For the last 10 years, lifelong buddies Ethan (Joseph Gordon-Levitt), Isaac (Seth Rogen) and Chris (Anthony Mackie) have gathered on Christmas Eve to celebrate the holidays with a bang. As Isaac prepares to become a first-time father, the friends realize that their annual tradition is coming to a sa",
+    "released": "2026-11-12T13:45:00.000Z",
+    "startTime": "2026-11-12T13:45:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "105 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T15:30:00.000Z",
+    "title": "The Talented Mr. Ripley",
+    "overview": "To be young and carefree amid the blue waters and idyllic landscape of sun-drenched Italy in the late 1950s; that's la dolce vita Tom Ripley (Matt Damon) craves- and Dickie Greenleaf (Jude Law) leads. When Dickie's father asks Tom to bring his errant playboy son back home to America, Dickie and his ",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T17:53:00.000Z",
+    "runtime": "143 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T17:53:00.000Z",
+    "title": "Enough",
+    "overview": "Working-class waitress Slim (Jennifer Lopez) finds her life transformed when she marries wealthy contractor Mitch (Billy Campbell). She settles into an idyllic suburban life and seems to have everything she wants. Her dream is shattered when she discovers her husband is anything but perfect. His abu",
+    "released": "2026-11-12T17:53:00.000Z",
+    "startTime": "2026-11-12T17:53:00.000Z",
+    "endTime": "2026-11-12T19:51:00.000Z",
+    "runtime": "118 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T19:51:00.000Z",
+    "title": "Brick Mansions",
+    "overview": "In a dystopian Detroit, grand houses that once housed the wealthy are now homes of the city's most-dangerous criminals. Surrounding the area is a giant wall to keep the rest of Detroit safe. For undercover cop Damien Collier (Paul Walker), every day is a battle against corruption as he struggles to ",
+    "released": "2026-11-12T19:51:00.000Z",
+    "startTime": "2026-11-12T19:51:00.000Z",
+    "endTime": "2026-11-12T21:25:00.000Z",
+    "runtime": "94 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T21:25:00.000Z",
+    "title": "D\u00ecdi",
+    "overview": "In 2008, during the last month of summer before high school begins, an impressionable 13-year-old Taiwanese American boy learns what his family can't teach him: how to skate, how to flirt, and how to love his mom.",
+    "released": "2026-11-12T21:25:00.000Z",
+    "startTime": "2026-11-12T21:25:00.000Z",
+    "endTime": "2026-11-12T23:01:00.000Z",
+    "runtime": "96 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-12T23:01:00.000Z",
+    "title": "Pixels",
+    "overview": "When aliens intercept video feeds of classic arcade games and misinterpret them as a declaration of war, they attack Earth, using the games as models. Knowing that he must employ a similar strategy, President Will Cooper (Kevin James) recruits his childhood pal, former video-game champ and home-thea",
+    "released": "2026-11-12T23:01:00.000Z",
+    "startTime": "2026-11-12T23:01:00.000Z",
+    "endTime": "2026-11-13T00:50:00.000Z",
+    "runtime": "109 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-13T00:50:00.000Z",
+    "title": "Avengers: Age of Ultron",
+    "overview": "When Tony Stark (Robert Downey Jr.) jump-starts a dormant peacekeeping program, things go terribly awry, forcing him, Thor (Chris Hemsworth), the Incredible Hulk (Mark Ruffalo) and the rest of the Avengers to reassemble. As the fate of Earth hangs in the balance, the team is put to the ultimate test",
+    "released": "2026-11-13T00:50:00.000Z",
+    "startTime": "2026-11-13T00:50:00.000Z",
+    "endTime": "2026-11-13T03:15:00.000Z",
+    "runtime": "145 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-13T03:15:00.000Z",
+    "title": "Outlander: Blood of my Blood",
+    "overview": "Julia and Lovat attend an event honoring Loyalist Lairds who fought against Jacobites in the Rebellion; Ellen's longstanding plan to protect Leoch from the Crown is put to the test.",
+    "released": "2026-11-13T03:15:00.000Z",
+    "startTime": "2026-11-13T03:15:00.000Z",
+    "endTime": "2026-11-13T04:11:00.000Z",
+    "runtime": "56 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0:epg:2026-11-13T04:11:00.000Z",
+    "title": "S.W.A.T. Exiles",
+    "overview": "A deadly new drug, smuggled inside donut deliveries, pulls the Exiles into an undercover operation; meanwhile, Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.",
+    "released": "2026-11-13T04:11:00.000Z",
+    "startTime": "2026-11-13T04:11:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "49 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

@@ -1,0 +1,649 @@
+{
+ "meta": {
+  "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8",
+  "type": "tv",
+  "name": "National Geographic  Wild",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/national-geographic-wild-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/national-geographic-wild-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Documentaries"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T03:00:00.000Z",
+    "title": "Secrets of the Zoo: Tampa",
+    "overview": "Love is in the air at ZooTampa, but one-horned rhino Johnny misses his love connection.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T04:00:00.000Z",
+    "title": "Secrets of the Zoo: Tampa",
+    "overview": "Baby fever takes over ZooTampa; the penguin keepers are on egg watch with the hope that penguin parents, Rocky and Thumbelina, hatch two new chicks; team Asia pairs its mating Malayan tigers with anticipation of breeding a cub.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T05:00:00.000Z",
+    "title": "Critter Fixers: Country Vets",
+    "overview": "Dr. Ferguson and vet tech Jordan treat a cat with an apparent ear infection.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T06:00:00.000Z",
+    "title": "Critter Fixers: Country Vets",
+    "overview": "Dr. Hodges and Dr. Ferguson are busy with a hospital full of patients and their clients all over rural Georgia; from a dehydrated bearded dragon to a camel castration, it's just a part of the life of the Critter Fixers.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T07:00:00.000Z",
+    "title": "Critter Fixers: Country Vets",
+    "overview": "Unusual pets, such as a chinchilla with a broken leg, test the docs' veterinary skills.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T08:00:00.000Z",
+    "title": "Tired of Pain? Go Drug-Free",
+    "overview": "See how a drug-free patch is helping people find relief-without medication.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T09:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T09:30:00.000Z",
+    "title": "Best Mattress Topper Ever!",
+    "overview": "Back Pain? Hip? Sleep well thanks to this cooling topper!",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T10:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T10:30:00.000Z",
+    "title": "Tired of Pain? Go Drug-Free",
+    "overview": "See how a drug-free patch is helping people find relief-without medication.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T11:00:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T11:30:00.000Z",
+    "title": "Bathroom Makeover",
+    "overview": "Transform your bath affordably in just one day!",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T12:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "Families all around rely on Pol Veterinary to care for their animals this summer; from belligerent bulls to gimpy goats.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T13:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "Animals around town are acting strangely, from canine hijinks and bulls on the loose to an attempted kitten getaway.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T14:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "The vets are busy treating fair animals and making sure they are in top shape for competition at the Isabella County Fair.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T15:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "A day of all dogs at Pol Veterinary Services; from unclaimed strays to nosey farm dogs, Dr. Pol and his crew treat them all.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T16:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "After a long winter the animals of Isabella County are getting antsy, and they are up to more trouble than usual.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T17:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "The new vet, Dr. Emily; a horse combating colic; a rabbit that cannot hop; a working dog with possible head trauma.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T18:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "Farmers, livestock and pets work to adapt to the cold weather while Dr. Pol stays warm by keeping busy.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T19:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "Horses with runny noses, gashes and penile problems; delivering a commencement address to the graduating class of Central Michigan University.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T20:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "Dr. Pol deals with jumping, flailing and barking clientele as Halloween approaches.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T21:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "A foursome of cows who refuse their pregnancy checks; an after-hours emergency when a horse is down with colic.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T22:00:00.000Z",
+    "title": "The Incredible Dr. Pol",
+    "overview": "Dr. Pol continues to work on the farm with only one week until Christmas.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-11T23:00:00.000Z",
+    "title": "Secrets of the Zoo",
+    "overview": "Australian animal arrivals make quite an impression with their unexpected screeching; a rare mountain goat birth is observed.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T00:00:00.000Z",
+    "title": "Secrets of the Zoo",
+    "overview": "Rory the duck, Krypto the onager and Unga the bonobo are given a whole new lease on life; Zucchini the beaver has a gigantic tooth problem.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T01:00:00.000Z",
+    "title": "Secrets of the Zoo",
+    "overview": "A 44-year-old orangutan has the biggest birthday bash of the year at the zoo.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T02:00:00.000Z",
+    "title": "Planet Weird: Too Weird to Handle",
+    "overview": "In the wild, survival means winning the mating game against all odds.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T03:00:00.000Z",
+    "title": "Secrets of the Zoo",
+    "overview": "An ornery ostrich refuses to get its shots; a pregnant rhino prepares to give birth; a beloved nanny goat fights for its life.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T04:00:00.000Z",
+    "title": "Secrets of the Zoo",
+    "overview": "Staff members at Columbus Zoo and The Wilds count down the days until spring.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T05:00:00.000Z",
+    "title": "Critter Fixers: Country Vets",
+    "overview": "The docs and staff have their hands completely full while treating a dog with a life-threatening snake bite and a herd of sick sheep.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T06:00:00.000Z",
+    "title": "Critter Fixers: Country Vets",
+    "overview": "Drs. Ferguson and Hodges work together to save a baby bunny that's been attacked by the family cat; the doctors perform a cesarean section on a bulldog, and the hospital is a flurry of activity as everyone helps to resuscitate the puppies.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T07:00:00.000Z",
+    "title": "Critter Fixers: Country Vets",
+    "overview": "Dr. Hodges is in surgery when a baby goat in distress comes to the office.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T08:00:00.000Z",
+    "title": "Tired of Pain? Go Drug-Free",
+    "overview": "See how a drug-free patch is helping people find relief-without medication.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T08:30:00.000Z",
+    "title": "Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.",
+    "overview": "Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote & installation.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T09:00:00.000Z",
+    "title": "Best Mattress Topper Ever!",
+    "overview": "Back Pain? Hip? Sleep well thanks to this cooling topper!",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T09:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T10:00:00.000Z",
+    "title": "1776 - 2026 250th Anniversary Quarter Celebration Program",
+    "overview": "2026 will be one of the most historic years ever in U.S. coinage; join your host Mike Mezack to learn about the incredible U.S. Quarter program and get a chance at an exclusive P&D Roll!",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T10:30:00.000Z",
+    "title": "Tired of Pain? Go Drug-Free",
+    "overview": "See how a drug-free patch is helping people find relief-without medication.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T11:00:00.000Z",
+    "title": "Best Mattress Topper Ever!",
+    "overview": "Back Pain? Hip? Sleep well thanks to this cooling topper!",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T11:30:00.000Z",
+    "title": "Paid Programming",
+    "overview": "Paid programming.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T12:00:00.000Z",
+    "title": "World's Deadliest Snakes",
+    "overview": "The Indo-Pacific is home to some of the deadliest snakes in the world.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T13:00:00.000Z",
+    "title": "World's Deadliest Snakes",
+    "overview": "The Indo-Pacific is home to fast-striking vipers, giant pythons, and cobras.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T14:00:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "Battle browns, red bellies, and pythons invading Aussie farms.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T14:30:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "Untangle, extract, and outwit snakes that have been slithering into the suburbs.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T15:00:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "Confronting venom and brutal heat as snakes seek shelter in all the wrong places.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T15:30:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "Chase a rogue lizard and a python, and free an eastern brown caught in a fence.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T16:00:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "Launch into spring's snake surge with Liv and Stu, who intercept two male brown snakes duelling for mating rights at a construction site; stand back as Dan and Jess rescue chickens from a python and Mick and Adele hunt for a rogue green tree snake.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T16:30:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "Dash across southeast Queensland as breeding and snake-catching season ramp up; Adele and Mick go up against an eastern brown, the second-deadliest snake in the world; Stu and Liv tangle with a carpet python.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T17:00:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "Love-struck browns, rogue reptiles, and deadly surprises keep wranglers on edge.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T17:30:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "A python on the roof and hidden snakes spark a series of perilous surprises.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T18:00:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "Wranglers face venom, tangled traps and fierce reptiles in high-stakes rescues.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T18:30:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "Deadly snakes lurk as elite wranglers race to stop danger before it strikes.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T19:00:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "The snakes are mating, invading a lounge and infiltrating a chicken coop.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T19:30:00.000Z",
+    "title": "Aussie Snake Wranglers: Deadly Pursuit",
+    "overview": "Epic snake rescues: browns, pythons and a wild mating ball in Queensland!",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T20:00:00.000Z",
+    "title": "Port Protection Alaska",
+    "overview": "A 56-year resident, Sam, makes the most of what he has; in order to extend the wear of his boots using mink oil, he must first find and trap the minks.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T21:00:00.000Z",
+    "title": "Port Protection Alaska",
+    "overview": "As winter's end approaches, the change of season means new opportunities.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T22:00:00.000Z",
+    "title": "Port Protection Alaska",
+    "overview": "Residents deal with the forces of nature once again; Curly takes on pesky beavers in an effort to support the community.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-12T23:00:00.000Z",
+    "title": "Port Protection Alaska",
+    "overview": "Spring brings a host of chores and opportunities to Port Protection.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-13T00:00:00.000Z",
+    "title": "Port Protection Alaska",
+    "overview": "The residents of Port Protection deal with tasks and challenges as spring progresses.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-13T01:00:00.000Z",
+    "title": "Port Protection Alaska",
+    "overview": "The arrival of Spring in Port Protection means there is much work that has to be done, despite erratic bursts of rain, sleet and snow.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-13T02:00:00.000Z",
+    "title": "Port Protection Alaska",
+    "overview": "Using borrowed equipment to catch halibut; returning to some old hunting grounds; building a vertical access wind turbine out of junk and scrap metal.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-13T03:00:00.000Z",
+    "title": "Port Protection Alaska",
+    "overview": "Searching for a natural remedy for Hans' aches and pains; trying to pull a tree from the forest; a camping trip into the wilderness to hunt bear.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8:epg:2026-11-13T04:00:00.000Z",
+    "title": "Port Protection Alaska",
+    "overview": "Residents take care of essential builds and chores as spring arrives at Port Protection.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

@@ -1,0 +1,689 @@
+{
+ "meta": {
+  "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df",
+  "type": "tv",
+  "name": "PBS",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/pbs-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/pbs-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Local"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T03:00:00.000Z",
+    "title": "Frontline",
+    "overview": "An investigation into how industry and government have failed to protect miners in Appalachia from black lung disease.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T04:00:00.000Z",
+    "title": "Amanpour and Company",
+    "overview": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T05:00:00.000Z",
+    "title": "We Chose to Go to the Moon",
+    "overview": "Historian John Monsky tells the story of America's journey to the moon and those who made it possible, inside and outside of NASA; featuring performances of music from the 1960s and 1970s.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T07:00:00.000Z",
+    "title": "Frontline",
+    "overview": "An investigation into how industry and government have failed to protect miners in Appalachia from black lung disease.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T08:00:00.000Z",
+    "title": "Medicine Ball",
+    "overview": "Native college student-athletes explore the complex history of basketball in Indigenous boarding schools and its evolution into a symbol of cultural resilience.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T09:00:00.000Z",
+    "title": "Pati Jinich Explores PanAmericana",
+    "overview": "Traveling through Arizona's Sonoran Desert, finding Chinese chorizo, desert noir music, street poetry and a baseball team drawn from tribes across the country.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T10:00:00.000Z",
+    "title": "Antiques Roadshow",
+    "overview": "Torino robot lamps circa 1970; a Lee Pho oil circa 1950.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T11:00:00.000Z",
+    "title": "Arthur",
+    "overview": "Francine copies and pastes information from a Website to use as her school report; everyone loves the new reality-TV series except Arthur.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T11:30:00.000Z",
+    "title": "Odd Squad",
+    "overview": "The Mobile Unit is called to Pinehurst, N.C., to stop a villain who is stealing various objects.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T12:00:00.000Z",
+    "title": "Wild Kratts",
+    "overview": "When a rogue wave crashes into the Tortuga, the Wild Kratts get separated; Jimmy and Aviva end up on rafts in the middle of the ocean. Koki is trapped on a sinking Tortuga.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T12:30:00.000Z",
+    "title": "Weather Hunters",
+    "overview": "As a hurricane approaches, the Hunter kids learn about preparation and safety, moving furniture inside and checking their emergency supplies.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T13:00:00.000Z",
+    "title": "Lyla in the Loop",
+    "overview": "Lyla, Everett and her sisters build makeshift carnival games for their brother, Luke, using household and recycled materials; Louisa seeks help to create a special beat for her school presentation.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T13:30:00.000Z",
+    "title": "Carl the Collector",
+    "overview": "Nico and Arugula start a hamster sitter business; Carl is afraid to tell his Mama that his new shoes hurt his feet.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T14:00:00.000Z",
+    "title": "Daniel Tiger's Neighborhood",
+    "overview": "Daniel struggles to share his new toy car with his friends; Daniel and Katerina perform a jungle dance show.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T14:30:00.000Z",
+    "title": "Super Why's Comic Book Adventures",
+    "overview": "Mr. More's bubble bath goes wrong when his super strong bubbles start trapping everyone; characters come out of a book and wreck the library; a Letter Fog causes chaos.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T15:00:00.000Z",
+    "title": "Phoebe & Jay",
+    "overview": "Phoebe and Jay learn how to keep cool while using their thermometer to track the temperature in the apartment; Pete and Grandma Annie teach the kids how to tell time.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T15:30:00.000Z",
+    "title": "Sesame Street",
+    "overview": "After trading old toys with his pals, Elmo learns there are lots of ways to play and pretend; Miley Cyrus helps the gang use their imaginations.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T16:00:00.000Z",
+    "title": "Work It Out Wombats!",
+    "overview": "Super hunts for a lost sticker while the Wombats collaborate on a new ending for an old \"Sticker Monster\" story; the Wombats teach Zeke how to count to 10.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T16:30:00.000Z",
+    "title": "Donkey Hodie",
+    "overview": "Cousin doesn't always like the way his new pet plays; the pals prepare for a silly weather event.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T17:00:00.000Z",
+    "title": "Rosie's Rules",
+    "overview": "Rosie and Javi's pirate adventure goes awry; Rosie has trouble choosing a job at the first Fun Club meeting.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T17:30:00.000Z",
+    "title": "Elinor Wonders Why",
+    "overview": "While helping Ms. Beaver construct a community garden the kids learn about rocks; Elinor tries to make her special dumplings all by herself.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T18:00:00.000Z",
+    "title": "Alma's Way",
+    "overview": "Alma searches for the best way to greet others; Alma wants to figure out why Junior is shy around his new sitter.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T18:30:00.000Z",
+    "title": "Molly of Denali",
+    "overview": "Molly, Trini and Vera are excited to plant the community garden; Molly, Tooey and Trini discover why Grandpa Nat doesn't celebrate Thanksgiving.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T19:00:00.000Z",
+    "title": "Baking With Julia",
+    "overview": "Lora Brody demonstrates bread-machine breads, brie in brioche and quiche.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T19:30:00.000Z",
+    "title": "Ask This Old House",
+    "overview": "Replacing a valve; repainting a radiator cover that has lead paint on it; identifying and removing load bearing walls.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T20:00:00.000Z",
+    "title": "Hotel Portofino",
+    "overview": "During Claudine's perfume launch party, Bella fights to get the business grant she needs; as Lucian and Constance get ready to run away, Cecil's plan to kill Danioni fails, and Virat's shocking move brings havoc.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T21:00:00.000Z",
+    "title": "Nature",
+    "overview": "How pigeons overcome the challenges of city life and thrive alongside people in London and New York.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T22:00:00.000Z",
+    "title": "NOVA",
+    "overview": "How the rise of sexual reproduction fuels diversity, pushing life to specialize and shaping everything from tiny single-celled organisms to towering ostriches.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-11T23:00:00.000Z",
+    "title": "Antiques Roadshow",
+    "overview": "A 1985 Charles Schulz Snoopy sketch; Chinese altar garniture circa 1850; a 1919 William Faulkner handmade poetry book.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T00:00:00.000Z",
+    "title": "PBS News Hour",
+    "overview": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T01:00:00.000Z",
+    "title": "Nature",
+    "overview": "A 25-year study uncovers how Fongoli chimps adapted to the extreme heat and dryness of Senegal's savanna woodlands.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T02:00:00.000Z",
+    "title": "NOVA",
+    "overview": "An evolutionary ride from early aquatic ancestors to highly-optimized runners like the horse, whose story is linked to our own.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T03:00:00.000Z",
+    "title": "Secrets of the Dead",
+    "overview": "How the Continental soldiers' loss at the Battle of Camden in South Carolina turned the tide of the American Revolution.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T04:00:00.000Z",
+    "title": "Amanpour and Company",
+    "overview": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T05:00:00.000Z",
+    "title": "Nature",
+    "overview": "A 25-year study uncovers how Fongoli chimps adapted to the extreme heat and dryness of Senegal's savanna woodlands.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T06:00:00.000Z",
+    "title": "NOVA",
+    "overview": "An evolutionary ride from early aquatic ancestors to highly-optimized runners like the horse, whose story is linked to our own.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T07:00:00.000Z",
+    "title": "Secrets of the Dead",
+    "overview": "How the Continental soldiers' loss at the Battle of Camden in South Carolina turned the tide of the American Revolution.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T08:00:00.000Z",
+    "title": "We Chose to Go to the Moon",
+    "overview": "Historian John Monsky tells the story of America's journey to the moon and those who made it possible, inside and outside of NASA; featuring performances of music from the 1960s and 1970s.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T10:00:00.000Z",
+    "title": "Antiques Roadshow",
+    "overview": "A 1985 Charles Schulz Snoopy sketch; Chinese altar garniture circa 1850; a 1919 William Faulkner handmade poetry book.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T11:00:00.000Z",
+    "title": "Arthur",
+    "overview": "D.W. becomes a picky eater; daredevils.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T11:30:00.000Z",
+    "title": "Odd Squad",
+    "overview": "Ozzie and Orli must stop the villainous Knights of the Square Table from turning things to stone; Ozzie and Orli time travel to save Odd Squad.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T12:00:00.000Z",
+    "title": "Wild Kratts",
+    "overview": "The Wild Kratts search for the snub-nosed monkeys in the Chinese mountains.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T12:30:00.000Z",
+    "title": "Weather Hunters",
+    "overview": "The Hunters learn how temperatures can affect outdoor plants and gardens.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T13:00:00.000Z",
+    "title": "Lyla in the Loop",
+    "overview": "After feeling left out, Luke decides to switch places with Stu; the Loops kids throw a surprise party for their parents.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T13:30:00.000Z",
+    "title": "Carl the Collector",
+    "overview": "Nico is tired of being mistaken for her twin sister; Carl is upset when Nico breaks the Lint Dinosaur Monday rules and makes a Lint Monster instead.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T14:00:00.000Z",
+    "title": "Daniel Tiger's Neighborhood",
+    "overview": "Grandpere Tiger visits; Daniel can't decide what he wants to write on his thank you note.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T14:30:00.000Z",
+    "title": "Super Why's Comic Book Adventures",
+    "overview": "Power Paige accidentally creates a Slime Storm; the pesky letter p's are causing chaos all over Reader Valley; everything in the park is disappearing -- including Princess Presto.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T15:00:00.000Z",
+    "title": "Phoebe & Jay",
+    "overview": "Phoebe, Jay and Lupe practice their fire safety plan when the fire inspector visits; Phoebe and Jay buy juice from Mr. Aguilar.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T15:30:00.000Z",
+    "title": "Sesame Street",
+    "overview": "After looking at the moon through Yasmine's telescope, Tamir, Elmo and Zoe pretend to be astronauts traveling to the moon.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T16:00:00.000Z",
+    "title": "Work It Out Wombats!",
+    "overview": "The Wombats try to save Harvest Day as it becomes overrun by fog; Zeke tries to create stew that meets Mr. E's high standards.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T16:30:00.000Z",
+    "title": "Donkey Hodie",
+    "overview": "The pals vote on different ideas for what to do with a giant rainbow potato; Donkey needs extra help to catch hopping honeyberries in Grampy's garden.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T17:00:00.000Z",
+    "title": "Rosie's Rules",
+    "overview": "It's Recycling Day, so Rosie becomes a recycling kid, but she accidentally recycles Crystal's art project; when Rosie and Javi find a monarch butterfly in the backyard, they try to figure out what it needs so it can flutter again.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T17:30:00.000Z",
+    "title": "Elinor Wonders Why",
+    "overview": "Olive and Elinor learn about echoing voices when playing Marco Polo with Ari; while at the lake, Elinor and her friends realize they can't see ears on certain animals.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T18:00:00.000Z",
+    "title": "Alma's Way",
+    "overview": "A series of mishaps gives Alma \"the grumps\"; Junior wants to play basketball with the big kids and make a basket.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T18:30:00.000Z",
+    "title": "Molly of Denali",
+    "overview": "Trini is discouraged because she can't add her own moves to the Lynx Dance; Molly hopes to catch a Yukon River king salmon.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T19:00:00.000Z",
+    "title": "Baking With Julia",
+    "overview": "Marcel Desaulniers prepares white-chocolate patty cake with chocolate tulips.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T19:30:00.000Z",
+    "title": "Ask This Old House",
+    "overview": "Installing a mini split unit; identifying Japanese maple trees and incorporating them into a landscape design; installing a butcher block countertop.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T20:00:00.000Z",
+    "title": "Hotel Portofino",
+    "overview": "Lucian pleads with Constance to run away with him after Nish is discovered dead.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T21:00:00.000Z",
+    "title": "Big Pacific",
+    "overview": "Exploring the mysterious depths of the Pacific Ocean.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T22:00:00.000Z",
+    "title": "Big Pacific",
+    "overview": "Creatures of the ocean must deal with violence as a part of life.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-12T23:00:00.000Z",
+    "title": "Antiques Roadshow",
+    "overview": "Babe Ruth archive; Japanese Komai iron and gold vase circa 1890; Virginia federal walnut cellarette.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-13T00:00:00.000Z",
+    "title": "PBS News Hour",
+    "overview": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-13T01:00:00.000Z",
+    "title": "This Old House",
+    "overview": "Restoring an old clawfoot tub; installing kitchen cabinets; saving and cleaning 100-year-old original door hardware.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-13T01:30:00.000Z",
+    "title": "Ask This Old House",
+    "overview": "Restoring a rusty BBQ smoker with high-heat paint; how to choose a tree from a nursery and plant it.",
+    "released": "2026-11-13T01:30:00.000Z",
+    "startTime": "2026-11-13T01:30:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-13T02:00:00.000Z",
+    "title": "Velvet",
+    "overview": "Ana quits but Alberto finds a way to save her career; Cristina's life may be exposed after an argument with Alberto; Patricia's wedding nears collapse.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-13T03:30:00.000Z",
+    "title": "This Old House",
+    "overview": "Restoring an old clawfoot tub; installing kitchen cabinets; saving and cleaning 100-year-old original door hardware.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df:epg:2026-11-13T04:00:00.000Z",
+    "title": "Amanpour and Company",
+    "overview": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

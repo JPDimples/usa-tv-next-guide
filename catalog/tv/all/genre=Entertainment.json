@@ -1,0 +1,368 @@
+{
+ "metas": [
+  {
+   "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82",
+   "type": "tv",
+   "name": "AMC",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/amc-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3",
+   "type": "tv",
+   "name": "BET",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bet-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647",
+   "type": "tv",
+   "name": "Bounce",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bounce-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911",
+   "type": "tv",
+   "name": "Bravo",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bravo-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1",
+   "type": "tv",
+   "name": "Buzzr",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/buzzr-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-f687826d-6325-47cf-afbb-0f91bc5ed5f9",
+   "type": "tv",
+   "name": "Cinemax",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cinemax-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3",
+   "type": "tv",
+   "name": "CMT",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cmt-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac",
+   "type": "tv",
+   "name": "Comedy TV",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/comedy-tv-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-74728d74-03df-4c60-b3b7-69f1dfc4d8e7",
+   "type": "tv",
+   "name": "FX",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fx-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591",
+   "type": "tv",
+   "name": "Game Show Network",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/game-show-network-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507",
+   "type": "tv",
+   "name": "IFC",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ifc-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d",
+   "type": "tv",
+   "name": "Ion",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ion-television-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081",
+   "type": "tv",
+   "name": "Ion Mystery",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ion-mystery-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e",
+   "type": "tv",
+   "name": "Lifetime",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/lifetime-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8",
+   "type": "tv",
+   "name": "Oxygen True Crime",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/oxygen-true-crime-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-733c0b85-264f-4135-b615-5930efa84351",
+   "type": "tv",
+   "name": "Paramount Network",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/paramount-network-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5",
+   "type": "tv",
+   "name": "Reelz",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/reelz-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-05b926f2-1b92-4328-a60f-960ffa0ae974",
+   "type": "tv",
+   "name": "Sundance TV",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sundance-tv-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b",
+   "type": "tv",
+   "name": "SYFY",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/syfy-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-3e8788a9-bd9f-4dc2-966b-7d4533174493",
+   "type": "tv",
+   "name": "TBS",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tbs-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e",
+   "type": "tv",
+   "name": "TCM",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tcm-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632",
+   "type": "tv",
+   "name": "TNT",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tnt-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63",
+   "type": "tv",
+   "name": "TruTV",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/trutv-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93",
+   "type": "tv",
+   "name": "TV Land",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tv-land-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea",
+   "type": "tv",
+   "name": "TV One",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tv-one-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241",
+   "type": "tv",
+   "name": "USA Network",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/usa-network-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8",
+   "type": "tv",
+   "name": "Vice TV",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/vice-tv-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61",
+   "type": "tv",
+   "name": "We TV",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/we-tv-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Entertainment"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

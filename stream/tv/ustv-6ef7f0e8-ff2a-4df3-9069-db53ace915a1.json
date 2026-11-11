@@ -1,0 +1,44 @@
+{
+ "streams": [
+  {
+   "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
+   "behaviorHints": {
+    "notWebReady": true
+   },
+   "name": "FHD",
+   "description": "HV:23"
+  },
+  {
+   "url": "https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8",
+   "behaviorHints": {
+    "notWebReady": true
+   },
+   "name": "SD",
+   "description": "HV:JMP2"
+  },
+  {
+   "url": "https://jmp2.uk/rok-562baf35c5da56cc91cdea41537b43f9.m3u8",
+   "behaviorHints": {
+    "notWebReady": true
+   },
+   "name": "SD",
+   "description": "HV:JMP2"
+  },
+  {
+   "url": "https://live-manifest.production-public.tubi.io/live/fbd43d6e-6370-4220-9ec8-3e435b5b574b/playlist.m3u8",
+   "behaviorHints": {
+    "notWebReady": true
+   },
+   "name": "HD",
+   "description": "HV:LIVE-MANIFES"
+  },
+  {
+   "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8",
+   "behaviorHints": {
+    "notWebReady": true
+   },
+   "name": "Audio",
+   "description": "HV:CDN-UW2-PROD"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "meta": {
+  "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d",
+  "type": "tv",
+  "name": "Ion",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/ion-television-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ion-television-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T03:00:00.000Z",
+    "title": "Chicago Fire",
+    "overview": "Novak explores a new romantic connection  Vasquez deals with the aftermath of his father's recent release.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T04:00:00.000Z",
+    "title": "Chicago Fire",
+    "overview": "Herrmann grows uneasy when a local accident attorney inserts himself into a routine call  Firehouse 51 gets a visitor.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T05:00:00.000Z",
+    "title": "Chicago Fire",
+    "overview": "Severide must make a tough decision about the future of his career at Firehouse 51  Herrmann deals with the consequences of his temper  Cruz is excited to demonstrate the Slamigan at the Firefighting Expo  Commissioner Grissom returns.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T06:00:00.000Z",
+    "title": "Chicago Fire",
+    "overview": "Severide starts off on the wrong foot at his Office of Fire Investigation assignment when, despite orders, he reopens an old case  Herrmann is on a mission to discover what caused an apartment fire  Kidd finds herself burning the candle at both ends.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T07:00:00.000Z",
+    "title": "Chicago Fire",
+    "overview": "An unexpected visit throws Casey for a loop  Severide sets out to exonerate a wrongly convicted arsonist  Kidd pays the price for burning the candle at both ends  Cruz goes on a mission to fix one of Otis's old toys.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T08:00:00.000Z",
+    "title": "The Listener",
+    "overview": "Toby goes undercover to find a group of thieves posing as police officers.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T09:00:00.000Z",
+    "title": "The Listener",
+    "overview": "Toby and Michelle investigate a potential conspiracy linked to a mob murder trial.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

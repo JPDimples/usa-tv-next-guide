@@ -1,0 +1,939 @@
+{
+ "meta": {
+  "id": "ustv-f4ce7266-386e-4563-872e-21576026999a",
+  "type": "tv",
+  "name": "Discovery Family",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/discovery-family-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/discovery-family-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Kids"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T03:00:00.000Z",
+    "title": "Kids Baking Championship",
+    "overview": "Interior decorating is the inspiration as Valerie Bertinelli and Duff Goldman dare five kid bakers to make beautiful decorations and mouthwatering layers in show-stopping trifles.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T04:00:00.000Z",
+    "title": "Kids Baking Championship",
+    "overview": "Potatoes aren't just for French fries anymore, now they're for decorating; Valerie Bertinelli and Duff Goldman ask the eight remaining bakers to carve potato cutouts and create colorful potato-print cookies.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T05:00:00.000Z",
+    "title": "Kids Baking Championship",
+    "overview": "Ice cream cones are for more than just holding ice cream; Valerie Bertinelli and Duff Goldman challenge the seven kid bakers to create impressive ice cream cone cupcakes in order to stay in the game.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T06:00:00.000Z",
+    "title": "Kids Baking Championship",
+    "overview": "The remaining six bakers create Italian rainbow cookies featuring classic flavors like espresso.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T07:00:00.000Z",
+    "title": "Kids Baking Championship",
+    "overview": "Interior decorating is the inspiration as Valerie Bertinelli and Duff Goldman dare five kid bakers to make beautiful decorations and mouthwatering layers in show-stopping trifles.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T08:00:00.000Z",
+    "title": "Buddy's Bakery Rescue",
+    "overview": "After Dana spent many early years in her grandfather's bakery, she opened her own as a tribute; Buddy finds the tribute lacking in taste and consistency and must figure out if the problem is the recipes or Dana, or both.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T09:00:00.000Z",
+    "title": "DC Cupcakes",
+    "overview": "The sisters build a Chinese lion while Andres takes on the task of creating an Asian inspired flavor cupcake; the shop raises money for the Boys and Girls Club of DC.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T09:30:00.000Z",
+    "title": "DC Cupcakes",
+    "overview": "Creating a giant tattoo out of cupcakes for the DC Tattoo Expo; a special cupcake order.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T10:00:00.000Z",
+    "title": "Animal Cribs",
+    "overview": "Antonio goes hog wild and designs the ultimate piggy paradise with a new pig house, a mud pit, space to run and an activity wall to keep Mr. Pickles happy.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T11:00:00.000Z",
+    "title": "Baby Looney Tunes",
+    "overview": "Baby Lola suggests that the gang use their money to buy Granny a present; Sylvester desperately tries to keep the nursery clean from Daffy.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T11:30:00.000Z",
+    "title": "Baby Looney Tunes",
+    "overview": "The babies reminisce about the past; the gang thinks they're moving away.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T12:00:00.000Z",
+    "title": "Bubble's Hotel",
+    "overview": "Bubble learns that Dash has butterfly-phobia, and she endeavors to help Dash overcome her fears.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T12:15:00.000Z",
+    "title": "Bubble's Hotel",
+    "overview": "Bubble helps Lotus protect her precious rare coral plant from a destructive seahorse.",
+    "released": "2026-11-11T12:15:00.000Z",
+    "startTime": "2026-11-11T12:15:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T12:30:00.000Z",
+    "title": "Bubble's Hotel",
+    "overview": "The Queen of Hearts comes to stay at the hotel, Bubble is intimidated - she starts making mistakes.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T12:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T12:45:00.000Z",
+    "title": "Bubble's Hotel",
+    "overview": "The hotel's ice cream-maker goes berserk, Bubble and Nabi must put a stop to it!",
+    "released": "2026-11-11T12:45:00.000Z",
+    "startTime": "2026-11-11T12:45:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T13:00:00.000Z",
+    "title": "Bugs Bunny Builders",
+    "overview": "The Looney Builders build a skate park for the kids, but it soon interferes with Hoots Talon and his friends' activities.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T13:15:00.000Z",
+    "title": "Bugs Bunny Builders",
+    "overview": "When The Looney Builders build Taz, a wrecking ball vehicle, he struggles to learn how to operate it.",
+    "released": "2026-11-11T13:15:00.000Z",
+    "startTime": "2026-11-11T13:15:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T13:30:00.000Z",
+    "title": "The Smurfs",
+    "overview": "Farmer poses himself as another Smurf to get the amorous attention of Smurfette.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T13:50:00.000Z",
+    "runtime": "20 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T13:50:00.000Z",
+    "title": "The Smurfs",
+    "overview": "Gargamel tries to capture Smurfs with the help of his Great Book of Spells in order to buy himself a bigger home.",
+    "released": "2026-11-11T13:50:00.000Z",
+    "startTime": "2026-11-11T13:50:00.000Z",
+    "endTime": "2026-11-11T14:10:00.000Z",
+    "runtime": "20 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T14:10:00.000Z",
+    "title": "The Smurfs",
+    "overview": "An early-blooming flower on an early-breaking spring day causes the Smurfs to forget about the village dam, which is about to burst.",
+    "released": "2026-11-11T14:10:00.000Z",
+    "startTime": "2026-11-11T14:10:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "20 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T14:30:00.000Z",
+    "title": "Pound Puppies",
+    "overview": "Rebound is left at the pound when Agatha decides that it's time for a vacation.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T15:00:00.000Z",
+    "title": "Lucas the Spider",
+    "overview": "Dimples and Weebiscuit's tank leaks, and they are put into new homes; Dimples is worried about a tank decoration of a shark in her new aquarium; Lucas turns teacher as he tries to teach Maizie how to paint.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T15:30:00.000Z",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "Rarity must prove that her friend is innocent when Rainbow Dash is accused of a crime that she did not commit.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T16:00:00.000Z",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "Applejack and Rarity are called to Manehattan to solve a friendship problem; they find themselves helping Coco Pommel with a major project in her neighborhood, but the three soon discover that they've bitten off more than they can chew.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T16:30:00.000Z",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "When Applejack is called away and has to miss participating in the Sisterhooves Social with Apple Bloom, Big Mac decides to fill in for her.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T17:00:00.000Z",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "When Pip Squeak decides to run for class president, the Cutie Mark Crusaders rally around their friend, but find themselves helping their long-time nemesis, Diamond Tiara, in an unexpected way.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T17:30:00.000Z",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "Pinkie Pie struggles to keep a secret that involves Princess Cadance and Shining Armor.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T18:00:00.000Z",
+    "title": "The Sylvester & Tweety Mysteries",
+    "overview": "Criminals in San Francisco mistake Tweety for the famous \"Maltese Canary.\".",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T18:30:00.000Z",
+    "title": "The Sylvester & Tweety Mysteries",
+    "overview": "Granny helps her absent-minded brother locate money he misplaced on Christmas Eve.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T19:00:00.000Z",
+    "title": "Scooby-Doo and Guess Who?",
+    "overview": "The gang and Kristen Schaal investigate a hospital that is haunted by the ghost of a 1950s doctor named Phineas Phrag.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T19:30:00.000Z",
+    "title": "My Gym Partner's a Monkey",
+    "overview": "Adam finds an old custodian left over from the school's human days; Jake accidentally ruins Adam's project for the school Science Fair.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T20:00:00.000Z",
+    "title": "Summer Camp Island",
+    "overview": "Susie, Ramona and Barb team up in frozen time to see what's threatening magic.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T20:15:00.000Z",
+    "title": "Summer Camp Island",
+    "overview": "Susie and Ramona train a gaggle of witches until they have a full coven.",
+    "released": "2026-11-11T20:15:00.000Z",
+    "startTime": "2026-11-11T20:15:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T20:30:00.000Z",
+    "title": "Summer Camp Island",
+    "overview": "Ramona sends Susie back to New York in search of new magical creatures.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T20:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T20:45:00.000Z",
+    "title": "Summer Camp Island",
+    "overview": "The King leaves Hedgehog and Oscar in charge of the kingdom while he and Puddle are away; their only duty is to carry out the Swan-Upping.",
+    "released": "2026-11-11T20:45:00.000Z",
+    "startTime": "2026-11-11T20:45:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T21:00:00.000Z",
+    "title": "Steven Universe",
+    "overview": "Steven sneaks a listen to a friend's audio diary.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T21:15:00.000Z",
+    "title": "Steven Universe",
+    "overview": "Steven finds out what happened to all the sentient watermelons he created.",
+    "released": "2026-11-11T21:15:00.000Z",
+    "startTime": "2026-11-11T21:15:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T21:30:00.000Z",
+    "title": "Steven Universe",
+    "overview": "After an earthquake, Steven takes a journey deep underground and eventually arrives at where the Cluster is buried.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T21:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T21:45:00.000Z",
+    "title": "Steven Universe",
+    "overview": "Steven flies around the world with Lapis Lazuli, introducing her to life on Earth.",
+    "released": "2026-11-11T21:45:00.000Z",
+    "startTime": "2026-11-11T21:45:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T22:00:00.000Z",
+    "title": "Cake Boss",
+    "overview": "Buddy celebrates Joe's firefighter promotion by making a fire truck and burning building cake; the team makes a Bocce themed cake for a charity tournament.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T22:30:00.000Z",
+    "title": "Cake Boss",
+    "overview": "Buddy makes a Cinco de Mayo cake for a local mariachi band's fiesta; a local salon requests a spa inspired cake to celebrate their grand opening; the sisters and wife Lisa get makeovers in the process.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-11T23:00:00.000Z",
+    "title": "Cupcake Wars",
+    "overview": "A chance to serve their cupcakes at a birthday party for celebrity and guest judge Tiffani Thiessen.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T00:00:00.000Z",
+    "title": "Cupcake Wars",
+    "overview": "A chance to serve at one of the most exclusive food events; guest judge Jeff Mauro.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T01:00:00.000Z",
+    "title": "Cupcake Wars",
+    "overview": "A chance to serve at a high-stakes poker game; guest judge Mimi Rogers.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T02:00:00.000Z",
+    "title": "Cupcake Wars",
+    "overview": "The chance to serve at a black tie gala celebrating the arrival of Space Shuttle Endeavour.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T03:00:00.000Z",
+    "title": "Cupcake Wars",
+    "overview": "The chance to serve at center court at an event for the world-famous Harlem Globetrotters; Globetrotter Herbert Flight Time Lang serves as the guest judge.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T04:00:00.000Z",
+    "title": "Cupcake Wars",
+    "overview": "A chance to serve at one of the most exclusive food events; guest judge Jeff Mauro.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T05:00:00.000Z",
+    "title": "Cupcake Wars",
+    "overview": "A chance to serve at a high-stakes poker game; guest judge Mimi Rogers.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T06:00:00.000Z",
+    "title": "Cupcake Wars",
+    "overview": "The chance to serve at a black tie gala celebrating the arrival of Space Shuttle Endeavour.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T07:00:00.000Z",
+    "title": "Cupcake Wars",
+    "overview": "The chance to serve at center court at an event for the world-famous Harlem Globetrotters; Globetrotter Herbert Flight Time Lang serves as the guest judge.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T08:00:00.000Z",
+    "title": "Buddy's Bakery Rescue",
+    "overview": "Buddy visits Friendly Bake Shop, an Italian-American bakery that's been open for 52 years; the business is suffering from outdated processes, broken equipment, and an old-school philosophy on running a small-town business.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T09:00:00.000Z",
+    "title": "DC Cupcakes",
+    "overview": "The girls build a six-foot-tall nutcracker; Mommy's decorating spins out of control.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T09:30:00.000Z",
+    "title": "DC Cupcakes",
+    "overview": "The girls take on making a dress out of cupcakes that must walk down the runway on a model.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T10:00:00.000Z",
+    "title": "Animal Cribs",
+    "overview": "Antonio builds the ultimate barn with all the modern comforts for two rescued miniature horses that insist on sleeping in their owner's bedroom.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T11:00:00.000Z",
+    "title": "Baby Looney Tunes",
+    "overview": "Granny reads a story to the babies about Easter and Taz disrupts the nursery until Lola, Tweety, Sylvester, Bugs and Daffy finally get Taz to settle down and listen.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T11:30:00.000Z",
+    "title": "Baby Looney Tunes",
+    "overview": "Taz grows impatient waiting for Easter; to keep Taz from being sad and tearful, the babies decide to find the Easter bunny.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T12:00:00.000Z",
+    "title": "Bubble's Hotel",
+    "overview": "Bubble and Nabi must help their guest land safely before the Island winds sweep him out to sea.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T12:15:00.000Z",
+    "title": "Bubble's Hotel",
+    "overview": "A guest-built robot goes on the fritz, Bubble must stop it before it destroys the hotel.",
+    "released": "2026-11-12T12:15:00.000Z",
+    "startTime": "2026-11-12T12:15:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T12:30:00.000Z",
+    "title": "Bubble's Hotel",
+    "overview": "Bubble's guest Lotus insists that she can handle babysitting some baby seahorses.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T12:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T12:45:00.000Z",
+    "title": "Bubble's Hotel",
+    "overview": "Bubble tries to stop Amp's destructive doggy before it destroys the other guests' happy holidays.",
+    "released": "2026-11-12T12:45:00.000Z",
+    "startTime": "2026-11-12T12:45:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T13:00:00.000Z",
+    "title": "Bugs Bunny Builders",
+    "overview": "The Looney Builders face underwater challenges as they build a sea school for Moxie Manatee.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T13:15:00.000Z",
+    "title": "Bugs Bunny Builders",
+    "overview": "Moxie Manatee hires the Looney Builders to build an obstacle course for the Sandy Shells Preschool Games, but Lola isn't listening to her crew.",
+    "released": "2026-11-12T13:15:00.000Z",
+    "startTime": "2026-11-12T13:15:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T13:30:00.000Z",
+    "title": "The Smurfs",
+    "overview": "Peewit unwittingly chops down a gremlin's home and is cursed until he can find the creature a new place to live.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T13:50:00.000Z",
+    "runtime": "20 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T13:50:00.000Z",
+    "title": "The Smurfs",
+    "overview": "Clumsy accidentally breaks Vanity's mirror and suddenly becomes a jinx on all the other Smurfs, so they reluctantly decide to keep away from him.",
+    "released": "2026-11-12T13:50:00.000Z",
+    "startTime": "2026-11-12T13:50:00.000Z",
+    "endTime": "2026-11-12T14:10:00.000Z",
+    "runtime": "20 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T14:10:00.000Z",
+    "title": "The Smurfs",
+    "overview": "The Smurfs bet Jokey that they can go a full day without doing their trademark activities, and if they win the bet, Jokey must stop playing practical jokes for an entire year.",
+    "released": "2026-11-12T14:10:00.000Z",
+    "startTime": "2026-11-12T14:10:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "20 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T14:30:00.000Z",
+    "title": "Pound Puppies",
+    "overview": "The Pound Puppies become sled dogs to help a friend.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T15:00:00.000Z",
+    "title": "Lucas the Spider",
+    "overview": "Lucas' friends are introduced with a song; Arlo keeps asking questions; Lucas learns to be more patient; Lucas discovers a slice of cake and decides to throw a surprise party for Findley.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T15:30:00.000Z",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "Applejack is excited to celebrate Hearth's Warming Eve with Pinkie Pie's family but soon discovers that the Pies have very different ways of enjoying the holiday at their Rock Farm.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T16:00:00.000Z",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "Twilight returns from Canterlot to find her friends have developed a deep bond with Discord.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T16:30:00.000Z",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "Princess Twilight and Fluttershy are called by the map to settle a dispute between two feuding families who can't even remember why they are fighting.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T17:00:00.000Z",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "An old friend of Applejack's has become a huge pop star and Applejack fears that the singer's manager does not have her best interests at heart.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T17:30:00.000Z",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "Starlight Glimmer returns to seek vengeance on Twilight and her friends and has acquired a spell that could change the past, present, and future of Equestria forever.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T18:00:00.000Z",
+    "title": "The Sylvester & Tweety Mysteries",
+    "overview": "Granny investigates when Australia's sheep mysteriously disappear.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T18:30:00.000Z",
+    "title": "The Sylvester & Tweety Mysteries",
+    "overview": "Granny travels to Scotland to investigate the theft of the McRory tartan.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T19:00:00.000Z",
+    "title": "Scooby-Doo and Guess Who?",
+    "overview": "Daphne takes the gang to see her celebrity bestie, Kacey Musgraves, in Nashville, where she is performing, and a phantom is on the loose, attacking artists it doesn't like.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T19:30:00.000Z",
+    "title": "My Gym Partner's a Monkey",
+    "overview": "The animals overeat when the menu is changed; Adam unintentionally insults Jake.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T20:00:00.000Z",
+    "title": "Summer Camp Island",
+    "overview": "Hedgehog and Oscar accidentally discover alien jesters who have been living under the floorboards of the castle.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T20:15:00.000Z",
+    "title": "Summer Camp Island",
+    "overview": "Oscar, Puddle and Hedgehog try to figure out the reason behind the King's recent order to aliens.",
+    "released": "2026-11-12T20:15:00.000Z",
+    "startTime": "2026-11-12T20:15:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T20:30:00.000Z",
+    "title": "Summer Camp Island",
+    "overview": "Oscar has to distract Lucy while the yetis prepare a surprise for her.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T20:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T20:45:00.000Z",
+    "title": "Summer Camp Island",
+    "overview": "Lucy and a young yeti named Fife argue about the right way to raise a litter of baby yetis they found.",
+    "released": "2026-11-12T20:45:00.000Z",
+    "startTime": "2026-11-12T20:45:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T21:00:00.000Z",
+    "title": "Steven Universe",
+    "overview": "Steven helps two friends get along at the barn.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:15:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T21:15:00.000Z",
+    "title": "Steven Universe",
+    "overview": "Steven and the Gems engage in an old-fashioned game of baseball.",
+    "released": "2026-11-12T21:15:00.000Z",
+    "startTime": "2026-11-12T21:15:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T21:30:00.000Z",
+    "title": "Steven Universe",
+    "overview": "Steven jumps for joy, but it's way too high.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T21:45:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T21:45:00.000Z",
+    "title": "Steven Universe",
+    "overview": "Sour Cream's father returns to town, much to the chagrin of Yellowtail.",
+    "released": "2026-11-12T21:45:00.000Z",
+    "startTime": "2026-11-12T21:45:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "15 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T22:00:00.000Z",
+    "title": "Cake Boss",
+    "overview": "A 14-foot, 800-pound replica of Mighty Mike; a pageant cake; a long journey to Israel.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T22:30:00.000Z",
+    "title": "Cake Boss",
+    "overview": "Buddy has to convince his momma that after 100 years it is time to give Carlo's a timely facelift, so he cooks up a plan to sweeten the deal.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-12T23:00:00.000Z",
+    "title": "Supermarket Stakeout",
+    "overview": "Shoppers at Lazy Acres Market in Hermosa Beach, Calif., make some quick cash as four chefs sift through their carts for ingredients to make their ultimate burger.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-13T00:00:00.000Z",
+    "title": "Supermarket Stakeout",
+    "overview": "Alex Guarnaschelli challenges four chefs to think outside the pizza box as they stake out shoppers at Bristol Farms market in Calabasas, Calif.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-13T01:00:00.000Z",
+    "title": "Supermarket Stakeout",
+    "overview": "Alex Guarnaschelli welcomes four chefs to Bristol Farms market in Calabasas, Calif., where they go off the deep end searching for shoppers whose carts are full of fantastic ingredients.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-13T02:00:00.000Z",
+    "title": "Supermarket Stakeout",
+    "overview": "It's a Sin City stakeout as four chefs up the ante at Smith's in Las Vegas, Nev.; one chef must turn savory into sweet for their breakfast dish; it's a picnic in a parking lot before the chefs are asked to bring the heat to hit the jackpot.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-13T03:00:00.000Z",
+    "title": "Supermarket Stakeout",
+    "overview": "The chefs gamble with unsuspecting shoppers' carts to create the best nacho platter; then they time-travel to dish up a retro-goes-modern classic; the final two chefs gambling for a sweet and salty win.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a:epg:2026-11-13T04:00:00.000Z",
+    "title": "Supermarket Stakeout",
+    "overview": "Alex Guarnaschelli challenges four chefs to think outside the pizza box as they stake out shoppers at Bristol Farms market in Calabasas, Calif.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

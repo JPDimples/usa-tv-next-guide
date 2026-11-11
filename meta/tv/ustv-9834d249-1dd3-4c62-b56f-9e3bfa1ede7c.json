@@ -1,0 +1,519 @@
+{
+ "meta": {
+  "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c",
+  "type": "tv",
+  "name": "MTV Classic",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/mtv-classic-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/mtv-classic-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Music"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T03:00:00.000Z",
+    "title": "Yo! Hip Hop Mix",
+    "overview": "A throwback to the Old Skool rap videos from the 80s, 90s and early 00s; don't miss all of Hip-Hop's greatest: Public Enemy, Tupac, Notorious BIG, Queen Latifah, Jay-Z, Kanye and more.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T04:00:00.000Z",
+    "title": "Yo! Hip Hop Mix",
+    "overview": "A throwback to the Old Skool rap videos from the 80s, 90s and early 00s; don't miss all of Hip-Hop's greatest: Public Enemy, Tupac, Notorious BIG, Queen Latifah, Jay-Z, Kanye and more.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T05:00:00.000Z",
+    "title": "Yo! Hip Hop Mix",
+    "overview": "A throwback to the Old Skool rap videos from the 80s, 90s and early 00s; don't miss all of Hip-Hop's greatest: Public Enemy, Tupac, Notorious BIG, Queen Latifah, Jay-Z, Kanye and more.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T06:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T07:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T08:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T09:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T10:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T11:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T12:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T13:00:00.000Z",
+    "title": "90s Nation",
+    "overview": "All the favorite music videos from the 90s, from Grunge to Hip-Hop; featuring big artists of the decade, Nirvana, Dr. Dre, TLC, Stone Temple Pilots, No Doubt and more.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T14:00:00.000Z",
+    "title": "90s Nation",
+    "overview": "All the favorite music videos from the 90s, from Grunge to Hip-Hop; featuring big artists of the decade, Nirvana, Dr. Dre, TLC, Stone Temple Pilots, No Doubt and more.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T15:00:00.000Z",
+    "title": "90s Nation",
+    "overview": "All the favorite music videos from the 90s, from Grunge to Hip-Hop; featuring big artists of the decade, Nirvana, Dr. Dre, TLC, Stone Temple Pilots, No Doubt and more.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T16:00:00.000Z",
+    "title": "90s Nation",
+    "overview": "All the favorite music videos from the 90s, from Grunge to Hip-Hop; featuring big artists of the decade, Nirvana, Dr. Dre, TLC, Stone Temple Pilots, No Doubt and more.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T17:00:00.000Z",
+    "title": "90s Nation",
+    "overview": "All the favorite music videos from the 90s, from Grunge to Hip-Hop; featuring big artists of the decade, Nirvana, Dr. Dre, TLC, Stone Temple Pilots, No Doubt and more.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T18:00:00.000Z",
+    "title": "Yo! Hip Hop Mix",
+    "overview": "A throwback to the Old Skool rap videos from the 80s, 90s and early 00s; don't miss all of Hip-Hop's greatest: Public Enemy, Tupac, Notorious BIG, Queen Latifah, Jay-Z, Kanye and more.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T19:00:00.000Z",
+    "title": "Yo! Hip Hop Mix",
+    "overview": "A throwback to the Old Skool rap videos from the 80s, 90s and early 00s; don't miss all of Hip-Hop's greatest: Public Enemy, Tupac, Notorious BIG, Queen Latifah, Jay-Z, Kanye and more.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T20:00:00.000Z",
+    "title": "Yo! Hip Hop Mix",
+    "overview": "A throwback to the Old Skool rap videos from the 80s, 90s and early 00s; don't miss all of Hip-Hop's greatest: Public Enemy, Tupac, Notorious BIG, Queen Latifah, Jay-Z, Kanye and more.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T21:00:00.000Z",
+    "title": "Yo! Hip Hop Mix",
+    "overview": "A throwback to the Old Skool rap videos from the 80s, 90s and early 00s; don't miss all of Hip-Hop's greatest: Public Enemy, Tupac, Notorious BIG, Queen Latifah, Jay-Z, Kanye and more.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T22:00:00.000Z",
+    "title": "House of Pop",
+    "overview": "Pop music is in the house!; featuring big artists from the 80s through the early 00s, including Michael Jackson, Madonna, Britney Spears, Justin Timberlake, Coldplay and more.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-11T23:00:00.000Z",
+    "title": "House of Pop",
+    "overview": "Pop music is in the house!; featuring big artists from the 80s through the early 00s, including Michael Jackson, Madonna, Britney Spears, Justin Timberlake, Coldplay and more.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T00:00:00.000Z",
+    "title": "House of Pop",
+    "overview": "Pop music is in the house!; featuring big artists from the 80s through the early 00s, including Michael Jackson, Madonna, Britney Spears, Justin Timberlake, Coldplay and more.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T01:00:00.000Z",
+    "title": "House of Pop",
+    "overview": "Pop music is in the house!; featuring big artists from the 80s through the early 00s, including Michael Jackson, Madonna, Britney Spears, Justin Timberlake, Coldplay and more.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T02:00:00.000Z",
+    "title": "I Want My 80s",
+    "overview": "From the decade that started it all; chill out and catch these artists like The Go-Go's, R.E.M., Billy Idol, Cyndi Lauper, The Police, Duran Duran and more.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T03:00:00.000Z",
+    "title": "I Want My 80s",
+    "overview": "From the decade that started it all; chill out and catch these artists like The Go-Go's, R.E.M., Billy Idol, Cyndi Lauper, The Police, Duran Duran and more.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T04:00:00.000Z",
+    "title": "I Want My 80s",
+    "overview": "From the decade that started it all; chill out and catch these artists like The Go-Go's, R.E.M., Billy Idol, Cyndi Lauper, The Police, Duran Duran and more.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T05:00:00.000Z",
+    "title": "I Want My 80s",
+    "overview": "From the decade that started it all; chill out and catch these artists like The Go-Go's, R.E.M., Billy Idol, Cyndi Lauper, The Police, Duran Duran and more.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T06:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T07:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T08:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T09:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T10:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T11:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T12:00:00.000Z",
+    "title": "Classic Videos",
+    "overview": "Music videos.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T13:00:00.000Z",
+    "title": "Total Request Playlist",
+    "overview": "The most requested videos from the new Millennium.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T14:00:00.000Z",
+    "title": "Total Request Playlist",
+    "overview": "The most requested videos from the new Millennium.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T15:00:00.000Z",
+    "title": "Total Request Playlist",
+    "overview": "The most requested videos from the new Millennium.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T16:00:00.000Z",
+    "title": "Total Request Playlist",
+    "overview": "The most requested videos from the new Millennium.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T17:00:00.000Z",
+    "title": "Total Request Playlist",
+    "overview": "The most requested videos from the new Millennium.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T18:00:00.000Z",
+    "title": "House of Pop",
+    "overview": "Pop music is in the house!; featuring big artists from the 80s through the early 00s, including Michael Jackson, Madonna, Britney Spears, Justin Timberlake, Coldplay and more.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T19:00:00.000Z",
+    "title": "House of Pop",
+    "overview": "Pop music is in the house!; featuring big artists from the 80s through the early 00s, including Michael Jackson, Madonna, Britney Spears, Justin Timberlake, Coldplay and more.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T20:00:00.000Z",
+    "title": "House of Pop",
+    "overview": "Pop music is in the house!; featuring big artists from the 80s through the early 00s, including Michael Jackson, Madonna, Britney Spears, Justin Timberlake, Coldplay and more.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T21:00:00.000Z",
+    "title": "House of Pop",
+    "overview": "Pop music is in the house!; featuring big artists from the 80s through the early 00s, including Michael Jackson, Madonna, Britney Spears, Justin Timberlake, Coldplay and more.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T22:00:00.000Z",
+    "title": "Rock Block",
+    "overview": "Rock out with these artists from the '80s, '90s and early '00s; it's rocks great hot mix, including Nirvana, Guns N Roses, Limp Bizkit, U2, Metallica and more.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-12T23:00:00.000Z",
+    "title": "Rock Block",
+    "overview": "Rock out with these artists from the '80s, '90s and early '00s; it's rocks great hot mix, including Nirvana, Guns N Roses, Limp Bizkit, U2, Metallica and more.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-13T00:00:00.000Z",
+    "title": "Rock Block",
+    "overview": "Rock out with these artists from the '80s, '90s and early '00s; it's rocks great hot mix, including Nirvana, Guns N Roses, Limp Bizkit, U2, Metallica and more.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-13T01:00:00.000Z",
+    "title": "Rock Block",
+    "overview": "Rock out with these artists from the '80s, '90s and early '00s; it's rocks great hot mix, including Nirvana, Guns N Roses, Limp Bizkit, U2, Metallica and more.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-13T02:00:00.000Z",
+    "title": "90s Nation",
+    "overview": "All the favorite music videos from the 90s, from Grunge to Hip-Hop; featuring big artists of the decade, Nirvana, Dr. Dre, TLC, Stone Temple Pilots, No Doubt and more.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-13T03:00:00.000Z",
+    "title": "90s Nation",
+    "overview": "All the favorite music videos from the 90s, from Grunge to Hip-Hop; featuring big artists of the decade, Nirvana, Dr. Dre, TLC, Stone Temple Pilots, No Doubt and more.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c:epg:2026-11-13T04:00:00.000Z",
+    "title": "90s Nation",
+    "overview": "All the favorite music videos from the 90s, from Grunge to Hip-Hop; featuring big artists of the decade, Nirvana, Dr. Dre, TLC, Stone Temple Pilots, No Doubt and more.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

@@ -1,0 +1,399 @@
+{
+ "meta": {
+  "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a",
+  "type": "tv",
+  "name": "QVC",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/qvc-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/qvc-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Lifestyle"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T03:00:00.000Z",
+    "title": "Live: TATCHA - Skin Care",
+    "overview": "Skin care inspired by the ancient beauty rituals of Japanese Geisha.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T04:00:00.000Z",
+    "title": "Live: Givenchy Beauty",
+    "overview": "Daringly different and thoroughly modern luxury products.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T05:00:00.000Z",
+    "title": "Gourmet Holiday",
+    "overview": "Gourmet foods for everyday dining, holiday entertaining or gift-giving.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T06:00:00.000Z",
+    "title": "Live: JAI Jewelry",
+    "overview": "Affordable luxury jewelry.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T07:00:00.000Z",
+    "title": "Live: The Ultimate Gift Exchange",
+    "overview": "The Ultimate Gift Exchange makes even the hardest people on your list easy to buy for. That surprising (and surprisingly perfect) gift could be right under your nose so even impossible looks bright when you make QVC your holiday shopping destination.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T08:00:00.000Z",
+    "title": "Gourmet Holiday",
+    "overview": "Gourmet foods for everyday dining, holiday entertaining or gift-giving.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T09:00:00.000Z",
+    "title": "LOGO by Lori Goldstein",
+    "overview": "Contemporary fashion and accessories.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T11:00:00.000Z",
+    "title": "Gourmet Holiday",
+    "overview": "Gourmet foods for everyday dining, holiday entertaining or gift-giving.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T12:00:00.000Z",
+    "title": "Live: The Ultimate Gift Exchange",
+    "overview": "The Ultimate Gift Exchange makes even the hardest people on your list easy to buy for. That surprising (and surprisingly perfect) gift could be right under your nose so even impossible looks bright when you make QVC your holiday shopping destination.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T13:00:00.000Z",
+    "title": "Live: Patricia Nash Handbags",
+    "overview": "Vintage-inspired leather handbags and accessories.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T14:00:00.000Z",
+    "title": "Live: Belle by Kim Gravel -- Fashion",
+    "overview": "Figure-focused fashion.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T16:00:00.000Z",
+    "title": "Live: Mary and Bright -- Gifts",
+    "overview": "Make your holidays merry and bright with the help of Mary DeAngelis; it's sure to be a Merry Christmas indeed, as she shares some of her top gift picks for all the favorites on your list.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T17:00:00.000Z",
+    "title": "Live: Q Check - A Big Deal",
+    "overview": "Fast-Paced, weekday shopping destination.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T18:00:00.000Z",
+    "title": "Live: Dazzling Diamond Gifts: Dazzling Diamond Gifts",
+    "overview": "Nothing sparkles as brightly as the holidays except the selection of mined and lab-grown diamond jewelry you'll find during Dazzling Diamond Gifts.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T19:00:00.000Z",
+    "title": "Gourmet Holiday",
+    "overview": "Gourmet foods for everyday dining, holiday entertaining or gift-giving.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-11T21:00:00.000Z",
+    "title": "Gourmet Holiday",
+    "overview": "Gourmet foods for everyday dining, holiday entertaining or gift-giving.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T00:00:00.000Z",
+    "title": "Live: Bethlehem Lights Seasonal Lighting",
+    "overview": "Lighting displays, pre-lit foliage and ornaments.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T01:00:00.000Z",
+    "title": "Live: In the Kitchen With David -- PM Edition",
+    "overview": "Cooking and fun with David Venable.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T02:00:00.000Z",
+    "title": "Live: Holiday Fun with Rick & Jane",
+    "overview": "Hosts and longtime pals Rick Domeier and Jane Treacy celebrate 40 years of joyful shopping at QVC, sharing holiday memories and showcasing the best and brightest gifts.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T05:00:00.000Z",
+    "title": "Live: Football Team Shop",
+    "overview": "Officially licensed fan gear and collectibles.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T06:00:00.000Z",
+    "title": "Live: XO Tacori Lab Grown Diamond Jewelry",
+    "overview": "Collection of lab-grown diamond jewelry set in 14K gold from family-owned and operated brand renowned for elaborate details and meticulous craftsmanship.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T07:00:00.000Z",
+    "title": "Joan Rivers Classics Collection",
+    "overview": "Celebrity line of fashion accessories and jewelry.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T08:00:00.000Z",
+    "title": "Football Team Shop",
+    "overview": "Officially licensed fan gear and collectibles.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T09:00:00.000Z",
+    "title": "Dennis Basso & Friends: Holiday Edition",
+    "overview": "Festive fashion, food, friendship and fun with celebrated New York designer and special guests.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T10:00:00.000Z",
+    "title": "David Markstein Lab-Grown Diamond Jewelry",
+    "overview": "Cutting-edge, must-have collection of lab-grown diamonds set in sterling silver or 14K gold and designed by an expert in the timeless artistry and luxury of Italian-crafted jewelry.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T11:00:00.000Z",
+    "title": "Live: Football Team Shop",
+    "overview": "Officially licensed fan gear and collectibles.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T12:00:00.000Z",
+    "title": "Live: Q the Real Talk With Jayne & Pat - Gift Edition",
+    "overview": "Program hosts and Q50 Ambassadors Jayne Brown and Pat James-Dementri share their favorite holiday finds for women 50+.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T14:00:00.000Z",
+    "title": "Live: Susan Graver Style",
+    "overview": "Designer fashions that are easy to wear and care for.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T16:00:00.000Z",
+    "title": "Live: Football Team Shop",
+    "overview": "Officially licensed fan gear and collectibles.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T17:00:00.000Z",
+    "title": "Live: Q Check - A Big Deal",
+    "overview": "Fast-Paced, weekday shopping destination.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T18:00:00.000Z",
+    "title": "Live: Kallati -- Fine Jewelry",
+    "overview": "Living a legacy in diamond and gemstone designs finely crafted by women, for women, from an international family with a heritage of jewelry making spanning four generations.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T19:00:00.000Z",
+    "title": "Live: Share the Joy With Alberti & Sandra -- Gifts",
+    "overview": "Program Hosts Alberti Popaj and Sandra Bennett share great gifts to help simplify shopping, so viewers can enjoy every magical moment the holidays have to offer.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T21:00:00.000Z",
+    "title": "Live: Rick St. Nick's Gifts",
+    "overview": "Program Host Rick Domeier -- or Rick St. Nick as he's known during the holidays -- delivers this weekly edition of festive holiday finds, including perfect presents to please those topping your gift list.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-12T23:00:00.000Z",
+    "title": "Live: Football Team Shop",
+    "overview": "Officially licensed fan gear and collectibles.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-13T00:00:00.000Z",
+    "title": "Live: La-Z-Boy",
+    "overview": "Comfortable recliners from La-Z-Boy Company.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-13T01:00:00.000Z",
+    "title": "Live: Laura Geller Makeup Studio",
+    "overview": "Cosmetics from a New York make-up artist.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-13T02:00:00.000Z",
+    "title": "Live: Inside Q With Mally -- Gift Edition",
+    "overview": "Celebrity makeup artist and Q50 Ambassador Mally Roncal is the QVC Insider, and she's bringing you and the rest of her Q-mmunity along, as she brings the pages of the Inside Q Magazine to life.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a:epg:2026-11-13T03:00:00.000Z",
+    "title": "Live: Checking It Twice With Shawn & Chelsea",
+    "overview": "They're making a list and checking it twice, so join hosts Shawn Killinger and Chelsea Phillips Reid as they bring you gifts to make the holidays shine a little brighter from brands you'll be proud to give to your nearest and dearest.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

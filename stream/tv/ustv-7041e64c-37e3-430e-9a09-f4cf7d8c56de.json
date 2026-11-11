@@ -1,0 +1,12 @@
+{
+ "streams": [
+  {
+   "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
+   "behaviorHints": {
+    "notWebReady": true
+   },
+   "name": "SD",
+   "description": "HV:TVSEN6"
+  }
+ ]
+}

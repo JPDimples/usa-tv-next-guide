@@ -1,0 +1,1159 @@
+{
+ "meta": {
+  "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e",
+  "type": "tv",
+  "name": "TeenNick",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/teennick-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/teennick-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Kids"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T02:57:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lynn finds an unexpected TV sports-watching buddy in the family's next-door neighbor, Mr. Grouse; when Lisa realizes that Pop Pop won't be around forever, she turns to science to ensure his longevity.",
+    "released": "2026-11-11T02:57:00.000Z",
+    "startTime": "2026-11-11T02:57:00.000Z",
+    "endTime": "2026-11-11T03:24:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T03:24:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lana convinces the children to go to the Burpin' Burger to meet her racecar driving hero despite the heavy snowfall; when Lincoln goes on vacation with Clyde, he realizes how overprotective Clyde's parents are.",
+    "released": "2026-11-11T03:24:00.000Z",
+    "startTime": "2026-11-11T03:24:00.000Z",
+    "endTime": "2026-11-11T03:51:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T03:51:00.000Z",
+    "title": "The Loud House",
+    "overview": "The Louds rent a boat for a relaxing day trip on the lake, but the family ends up marooned on a desert island; Lincoln and Clyde, as Ace and Jack, investigate when they discover a frozen food company is using Dad's recipes.",
+    "released": "2026-11-11T03:51:00.000Z",
+    "startTime": "2026-11-11T03:51:00.000Z",
+    "endTime": "2026-11-11T04:18:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T04:18:00.000Z",
+    "title": "The Loud House",
+    "overview": "When the Louds run into Mom's old camp crush turned celebrity at a State Fair, Dad tries to one-up him to impress Rita; Mr. Coconuts is missing and Luan rallies the Louds to track him down along Route 66.",
+    "released": "2026-11-11T04:18:00.000Z",
+    "startTime": "2026-11-11T04:18:00.000Z",
+    "endTime": "2026-11-11T04:45:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T04:45:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lola realizes that double the cuteness could help her break into show business, so she teams up with Lily; Lori vows to make up for lost time in her senior year.",
+    "released": "2026-11-11T04:45:00.000Z",
+    "startTime": "2026-11-11T04:45:00.000Z",
+    "endTime": "2026-11-11T05:12:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T05:12:00.000Z",
+    "title": "The Loud House",
+    "overview": "Annoyed by Leni's intrusive babysitting, Lisa accidentally blasts herself and Todd into space; Lola tries to whip Mom into tip-top pageant condition for a mother-daughter pageant.",
+    "released": "2026-11-11T05:12:00.000Z",
+    "startTime": "2026-11-11T05:12:00.000Z",
+    "endTime": "2026-11-11T05:39:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T05:39:00.000Z",
+    "title": "The Loud House",
+    "overview": "Hit by the realization that her big sister will be going off to college soon, Leni tries to thwart Lori's plans; Lincoln and Clyde start their own cookie-making business, but realize it's a lot more work than they realized.",
+    "released": "2026-11-11T05:39:00.000Z",
+    "startTime": "2026-11-11T05:39:00.000Z",
+    "endTime": "2026-11-11T06:06:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T06:06:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lincoln has to get his sisters out the door so he can be on time for school; Lincoln holds the deciding vote for the family vacation.",
+    "released": "2026-11-11T06:06:00.000Z",
+    "startTime": "2026-11-11T06:06:00.000Z",
+    "endTime": "2026-11-11T06:33:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T06:33:00.000Z",
+    "title": "The Loud House",
+    "overview": "The Loud siblings intervene when they think Lori is failing out of Fairway U; Benny struggles to rein in Luan and her practical jokes when she becomes his coworker at the Burpin' Burger.",
+    "released": "2026-11-11T06:33:00.000Z",
+    "startTime": "2026-11-11T06:33:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T07:00:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lisa searches for the next big scientific breakthrough; Luna decides whether to play in a band with her friends or play with professionals.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:24:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T07:24:00.000Z",
+    "title": "The Loud House",
+    "overview": "The Louds journey to Naples, Italy to taste the world's best pizza, made by a secretive and legendary chef; When Lynn crushes on a boy in the Swiss Alps, Lori and Leni become her crush-coaches to help her talk to him.",
+    "released": "2026-11-11T07:24:00.000Z",
+    "startTime": "2026-11-11T07:24:00.000Z",
+    "endTime": "2026-11-11T07:48:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T07:48:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lori and Lincoln visit the city, where Lori struggles to be a city girl; Lincoln finds that Ronnie Anne has changed; the family uses stunt doubles in its plan to avoid Luan's April Fool's Day pranking.",
+    "released": "2026-11-11T07:48:00.000Z",
+    "startTime": "2026-11-11T07:48:00.000Z",
+    "endTime": "2026-11-11T08:12:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T08:12:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lincoln is going to his first rock concert, and Luna is determined to make it the greatest experience ever; when Lincoln finds a letter in the attic, he begins to believe there is money hidden somewhere in the house.",
+    "released": "2026-11-11T08:12:00.000Z",
+    "startTime": "2026-11-11T08:12:00.000Z",
+    "endTime": "2026-11-11T08:36:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T08:36:00.000Z",
+    "title": "The Loud House",
+    "overview": "Luan is locked in a cell in the basement; Mom goes undercover as a student at the high school and becomes best friends with Leni, Luna and Luan.",
+    "released": "2026-11-11T08:36:00.000Z",
+    "startTime": "2026-11-11T08:36:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T09:00:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lisa gets invited to work at an institute and get away from her crazy family; Lori and Bobby worry that long-distance dating is causing them to lose their connection.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:24:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T09:24:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lynn pushes Liam to his limits when he becomes the star pitcher for the middle school baseball team; Lincoln's friends try to stop him from performing a magic act at the middle school talent show.",
+    "released": "2026-11-11T09:24:00.000Z",
+    "startTime": "2026-11-11T09:24:00.000Z",
+    "endTime": "2026-11-11T09:48:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T09:48:00.000Z",
+    "title": "The Loud House",
+    "overview": "When Luna discovers that the high school music club will be axed due to budget cuts, she leads a protest; desperate to play Lincoln's trash-themed video game, Lana conspires to distract her brother away from the console.",
+    "released": "2026-11-11T09:48:00.000Z",
+    "startTime": "2026-11-11T09:48:00.000Z",
+    "endTime": "2026-11-11T10:12:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T10:12:00.000Z",
+    "title": "The Loud House",
+    "overview": "Clyde, worried that Lincoln is hung up on Ronnie Anne, tries to cure his post-breakup blues; tired of her siblings walking all over her, Lucy turns to a spell book to teach her siblings a lesson.",
+    "released": "2026-11-11T10:12:00.000Z",
+    "startTime": "2026-11-11T10:12:00.000Z",
+    "endTime": "2026-11-11T10:36:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T10:36:00.000Z",
+    "title": "The Loud House",
+    "overview": "Dad and Lincoln get on \"Legends of the Hidden Temple\" and cannot wait to for a whole day of father-and-son bonding; Lincoln wants to go to the mall but has to watch his younger sisters, so he decides to take them to the mall.",
+    "released": "2026-11-11T10:36:00.000Z",
+    "startTime": "2026-11-11T10:36:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T11:00:00.000Z",
+    "title": "The Loud House",
+    "overview": "After failing to make chef Guy Grazer a meal on his show, the kids try to erase the footage before it airs; the kids search all over Royal Woods to find the missing furniture they left outside while cleaning.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:26:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T11:26:00.000Z",
+    "title": "The Loud House",
+    "overview": "Tired of Mom's sticky note system, Lincoln and Lisa create an app to keep track of the family's schedule; Lana creates an auto body shop to try and buy a new bike, but her shop turns corrupt when Flip becomes her mentor.",
+    "released": "2026-11-11T11:26:00.000Z",
+    "startTime": "2026-11-11T11:26:00.000Z",
+    "endTime": "2026-11-11T11:53:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T11:53:00.000Z",
+    "title": "The Loud House",
+    "overview": "When Luan overhears her siblings complaining about her comedy, she decides to give it up; knowing Leni's history of spoiling surprises, the children decide not to tell her about their mother's upcoming party.",
+    "released": "2026-11-11T11:53:00.000Z",
+    "startTime": "2026-11-11T11:53:00.000Z",
+    "endTime": "2026-11-11T12:20:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T12:20:00.000Z",
+    "title": "The Loud House",
+    "overview": "When the Loud's bus gets a flat tire, they're invited to stay the night in a spooky couple's mysterious castle; during a tour of the Parthenon, Lincoln puts on a soldier's helmet which sends him back to Ancient Greece.",
+    "released": "2026-11-11T12:20:00.000Z",
+    "startTime": "2026-11-11T12:20:00.000Z",
+    "endTime": "2026-11-11T12:47:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T12:47:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lisa takes over her first-grade classroom and learns that there's more to teaching than just knowing facts; Leni goes toe-to-toe with the mayor in a citywide Royal Woods election.",
+    "released": "2026-11-11T12:47:00.000Z",
+    "startTime": "2026-11-11T12:47:00.000Z",
+    "endTime": "2026-11-11T13:13:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T13:13:00.000Z",
+    "title": "The Loud House",
+    "overview": "Clyde is desperate to learn how to act normal around Lori, so he enlists Leni's help; worried that their parents are hurting their health from not being active, the children encourage them to exercise.",
+    "released": "2026-11-11T13:13:00.000Z",
+    "startTime": "2026-11-11T13:13:00.000Z",
+    "endTime": "2026-11-11T13:40:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T13:40:00.000Z",
+    "title": "The Loud House",
+    "overview": "When Clyde receives an opportunity to study cooking in France, the gang tries to keep him closer to home; Lola and Lana take on Cheryl and Meryl for the position of twin spokespeople for Auntie Pam's Parlor.",
+    "released": "2026-11-11T13:40:00.000Z",
+    "startTime": "2026-11-11T13:40:00.000Z",
+    "endTime": "2026-11-11T14:06:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T14:06:00.000Z",
+    "title": "The Loud House",
+    "overview": "Eager to be named Kings of the Con at the Ace Savvy convention, Lincoln and Clyde convince the sisters to go with them as the Full Deck; when the girls get more attention, the boys do whatever it takes to gain focus.",
+    "released": "2026-11-11T14:06:00.000Z",
+    "startTime": "2026-11-11T14:06:00.000Z",
+    "endTime": "2026-11-11T14:32:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T14:32:00.000Z",
+    "title": "The Loud House",
+    "overview": "When the kids discover Myrtle has a shady past, they try to expose her before Pop Pop proposes; Lynn and Liam butt heads when they're forced to partner up as the middle school hall monitors.",
+    "released": "2026-11-11T14:32:00.000Z",
+    "startTime": "2026-11-11T14:32:00.000Z",
+    "endTime": "2026-11-11T14:59:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T14:59:00.000Z",
+    "title": "The Loud House",
+    "overview": "When the Loud parents win a trip to a resort, they decide to take the children with them because the children have promised to behave; when Lucy gets a crush on a \"regular and normal\" boy, her sisters decide to give her a makeover.",
+    "released": "2026-11-11T14:59:00.000Z",
+    "startTime": "2026-11-11T14:59:00.000Z",
+    "endTime": "2026-11-11T15:25:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T15:25:00.000Z",
+    "title": "The Loud House",
+    "overview": "Luna and the Moon Goats have to find a replacement guitarist for the band when Luna injures her hands from playing; to make it to Udder Madness Day at Dairyland, Lincoln is determined to get laundry duty finished quickly.",
+    "released": "2026-11-11T15:25:00.000Z",
+    "startTime": "2026-11-11T15:25:00.000Z",
+    "endTime": "2026-11-11T15:52:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T15:52:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Henry and Ray try to help Piper get to know a new boy she likes from school.",
+    "released": "2026-11-11T15:52:00.000Z",
+    "startTime": "2026-11-11T15:52:00.000Z",
+    "endTime": "2026-11-11T16:19:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T16:19:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Henry and the gang set up a secret underground restaurant in the Man Cave for Charlotte's private dinner with music superstar Jack Swagger; when word gets out that Jack Swagger is in town, some unwanted guests crash the party.",
+    "released": "2026-11-11T16:19:00.000Z",
+    "startTime": "2026-11-11T16:19:00.000Z",
+    "endTime": "2026-11-11T16:46:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T16:46:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Captain Man's old sidekick and nemesis, Drex, returns from the past with an army of cavemen to finish off Captain Man once and for all; Kid Danger may be the only one who can save Captain Man.",
+    "released": "2026-11-11T16:46:00.000Z",
+    "startTime": "2026-11-11T16:46:00.000Z",
+    "endTime": "2026-11-11T17:12:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T17:12:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Kid Danger and Captain Man are called to the Swellview Museum of Stools and Jewels to prevent the rare Neal Diamond from being stolen.",
+    "released": "2026-11-11T17:12:00.000Z",
+    "startTime": "2026-11-11T17:12:00.000Z",
+    "endTime": "2026-11-11T17:38:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T17:38:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Henry and Ray's friendship is put to the ultimate test when they have to endure the half-mile trek up the Man Cave stairs in order to make a surprise meal by a celebrity chef in Junk-N-Stuff.",
+    "released": "2026-11-11T17:38:00.000Z",
+    "startTime": "2026-11-11T17:38:00.000Z",
+    "endTime": "2026-11-11T18:04:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T18:04:00.000Z",
+    "title": "Henry Danger",
+    "overview": "When Captain Man loses his powers of invulnerability and becomes too afraid to fight crime, Kid Danger must keep Swellview safe.",
+    "released": "2026-11-11T18:04:00.000Z",
+    "startTime": "2026-11-11T18:04:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T18:30:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Kid Danger rescues Bianca, and they share a kiss; Henry is upset when he realizes that Bianca kissed Kid Danger.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T18:56:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T18:56:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Henry and Ray get a copy of the new Kid Danger and Captain Man cartoon and see that it's horrible; they must hurry to fix the cartoon before the big premiere party.",
+    "released": "2026-11-11T18:56:00.000Z",
+    "startTime": "2026-11-11T18:56:00.000Z",
+    "endTime": "2026-11-11T19:22:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T19:22:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Captain Man and Kid Danger guard Swellview's newest attraction, the EnvyGram Wall; when Captain Man destroys the wall while trying to eliminate a small bird, Kid Danger and Captain Man have to figure out a way to replace it.",
+    "released": "2026-11-11T19:22:00.000Z",
+    "startTime": "2026-11-11T19:22:00.000Z",
+    "endTime": "2026-11-11T19:49:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T19:49:00.000Z",
+    "title": "Henry Danger",
+    "overview": "When Henry receives a series of mysterious notes from someone, he begins to worry that the sender may know his secret identity.",
+    "released": "2026-11-11T19:49:00.000Z",
+    "startTime": "2026-11-11T19:49:00.000Z",
+    "endTime": "2026-11-11T20:15:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T20:15:00.000Z",
+    "title": "Henry Danger",
+    "overview": "After Schwoz creates a disease that accidentally affects Charlotte, Henry, his family, and even Ray, he quarantines them in Henry's house in order to find a cure.",
+    "released": "2026-11-11T20:15:00.000Z",
+    "startTime": "2026-11-11T20:15:00.000Z",
+    "endTime": "2026-11-11T20:42:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T20:42:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Henry gets an unexpected visitor claiming to be from the future; when a boy-robot killing machine steps onto the scene, the gang must find a way to save everyone from an apocalyptic future.",
+    "released": "2026-11-11T20:42:00.000Z",
+    "startTime": "2026-11-11T20:42:00.000Z",
+    "endTime": "2026-11-11T21:08:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T21:08:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Henry and Charlotte discover things are not what they seem when Captain Man suddenly announces his plans to marry.",
+    "released": "2026-11-11T21:08:00.000Z",
+    "startTime": "2026-11-11T21:08:00.000Z",
+    "endTime": "2026-11-11T21:34:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T21:34:00.000Z",
+    "title": "Henry Danger",
+    "overview": "When a dangerous pi\u00f1ata winds up at a child's birthday party, Kid Danger and Captain Man must go undercover to step in before it is too late.",
+    "released": "2026-11-11T21:34:00.000Z",
+    "startTime": "2026-11-11T21:34:00.000Z",
+    "endTime": "2026-11-11T22:01:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T22:01:00.000Z",
+    "title": "The Thundermans",
+    "overview": "Excited to be honored for their heroism with a school mural, Phoebe and Max learn that the artist holds a personal grudge, and the tribute isn't what they imagined.",
+    "released": "2026-11-11T22:01:00.000Z",
+    "startTime": "2026-11-11T22:01:00.000Z",
+    "endTime": "2026-11-11T22:28:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T22:28:00.000Z",
+    "title": "The Thundermans",
+    "overview": "The children sneak into the Thundervan for an unauthorized joyride.",
+    "released": "2026-11-11T22:28:00.000Z",
+    "startTime": "2026-11-11T22:28:00.000Z",
+    "endTime": "2026-11-11T22:54:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T22:54:00.000Z",
+    "title": "The Thundermans",
+    "overview": "Phoebe enlists Max's help in a tennis tournament in order to win a membership at Link's family's country club.",
+    "released": "2026-11-11T22:54:00.000Z",
+    "startTime": "2026-11-11T22:54:00.000Z",
+    "endTime": "2026-11-11T23:21:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T23:21:00.000Z",
+    "title": "The Thundermans",
+    "overview": "Phoebe and Max Thunderman are twins in a family of superheroes; Phoebe strives to use her powers for good, and Max embraces the dark side.",
+    "released": "2026-11-11T23:21:00.000Z",
+    "startTime": "2026-11-11T23:21:00.000Z",
+    "endTime": "2026-11-11T23:48:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T23:48:00.000Z",
+    "title": "The Thundermans",
+    "overview": "Max uses Phoebe to help retrieve his chronicle of evil deeds from the school's confiscation closet, but breaks her trust to pull off his plan.",
+    "released": "2026-11-11T23:48:00.000Z",
+    "startTime": "2026-11-11T23:48:00.000Z",
+    "endTime": "2026-11-12T00:15:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T00:15:00.000Z",
+    "title": "The Thundermans",
+    "overview": "Max is nervous when his girlfriend auditions for the romantic lead in the school play opposite a cute boy, so he convinces Phoebe to audition for the same role.",
+    "released": "2026-11-12T00:15:00.000Z",
+    "startTime": "2026-11-12T00:15:00.000Z",
+    "endTime": "2026-11-12T00:42:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T00:42:00.000Z",
+    "title": "The Thundermans",
+    "overview": "Max plans to sabotage dinner when Phoebe invites her crush's family over; an unexpected guest forces Phoebe and Max to work together.",
+    "released": "2026-11-12T00:42:00.000Z",
+    "startTime": "2026-11-12T00:42:00.000Z",
+    "endTime": "2026-11-12T01:09:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T01:09:00.000Z",
+    "title": "The Thundermans: Undercover",
+    "overview": "Cherry visits and Max discovers Phoebe never took her sparkle power away; Phoebe promises to do so and has a girls' night with Cherry while Max hosts Jinx; Colosso gets jealous; Cherry's powers malfunction, nearly blowing Phoebe's cover.",
+    "released": "2026-11-12T01:09:00.000Z",
+    "startTime": "2026-11-12T01:09:00.000Z",
+    "endTime": "2026-11-12T01:36:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T01:36:00.000Z",
+    "title": "The Thundermans: Undercover",
+    "overview": "Max is upset that Phoebe secretly partnered with Captain Perfect; he decides to have a new superhero partner, his best friend Gideon; things go wrong when Max tries to make Gideon a better superhero.",
+    "released": "2026-11-12T01:36:00.000Z",
+    "startTime": "2026-11-12T01:36:00.000Z",
+    "endTime": "2026-11-12T02:03:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T02:03:00.000Z",
+    "title": "The Loud House",
+    "overview": "When Lincoln's mother signs him up for peewee football, Lincoln schemes to have Lynn take his spot; Lincoln becomes a hypochondriac when Lucy reads his fortune and predicts that his day will end in disaster.",
+    "released": "2026-11-12T02:03:00.000Z",
+    "startTime": "2026-11-12T02:03:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T02:30:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lori struggles to make a good impression on Bobby's dad after accidentally pushing him into a puddle; desperate to have the best show-and-tell in class, Lily takes Lisa's shrink ray to school.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T02:57:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T02:57:00.000Z",
+    "title": "The Loud House",
+    "overview": "Mom tries to convince a newspaper editor that her kids are perfect in order to land a parenting advice column job; Luna is hired to watch the McBrides' cat when they go out of town, but the job becomes more demanding than she imagined.",
+    "released": "2026-11-12T02:57:00.000Z",
+    "startTime": "2026-11-12T02:57:00.000Z",
+    "endTime": "2026-11-12T03:24:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T03:24:00.000Z",
+    "title": "The Loud House",
+    "overview": "Tired of monotonous meals, the children make a plan to sabotage dinner so they can have pizza; Lincoln and Ronnie Anne have to take care of an egg baby, but Lincoln does not trust her with the fragile egg.",
+    "released": "2026-11-12T03:24:00.000Z",
+    "startTime": "2026-11-12T03:24:00.000Z",
+    "endTime": "2026-11-12T03:51:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T03:51:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lincoln is tired of his sisters' meddling until he is being picked on at school; Lincoln records his sisters' most embarrassing moments.",
+    "released": "2026-11-12T03:51:00.000Z",
+    "startTime": "2026-11-12T03:51:00.000Z",
+    "endTime": "2026-11-12T04:18:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T04:18:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lynn's extreme sports superstitions cause chaos; the kids try to convince Mom and Dad that they still play with their childhood toys.",
+    "released": "2026-11-12T04:18:00.000Z",
+    "startTime": "2026-11-12T04:18:00.000Z",
+    "endTime": "2026-11-12T04:45:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T04:45:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lincoln worries that he has lost his manliness from growing up with sisters, so he and Clyde decide to go camping; Lincoln gets Lori a job at a pizza arcade, but Lori gets in trouble when he starts to ask for favors.",
+    "released": "2026-11-12T04:45:00.000Z",
+    "startTime": "2026-11-12T04:45:00.000Z",
+    "endTime": "2026-11-12T05:12:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T05:12:00.000Z",
+    "title": "The Loud House",
+    "overview": "Luna learns Chunk was like her in high school and worries her ambition to be a rocker is unrealistic; Lincoln wages war after his food is filched from the refrigerator.",
+    "released": "2026-11-12T05:12:00.000Z",
+    "startTime": "2026-11-12T05:12:00.000Z",
+    "endTime": "2026-11-12T05:39:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T05:39:00.000Z",
+    "title": "The Loud House",
+    "overview": "When a high utility bill threatens Hector and Rosa's annual trip, Ronnie Anne spearheads an effort to lower usage; desperate for their own space, Ronnie Anne and Sid find a hidden room and try to keep it from the other tenants.",
+    "released": "2026-11-12T05:39:00.000Z",
+    "startTime": "2026-11-12T05:39:00.000Z",
+    "endTime": "2026-11-12T06:06:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T06:06:00.000Z",
+    "title": "The Loud House",
+    "overview": "When Vanzilla seems too broken down to ever drive again, Lana, Dad and Gramps band together to fix her; Lynn and friends enjoy free perks around Royal Woods when their team gets sponsored by local businesses.",
+    "released": "2026-11-12T06:06:00.000Z",
+    "startTime": "2026-11-12T06:06:00.000Z",
+    "endTime": "2026-11-12T06:33:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T06:33:00.000Z",
+    "title": "The Loud House",
+    "overview": "After meeting an impressive family, the Loud parents worry that their children are not doing enough to ensure successful futures; tired of Lynn's poor sportsmanship during board games, the siblings decide to team up to take her down.",
+    "released": "2026-11-12T06:33:00.000Z",
+    "startTime": "2026-11-12T06:33:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T07:00:00.000Z",
+    "title": "The Loud House",
+    "overview": "Afraid they will be forgotten, Lincoln and Clyde want to make a splash in the yearbook and crash group photos; seeing his sisters fight with their roommates, Lincoln suggests a room shuffle based on a compatibility test.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:24:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T07:24:00.000Z",
+    "title": "The Loud House",
+    "overview": "The Action News team struggles to find out how Katherine Mulligan is scooping their news leads; trying to avoid a trip to the eye doctor, Lisa makes a new pair of glasses that actually makes her eyesight worse.",
+    "released": "2026-11-12T07:24:00.000Z",
+    "startTime": "2026-11-12T07:24:00.000Z",
+    "endTime": "2026-11-12T07:48:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T07:48:00.000Z",
+    "title": "The Loud House",
+    "overview": "When Lincoln and Clyde both get an internship at Flip's, they compete to win the title of manager; after seeing how tame Pop Pop has gotten in his advanced age, Lincoln takes him out for a day to remember.",
+    "released": "2026-11-12T07:48:00.000Z",
+    "startTime": "2026-11-12T07:48:00.000Z",
+    "endTime": "2026-11-12T08:12:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T08:12:00.000Z",
+    "title": "The Loud House",
+    "overview": "Luan turns to Mr. Coconuts for help after she struggles to direct her school's play; Lisa joins Lynn's football team as the analytics coach to prove that math will always beat out heart.",
+    "released": "2026-11-12T08:12:00.000Z",
+    "startTime": "2026-11-12T08:12:00.000Z",
+    "endTime": "2026-11-12T08:36:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T08:36:00.000Z",
+    "title": "The Loud House",
+    "overview": "Convinced that their scrapbook isn't good enough for Dad's birthday, the Loud kids seek out the perfect gift; Lily hears the parents mention ice cream if the kids are good, so she uses baby smarts to avert sibling disasters.",
+    "released": "2026-11-12T08:36:00.000Z",
+    "startTime": "2026-11-12T08:36:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T09:00:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lana springs into action when she learns her favorite fish are in jeopardy of losing their home to construction; when Leni gets fired from her job due to missing scarves, Lincoln and Clyde, as Ace and Jack, take on the case.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:24:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T09:24:00.000Z",
+    "title": "The Loud House",
+    "overview": "After discovering he has rituals, Lincoln worries he's predictable and vows to change things up; Lori develops the yips when she finds out that the golf coach from her dream college is coming to see her play.",
+    "released": "2026-11-12T09:24:00.000Z",
+    "startTime": "2026-11-12T09:24:00.000Z",
+    "endTime": "2026-11-12T09:48:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T09:48:00.000Z",
+    "title": "The Loud House",
+    "overview": "To divert the attention of his helicopter dads, Clyde arranges for an exchange student to stay with them; Lola takes a timid new classmate under her wing and gives her a social butterfly transformation.",
+    "released": "2026-11-12T09:48:00.000Z",
+    "startTime": "2026-11-12T09:48:00.000Z",
+    "endTime": "2026-11-12T10:12:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T10:12:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lincoln wishes he had 10 brothers instead of 10 sisters, and Lisa gives him a glimpse into that reality; Lola wants to be a part of the siblings' secrets club, but her siblings are reluctant to let in a tattle tale.",
+    "released": "2026-11-12T10:12:00.000Z",
+    "startTime": "2026-11-12T10:12:00.000Z",
+    "endTime": "2026-11-12T10:36:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T10:36:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lincoln's social standing is at stake when his four-year-old sister is put into his fifth grade class; the children grow tired of their family van falling apart, so they decide to try to trick Dad into buying a cool, new van.",
+    "released": "2026-11-12T10:36:00.000Z",
+    "startTime": "2026-11-12T10:36:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "24 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T11:00:00.000Z",
+    "title": "The Loud House",
+    "overview": "The family embarks on a reading challenge at the library, but Lola refuses to participate; when Lincoln discovers the first page of his baby book is blank, he worries his parents are hiding something.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:26:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T11:26:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lincoln's family forms a band when he signs them up for a talent show; Lincoln's mother offers to take him to the dental office where she works; his sisters go to work with their father.",
+    "released": "2026-11-12T11:26:00.000Z",
+    "startTime": "2026-11-12T11:26:00.000Z",
+    "endTime": "2026-11-12T11:53:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T11:53:00.000Z",
+    "title": "The Loud House",
+    "overview": "While on a field trip, Lincoln worries that his friend group is splintering; to buy her dream car, Lori becomes a local ride-share driver.",
+    "released": "2026-11-12T11:53:00.000Z",
+    "startTime": "2026-11-12T11:53:00.000Z",
+    "endTime": "2026-11-12T12:20:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T12:20:00.000Z",
+    "title": "The Loud House",
+    "overview": "After Walt's failed attempt at romance, Charles, Cliff and Geo try to find their pal a love connection; Lincoln and Clyde beg their parents to let them go to space cadets camp, but it's not as fun as they expected.",
+    "released": "2026-11-12T12:20:00.000Z",
+    "startTime": "2026-11-12T12:20:00.000Z",
+    "endTime": "2026-11-12T12:47:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T12:47:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lincoln and Clyde must start a business for a class assignment, so they decide to sell Lincoln's girl expertise; the children are determined to out-sell each other at the Loud family's annual garage sale.",
+    "released": "2026-11-12T12:47:00.000Z",
+    "startTime": "2026-11-12T12:47:00.000Z",
+    "endTime": "2026-11-12T13:13:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T13:13:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lincoln hatches a plan to capture the perfect family photograph for his parents' anniversary gift; Lincoln and his sisters make a bet on who can go the longest without engaging in their most annoying habits.",
+    "released": "2026-11-12T13:13:00.000Z",
+    "startTime": "2026-11-12T13:13:00.000Z",
+    "endTime": "2026-11-12T13:40:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T13:40:00.000Z",
+    "title": "The Loud House",
+    "overview": "Embarrassed by her family, Lola pretends to be a McBride to impress her new sophisticated pageant friend; after realizing farm work with Liam is harder than they thought, Lincoln and the gang look for shortcuts.",
+    "released": "2026-11-12T13:40:00.000Z",
+    "startTime": "2026-11-12T13:40:00.000Z",
+    "endTime": "2026-11-12T14:06:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T14:06:00.000Z",
+    "title": "The Loud House",
+    "overview": "Lana and Lincoln enter to compete in a soap box derby; Luan must enroll in a culinary class.",
+    "released": "2026-11-12T14:06:00.000Z",
+    "startTime": "2026-11-12T14:06:00.000Z",
+    "endTime": "2026-11-12T14:32:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T14:32:00.000Z",
+    "title": "The Loud House",
+    "overview": "The McBrides plan a birthday party for Nana Gayle; Lola worries she's a washed-up pageant star.",
+    "released": "2026-11-12T14:32:00.000Z",
+    "startTime": "2026-11-12T14:32:00.000Z",
+    "endTime": "2026-11-12T14:59:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T14:59:00.000Z",
+    "title": "The Loud House",
+    "overview": "The siblings turn to Lisa's intelligence to help them land a spot on \"Double Dare\"; after secretly reading Luna's diary, Leni and Lincoln become worried about the exploits their sister writes about.",
+    "released": "2026-11-12T14:59:00.000Z",
+    "startTime": "2026-11-12T14:59:00.000Z",
+    "endTime": "2026-11-12T15:25:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T15:25:00.000Z",
+    "title": "The Loud House",
+    "overview": "Mom is assigned a travel article at work, and she takes the entire family on a cross-country road trip; the trip gets off to a bumpy start when Lincoln tries to change Mom's itinerary to go to Dr. Weirdly's Bizarritorium.",
+    "released": "2026-11-12T15:25:00.000Z",
+    "startTime": "2026-11-12T15:25:00.000Z",
+    "endTime": "2026-11-12T15:52:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T15:52:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Henry finds himself in danger when he realizes Dr. Minyak has transformed Charlotte into a super strong being set to capture Kid Danger and Captain Man.",
+    "released": "2026-11-12T15:52:00.000Z",
+    "startTime": "2026-11-12T15:52:00.000Z",
+    "endTime": "2026-11-12T16:19:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T16:19:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Henry's nerves are tested when Piper invites her new boyfriend and his family over for dinner.",
+    "released": "2026-11-12T16:19:00.000Z",
+    "startTime": "2026-11-12T16:19:00.000Z",
+    "endTime": "2026-11-12T16:46:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T16:46:00.000Z",
+    "title": "Henry Danger",
+    "overview": "When Henry's dad gets an offer for a new job in Bordertown, Henry and Ray go undercover to try and stop him from getting the job and prevent Henry from having to move.",
+    "released": "2026-11-12T16:46:00.000Z",
+    "startTime": "2026-11-12T16:46:00.000Z",
+    "endTime": "2026-11-12T17:12:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T17:12:00.000Z",
+    "title": "Henry Danger",
+    "overview": "When Captain Man shows up with a cool new massage chair, Henry, Charlotte and Jasper compete in a series of physical and mental challenges to see who wins the chair.",
+    "released": "2026-11-12T17:12:00.000Z",
+    "startTime": "2026-11-12T17:12:00.000Z",
+    "endTime": "2026-11-12T17:38:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T17:38:00.000Z",
+    "title": "Henry Danger",
+    "overview": "While trying to celebrate his birthday, Henry keeps getting interrupted by crimes going on in Swellview.",
+    "released": "2026-11-12T17:38:00.000Z",
+    "startTime": "2026-11-12T17:38:00.000Z",
+    "endTime": "2026-11-12T18:04:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T18:04:00.000Z",
+    "title": "Henry Danger",
+    "overview": "When Dr. Minyak takes the Man Fans hostage, Captain Man and Kid Danger have to find a way to rescue them without Dr. Minyak seeing them move.",
+    "released": "2026-11-12T18:04:00.000Z",
+    "startTime": "2026-11-12T18:04:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T18:30:00.000Z",
+    "title": "Henry Danger",
+    "overview": "When Miss Shapen's niece comes into town and chooses Jasper over Henry, he discovers that she has much bigger plans in the works.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T18:56:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T18:56:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Captain Man and Kid Danger find themselves in the middle of a debate about Swellview's favorite snack.",
+    "released": "2026-11-12T18:56:00.000Z",
+    "startTime": "2026-11-12T18:56:00.000Z",
+    "endTime": "2026-11-12T19:22:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T19:22:00.000Z",
+    "title": "Henry Danger",
+    "overview": "When labor pains leave Captain Man helpless, Kid Danger and Piper step up to take on a couple of slick grease thieves.",
+    "released": "2026-11-12T19:22:00.000Z",
+    "startTime": "2026-11-12T19:22:00.000Z",
+    "endTime": "2026-11-12T19:49:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T19:49:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Kid Danger and Captain Man enter an escape room by a factory owner with a \"chip\" on his shoulder, and become trapped inside with two new kids, Mika and Miles, who are oddly good at solving the puzzles they need to answer to get out.",
+    "released": "2026-11-12T19:49:00.000Z",
+    "startTime": "2026-11-12T19:49:00.000Z",
+    "endTime": "2026-11-12T20:15:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T20:15:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Kid Danger reveals to Captain Man that he doesn't want to be stuck in Swellview and be his sidekick forever; to make matters worse, Kid Danger is recruited by another town to be their hero.",
+    "released": "2026-11-12T20:15:00.000Z",
+    "startTime": "2026-11-12T20:15:00.000Z",
+    "endTime": "2026-11-12T20:42:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T20:42:00.000Z",
+    "title": "Henry Danger",
+    "overview": "When Henry's crush goes on a date with someone else, Schwoz provides an android to make her jealous; Ray has an unpleasant date with one of Henry's teachers.",
+    "released": "2026-11-12T20:42:00.000Z",
+    "startTime": "2026-11-12T20:42:00.000Z",
+    "endTime": "2026-11-12T21:08:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T21:08:00.000Z",
+    "title": "Henry Danger",
+    "overview": "Henry, Charlotte and Ray are trapped inside when Jasper accidentally triggers the emergency lockdown mode for Junk-N-Stuff and the Man Cave.",
+    "released": "2026-11-12T21:08:00.000Z",
+    "startTime": "2026-11-12T21:08:00.000Z",
+    "endTime": "2026-11-12T21:34:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T21:34:00.000Z",
+    "title": "Henry Danger",
+    "overview": "When the gang befriends Bigfoot in the woods, Kid Danger and Captain Man try to help get rid of a pesky hunter that's been trying to capture him.",
+    "released": "2026-11-12T21:34:00.000Z",
+    "startTime": "2026-11-12T21:34:00.000Z",
+    "endTime": "2026-11-12T22:01:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T22:01:00.000Z",
+    "title": "The Thundermans",
+    "overview": "The Thundermans enter a competition to win a dream vacation, but they can not agree on a destination.",
+    "released": "2026-11-12T22:01:00.000Z",
+    "startTime": "2026-11-12T22:01:00.000Z",
+    "endTime": "2026-11-12T22:28:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T22:28:00.000Z",
+    "title": "The Thundermans",
+    "overview": "Max and Phoebe get jobs at a pizza parlor; Max and Phoebe must work together to save their jobs.",
+    "released": "2026-11-12T22:28:00.000Z",
+    "startTime": "2026-11-12T22:28:00.000Z",
+    "endTime": "2026-11-12T22:54:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T22:54:00.000Z",
+    "title": "The Thundermans",
+    "overview": "When the children accidentally ruin Hank's anniversary gift for Barb, they enlist the help of a family friend to help them fix it.",
+    "released": "2026-11-12T22:54:00.000Z",
+    "startTime": "2026-11-12T22:54:00.000Z",
+    "endTime": "2026-11-12T23:21:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T23:21:00.000Z",
+    "title": "The Thundermans",
+    "overview": "While teaching at Max and Phoebe's school, Hank falls asleep after eating special turkey sandwiches.",
+    "released": "2026-11-12T23:21:00.000Z",
+    "startTime": "2026-11-12T23:21:00.000Z",
+    "endTime": "2026-11-12T23:48:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-12T23:48:00.000Z",
+    "title": "The Thundermans",
+    "overview": "Tired of hearing tales of Hiddenville's legendary mayor, the kids use a time machine to travel back 60 years to disprove the myths; but when they inadvertently alter the past, the effect spells disaster for their hometown.",
+    "released": "2026-11-12T23:48:00.000Z",
+    "startTime": "2026-11-12T23:48:00.000Z",
+    "endTime": "2026-11-13T00:15:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-13T00:15:00.000Z",
+    "title": "The Thundermans",
+    "overview": "After their requests drive Kickbutt to quit, Max and Phoebe get what they want when Hank is named the new SuperPresident; being the First Family of the Hero League takes its toll on the family.",
+    "released": "2026-11-13T00:15:00.000Z",
+    "startTime": "2026-11-13T00:15:00.000Z",
+    "endTime": "2026-11-13T00:42:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-13T00:42:00.000Z",
+    "title": "The Thundermans",
+    "overview": "Billy and Nora seek Phoebe's help to retrieve their mother's tablet after it is confiscated at school.",
+    "released": "2026-11-13T00:42:00.000Z",
+    "startTime": "2026-11-13T00:42:00.000Z",
+    "endTime": "2026-11-13T01:09:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-13T01:09:00.000Z",
+    "title": "The Thundermans: Undercover",
+    "overview": "Max and Phoebe discover that Lazlo Chance may be the evil mastermind and enlist Chloe to help; when Chloe is torn between her head and her heart, it threatens the entire mission.",
+    "released": "2026-11-13T01:09:00.000Z",
+    "startTime": "2026-11-13T01:09:00.000Z",
+    "endTime": "2026-11-13T01:36:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-13T01:36:00.000Z",
+    "title": "The Thundermans: Undercover",
+    "overview": "When B.C. forces Chloe to steal a magical amulet that grants him superhero powers, the Thundermans unite to stop his plan; Chloe must reveal her identity to save her friends.",
+    "released": "2026-11-13T01:36:00.000Z",
+    "startTime": "2026-11-13T01:36:00.000Z",
+    "endTime": "2026-11-13T02:03:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-13T02:03:00.000Z",
+    "title": "The Loud House",
+    "overview": "When Sergio stays at the Louds', he soon gets into trouble when he doesn't want to hang out with the rest of the pets; unable to get Lily to go to sleep, Mom takes her for a drive, and they happen to witness a burglary.",
+    "released": "2026-11-13T02:03:00.000Z",
+    "startTime": "2026-11-13T02:03:00.000Z",
+    "endTime": "2026-11-13T02:30:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-13T02:30:00.000Z",
+    "title": "The Loud House",
+    "overview": "Eager to uncover secrets from the past, Lisa uses her technology to wake up a frozen caveman; to win the prank war between Fairway University and their rival Par College, Lori recruits the help of Luan.",
+    "released": "2026-11-13T02:30:00.000Z",
+    "startTime": "2026-11-13T02:30:00.000Z",
+    "endTime": "2026-11-13T02:57:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-13T02:57:00.000Z",
+    "title": "The Loud House",
+    "overview": "Luna and the Moon Goats try to form a kiddie band to raise enough money for new equipment; when Lori mentions her new boyfriend's habit, Lori and Luna start to notice their partners' habits.",
+    "released": "2026-11-13T02:57:00.000Z",
+    "startTime": "2026-11-13T02:57:00.000Z",
+    "endTime": "2026-11-13T03:24:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-13T03:24:00.000Z",
+    "title": "The Loud House",
+    "overview": "Luan thinks Mr. Coconuts is out for revenge when she replaces him with Lola in her act; hoping to drive out to the outlets to meet Lori, Leni looks for alternative ways to get her driver's license.",
+    "released": "2026-11-13T03:24:00.000Z",
+    "startTime": "2026-11-13T03:24:00.000Z",
+    "endTime": "2026-11-13T03:51:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-13T03:51:00.000Z",
+    "title": "The Loud House",
+    "overview": "Rusty tries to bring the fun of Gus' to Duds For Dudes when he's in charge of the store; Stella wins a school competition and is super excited until she learns she has to give a public presentation.",
+    "released": "2026-11-13T03:51:00.000Z",
+    "startTime": "2026-11-13T03:51:00.000Z",
+    "endTime": "2026-11-13T04:18:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-13T04:18:00.000Z",
+    "title": "The Loud House",
+    "overview": "The sisters think Lincoln is bad luck so they ban him from attending their activities; when Lincoln finds out his class is dissecting frogs, he and Lana embark on a mission to rescue them.",
+    "released": "2026-11-13T04:18:00.000Z",
+    "startTime": "2026-11-13T04:18:00.000Z",
+    "endTime": "2026-11-13T04:45:00.000Z",
+    "runtime": "27 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

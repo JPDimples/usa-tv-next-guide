@@ -1,0 +1,519 @@
+{
+ "meta": {
+  "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911",
+  "type": "tv",
+  "name": "Bravo",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/bravo-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bravo-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T02:30:00.000Z",
+    "title": "The Real Housewives of Potomac",
+    "overview": "Ashley takes the ladies back to the Delaware shore a decade later, where they immediately make waves; Wendy shocks the ladies with a revelation about Stacey, and Monique confronts Karen about her lack of support during her divorce; Ashley and Courtney have a night out on the town where the good time",
+    "released": "2026-11-11T02:30:00.000Z",
+    "startTime": "2026-11-11T02:30:00.000Z",
+    "endTime": "2026-11-11T03:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T03:30:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "The laughs are short-lived at a comedy show when Daisy confronts Erika; Jessel hears that Erin is still talking about Pavit; Hailey contemplates a major life change; Sai questions one of her longest-standing friendships.",
+    "released": "2026-11-11T03:30:00.000Z",
+    "startTime": "2026-11-11T03:30:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T04:30:00.000Z",
+    "title": "Below Deck",
+    "overview": "The crew's night off takes a tense turn when strangers confront them on the dock, leading to Chef Moe stepping in to defend the group. Matt's bad mood boils over into a tense conversation with Alex, who calls him out for taking his frustration out on the team. James and Rosa's flirtation blossoms. C",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T05:30:00.000Z",
+    "title": "Still Flipping Out",
+    "overview": "Exploring as Jeff Lewis navigates the demands of his hit SiriusXM show on Radio Andy, an eponymous design empire and everything in-between.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T06:30:00.000Z",
+    "title": "The Real Housewives of Orange County",
+    "overview": "The RHOC Season 20 reunion mixes nostalgia with new revelations, emotional confrontations and unfinished business.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T07:30:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "As Mary continues to deal with grief, she finds herself growing apart from Angie; Bronwyn confronts Angie and Heather; Lisa and Whitney continue to be at odds; Quai throws a Reiki event to try and mend the fractured group.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T08:30:00.000Z",
+    "title": "Watch What Happens Live With Andy Cohen",
+    "overview": "Andy Cohen interviews Trisha Paytas and Hailey Glassman.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T09:00:00.000Z",
+    "title": "Below Deck",
+    "overview": "Weather conditions force Capt. Lee to make a touch choice; an accident puts Nico in jeopardy; Kate tries to entertain land-locked guests; Brianna grows weary of Jen; Matt is back in hot water with another restaurant owner.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T10:00:00.000Z",
+    "title": "Below Deck",
+    "overview": "Capt. Lee invites a special guest to come aboard; the crew is surprised by a familiar face; an all-female charter proves to be a handful for Kate and Capt. Lee; as Matt continues to struggle, Capt. Lee takes action to prevent further embarrassment.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T11:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "Whitney plans a girl's trip to Arizona to support Jen but is blindsided when Meredith shares an alleged rumor about Lisa; Jen gets emotional support from her mom; Lisa talks to Jack about his future; an emotional experience inspires the women.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T12:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "Whitney shares information about her childhood with the group; Meredith and Lisa have a short-lived clemency; Heather calls out Meredith on her superiority complex; Jen hosts a party in honor of Meredith, but chaos ensues.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T13:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "The Arizona girls trip goes from bad to worse when Whitney and Heather face off; Jen leaves the trip early for pretrial meetings in New York; Whitney reunites with her siblings to seek answers on her past; the women speculate about Jen's trial.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T14:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "Jen returns from pre-trial meetings in New York with unexpected news. Heather hosts a ski day to reunite the women, but tempers flare when Lisa discovers Angie H. is invited. Whitney attempts to resolve her conflict with Heather but realizes their friendship might be over.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T15:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "When Heather is caught telling a lie, Lisa sets the record straight; Whitney is surprised when Justin is unexpectedly laid off; Meredith and Angie H. have a double date with their husbands.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T16:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "All hell breaks loose at choir auditions when Jen confronts Angie; hoping to rise above the drama, Lisa recommits to her faith; Whitney talks to Heather about the distance in their friendship, creating an even greater divide between bad weather.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T17:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "Jen, Lisa and Whitney unite to address their issues with Heather, but only Lisa finds common ground with Heather; Meredith copes with past family trauma; the husbands meet up for a BBQ.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T18:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "Meredith convinces Jen to include Danna on the girl's trip, but when Angie K. claims the primary bedroom, she becomes a target; Heather, Lisa and Whitney take sides, but when Angie K. retaliates with an accusation against Jen, it becomes a war.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T19:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "The chaos on the high seas continues as designer shoes end up overboard; pushed to her limit, Lisa reconsiders her friendship with Jen; the ladies get ready for a luau dinner, but tensions come to an all-time high when the women throw shots.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T20:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "Heather and Lisa come together to address Jen's behavior, but the conversation comes to a halt when Jen reveals information about her mental health; Whitney is on blast for claiming she wanted a friendship break from Heather.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T21:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "While the ladies are still in San Diego, Calif., a dark cloud looms above as the group tries to get answers about Heather's black eye; Lisa learns that Meredith has been spreading rumors about her businesses.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T22:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "The mystery of Heather's black eye still has everyone uneasy; Whitney presses for more answers, but this pushes bad weather into an even worse spot; Meredith hosts a mental awareness fundraiser in honor of her nephew.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T23:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "When Heather is asked about how she got her black eye, a heated argument ensues between her and Jen; at Heather's book cover reveal party, rumors are revealed and tensions rise.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T00:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "As Mary continues to deal with grief, she finds herself growing apart from Angie; Bronwyn confronts Angie and Heather; Lisa and Whitney continue to be at odds; Quai throws a Reiki event to try and mend the fractured group.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T01:00:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "Mary and Angie try to process the Reiki event. Meredith hosts a menu tasting for her future caviar lounge while another event across town leaves Quai stuck in the middle. Whitney has a difficult conversation about her marriage and celebrates her daughter's Sweet 16. Bronwyn introduces her boyfriend ",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T02:30:00.000Z",
+    "title": "The Real Housewives of Salt Lake City",
+    "overview": "Mary and Angie try to process the Reiki event. Meredith hosts a menu tasting for her future caviar lounge while another event across town leaves Quai stuck in the middle. Whitney has a difficult conversation about her marriage and celebrates her daughter's Sweet 16. Bronwyn introduces her boyfriend ",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T03:30:00.000Z",
+    "title": "The Real Housewives of New York City",
+    "overview": "The laughs are short-lived at a comedy show when Daisy confronts Erika; Jessel hears that Erin is still talking about Pavit; Hailey contemplates a major life change; Sai questions one of her longest-standing friendships.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T04:30:00.000Z",
+    "title": "The Real Housewives of Orange County",
+    "overview": "The RHOC Season 20 reunion mixes nostalgia with new revelations, emotional confrontations and unfinished business.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T05:30:00.000Z",
+    "title": "Below Deck",
+    "overview": "The crew's night off takes a tense turn when strangers confront them on the dock, leading to Chef Moe stepping in to defend the group. Matt's bad mood boils over into a tense conversation with Alex, who calls him out for taking his frustration out on the team. James and Rosa's flirtation blossoms. C",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T06:30:00.000Z",
+    "title": "The Real Housewives of Potomac",
+    "overview": "Ashley takes the ladies back to the Delaware shore a decade later, where they immediately make waves; Wendy shocks the ladies with a revelation about Stacey, and Monique confronts Karen about her lack of support during her divorce; Ashley and Courtney have a night out on the town where the good time",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T07:30:00.000Z",
+    "title": "Still Flipping Out",
+    "overview": "Exploring as Jeff Lewis navigates the demands of his hit SiriusXM show on Radio Andy, an eponymous design empire and everything in-between.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T08:30:00.000Z",
+    "title": "Watch What Happens Live With Andy Cohen",
+    "overview": "Andy Cohen interviews Annasophia Robb and Ashley Quai.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T09:00:00.000Z",
+    "title": "Below Deck",
+    "overview": "Capt. Lee tests Matt as he removes Bruno from the galley and joins the women for dinner; Jen and Kate's working relationship deteriorates; Kyle and Jen grow closer, but Kyle has ulterior motives; Jen reaches her breaking point.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T10:00:00.000Z",
+    "title": "Below Deck",
+    "overview": "Timothy Sykes returns and cannot live without his Wi-Fi, causing Kate and Captain Lee to feel the pressure; Jen is scrutinized after she upsets the entire crew; Nico struggles to make a decision about his relationship.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T11:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "As Whitney's literary-themed party continues, Craig pushes Shep to reveal a damaging rumor about Austen; Molly takes aim at Sally after dibs are called on more than one guy in the group.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T12:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "Craig throws his first pool party since his breakup and Austen is a no-show; Salley finds herself in multiple arguments as she spreads deeply personal gossip about Molly and is confronted by Venita about Craig.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T13:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "Patricia hosts her annual guys' dinner where Austen and Craig see each other for the first time since their explosive fight; Venita continues to warn Salley about Craig's true intentions.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T14:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "As Kathryn contemplates a reunion with the father of her children, Patricia pushes Landon and Thomas closer together; Craig and Naomie attempt to reconcile; Shep plans a hunting getaway for the group; Chelsea falls for Austen's hunting prowess.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T15:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "Rodrigo and Tyler throw an engagement party, but it's Austen's relationship with Audrey that is the topic of conversation; Charley questions if going on a date with Craig will ruin her friendship with Salley.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T16:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "Craig and Charley go on their first date. Madison offers Venita counsel. Austen's birthday celebration devolves into an argument that threatens to destroy a friendship.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T17:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "The gang heads to Whitney's family farm for an overnight getaway. Austen reveals some news about Audrey, much to Sally's delight. Craig feels frustrated when rumors get in the way of his budding romance with Charley.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T18:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "At Whitner's family farm, Shep and Craig learn that Austen is keeping them in the dark; the girls struggle to move past the gossip; Madison's pregnancy takes an unexpected turn.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T19:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "Shep plans a healing journey to Mexico to try and repair Craig and Austen's friendship; Venita ends up in the middle.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T20:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "Sally has her sights set on Austen; tensions soar after Craig and Charley's secret kiss is revealed, leading to a confrontation after a night out in Mexico.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T21:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "The group processes the events of the previous night. Shep takes the group to a healing retreat on their final day in Mexico, hoping to repair broken trust and friendships.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T22:00:00.000Z",
+    "title": "Southern Charm",
+    "overview": "Madison brings baby Teddi home from the hospital. Patricia hosts a Carolina Day party where Craig is confronted by multiple members of the group. Salley voices her feelings to Austen.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-12T23:00:00.000Z",
+    "title": "The Real Housewives of Orange County",
+    "overview": "Coming off a friendship high from Tokyo, Jenn wonders if her rekindled friendship with Tamra is genuine; Heather comes to accept her relationship with her mother; Shannon finds a suitor at a dive bar; Vicki hosts a 20-year anniversary party attended by friends new and old, celebrating what brought t",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-13T00:00:00.000Z",
+    "title": "The Real Housewives of Orange County",
+    "overview": "The RHOC Season 20 reunion mixes nostalgia with new revelations, emotional confrontations and unfinished business.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-13T01:00:00.000Z",
+    "title": "The Real Housewives of Orange County",
+    "overview": "The reunion concludes as Emily and Gina's friendships with Heather reach their breaking point. Emily shares an update on Luke's diagnosis. Jenn confronts Vicki over her lack of accountability, while Shannon takes a step back from defending her. Tamra and Jenn defend their rekindled friendship. The l",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:15:00.000Z",
+    "runtime": "75 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-13T02:15:00.000Z",
+    "title": "Southern Charm",
+    "overview": "Salley and Austen attempt to define their situationship; Venita hosts a garden party and sets her sights on Whitner, but it's her old friend Allie who catches his eye instead; Shep reveals details about Allie's dating history.",
+    "released": "2026-11-13T02:15:00.000Z",
+    "startTime": "2026-11-13T02:15:00.000Z",
+    "endTime": "2026-11-13T03:45:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-13T03:45:00.000Z",
+    "title": "Southern Charm",
+    "overview": "Salley and Austen attempt to define their situationship; Venita hosts a garden party and sets her sights on Whitner, but it's her old friend Allie who catches his eye instead; Shep reveals details about Allie's dating history.",
+    "released": "2026-11-13T03:45:00.000Z",
+    "startTime": "2026-11-13T03:45:00.000Z",
+    "endTime": "2026-11-13T04:45:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

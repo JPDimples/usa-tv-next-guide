@@ -1,0 +1,95 @@
+{
+ "metas": [
+  {
+   "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d",
+   "type": "tv",
+   "name": "HBO",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Premium"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169",
+   "type": "tv",
+   "name": "HBO 2",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-2-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Premium"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-3a857a03-51e5-4bed-a796-c0785663280c",
+   "type": "tv",
+   "name": "HBO Family",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-family-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Premium"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-04137863-2391-4ec8-8e4d-d82946162ee1",
+   "type": "tv",
+   "name": "HBO Signature",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-signature-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Premium"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38",
+   "type": "tv",
+   "name": "Showtime",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/showtime-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Premium"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0",
+   "type": "tv",
+   "name": "Starz",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/starz-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Premium"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5",
+   "type": "tv",
+   "name": "Starz Comedy",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/starz-comedy-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Premium"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

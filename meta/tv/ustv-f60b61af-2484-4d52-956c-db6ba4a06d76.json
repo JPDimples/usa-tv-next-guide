@@ -1,0 +1,499 @@
+{
+ "meta": {
+  "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76",
+  "type": "tv",
+  "name": "Animal Planet",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/animal-planet-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/animal-planet-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Documentaries"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T03:00:00.000Z",
+    "title": "North Woods Law",
+    "overview": "Officer Hannett patrols for ice fishermen while Lt. Boudreau investigates a hunter who shot towards a road; Officer Holmes deals with a raccoon hiding in a warm chimney; Officer St. Pierre goes on his first dive recovery under the ice.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T04:00:00.000Z",
+    "title": "North Woods Law",
+    "overview": "During a busy winter weekend, Lt. Boudreau encounters kite skiers, an illegal fire sled and a vandalized bob-house; Officer Canfield searches for a deer with an arrow in its head; Officers Demler and Towne head out on a treacherous mountain rescue.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T05:00:00.000Z",
+    "title": "North Woods Law",
+    "overview": "Wardens spring into action when Maine's wildlife wanders into human territory; Marquis and Fitzpatrick try to catch a dumpster-diving bear; Warden Lounder chases a wily woodchuck.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T06:00:00.000Z",
+    "title": "North Woods Law",
+    "overview": "Officers Bronson and Towne get more than they bargained for with a speeding snowmobiler; the K-9 unit performs winter training; Officer MacFadzen patrols an ice drag racing event; Officer Cyrs heads into the woods to investigate a hit-and-run.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T07:00:00.000Z",
+    "title": "North Woods Law",
+    "overview": "Officer Hannett patrols for ice fishermen while Lt. Boudreau investigates a hunter who shot towards a road; Officer Holmes deals with a raccoon hiding in a warm chimney; Officer St. Pierre goes on his first dive recovery under the ice.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T08:00:00.000Z",
+    "title": "North Woods Law",
+    "overview": "During a busy winter weekend, Lt. Boudreau encounters kite skiers, an illegal fire sled and a vandalized bob-house; Officer Canfield searches for a deer with an arrow in its head; Officers Demler and Towne head out on a treacherous mountain rescue.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T09:00:00.000Z",
+    "title": "North Woods Law",
+    "overview": "A busy day at the state's largest ice fishing derby; Officer Canfield searches for the owner of a frozen fishing line; Major Juneau leads a mountain rescue; Officer McKee clocks the speed of snowmobiles; Officer Cyrs checks on a stuck moose.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T10:00:00.000Z",
+    "title": "North Woods Law",
+    "overview": "Officer Bronson questions a hunter who shot a deer without having the proper permit; while Officer Demler runs radar on a popular snowmobile trail, Sgt. Lucas investigates a suspicious deer kill site; Officer Cyrs responds to a snowmobile accident.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T11:00:00.000Z",
+    "title": "Too Cute!",
+    "overview": "In a cozy home of Himalayans, a shy kitten named Hugo follows in his father's footsteps; a rags-to-riches rescue mix brings her brood of puppies to their new dream home and only girl, Honey, makes an unlikely friend.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T11:30:00.000Z",
+    "title": "Too Cute!",
+    "overview": "Twin dachshund pups, Lulu and Betty, discover their different personalities with a little bit of guidance from their free spirit father; a show pup in training, Chinese Crested Dotty, forms an unlikely friendship with rescue pit bull Bryan.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T12:00:00.000Z",
+    "title": "Too Cute!",
+    "overview": "A cat-loving rescue dog named Sweet Potato welcomes a pair of rescue kittens into their new foster home.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T12:30:00.000Z",
+    "title": "Too Cute!",
+    "overview": "Chip, a golden retriever puppy, tries to be the center of attention; a Great Dane's long legs make the dog a tad clumsy.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T13:00:00.000Z",
+    "title": "The Vet Life",
+    "overview": "Dr. Ross performs surgery on a second-chance pup; Dr. Lavigne checks up on a prickly pet; Dr. Blue treats an injured owl, then joins Dr. Ross in checking on a cute litter of sick, tiny piglets.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T14:00:00.000Z",
+    "title": "The Vet Life",
+    "overview": "Dr. Lavigne attacks an older dog's tumors; Dr. Ross tries to save a rabbit's foot mauled by a dog; Dr. Blue takes on a mission to castrate a violent donkey.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T15:00:00.000Z",
+    "title": "The Vet Life",
+    "overview": "A mother dog with two puppies stuck in her uterus needs an emergency C-section; Dr. Ross and Dr. Lavigne address eye issues; vets make a video for the clinic.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T16:00:00.000Z",
+    "title": "The Vet Life",
+    "overview": "The clinic takes in displaced animals during the massive flooding in Houston; Dr. Blue helps a puppy with a deadly disease acquired from standing water; Dr. Lavigne and Dr. Ross examine a wandering tiger.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T17:00:00.000Z",
+    "title": "My Cat From Hell",
+    "overview": "A woman's cat Pip is a one-eyed feline with cerebellar hypoplasia who torments her other cat, Red; a little girl's birthday present named Autumn is destructive to their home and targets the couch, beds, computer monitor and microwave.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T18:00:00.000Z",
+    "title": "My Cat From Hell",
+    "overview": "A couple who has moved in together have merged the lives of their two cats. Since the move, Buddy has become territorial and a bully; two roommates adopted a cat who destroys and pees on everything in their apartment.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T19:00:00.000Z",
+    "title": "My Cat From Hell",
+    "overview": "Buddy's owners are determined to transform him into the perfect indoor cat, despite his aggressive tendencies; Kali was recently adopted but due to her terrorizing behavior she may end up back in the shelter.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T20:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "Deep in Mexico's Baja desert lies the scorching wasteland of the Devil's Canyon; a Canadian mountain man teams up with an experienced homesteader to take on the canyon's triple-digit heat, scarce water, and venomous predators.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T21:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "In a lethal African hunting ground, a biker chick and a taxidermist have to stay on the move to survive; the pair must push across 21 miles of savanna to find food and water while avoiding a pride of lions that's tracking them every step of the way.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T22:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "Two survivalists are back for redemption in the Mexican jungle but torrential downpours, competing survival styles and a machete accident threaten to send them home early again.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-11T23:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "Two strangers are dropped in one of the most dangerous African locations in the dead heat of summer; faced with aggressive hippos and charging elephants, they quickly learn their place but must mark their territory if they want to make it 21 days.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T00:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "Forced to trek two days to a water source, a laid-back hunter and an opinionated adventurer clash in Zambia, risking their 21-day challenge; as danger mounts, their trust cracks.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T01:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "Two survivalists fight to endure 21 days of extreme dehydration in the drought-stricken Everglades. With no potable water available, the pair is threatened with an early tap-out.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T03:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "Legend Matt Wright crashes into two survivalists in Florida's Everglades, where intense heat, severe storms and aggressive crocs threaten to take everyone out of the challenge.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T05:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "Two survivalists fight to endure 21 days of extreme dehydration in the drought-stricken Everglades. With no potable water available, the pair is threatened with an early tap-out.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T07:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "Legend Matt Wright crashes into two survivalists in Florida's Everglades, where intense heat, severe storms and aggressive crocs threaten to take everyone out of the challenge.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T09:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "In a lethal African hunting ground, a biker chick and a taxidermist have to stay on the move to survive; the pair must push across 21 miles of savanna to find food and water while avoiding a pride of lions that's tracking them every step of the way.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T10:00:00.000Z",
+    "title": "Naked and Afraid",
+    "overview": "Two survivalists are back for redemption in the Mexican jungle but torrential downpours, competing survival styles and a machete accident threaten to send them home early again.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T11:00:00.000Z",
+    "title": "Too Cute!",
+    "overview": "Follow puppies in the first months of these Pugs, Mini-Australian Shepherds and Rottweilers' lives as they will be adventure-filled, including a lesson in duck-herding.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T12:00:00.000Z",
+    "title": "Too Cute!",
+    "overview": "Heartwarming romps featuring hairless Sphynxes, inquisitive Burmese cats, and tiny Ragdolls who buddy up to German Shepherds.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T13:00:00.000Z",
+    "title": "I Was Prey",
+    "overview": "While vacationing in South Africa, Peter Knottenbelt suddenly finds himself in the jaws of a massive crocodile; in Nova Scotia, Meg Doyle is walking her beloved dog when they're suddenly ambushed by a pair of angry raccoons.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T14:00:00.000Z",
+    "title": "I Was Prey",
+    "overview": "During an archery hunt in Cranbrook, British Columbia, Chad Dueck comes face-to-face with a mother grizzly bear; in Tracy, Calif., Walt Dean King is savagely attacked by a Brahma Bull roaming his neighborhood.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T15:00:00.000Z",
+    "title": "I Was Prey",
+    "overview": "Bob Legasa is hunting in Montana and what he thinks is a bluff charge from a grizzly bear is, in fact, a near-lethal attack; while canoeing in Zimbabwe, Kristen Yaldor is thrown into the water and finds herself in the jaws of a hippopotamus.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T16:00:00.000Z",
+    "title": "Swamp Wars",
+    "overview": "The Venom One team encounters a python with a possible family pet in its stomach.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T17:00:00.000Z",
+    "title": "Swamp Wars",
+    "overview": "Floridians face threats from carnivorous African Nile monitor lizards, red-tailed boa constrictors and poisonous Eastern diamondbacks.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T18:00:00.000Z",
+    "title": "Swamp Wars",
+    "overview": "The Venom One team stages a rescue when deadly bees threaten an elderly living facility.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T19:00:00.000Z",
+    "title": "Swamp Wars",
+    "overview": "The Venom One team races to contain a 400-pound alligator, angry crocodiles and poisonous snakes.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T20:00:00.000Z",
+    "title": "River Monsters",
+    "overview": "Jeremy Wade returns to the Okavango Delta to re-investigate a predatory carnivore that may have mauled over 100 victims of a capsized boat; to discover the truth, Jeremy offers himself up as live bait.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T21:00:00.000Z",
+    "title": "River Monsters",
+    "overview": "Jeremy Wade is lured to the shores of the Mekong River in Cambodia to search for a monstrous fish that has mauled, blinded, killed and most recently sliced clean through a young man's testicle.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T22:00:00.000Z",
+    "title": "River Monsters",
+    "overview": "On the tropical island of Sulawesi, Indonesia, a tourist snorkeler and several local fishermen have been killed and injured by a mysterious sea creature that impales its victims; Wade travels to the scene to investigate.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-12T23:00:00.000Z",
+    "title": "River Monsters",
+    "overview": "Traveling from London to Greenland and on to Norway, Wade follows the trail of an unknown sea monster; fishing through ice to extreme depths, he attempts to reel in this monster before the full fury of an Arctic storm hits.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-13T00:00:00.000Z",
+    "title": "River Monsters",
+    "overview": "Wade takes on the biggest investigation of his career -- to unravel what happened to over 1,000 passengers of the RMS Laconia, torpedoed in the mid-Atlantic; he travels the globe, battling giant fish, massive sharks and a deep-sea monster.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-13T01:00:00.000Z",
+    "title": "River Monsters",
+    "overview": "Wade takes on the biggest investigation of his career -- to unravel what happened to over 1,000 passengers of the RMS Laconia, torpedoed in the mid-Atlantic; he travels the globe, battling giant fish, massive sharks and a deep-sea monster.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-13T02:00:00.000Z",
+    "title": "River Monsters",
+    "overview": "Jeremy Wade investigates a case in Nepal that sounds strangely familiar -- a lone fisherman dragged off his feet and into a mountain river by the original river monster, the goonch catfish.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-13T03:00:00.000Z",
+    "title": "River Monsters",
+    "overview": "After two men vanish from a remote lake in Malaysia, Jeremy sets out to find the possible culprit; a trail of evidence leads Jeremy into an ancient rainforest, where an old adversary lies in wait.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76:epg:2026-11-13T04:00:00.000Z",
+    "title": "River Monsters",
+    "overview": "On a volcanic island in the Pacific, terror grips a fishing community when something in the water leaves a trail of bloody victims in its wake; the only clues they have to the attacker's identity are the large puncture wounds it left behind.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

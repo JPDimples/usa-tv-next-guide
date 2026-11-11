@@ -1,0 +1,339 @@
+{
+ "meta": {
+  "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169",
+  "type": "tv",
+  "name": "HBO 2",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/hbo-2-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hbo-2-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Premium"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T03:04:00.000Z",
+    "title": "This Is Not a War Story",
+    "overview": "Some veterans take part in an unusual art project designed to help them deal with the leftover trauma associated with their combat experiences.",
+    "released": "2026-11-11T03:04:00.000Z",
+    "startTime": "2026-11-11T03:04:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "116 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T05:00:00.000Z",
+    "title": "Skyscraper",
+    "overview": "Will Sawyer is a former FBI agent and U.S. war veteran who now assesses security for skyscrapers. While he's on assignment in China, the world's tallest and safest building catches on fire -- and Will gets framed for it. Now a wanted man and on the run, he must find those responsible, clear his name",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T06:43:00.000Z",
+    "runtime": "103 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T06:43:00.000Z",
+    "title": "The First Purge",
+    "overview": "To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America try a radical sociological experiment that allows citizens to vent their aggression for one night in an isolated community. The idea soon explodes across the nation when the violence of the oppress",
+    "released": "2026-11-11T06:43:00.000Z",
+    "startTime": "2026-11-11T06:43:00.000Z",
+    "endTime": "2026-11-11T08:21:00.000Z",
+    "runtime": "98 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T08:21:00.000Z",
+    "title": "Zombieland",
+    "overview": "Nerdy college student Columbus (Jesse Eisenberg) has survived the plague that has turned mankind into flesh-devouring zombies because he's scared of just about everything. Gun-toting, Twinkie-loving Tallahassee (Woody Harrelson) has no fears. Together, they are about to stare down their most horrify",
+    "released": "2026-11-11T08:21:00.000Z",
+    "startTime": "2026-11-11T08:21:00.000Z",
+    "endTime": "2026-11-11T09:49:00.000Z",
+    "runtime": "88 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T09:49:00.000Z",
+    "title": "Zombieland: Double Tap",
+    "overview": "Zombie slayers Tallahassee, Columbus, Wichita and Little Rock leave the confines of the White House to travel to Graceland in Memphis, Tenn. Along the way, they encounter other post-apocalyptic warriors and a group of survivors who find refuge in a commune. The scrappy fighters must now rely on thei",
+    "released": "2026-11-11T09:49:00.000Z",
+    "startTime": "2026-11-11T09:49:00.000Z",
+    "endTime": "2026-11-11T11:31:00.000Z",
+    "runtime": "102 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T11:31:00.000Z",
+    "title": "Knock Knock",
+    "overview": "Two nubile, stranded women reveal a sinister agenda after they spend the night with a married architect.",
+    "released": "2026-11-11T11:31:00.000Z",
+    "startTime": "2026-11-11T11:31:00.000Z",
+    "endTime": "2026-11-11T13:11:00.000Z",
+    "runtime": "100 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T13:11:00.000Z",
+    "title": "The Death of Robin Hood",
+    "overview": "After a lifetime of violent crime, a gravely wounded Robin Hood is rescued by a mysterious woman and offered one last chance at salvation.",
+    "released": "2026-11-11T13:11:00.000Z",
+    "startTime": "2026-11-11T13:11:00.000Z",
+    "endTime": "2026-11-11T15:14:00.000Z",
+    "runtime": "123 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T15:14:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-11T15:14:00.000Z",
+    "startTime": "2026-11-11T15:14:00.000Z",
+    "endTime": "2026-11-11T16:08:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T16:08:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-11T16:08:00.000Z",
+    "startTime": "2026-11-11T16:08:00.000Z",
+    "endTime": "2026-11-11T17:02:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T17:02:00.000Z",
+    "title": "Jodorowsky's Dune",
+    "overview": "Filmmaker Alejandro Jodorowsky discusses how he would have adapted Frank Herbert's classic sci-fi novel \"Dune\" for the big screen.",
+    "released": "2026-11-11T17:02:00.000Z",
+    "startTime": "2026-11-11T17:02:00.000Z",
+    "endTime": "2026-11-11T18:33:00.000Z",
+    "runtime": "91 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T18:33:00.000Z",
+    "title": "Dune",
+    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to a dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of a precious resourc",
+    "released": "2026-11-11T18:33:00.000Z",
+    "startTime": "2026-11-11T18:33:00.000Z",
+    "endTime": "2026-11-11T21:09:00.000Z",
+    "runtime": "156 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T21:09:00.000Z",
+    "title": "Dune: Part Two",
+    "overview": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.",
+    "released": "2026-11-11T21:09:00.000Z",
+    "startTime": "2026-11-11T21:09:00.000Z",
+    "endTime": "2026-11-11T23:55:00.000Z",
+    "runtime": "166 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-11T23:55:00.000Z",
+    "title": "Love, Simon",
+    "overview": "Everyone deserves a great love story, but for 17-year-old Simon Spier, it's a little more complicated. He hasn't told his family or friends that he's gay, and he doesn't know the identity of the anonymous classmate that he's fallen for online. Resolving both issues proves hilarious, terrifying and l",
+    "released": "2026-11-11T23:55:00.000Z",
+    "startTime": "2026-11-11T23:55:00.000Z",
+    "endTime": "2026-11-12T01:45:00.000Z",
+    "runtime": "110 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T01:45:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-12T01:45:00.000Z",
+    "startTime": "2026-11-12T01:45:00.000Z",
+    "endTime": "2026-11-12T02:39:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T02:39:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-12T02:39:00.000Z",
+    "startTime": "2026-11-12T02:39:00.000Z",
+    "endTime": "2026-11-12T03:33:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T03:33:00.000Z",
+    "title": "Ready Player One",
+    "overview": "In 2045, the creator of a virtual reality universe promises his fortune to the first person to discover a digital Easter egg. Soon, young Wade Watts finds himself in a reality-bending treasure hunt through the mysterious and fantastical world.",
+    "released": "2026-11-12T03:33:00.000Z",
+    "startTime": "2026-11-12T03:33:00.000Z",
+    "endTime": "2026-11-12T05:53:00.000Z",
+    "runtime": "140 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T05:53:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-12T05:53:00.000Z",
+    "startTime": "2026-11-12T05:53:00.000Z",
+    "endTime": "2026-11-12T06:47:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T06:47:00.000Z",
+    "title": "Jurassic World: Fallen Kingdom",
+    "overview": "Three years after the destruction of the Jurassic World theme park, Owen Grady and Claire Dearing return to the island of Isla Nublar to save the remaining dinosaurs from a volcano that's about to erupt. They soon encounter terrifying new breeds of gigantic dinos while uncovering a conspiracy that t",
+    "released": "2026-11-12T06:47:00.000Z",
+    "startTime": "2026-11-12T06:47:00.000Z",
+    "endTime": "2026-11-12T08:56:00.000Z",
+    "runtime": "129 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T08:56:00.000Z",
+    "title": "Cocktail",
+    "overview": "Brian Flanagan (Tom Cruise) wants a high-paying marketing job, but needs a business degree first. Working as a bartender to pay for college, Flanagan is mentored by his veteran boss, Doug Coughlin (Bryan Brown). Together, their showy tricks and charisma command large crowds and tip payments -- until",
+    "released": "2026-11-12T08:56:00.000Z",
+    "startTime": "2026-11-12T08:56:00.000Z",
+    "endTime": "2026-11-12T10:42:00.000Z",
+    "runtime": "106 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T10:42:00.000Z",
+    "title": "Just Friends",
+    "overview": "High school student Chris Brander (Ryan Reynolds) loves his best friend, Jamie Palamino (Amy Smart). He finally confesses his feelings, but she tells him that she just wants to be friends, and he leaves town in shame. Ten years later, Chris is a successful record executive and involved with self-abs",
+    "released": "2026-11-12T10:42:00.000Z",
+    "startTime": "2026-11-12T10:42:00.000Z",
+    "endTime": "2026-11-12T12:17:00.000Z",
+    "runtime": "95 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T12:17:00.000Z",
+    "title": "The Invite",
+    "overview": "Joe and Angela's marriage is on thin ice. When their upstairs neighbors visit for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+    "released": "2026-11-12T12:17:00.000Z",
+    "startTime": "2026-11-12T12:17:00.000Z",
+    "endTime": "2026-11-12T14:05:00.000Z",
+    "runtime": "108 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T14:05:00.000Z",
+    "title": "War",
+    "overview": "With only two days before the trial begins, Molly grows increasingly concerned about an inaccurate asset list, while Johnny tries to minimize the situation; faced with troubling information, Serena and Nick hold interviews with their attorneys on the case; St. John denies all knowledge of David's ar",
+    "released": "2026-11-12T14:05:00.000Z",
+    "startTime": "2026-11-12T14:05:00.000Z",
+    "endTime": "2026-11-12T14:57:00.000Z",
+    "runtime": "52 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T14:57:00.000Z",
+    "title": "Undertone",
+    "overview": "The host of a popular paranormal podcast is sent hidden messages within anonymous recordings, unleashing a demonic presence that is impossible to escape.",
+    "released": "2026-11-12T14:57:00.000Z",
+    "startTime": "2026-11-12T14:57:00.000Z",
+    "endTime": "2026-11-12T16:34:00.000Z",
+    "runtime": "97 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T16:34:00.000Z",
+    "title": "A Story of Derry",
+    "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood, where they encounter a terrifying ancient spirit.",
+    "released": "2026-11-12T16:34:00.000Z",
+    "startTime": "2026-11-12T16:34:00.000Z",
+    "endTime": "2026-11-12T17:05:00.000Z",
+    "runtime": "31 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T17:05:00.000Z",
+    "title": "This Is Not a War Story",
+    "overview": "Some veterans take part in an unusual art project designed to help them deal with the leftover trauma associated with their combat experiences.",
+    "released": "2026-11-12T17:05:00.000Z",
+    "startTime": "2026-11-12T17:05:00.000Z",
+    "endTime": "2026-11-12T18:58:00.000Z",
+    "runtime": "113 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T18:58:00.000Z",
+    "title": "Pitch Perfect 3",
+    "overview": "After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren't job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, the group of nerds comes together to make some music one last time",
+    "released": "2026-11-12T18:58:00.000Z",
+    "startTime": "2026-11-12T18:58:00.000Z",
+    "endTime": "2026-11-12T20:31:00.000Z",
+    "runtime": "93 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T20:31:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-12T20:31:00.000Z",
+    "startTime": "2026-11-12T20:31:00.000Z",
+    "endTime": "2026-11-12T21:25:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T21:25:00.000Z",
+    "title": "Normal",
+    "overview": "The new sheriff of a small town in Minnesota uncovers a dark secret while investigating a botched bank robbery.",
+    "released": "2026-11-12T21:25:00.000Z",
+    "startTime": "2026-11-12T21:25:00.000Z",
+    "endTime": "2026-11-12T22:57:00.000Z",
+    "runtime": "92 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-12T22:57:00.000Z",
+    "title": "Thanksgiving",
+    "overview": "A mysterious masked maniac terrorizes residents of Plymouth, Mass., one year after a Black Friday riot ended in tragedy. Picking off victims one by one, the seemingly random revenge killings soon become part of a larger, sinister plan.",
+    "released": "2026-11-12T22:57:00.000Z",
+    "startTime": "2026-11-12T22:57:00.000Z",
+    "endTime": "2026-11-13T00:43:00.000Z",
+    "runtime": "106 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-13T00:43:00.000Z",
+    "title": "The Gilded Age",
+    "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
+    "released": "2026-11-13T00:43:00.000Z",
+    "startTime": "2026-11-13T00:43:00.000Z",
+    "endTime": "2026-11-13T01:37:00.000Z",
+    "runtime": "54 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-13T01:37:00.000Z",
+    "title": "The Conjuring",
+    "overview": "In 1970, paranormal investigators and demonologists Lorraine (Vera Farmiga) and Ed (Patrick Wilson) Warren are summoned to the home of Carolyn (Lili Taylor) and Roger (Ron Livingston) Perron. The Perrons and their five daughters have recently moved into a secluded farmhouse, where a supernatural pre",
+    "released": "2026-11-13T01:37:00.000Z",
+    "startTime": "2026-11-13T01:37:00.000Z",
+    "endTime": "2026-11-13T03:29:00.000Z",
+    "runtime": "112 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169:epg:2026-11-13T03:29:00.000Z",
+    "title": "The Conjuring 2",
+    "overview": "In 1977, paranormal investigators Ed (Patrick Wilson) and Lorraine Warren come out of a self-imposed sabbatical to travel to Enfield, a borough in north London. There, they meet Peggy Hodgson, an overwhelmed single mother of four who tells the couple that something evil is in her home. Ed and Lorrai",
+    "released": "2026-11-13T03:29:00.000Z",
+    "startTime": "2026-11-13T03:29:00.000Z",
+    "endTime": "2026-11-13T05:43:00.000Z",
+    "runtime": "134 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

@@ -1,0 +1,669 @@
+{
+ "meta": {
+  "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15",
+  "type": "tv",
+  "name": "NBA TV",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nba-tv-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nba-tv-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Sports"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T01:30:00.000Z",
+    "title": "Live: The Association",
+    "overview": "\"The Association\" celebrates the game, players and the culture of the NBA; informing and entertaining viewers with league news, analysis and storylines; guiding fans to the action across the league in real time.",
+    "released": "2026-11-11T01:30:00.000Z",
+    "startTime": "2026-11-11T01:30:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "240 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T05:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T06:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T06:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T07:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T07:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T08:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T08:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T08:30:00.000Z",
+    "startTime": "2026-11-11T08:30:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T09:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T09:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T10:00:00.000Z",
+    "title": "The Association: Post Up",
+    "overview": "\"The Association Post Up\" looks back at the NBA highlights and news of the day.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T10:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T11:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T11:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T12:00:00.000Z",
+    "title": "The Association: Post Up",
+    "overview": "\"The Association Post Up\" looks back at the NBA highlights and news of the day.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T12:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T13:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T13:30:00.000Z",
+    "title": "The Association: Post Up",
+    "overview": "\"The Association Post Up\" looks back at the NBA highlights and news of the day.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T14:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T14:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T15:00:00.000Z",
+    "title": "The Association: Post Up",
+    "overview": "\"The Association Post Up\" looks back at the NBA highlights and news of the day.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T15:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T16:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T16:30:00.000Z",
+    "title": "The Association: Post Up",
+    "overview": "\"The Association Post Up\" looks back at the NBA highlights and news of the day.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T17:00:00.000Z",
+    "title": "NBA Playback",
+    "overview": "From Nov. 10, 2026.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T19:00:00.000Z",
+    "title": "Basketcast",
+    "overview": "Analysis and commentary from various voices covering the league.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T20:00:00.000Z",
+    "title": "NBA Shot Clock: Games of the Night",
+    "overview": "From Nov. 10, 2026.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T21:30:00.000Z",
+    "title": "Coaches Corner",
+    "overview": "Host Tim Legler sits down for a one-on-one conversation with current NBA head coaches as they break down plays from past seasons and discuss team strategy and philosophy.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T22:00:00.000Z",
+    "title": "Coaches Corner",
+    "overview": "Host Tim Legler sits down for a one-on-one conversation with current NBA head coaches as they break down plays from past seasons and discuss team strategy and philosophy.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T22:30:00.000Z",
+    "title": "Inside Practice",
+    "overview": "Viewers gain access to basketball practice sessions.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-11T23:00:00.000Z",
+    "title": "Live: The Warmup",
+    "overview": "The Warmup takes you inside the arena and gives you exclusive pregame access you'd only have with a game ticket in hand. Our analysts talk matchups for the night and break down what you are seeing NBA players work on before tip-off.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T00:30:00.000Z",
+    "title": "Basketcast",
+    "overview": "Analysis and commentary from various voices covering the league.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T01:30:00.000Z",
+    "title": "Live: The Association",
+    "overview": "\"The Association\" celebrates the game, players and the culture of the NBA; informing and entertaining viewers with league news, analysis and storylines; guiding fans to the action across the league in real time.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "240 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T05:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T06:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T06:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T07:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T07:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T08:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T08:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T08:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T08:30:00.000Z",
+    "startTime": "2026-11-12T08:30:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T09:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T09:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T09:30:00.000Z",
+    "startTime": "2026-11-12T09:30:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T10:00:00.000Z",
+    "title": "The Association: Post Up",
+    "overview": "\"The Association Post Up\" looks back at the NBA highlights and news of the day.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T10:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T11:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T11:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T12:00:00.000Z",
+    "title": "The Association: Post Up",
+    "overview": "\"The Association Post Up\" looks back at the NBA highlights and news of the day.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T12:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T12:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T12:30:00.000Z",
+    "startTime": "2026-11-12T12:30:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T13:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T13:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T13:30:00.000Z",
+    "title": "The Association: Post Up",
+    "overview": "\"The Association Post Up\" looks back at the NBA highlights and news of the day.",
+    "released": "2026-11-12T13:30:00.000Z",
+    "startTime": "2026-11-12T13:30:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T14:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T14:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T15:00:00.000Z",
+    "title": "The Association: Post Up",
+    "overview": "\"The Association Post Up\" looks back at the NBA highlights and news of the day.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T15:30:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T16:00:00.000Z",
+    "title": "Full Court",
+    "overview": "Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T16:30:00.000Z",
+    "title": "The Association: Post Up",
+    "overview": "\"The Association Post Up\" looks back at the NBA highlights and news of the day.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T17:00:00.000Z",
+    "title": "NBA Playback",
+    "overview": "From Nov. 11, 2026.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T19:00:00.000Z",
+    "title": "Basketcast",
+    "overview": "Analysis and commentary from various voices covering the league.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T20:00:00.000Z",
+    "title": "NBA Shot Clock: Games of the Night",
+    "overview": "From Nov. 11, 2026.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T22:00:00.000Z",
+    "title": "Inside Practice",
+    "overview": "Viewers gain access to basketball practice sessions.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T22:30:00.000Z",
+    "title": "NBA Action",
+    "overview": "Featuring highlights from the basketball league; all the stars, all the games and everything you need to know about the NBA.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-12T23:00:00.000Z",
+    "title": "Live: The Warmup",
+    "overview": "The Warmup takes you inside the arena and gives you exclusive pregame access you'd only have with a game ticket in hand. Our analysts talk matchups for the night and break down what you are seeing NBA players work on before tip-off.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-13T00:30:00.000Z",
+    "title": "Live: The Association: Pregame",
+    "overview": "The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-13T01:00:00.000Z",
+    "title": "Live: NBA Basketball",
+    "overview": "From the Target Center in Minneapolis.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T03:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-13T03:30:00.000Z",
+    "title": "Live: The Association: Postgame",
+    "overview": "The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.",
+    "released": "2026-11-13T03:30:00.000Z",
+    "startTime": "2026-11-13T03:30:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

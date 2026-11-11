@@ -1,0 +1,869 @@
+{
+ "meta": {
+  "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3",
+  "type": "tv",
+  "name": "CMT",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cmt-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cmt-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Entertainment"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T03:16:00.000Z",
+    "title": "Reba",
+    "overview": "The football players think they're doomed when Cheyenne serves the wrong kind of potato salad at the traditional pregame dinner.",
+    "released": "2026-11-11T03:16:00.000Z",
+    "startTime": "2026-11-11T03:16:00.000Z",
+    "endTime": "2026-11-11T03:50:00.000Z",
+    "runtime": "34 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T03:50:00.000Z",
+    "title": "Reba",
+    "overview": "Reba's ex-husband becomes jealous when she calls a plumber to fix a faucet; Cheyenne \"moons\" Van's teammates.",
+    "released": "2026-11-11T03:50:00.000Z",
+    "startTime": "2026-11-11T03:50:00.000Z",
+    "endTime": "2026-11-11T04:25:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T04:25:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Blanche's professor tells her that she can pass her course easily, in return for unsavory favors.",
+    "released": "2026-11-11T04:25:00.000Z",
+    "startTime": "2026-11-11T04:25:00.000Z",
+    "endTime": "2026-11-11T05:00:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T05:00:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Blanche, Dorothy and Rose vie for a charity award while fighting the flu.",
+    "released": "2026-11-11T05:00:00.000Z",
+    "startTime": "2026-11-11T05:00:00.000Z",
+    "endTime": "2026-11-11T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T05:30:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Rose must look for work after she loses her grief-counseling job.",
+    "released": "2026-11-11T05:30:00.000Z",
+    "startTime": "2026-11-11T05:30:00.000Z",
+    "endTime": "2026-11-11T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T06:00:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "The roommates welcome Rose's recently blinded sister, whose independent manner is deceptive.",
+    "released": "2026-11-11T06:00:00.000Z",
+    "startTime": "2026-11-11T06:00:00.000Z",
+    "endTime": "2026-11-11T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T06:30:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Blanche panics when her father reveals his outlandish plans for the future.",
+    "released": "2026-11-11T06:30:00.000Z",
+    "startTime": "2026-11-11T06:30:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T07:00:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Dorothy, Rose and Blanche reminisce about how they all came to live together.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T07:30:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Blanche fears she may be pregnant, but is actually going through menopause.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T08:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T09:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T10:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T11:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T12:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T13:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-11T13:00:00.000Z",
+    "startTime": "2026-11-11T13:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T14:00:00.000Z",
+    "title": "Roseanne",
+    "overview": "Darlene is pregnant and wants to marry David; Roseanne and Dan are shocked and have very different reactions to Darlene and David's big news.",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T14:30:00.000Z",
+    "title": "Roseanne",
+    "overview": "A television news reporter interviews Roseanne in the street.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T15:00:00.000Z",
+    "title": "Roseanne",
+    "overview": "Plans for David and Darlene's wedding are made; Bev is excluded from the wedding preparations and therefore takes part in a seniors dance course.",
+    "released": "2026-11-11T15:00:00.000Z",
+    "startTime": "2026-11-11T15:00:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T15:30:00.000Z",
+    "title": "Roseanne",
+    "overview": "The Conners celebrate Darlene's wedding day; Darlene and Dan have another fight, but they reconcile immediately.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T16:00:00.000Z",
+    "title": "Roseanne",
+    "overview": "Roseanne does not move from Dan's side, after he suffers a heart attack at Darlene's wedding.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T16:30:00.000Z",
+    "title": "Roseanne",
+    "overview": "After Dan comes home from the hospital, Roseanne discovers that he has not been sticking to his doctor-prescribed diet regime.",
+    "released": "2026-11-11T16:30:00.000Z",
+    "startTime": "2026-11-11T16:30:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T17:00:00.000Z",
+    "title": "Reba",
+    "overview": "After a near-death experience, Reba decides to put her personal matters in order and write a will; Reba discovers that Cheyenne and Van have asked Brock and Barbra Jean to be Elizabeth's guardian if something should happen to them.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T17:30:00.000Z",
+    "title": "Reba",
+    "overview": "Brock and Barbra Jean tell Reba they are buying a nearby house; troubled Reba tries to come up with the cash she needs to send Kyra to England and Cheyenne to summer school.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T18:00:00.000Z",
+    "title": "Reba",
+    "overview": "Kyra contemplates moving in with Brock and Barbra Jean; Cheyenne and Van make plans to use Kyra's room as a nursery.",
+    "released": "2026-11-11T18:00:00.000Z",
+    "startTime": "2026-11-11T18:00:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T18:30:00.000Z",
+    "title": "Reba",
+    "overview": "The entire family must deal with the fact that Kyra is leaving the home to go live with Brock and Barbara Jean.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T19:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "After Carrie tells Doug that it's okay for him to find other women attractive, he asks her to tell him which men she finds attractive. Unsurprisingly, this doesn't end well.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T19:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Carrie and Doug (Leah Remini, Kevin James) discuss the real definition of infidelity when Doug sees Deacon (Victor Williams) with another woman.",
+    "released": "2026-11-11T19:30:00.000Z",
+    "startTime": "2026-11-11T19:30:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T20:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Deacon's recent separation forces Doug and Carrie to re-examine some things they may have taken for granted.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T20:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug dreams that he could solve all of his problems if he could assume the roles of vintage television characters.",
+    "released": "2026-11-11T20:30:00.000Z",
+    "startTime": "2026-11-11T20:30:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T21:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "When Doug can't understand the difficulties Carrie faces when caring for Arthur, he takes over and learns the hard way.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T21:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug finds that working for a competitor isn't all it's cracked up to be after he quits his job; Carrie becomes a self-tanning cream addict.",
+    "released": "2026-11-11T21:30:00.000Z",
+    "startTime": "2026-11-11T21:30:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T22:00:00.000Z",
+    "title": "Cheers",
+    "overview": "Frasier, upon hearing horror stories of being tied down to marriage, gets cold feet about his own impending nuptials.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T22:30:00.000Z",
+    "title": "Cheers",
+    "overview": "While Norm paints Evan's house, Rebecca sneaks a look at his bedroom -- and is trapped when he comes home unexpectedly.",
+    "released": "2026-11-11T22:30:00.000Z",
+    "startTime": "2026-11-11T22:30:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T23:00:00.000Z",
+    "title": "Cheers",
+    "overview": "Carla seeks help from Frasier when her fear of flying leads Eddie, who is working out of town, to believe she is ashamed of his job.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-11T23:30:00.000Z",
+    "title": "Cheers",
+    "overview": "Evan offers Sam a promotion -- a deal laced with an ulterior motive.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T00:00:00.000Z",
+    "title": "Cheers",
+    "overview": "Cliff announces his raise at the post office; Woody and Sam want a raise, but the bar's takings have been declining for three months, risking closure; to increase takings, Sam and Woody raffle a Caribbean cruise, attracting many customers.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T00:30:00.000Z",
+    "title": "Cheers",
+    "overview": "Rebecca and Lilith throw a slumber party for depressed Carla.",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T01:00:00.000Z",
+    "title": "Reba",
+    "overview": "Kyra does not want to spend time with her father since it includes Barbra Jean; Cheyenne and Van plan to move out.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T01:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T01:30:00.000Z",
+    "title": "Reba",
+    "overview": "When Van fails a history test due to the pressure of being a star football player, Reba steps in to tutor him.",
+    "released": "2026-11-12T01:30:00.000Z",
+    "startTime": "2026-11-12T01:30:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T02:00:00.000Z",
+    "title": "Reba",
+    "overview": "Reba's best friend returns to Houston and uncovers a photograph that hints at infidelity early in Reba and Brock's marriage.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T02:30:00.000Z",
+    "title": "Reba",
+    "overview": "Reba celebrates her divorce with lunch and finds her credit card is declined; Reba is angered to find out Brock let Barbra Jean run up the shared credit card for her wedding.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T03:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T03:00:00.000Z",
+    "title": "Reba",
+    "overview": "Reba's parents visit and surprise everyone when they accept Barbra Jean into the family.",
+    "released": "2026-11-12T03:00:00.000Z",
+    "startTime": "2026-11-12T03:00:00.000Z",
+    "endTime": "2026-11-12T03:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T03:30:00.000Z",
+    "title": "Reba",
+    "overview": "Reba returns to work but is fired when advice to a teen couple is misinterpreted as endorsing premarital sex.",
+    "released": "2026-11-12T03:30:00.000Z",
+    "startTime": "2026-11-12T03:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T04:00:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "The girls move into a Miami Beach hotel; they dress up to attend Burt Reynolds' movie premiere, only to be caught in a hotel raid, mistaken for prostitutes and dragged off to jail.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T04:30:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Dorothy begs Blanche to go out with her ex-husband, Stan, but becomes jealous when the couple hits it off; Sophia and Rose begin selling sandwiches on the Boardwalk but inadvertently make an enemy of another vendor.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T05:00:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "A neighbor dies shortly after having a heated argument with Rose.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T05:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T05:30:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Rose befriends Dorothy's former college buddy (Lois Nettleton), not knowing that the woman is a lesbian.",
+    "released": "2026-11-12T05:30:00.000Z",
+    "startTime": "2026-11-12T05:30:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T06:00:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Blanche has trouble dealing with her father's plan to marry a much younger woman.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T06:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T06:30:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Rose's daughter and Dorothy's son visit their mothers at the same time.",
+    "released": "2026-11-12T06:30:00.000Z",
+    "startTime": "2026-11-12T06:30:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T07:00:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "Rose, Blanche and Dorothy take a vacation at a resort that doesn't live up to its reputation.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T07:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T07:30:00.000Z",
+    "title": "The Golden Girls",
+    "overview": "While Dorothy is laid off from teaching, she finds work at the same museum where Blanche goes to work.",
+    "released": "2026-11-12T07:30:00.000Z",
+    "startTime": "2026-11-12T07:30:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T08:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T09:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T10:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T11:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T12:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T13:00:00.000Z",
+    "title": "CMT Music",
+    "overview": "Music videos.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T14:00:00.000Z",
+    "title": "Roseanne",
+    "overview": "Roseanne imagines she and Dan are characters from a sitcom after watching reruns.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T14:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T14:30:00.000Z",
+    "title": "Roseanne",
+    "overview": "Roseanne and Dan try to prove that new wealth will not change the Conner family when they win the state lottery.",
+    "released": "2026-11-12T14:30:00.000Z",
+    "startTime": "2026-11-12T14:30:00.000Z",
+    "endTime": "2026-11-12T15:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T15:00:00.000Z",
+    "title": "Roseanne",
+    "overview": "Roseanne's grasp of reality slips as she grapples with her newfound fortune.",
+    "released": "2026-11-12T15:00:00.000Z",
+    "startTime": "2026-11-12T15:00:00.000Z",
+    "endTime": "2026-11-12T15:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T15:30:00.000Z",
+    "title": "Roseanne",
+    "overview": "When Roseanne confronts Dan about his blue mood, he admits he feels remorse over his relationship with his mother.",
+    "released": "2026-11-12T15:30:00.000Z",
+    "startTime": "2026-11-12T15:30:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T16:00:00.000Z",
+    "title": "Roseanne",
+    "overview": "A wealthy prince (Jim Varney) sweeps Jackie off her feet and whisks the entire Conner family to New York on his private jet.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T16:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T16:30:00.000Z",
+    "title": "Roseanne",
+    "overview": "After being slapped, wrapped and starved, Roseanne and Jackie wonder if life at an exclusive spa is too much.",
+    "released": "2026-11-12T16:30:00.000Z",
+    "startTime": "2026-11-12T16:30:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T17:00:00.000Z",
+    "title": "Reba",
+    "overview": "The entire family must deal with the fact that Kyra is leaving the home to go live with Brock and Barbara Jean.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T17:30:00.000Z",
+    "title": "Reba",
+    "overview": "Reba feels closer than ever to Kyra since she moved in with Brock and Barbra Jean, especially because Kyra is driving them crazy.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T18:00:00.000Z",
+    "title": "Reba",
+    "overview": "Competing for her father's attention, Cheyenne announces she is going to pursue a career in dentistry.",
+    "released": "2026-11-12T18:00:00.000Z",
+    "startTime": "2026-11-12T18:00:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T18:30:00.000Z",
+    "title": "Reba",
+    "overview": "When Barbra Jean convinces Reba to hack into Kyra's e-mail, they find out she is planning to attend an unsupervised party.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T19:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug and Carrie have different opinions about Deacon and Kelly's separation and share them with each other.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T19:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T19:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug's (Kevin James) parents bowl him over with an important request while on a brief layover in New York.",
+    "released": "2026-11-12T19:30:00.000Z",
+    "startTime": "2026-11-12T19:30:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T20:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug and Carrie's neighbor (Bryan Cranston) builds an aboveground pool that looks directly into their property.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T20:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T20:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug's (Kevin James) Uncle Stu (guest star Gavin MacLeod) talks him into helping his down-and-out cousin (guest star Gary Valentine) land a job at IPS.",
+    "released": "2026-11-12T20:30:00.000Z",
+    "startTime": "2026-11-12T20:30:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T21:00:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Carrie and Doug (Leah Remini, Kevin James) ponder a major readjustment after a night of passion leads to a surprise.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T21:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Carrie and Doug (Leah Remini, Kevin James) ponder a major readjustment after a night of passion leads to a surprise.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T22:00:00.000Z",
+    "title": "Cheers",
+    "overview": "The Cheers gang takes on a rival bar in a war of outrageous pranks; the gang becomes paranoid of all strangers entering the bar, including Boston Red Sox third baseman Wade Boggs.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T22:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T22:30:00.000Z",
+    "title": "Cheers",
+    "overview": "Sam and Woody have a competition to see who can kiss Rebecca first.",
+    "released": "2026-11-12T22:30:00.000Z",
+    "startTime": "2026-11-12T22:30:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T23:00:00.000Z",
+    "title": "Cheers",
+    "overview": "Evan is moving to Tokyo, so Rebecca drives him to the airport; she confesses her feelings for him, and he asks her to pick up the woman who will be going with him.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-12T23:30:00.000Z",
+    "title": "Cheers",
+    "overview": "Sam tries to get Rebecca her job back after she is fired as manager, and he is hired to replace her.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-13T00:00:00.000Z",
+    "title": "Cheers",
+    "overview": "Sam vows a year of celibacy if he is not the father of an ex-girlfriend's baby.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T00:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-13T00:30:00.000Z",
+    "title": "Cheers",
+    "overview": "A 20-year-old executive (Alex Nevil) develops a crush on Rebecca.",
+    "released": "2026-11-13T00:30:00.000Z",
+    "startTime": "2026-11-13T00:30:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-13T01:00:00.000Z",
+    "title": "Reba",
+    "overview": "Brock asks Reba to help plan his father's funeral after he dies on a golf course and Barbra Jean wants the funeral a grand event and play the bereaved woman.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:34:00.000Z",
+    "runtime": "34 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-13T01:34:00.000Z",
+    "title": "Reba",
+    "overview": "Since the divorce is final, a friend hooks up Reba with her old college boyfriend.",
+    "released": "2026-11-13T01:34:00.000Z",
+    "startTime": "2026-11-13T01:34:00.000Z",
+    "endTime": "2026-11-13T02:08:00.000Z",
+    "runtime": "34 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-13T02:08:00.000Z",
+    "title": "Reba",
+    "overview": "Reba tries to persuade Brock's doubting bride to continue with the wedding while dealing with Kyra not wanting to attend the ceremony.",
+    "released": "2026-11-13T02:08:00.000Z",
+    "startTime": "2026-11-13T02:08:00.000Z",
+    "endTime": "2026-11-13T02:42:00.000Z",
+    "runtime": "34 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-13T02:42:00.000Z",
+    "title": "Reba",
+    "overview": "Reba tries to reconcile with Van and his parents, but her plan backfires when his mother walks out on her husband and stays with Reba.",
+    "released": "2026-11-13T02:42:00.000Z",
+    "startTime": "2026-11-13T02:42:00.000Z",
+    "endTime": "2026-11-13T03:16:00.000Z",
+    "runtime": "34 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-13T03:16:00.000Z",
+    "title": "Reba",
+    "overview": "Cheyenne signs her and Van up for Lamaze class; Reba gets into an argument with Brock when she encounters him and Barbra Jean in a childbirth class.",
+    "released": "2026-11-13T03:16:00.000Z",
+    "startTime": "2026-11-13T03:16:00.000Z",
+    "endTime": "2026-11-13T03:50:00.000Z",
+    "runtime": "34 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3:epg:2026-11-13T03:50:00.000Z",
+    "title": "Reba",
+    "overview": "Reba ends up doing most of the work for Van's job when she insists they pay for a car given to him by Brock.",
+    "released": "2026-11-13T03:50:00.000Z",
+    "startTime": "2026-11-13T03:50:00.000Z",
+    "endTime": "2026-11-13T04:25:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

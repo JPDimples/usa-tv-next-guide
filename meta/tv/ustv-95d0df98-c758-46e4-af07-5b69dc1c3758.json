@@ -1,0 +1,609 @@
+{
+ "meta": {
+  "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758",
+  "type": "tv",
+  "name": "CBS",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cbs-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cbs-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Local"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T03:00:00.000Z",
+    "title": "NCIS: Origins",
+    "overview": "In 1993, the team's investigation into the murder of a con woman hits close to home for Lala; in the present, Gibbs and Bishop team up for an intense interrogation.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T04:00:00.000Z",
+    "title": "To Be Announced",
+    "overview": "Programming to be announced.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:35:00.000Z",
+    "runtime": "35 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T04:35:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Aida Rodriguez; Zako Ryan; DC Benny; Guy Torry.",
+    "released": "2026-11-11T04:35:00.000Z",
+    "startTime": "2026-11-11T04:35:00.000Z",
+    "endTime": "2026-11-11T05:05:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T05:05:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Shawn Pelofsky; Chris Kattan; Dean Edwards; Kevin Sullivan.",
+    "released": "2026-11-11T05:05:00.000Z",
+    "startTime": "2026-11-11T05:05:00.000Z",
+    "endTime": "2026-11-11T05:35:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T05:35:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams.",
+    "released": "2026-11-11T05:35:00.000Z",
+    "startTime": "2026-11-11T05:35:00.000Z",
+    "endTime": "2026-11-11T06:05:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T06:05:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Jamie Kennedy; Sheryl Underwood; Billy Gardell; Byron Allen; Caroline Rhea; Jimmie Walker.",
+    "released": "2026-11-11T06:05:00.000Z",
+    "startTime": "2026-11-11T06:05:00.000Z",
+    "endTime": "2026-11-11T06:37:00.000Z",
+    "runtime": "32 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T06:37:00.000Z",
+    "title": "To Be Announced",
+    "overview": "Programming to be announced.",
+    "released": "2026-11-11T06:37:00.000Z",
+    "startTime": "2026-11-11T06:37:00.000Z",
+    "endTime": "2026-11-11T07:00:00.000Z",
+    "runtime": "23 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T07:00:00.000Z",
+    "title": "CBS News Roundup",
+    "overview": "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
+    "released": "2026-11-11T07:00:00.000Z",
+    "startTime": "2026-11-11T07:00:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T09:00:00.000Z",
+    "title": "CBS News Roundup",
+    "overview": "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T10:00:00.000Z",
+    "title": "CBS News Mornings",
+    "overview": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T10:30:00.000Z",
+    "title": "CBS News Mornings",
+    "overview": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T11:00:00.000Z",
+    "title": "CBS News Mornings",
+    "overview": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+    "released": "2026-11-11T11:00:00.000Z",
+    "startTime": "2026-11-11T11:00:00.000Z",
+    "endTime": "2026-11-11T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T11:30:00.000Z",
+    "title": "CBS News Mornings",
+    "overview": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+    "released": "2026-11-11T11:30:00.000Z",
+    "startTime": "2026-11-11T11:30:00.000Z",
+    "endTime": "2026-11-11T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T12:00:00.000Z",
+    "title": "CBS Mornings",
+    "overview": "TV host Jack Coyne; Keri Glassman, founder of Nutritious Life.",
+    "released": "2026-11-11T12:00:00.000Z",
+    "startTime": "2026-11-11T12:00:00.000Z",
+    "endTime": "2026-11-11T14:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T14:00:00.000Z",
+    "title": "CBS News 24/7 Mornings",
+    "overview": "",
+    "released": "2026-11-11T14:00:00.000Z",
+    "startTime": "2026-11-11T14:00:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T16:00:00.000Z",
+    "title": "The Price Is Right",
+    "overview": "Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T17:00:00.000Z",
+    "title": "CBS News 24/7",
+    "overview": "Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.",
+    "released": "2026-11-11T17:00:00.000Z",
+    "startTime": "2026-11-11T17:00:00.000Z",
+    "endTime": "2026-11-11T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T17:30:00.000Z",
+    "title": "The Young and the Restless",
+    "overview": "Nikki and Diane back force Daniel to make a tough decision; Mariah and Tessa get back on track; Sharon worries about Nick's sobriety.",
+    "released": "2026-11-11T17:30:00.000Z",
+    "startTime": "2026-11-11T17:30:00.000Z",
+    "endTime": "2026-11-11T18:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T18:30:00.000Z",
+    "title": "The Bold and the Beautiful",
+    "overview": "Ridge learns the truth; Taylor makes a pivotal decision about her future with Deacon.",
+    "released": "2026-11-11T18:30:00.000Z",
+    "startTime": "2026-11-11T18:30:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T19:00:00.000Z",
+    "title": "Beyond the Gates",
+    "overview": "\"Beyond the Gates\" is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Blac",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T20:00:00.000Z",
+    "title": "Let's Make a Deal",
+    "overview": "Contestants in quirky costumes bargain with host Wayne Brady, trading for cash or mystery prizes.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T21:00:00.000Z",
+    "title": "CBS News 24/7",
+    "overview": "Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.",
+    "released": "2026-11-11T21:00:00.000Z",
+    "startTime": "2026-11-11T21:00:00.000Z",
+    "endTime": "2026-11-11T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T22:00:00.000Z",
+    "title": "The Takeout with Major Garrett",
+    "overview": "The Takeout is a new spin on the widely acclaimed podcast hosted by CBS News Chief Washington Correspondent Major Garrett. A daily streaming show that harnesses the best of CBS News's political reporting and lives comfortably in deep discussions of economics, pop culture, sports and technology.",
+    "released": "2026-11-11T22:00:00.000Z",
+    "startTime": "2026-11-11T22:00:00.000Z",
+    "endTime": "2026-11-11T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T23:00:00.000Z",
+    "title": "The Daily Report",
+    "overview": "The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.",
+    "released": "2026-11-11T23:00:00.000Z",
+    "startTime": "2026-11-11T23:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-11T23:30:00.000Z",
+    "title": "CBS Evening News",
+    "overview": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T00:00:00.000Z",
+    "title": "24/7 Primetime",
+    "overview": "Delivering the news you need to know.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T01:00:00.000Z",
+    "title": "Survivor",
+    "overview": "A castaway faces major backlash for loose lips and creating a messy post-merge tribal council; tree mail brings the news to pair up two by two knowing their partner could seal their fate.",
+    "released": "2026-11-12T01:00:00.000Z",
+    "startTime": "2026-11-12T01:00:00.000Z",
+    "endTime": "2026-11-12T02:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T02:30:00.000Z",
+    "title": "The Amazing Race",
+    "overview": "In Vientiane, Laos, a shocking twist shakes up the race and teams hatch a plan with devastating consequences.",
+    "released": "2026-11-12T02:30:00.000Z",
+    "startTime": "2026-11-12T02:30:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T04:00:00.000Z",
+    "title": "CBS Evening News",
+    "overview": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T04:30:00.000Z",
+    "title": "24/7 Primetime",
+    "overview": "Delivering the news you need to know.",
+    "released": "2026-11-12T04:30:00.000Z",
+    "startTime": "2026-11-12T04:30:00.000Z",
+    "endTime": "2026-11-12T04:35:00.000Z",
+    "runtime": "5 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T04:35:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Erica Spera; Ray Harrington; Anyi Malik; T.J. Miller.",
+    "released": "2026-11-12T04:35:00.000Z",
+    "startTime": "2026-11-12T04:35:00.000Z",
+    "endTime": "2026-11-12T05:05:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T05:05:00.000Z",
+    "title": "Comics Unleashed With Byron Allen",
+    "overview": "Subhah Agarwal; Jamie Kaler; Drew Lynch; Dean Edwards.",
+    "released": "2026-11-12T05:05:00.000Z",
+    "startTime": "2026-11-12T05:05:00.000Z",
+    "endTime": "2026-11-12T05:35:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T05:35:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams.",
+    "released": "2026-11-12T05:35:00.000Z",
+    "startTime": "2026-11-12T05:35:00.000Z",
+    "endTime": "2026-11-12T06:05:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T06:05:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Jamie Kennedy; Sheryl Underwood; Billy Gardell; Byron Allen; Caroline Rhea; Jimmie Walker.",
+    "released": "2026-11-12T06:05:00.000Z",
+    "startTime": "2026-11-12T06:05:00.000Z",
+    "endTime": "2026-11-12T06:37:00.000Z",
+    "runtime": "32 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T06:37:00.000Z",
+    "title": "CBS News Roundup",
+    "overview": "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
+    "released": "2026-11-12T06:37:00.000Z",
+    "startTime": "2026-11-12T06:37:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "23 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T07:00:00.000Z",
+    "title": "CBS News Roundup",
+    "overview": "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T09:00:00.000Z",
+    "title": "CBS News Roundup",
+    "overview": "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T10:00:00.000Z",
+    "title": "CBS News Mornings",
+    "overview": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+    "released": "2026-11-12T10:00:00.000Z",
+    "startTime": "2026-11-12T10:00:00.000Z",
+    "endTime": "2026-11-12T10:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T10:30:00.000Z",
+    "title": "CBS News Mornings",
+    "overview": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+    "released": "2026-11-12T10:30:00.000Z",
+    "startTime": "2026-11-12T10:30:00.000Z",
+    "endTime": "2026-11-12T11:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T11:00:00.000Z",
+    "title": "CBS News Mornings",
+    "overview": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+    "released": "2026-11-12T11:00:00.000Z",
+    "startTime": "2026-11-12T11:00:00.000Z",
+    "endTime": "2026-11-12T11:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T11:30:00.000Z",
+    "title": "CBS News Mornings",
+    "overview": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+    "released": "2026-11-12T11:30:00.000Z",
+    "startTime": "2026-11-12T11:30:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T12:00:00.000Z",
+    "title": "CBS Mornings",
+    "overview": "Ed Bastian, Delta CEO; actor Tramell Tillman; immunology researcher Dr. David C. Fajgenbaum; Amazon Books editorial director Sarah Gelman.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T14:00:00.000Z",
+    "title": "CBS News 24/7 Mornings",
+    "overview": "",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T16:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T16:00:00.000Z",
+    "title": "The Price Is Right",
+    "overview": "Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.",
+    "released": "2026-11-12T16:00:00.000Z",
+    "startTime": "2026-11-12T16:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T17:00:00.000Z",
+    "title": "CBS News 24/7",
+    "overview": "Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T17:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T17:30:00.000Z",
+    "title": "The Young and the Restless",
+    "overview": "Victor shares a page from his playbook with Chelsea; Adam shares damaging evidence with Jack; Phyllis gives Nick the third degree about Matt Clark's whereabouts.",
+    "released": "2026-11-12T17:30:00.000Z",
+    "startTime": "2026-11-12T17:30:00.000Z",
+    "endTime": "2026-11-12T18:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T18:30:00.000Z",
+    "title": "The Bold and the Beautiful",
+    "overview": "Katie delivers devastating news to Hope; Bill faces Ridge's fury as tensions explode; Sheila makes a discovery that could change everything.",
+    "released": "2026-11-12T18:30:00.000Z",
+    "startTime": "2026-11-12T18:30:00.000Z",
+    "endTime": "2026-11-12T19:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T19:00:00.000Z",
+    "title": "Beyond the Gates",
+    "overview": "Martin's a man on a mission, with Naomi by his side; Dani keeps her eye on the prize; Chelsea and Kat come to Bill for help; Tomas leaves his lover spurned; Hayley's not buying what Leslie's selling.",
+    "released": "2026-11-12T19:00:00.000Z",
+    "startTime": "2026-11-12T19:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T20:00:00.000Z",
+    "title": "Let's Make a Deal",
+    "overview": "Contestants in quirky costumes bargain with host Wayne Brady, trading for cash or mystery prizes.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T21:00:00.000Z",
+    "title": "CBS News 24/7",
+    "overview": "Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.",
+    "released": "2026-11-12T21:00:00.000Z",
+    "startTime": "2026-11-12T21:00:00.000Z",
+    "endTime": "2026-11-12T22:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T22:00:00.000Z",
+    "title": "The Takeout with Major Garrett",
+    "overview": "The Takeout is a new spin on the widely acclaimed podcast hosted by CBS News Chief Washington Correspondent Major Garrett. A daily streaming show that harnesses the best of CBS News's political reporting and lives comfortably in deep discussions of economics, pop culture, sports and technology.",
+    "released": "2026-11-12T22:00:00.000Z",
+    "startTime": "2026-11-12T22:00:00.000Z",
+    "endTime": "2026-11-12T23:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T23:00:00.000Z",
+    "title": "The Daily Report",
+    "overview": "The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.",
+    "released": "2026-11-12T23:00:00.000Z",
+    "startTime": "2026-11-12T23:00:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-12T23:30:00.000Z",
+    "title": "CBS Evening News",
+    "overview": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-13T00:00:00.000Z",
+    "title": "24/7 Primetime",
+    "overview": "Delivering the news you need to know.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-13T01:00:00.000Z",
+    "title": "Georgie & Mandy's First Marriage",
+    "overview": "Georgie and Ruben butt heads when Georgie crashes Ruben's business class; Mandy encourages Connor to attend his high school reunion.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T01:31:00.000Z",
+    "runtime": "31 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-13T01:31:00.000Z",
+    "title": "Eternally Yours",
+    "overview": "A vampire couple, whose once-passionate romance has devolved into a pulseless marriage after 500 years together, lives in present-day Seattle with their oddball coven.",
+    "released": "2026-11-13T01:31:00.000Z",
+    "startTime": "2026-11-13T01:31:00.000Z",
+    "endTime": "2026-11-13T02:01:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-13T02:01:00.000Z",
+    "title": "Elsbeth",
+    "overview": "When a Coney Island champion dies after a doughnut-eating contest, Elsbeth enters the world of competitive eating, where an eager superfan is a little too hungry for the top spot.",
+    "released": "2026-11-13T02:01:00.000Z",
+    "startTime": "2026-11-13T02:01:00.000Z",
+    "endTime": "2026-11-13T03:00:00.000Z",
+    "runtime": "59 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-13T03:00:00.000Z",
+    "title": "Cupertino",
+    "overview": "Michael and Olivia try to save art and original music by suing an AI-music studio that is releasing copycat songs and negatively impacting legendary rapper Yungwood's streaming revenue; Michael goes up against his dad as opposing counsel.",
+    "released": "2026-11-13T03:00:00.000Z",
+    "startTime": "2026-11-13T03:00:00.000Z",
+    "endTime": "2026-11-13T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758:epg:2026-11-13T04:00:00.000Z",
+    "title": "CBS Evening News",
+    "overview": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+    "released": "2026-11-13T04:00:00.000Z",
+    "startTime": "2026-11-13T04:00:00.000Z",
+    "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

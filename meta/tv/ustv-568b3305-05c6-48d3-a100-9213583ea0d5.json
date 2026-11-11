@@ -1,0 +1,339 @@
+{
+ "meta": {
+  "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5",
+  "type": "tv",
+  "name": "Starz Comedy",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/starz-comedy-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/starz-comedy-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Premium"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T02:40:00.000Z",
+    "title": "The Moon and Back",
+    "overview": "High school senior Lydia Gilbert feels lost after her father's death, until she discovers a space opera script written by him. Equipped with a VHS camera and pocket change, she decides to honor her dad and make the script a reality.",
+    "released": "2026-11-11T02:40:00.000Z",
+    "startTime": "2026-11-11T02:40:00.000Z",
+    "endTime": "2026-11-11T03:56:00.000Z",
+    "runtime": "76 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T03:56:00.000Z",
+    "title": "Boy Eats Girl",
+    "overview": "After declaring his love to his girlfriend, a teenager dies and comes back as a flesh-craving zombie.",
+    "released": "2026-11-11T03:56:00.000Z",
+    "startTime": "2026-11-11T03:56:00.000Z",
+    "endTime": "2026-11-11T05:18:00.000Z",
+    "runtime": "82 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T05:18:00.000Z",
+    "title": "The Lucky Ones",
+    "overview": "Stuck at a closed airport while on leave from Iraq War service, soldiers Colee Dunn (Rachel McAdams), Fred Cheaver (Tim Robbins) and T.K. Poole (Michael Pe\u00f1a) decide to carpool to get to their far-off destinations. Colee wants to visit with her late fianc\u00e9's family, while wounded T.K. longs to see h",
+    "released": "2026-11-11T05:18:00.000Z",
+    "startTime": "2026-11-11T05:18:00.000Z",
+    "endTime": "2026-11-11T07:13:00.000Z",
+    "runtime": "115 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T07:13:00.000Z",
+    "title": "Children on Their Birthdays",
+    "overview": "A 13-year-old (Joe Pichler) develops his first crush while his mother begins a romance with a wholesome mechanic.",
+    "released": "2026-11-11T07:13:00.000Z",
+    "startTime": "2026-11-11T07:13:00.000Z",
+    "endTime": "2026-11-11T09:00:00.000Z",
+    "runtime": "107 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T09:00:00.000Z",
+    "title": "SIGN OFF",
+    "overview": "Sign off.",
+    "released": "2026-11-11T09:00:00.000Z",
+    "startTime": "2026-11-11T09:00:00.000Z",
+    "endTime": "2026-11-11T09:50:00.000Z",
+    "runtime": "50 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T09:50:00.000Z",
+    "title": "At Middleton",
+    "overview": "Though adversaries at first, romantic sparks begin to fly between a surgeon (Andy Garcia) and a retailer (Vera Farmiga) during a college tour with their teenage offspring.",
+    "released": "2026-11-11T09:50:00.000Z",
+    "startTime": "2026-11-11T09:50:00.000Z",
+    "endTime": "2026-11-11T11:32:00.000Z",
+    "runtime": "102 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T11:32:00.000Z",
+    "title": "Dudes & Dragons",
+    "overview": "An evil, jaded wizard makes it his business to rid the realm of love. Now, a brave warrior and his reluctant brother stand between the good people of the world and a fleet of fire-breathing dragons.",
+    "released": "2026-11-11T11:32:00.000Z",
+    "startTime": "2026-11-11T11:32:00.000Z",
+    "endTime": "2026-11-11T13:27:00.000Z",
+    "runtime": "115 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T13:27:00.000Z",
+    "title": "The Brothers Bloom",
+    "overview": "Twenty-five years of swindling people are too much for Bloom, and he wants out of the business. His brother, Stephen, convinces him to work on one final hustle, targeting an eccentric East Coast heiress named Penelope. The con game fails to play out as planned when Bloom falls in love with the irres",
+    "released": "2026-11-11T13:27:00.000Z",
+    "startTime": "2026-11-11T13:27:00.000Z",
+    "endTime": "2026-11-11T15:22:00.000Z",
+    "runtime": "115 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T15:22:00.000Z",
+    "title": "Serendipity",
+    "overview": "On a magical night when they are in their 20s, Jonathan (John Cusack) meets Sara (Kate Beckinsale). He finds it love at first sight, but Sara believes in destiny. After 10 years the two -- with 3,000 miles between them -- must decide if fate wants them to be together again. When love feels like magi",
+    "released": "2026-11-11T15:22:00.000Z",
+    "startTime": "2026-11-11T15:22:00.000Z",
+    "endTime": "2026-11-11T16:54:00.000Z",
+    "runtime": "92 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T16:54:00.000Z",
+    "title": "Ava's Possessions",
+    "overview": "After an exorcism frees her soul, a young woman (Louisa Krause) attends Spirit Possession Anonymous and meets a fellow victim (Whitney Able) who wants her demon back.",
+    "released": "2026-11-11T16:54:00.000Z",
+    "startTime": "2026-11-11T16:54:00.000Z",
+    "endTime": "2026-11-11T18:22:00.000Z",
+    "runtime": "88 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T18:22:00.000Z",
+    "title": "Cooties",
+    "overview": "Elementary-school teachers (Elijah Wood, Alison Pill, Rainn Wilson) come under attack from children who have been turned into vicious monsters by contaminated chicken nuggets.",
+    "released": "2026-11-11T18:22:00.000Z",
+    "startTime": "2026-11-11T18:22:00.000Z",
+    "endTime": "2026-11-11T19:51:00.000Z",
+    "runtime": "89 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T19:51:00.000Z",
+    "title": "Phat Beach",
+    "overview": "A teen Romeo pulls an aspiring-writer pal into his plan to sell cheap sunglasses to Southern California beachgoers.",
+    "released": "2026-11-11T19:51:00.000Z",
+    "startTime": "2026-11-11T19:51:00.000Z",
+    "endTime": "2026-11-11T21:21:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T21:21:00.000Z",
+    "title": "Unhitched",
+    "overview": "When writer's block derails the literary dreams of Olly Pickering (Stuart Townsend), he has to move in with his friend Murray (Seth Green) after losing all his money. Things start to look up when Olly's college pal James (Steve John Shepherd) asks him to be the best man at his wedding. Prior to the ",
+    "released": "2026-11-11T21:21:00.000Z",
+    "startTime": "2026-11-11T21:21:00.000Z",
+    "endTime": "2026-11-11T22:58:00.000Z",
+    "runtime": "97 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-11T22:58:00.000Z",
+    "title": "Serendipity",
+    "overview": "On a magical night when they are in their 20s, Jonathan (John Cusack) meets Sara (Kate Beckinsale). He finds it love at first sight, but Sara believes in destiny. After 10 years the two -- with 3,000 miles between them -- must decide if fate wants them to be together again. When love feels like magi",
+    "released": "2026-11-11T22:58:00.000Z",
+    "startTime": "2026-11-11T22:58:00.000Z",
+    "endTime": "2026-11-12T00:30:00.000Z",
+    "runtime": "92 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T00:30:00.000Z",
+    "title": "The Brothers Bloom",
+    "overview": "Twenty-five years of swindling people are too much for Bloom, and he wants out of the business. His brother, Stephen, convinces him to work on one final hustle, targeting an eccentric East Coast heiress named Penelope. The con game fails to play out as planned when Bloom falls in love with the irres",
+    "released": "2026-11-12T00:30:00.000Z",
+    "startTime": "2026-11-12T00:30:00.000Z",
+    "endTime": "2026-11-12T02:25:00.000Z",
+    "runtime": "115 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T02:25:00.000Z",
+    "title": "Table for Three",
+    "overview": "A jilted man (Brandon Routh) shares his apartment with a seemingly ideal couple (Jesse Bradford, Sophia Bush) who intrude on his life.",
+    "released": "2026-11-12T02:25:00.000Z",
+    "startTime": "2026-11-12T02:25:00.000Z",
+    "endTime": "2026-11-12T03:59:00.000Z",
+    "runtime": "94 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T03:59:00.000Z",
+    "title": "Unhitched",
+    "overview": "When writer's block derails the literary dreams of Olly Pickering (Stuart Townsend), he has to move in with his friend Murray (Seth Green) after losing all his money. Things start to look up when Olly's college pal James (Steve John Shepherd) asks him to be the best man at his wedding. Prior to the ",
+    "released": "2026-11-12T03:59:00.000Z",
+    "startTime": "2026-11-12T03:59:00.000Z",
+    "endTime": "2026-11-12T05:36:00.000Z",
+    "runtime": "97 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T05:36:00.000Z",
+    "title": "The Rules of Attraction",
+    "overview": "Based on the novel by Bret Easton Ellis, \"Rules\" centers around Patrick Bateman's younger brother and his college friends' bizarre mating rituals that mix sex, drugs, music and mayhem in a kaleidoscopic story about three students entangled in a curiously surreal romantic triangle...",
+    "released": "2026-11-12T05:36:00.000Z",
+    "startTime": "2026-11-12T05:36:00.000Z",
+    "endTime": "2026-11-12T07:28:00.000Z",
+    "runtime": "112 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T07:28:00.000Z",
+    "title": "Love and a .45",
+    "overview": "Small-time criminal Watty Watts (Gil Bellows) attempts to rob a convenience store with his drug-addict buddy, Billy Mack Black (Rory Cochrane). The robbery, however, leads to murder, and soon Watty leaves Billy behind and goes on the run with his beloved girlfriend, Starlene (Ren\u00e9e Zellweger). Headi",
+    "released": "2026-11-12T07:28:00.000Z",
+    "startTime": "2026-11-12T07:28:00.000Z",
+    "endTime": "2026-11-12T09:12:00.000Z",
+    "runtime": "104 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T09:12:00.000Z",
+    "title": "Paper Soldiers",
+    "overview": "A rookie thief receives on-the-job training from a crew of bungling burglars.",
+    "released": "2026-11-12T09:12:00.000Z",
+    "startTime": "2026-11-12T09:12:00.000Z",
+    "endTime": "2026-11-12T10:41:00.000Z",
+    "runtime": "89 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T10:41:00.000Z",
+    "title": "The Great Buck Howard",
+    "overview": "Defying his father and dropping out of law school, aspiring writer Troy Gable looks for a way to gain some meaningful life experience. Troy gets that and more when he takes a job with Buck Howard, a vainglorious mentalist who hopes to reinvigorate his fading career by staging a big comeback.",
+    "released": "2026-11-12T10:41:00.000Z",
+    "startTime": "2026-11-12T10:41:00.000Z",
+    "endTime": "2026-11-12T12:12:00.000Z",
+    "runtime": "91 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T12:12:00.000Z",
+    "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+    "overview": "Innocent young black man Ashtray (Shawn Wayans) is forced to move into a tough Los Angeles slum with his family, including his oddly streetwise, pot-smoking grandma (Helen Martin). Before long, Ashtray's nuclear-armed gangster cousin Loc Dog (Marlon Wayans) introduces him to a bizarrely comic crime ",
+    "released": "2026-11-12T12:12:00.000Z",
+    "startTime": "2026-11-12T12:12:00.000Z",
+    "endTime": "2026-11-12T13:42:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T13:42:00.000Z",
+    "title": "Baby on Board",
+    "overview": "A power couple (Jerry O'Connell, Heather Graham) has a surprise pregnancy that throws their lives and careers into a tailspin.",
+    "released": "2026-11-12T13:42:00.000Z",
+    "startTime": "2026-11-12T13:42:00.000Z",
+    "endTime": "2026-11-12T15:18:00.000Z",
+    "runtime": "96 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T15:18:00.000Z",
+    "title": "The Family Fang",
+    "overview": "An actress and her brother investigate the mysterious disappearance of their parents, two performance artists known for their hoaxes.",
+    "released": "2026-11-12T15:18:00.000Z",
+    "startTime": "2026-11-12T15:18:00.000Z",
+    "endTime": "2026-11-12T17:05:00.000Z",
+    "runtime": "107 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T17:05:00.000Z",
+    "title": "Paper Soldiers",
+    "overview": "A rookie thief receives on-the-job training from a crew of bungling burglars.",
+    "released": "2026-11-12T17:05:00.000Z",
+    "startTime": "2026-11-12T17:05:00.000Z",
+    "endTime": "2026-11-12T18:34:00.000Z",
+    "runtime": "89 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T18:34:00.000Z",
+    "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+    "overview": "Innocent young black man Ashtray (Shawn Wayans) is forced to move into a tough Los Angeles slum with his family, including his oddly streetwise, pot-smoking grandma (Helen Martin). Before long, Ashtray's nuclear-armed gangster cousin Loc Dog (Marlon Wayans) introduces him to a bizarrely comic crime ",
+    "released": "2026-11-12T18:34:00.000Z",
+    "startTime": "2026-11-12T18:34:00.000Z",
+    "endTime": "2026-11-12T20:04:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T20:04:00.000Z",
+    "title": "Joyride",
+    "overview": "Three excitement-craving friends get more than they bargained for when they steal a hit woman's automobile.",
+    "released": "2026-11-12T20:04:00.000Z",
+    "startTime": "2026-11-12T20:04:00.000Z",
+    "endTime": "2026-11-12T21:37:00.000Z",
+    "runtime": "93 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T21:37:00.000Z",
+    "title": "Baby on Board",
+    "overview": "A power couple (Jerry O'Connell, Heather Graham) has a surprise pregnancy that throws their lives and careers into a tailspin.",
+    "released": "2026-11-12T21:37:00.000Z",
+    "startTime": "2026-11-12T21:37:00.000Z",
+    "endTime": "2026-11-12T23:13:00.000Z",
+    "runtime": "96 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-12T23:13:00.000Z",
+    "title": "The Family Fang",
+    "overview": "An actress and her brother investigate the mysterious disappearance of their parents, two performance artists known for their hoaxes.",
+    "released": "2026-11-12T23:13:00.000Z",
+    "startTime": "2026-11-12T23:13:00.000Z",
+    "endTime": "2026-11-13T01:00:00.000Z",
+    "runtime": "107 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-13T01:00:00.000Z",
+    "title": "The Great Buck Howard",
+    "overview": "Defying his father and dropping out of law school, aspiring writer Troy Gable looks for a way to gain some meaningful life experience. Troy gets that and more when he takes a job with Buck Howard, a vainglorious mentalist who hopes to reinvigorate his fading career by staging a big comeback.",
+    "released": "2026-11-13T01:00:00.000Z",
+    "startTime": "2026-11-13T01:00:00.000Z",
+    "endTime": "2026-11-13T02:31:00.000Z",
+    "runtime": "91 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-13T02:31:00.000Z",
+    "title": "The Details",
+    "overview": "Seemingly blind to the actual cracks in his marriage, a doctor (Tobey Maguire) blames a family of destructive raccoons for the problems in his home life.",
+    "released": "2026-11-13T02:31:00.000Z",
+    "startTime": "2026-11-13T02:31:00.000Z",
+    "endTime": "2026-11-13T04:14:00.000Z",
+    "runtime": "103 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5:epg:2026-11-13T04:14:00.000Z",
+    "title": "Paper Soldiers",
+    "overview": "A rookie thief receives on-the-job training from a crew of bungling burglars.",
+    "released": "2026-11-13T04:14:00.000Z",
+    "startTime": "2026-11-13T04:14:00.000Z",
+    "endTime": "2026-11-13T05:43:00.000Z",
+    "runtime": "89 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}

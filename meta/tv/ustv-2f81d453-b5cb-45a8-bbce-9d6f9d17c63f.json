@@ -1,0 +1,329 @@
+{
+ "meta": {
+  "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f",
+  "type": "tv",
+  "name": "SEC Network",
+  "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/sec-network-us.png",
+  "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sec-network-us.png",
+  "posterShape": "square",
+  "genres": [
+   "Sports"
+  ],
+  "behaviorHints": {
+   "isLive": true,
+   "hasScheduledVideos": true
+  },
+  "videos": [
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T03:00:00.000Z",
+    "title": "Live: SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-11T03:00:00.000Z",
+    "startTime": "2026-11-11T03:00:00.000Z",
+    "endTime": "2026-11-11T04:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T04:00:00.000Z",
+    "title": "SEC Inside",
+    "overview": "Focuses on a select team and explores previously unaired footage and sounds from game preparation, the sideline and following the final whistle.",
+    "released": "2026-11-11T04:00:00.000Z",
+    "startTime": "2026-11-11T04:00:00.000Z",
+    "endTime": "2026-11-11T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T04:30:00.000Z",
+    "title": "College Football",
+    "overview": "The No. 7 Texas Longhorns (6-2) visit the No. 18 Missouri Tigers (6-2) at Memorial Stadium for an SEC game. Missouri beat Arkansas 34-10 behind two Austin Simmons touchdowns, while Texas seeks three straight wins after beating Mississippi State 31-3.",
+    "released": "2026-11-11T04:30:00.000Z",
+    "startTime": "2026-11-11T04:30:00.000Z",
+    "endTime": "2026-11-11T07:30:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T07:30:00.000Z",
+    "title": "SEC Inside",
+    "overview": "Focuses on a select team and explores previously unaired footage and sounds from game preparation, the sideline and following the final whistle.",
+    "released": "2026-11-11T07:30:00.000Z",
+    "startTime": "2026-11-11T07:30:00.000Z",
+    "endTime": "2026-11-11T08:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T08:00:00.000Z",
+    "title": "College Football",
+    "overview": "The No. 13 Tennessee Volunteers clash with the No. 6 Kentucky Wildcats in an SEC matchup. Tennessee has 39 quarterback hits to defend home turf after five straight rivalry wins, while Kentucky leans on a one-interception record over eight games.",
+    "released": "2026-11-11T08:00:00.000Z",
+    "startTime": "2026-11-11T08:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
+    "runtime": "150 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T10:30:00.000Z",
+    "title": "College Basketball",
+    "overview": "The App State Mountaineers visit the Auburn Tigers for an NCAA Division I game in Alabama. App State rides a two-game win streak with guard Jaylen Colon, and Auburn comes off a 92-59 victory over Southeastern Louisiana with guard Tahaad Pettiford.",
+    "released": "2026-11-11T10:30:00.000Z",
+    "startTime": "2026-11-11T10:30:00.000Z",
+    "endTime": "2026-11-11T12:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T12:30:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-11T12:30:00.000Z",
+    "startTime": "2026-11-11T12:30:00.000Z",
+    "endTime": "2026-11-11T13:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T13:30:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-11T13:30:00.000Z",
+    "startTime": "2026-11-11T13:30:00.000Z",
+    "endTime": "2026-11-11T14:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T14:30:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-11T14:30:00.000Z",
+    "startTime": "2026-11-11T14:30:00.000Z",
+    "endTime": "2026-11-11T15:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T15:30:00.000Z",
+    "title": "SEC Inside",
+    "overview": "Focuses on a select team and explores previously unaired footage and sounds from game preparation, the sideline and following the final whistle.",
+    "released": "2026-11-11T15:30:00.000Z",
+    "startTime": "2026-11-11T15:30:00.000Z",
+    "endTime": "2026-11-11T16:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T16:00:00.000Z",
+    "title": "College Football",
+    "overview": "The No. 21 South Carolina Gamecocks (5-3) host the Texas A&M Aggies at Williams-Brice Stadium. Texas A&M enters off a 31-20 loss to Alabama and relies on Marcel Reed, while South Carolina beat Oklahoma 42-25 behind LaNorris Sellers' three touchdowns.",
+    "released": "2026-11-11T16:00:00.000Z",
+    "startTime": "2026-11-11T16:00:00.000Z",
+    "endTime": "2026-11-11T19:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T19:00:00.000Z",
+    "title": "SEC in 60",
+    "overview": "Every SEC football game of the week in 60 minutes.",
+    "released": "2026-11-11T19:00:00.000Z",
+    "startTime": "2026-11-11T19:00:00.000Z",
+    "endTime": "2026-11-11T20:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T20:00:00.000Z",
+    "title": "Live: The Paul Finebaum Show",
+    "overview": "ESPN Radio's Paul Finebaum shares compelling opinions on SEC football and interacts with passionate callers.",
+    "released": "2026-11-11T20:00:00.000Z",
+    "startTime": "2026-11-11T20:00:00.000Z",
+    "endTime": "2026-11-11T23:30:00.000Z",
+    "runtime": "210 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-11T23:30:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-11T23:30:00.000Z",
+    "startTime": "2026-11-11T23:30:00.000Z",
+    "endTime": "2026-11-12T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T00:00:00.000Z",
+    "title": "Live: Women's College Basketball",
+    "overview": "The South Dakota State Jackrabbits visit the No. 6 Texas Longhorns for an NCAA Division I game. South Dakota State comes off a 76-54 win over UNI with guard Brooklyn Meyer, and Texas aims to build on its recent win with forward Madison Booker.",
+    "released": "2026-11-12T00:00:00.000Z",
+    "startTime": "2026-11-12T00:00:00.000Z",
+    "endTime": "2026-11-12T02:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T02:00:00.000Z",
+    "title": "Live: Women's College Volleyball",
+    "overview": "From Foster Auditorium in Tuscaloosa, Ala.",
+    "released": "2026-11-12T02:00:00.000Z",
+    "startTime": "2026-11-12T02:00:00.000Z",
+    "endTime": "2026-11-12T04:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T04:00:00.000Z",
+    "title": "Live: SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-12T04:00:00.000Z",
+    "startTime": "2026-11-12T04:00:00.000Z",
+    "endTime": "2026-11-12T05:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T05:00:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-12T05:00:00.000Z",
+    "startTime": "2026-11-12T05:00:00.000Z",
+    "endTime": "2026-11-12T06:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T06:00:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-12T06:00:00.000Z",
+    "startTime": "2026-11-12T06:00:00.000Z",
+    "endTime": "2026-11-12T07:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T07:00:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-12T07:00:00.000Z",
+    "startTime": "2026-11-12T07:00:00.000Z",
+    "endTime": "2026-11-12T08:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T08:00:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-12T08:00:00.000Z",
+    "startTime": "2026-11-12T08:00:00.000Z",
+    "endTime": "2026-11-12T09:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T09:00:00.000Z",
+    "title": "College Football",
+    "overview": "The No. 10 Ole Miss Rebels (6-2) host the No. 2 Georgia Bulldogs (7-1) at Vaught-Hemingway Stadium for an SEC matchup. Georgia arrives after a 27-8 victory over Florida behind Nate Frazier, while Ole Miss beat Auburn 45-15, led by Trinidad Chambliss.",
+    "released": "2026-11-12T09:00:00.000Z",
+    "startTime": "2026-11-12T09:00:00.000Z",
+    "endTime": "2026-11-12T12:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T12:00:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-12T12:00:00.000Z",
+    "startTime": "2026-11-12T12:00:00.000Z",
+    "endTime": "2026-11-12T13:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T13:00:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-12T13:00:00.000Z",
+    "startTime": "2026-11-12T13:00:00.000Z",
+    "endTime": "2026-11-12T14:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T14:00:00.000Z",
+    "title": "College Football",
+    "overview": "The Oklahoma Sooners (4-4) visit No. 24 Florida Gators at Ben Hill Griffin Stadium for an SEC clash. Oklahoma fell 42-25 to South Carolina and relies on quarterback John Mateer, while Florida lost 27-8 to Georgia and looks to quarterback Aaron Philo.",
+    "released": "2026-11-12T14:00:00.000Z",
+    "startTime": "2026-11-12T14:00:00.000Z",
+    "endTime": "2026-11-12T17:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T17:00:00.000Z",
+    "title": "College Football",
+    "overview": "The No. 5 Alabama Crimson Tide (6-2) plays the No. 14 LSU Tigers at Tiger Stadium in Baton Rouge. Alabama enters off a 31-20 victory over Texas A&M behind Keelon Russell's three touchdowns. LSU beat Auburn 38-17 behind Sam Leavitt's three touchdowns.",
+    "released": "2026-11-12T17:00:00.000Z",
+    "startTime": "2026-11-12T17:00:00.000Z",
+    "endTime": "2026-11-12T20:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T20:00:00.000Z",
+    "title": "Live: The Paul Finebaum Show",
+    "overview": "ESPN Radio's Paul Finebaum shares compelling opinions on SEC football and interacts with passionate callers.",
+    "released": "2026-11-12T20:00:00.000Z",
+    "startTime": "2026-11-12T20:00:00.000Z",
+    "endTime": "2026-11-12T21:30:00.000Z",
+    "runtime": "90 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T21:30:00.000Z",
+    "title": "Live: Women's College Soccer",
+    "overview": "From Ashton Brosnaham Park in Pensacola, Fla.",
+    "released": "2026-11-12T21:30:00.000Z",
+    "startTime": "2026-11-12T21:30:00.000Z",
+    "endTime": "2026-11-12T23:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-12T23:30:00.000Z",
+    "title": "SEC Now",
+    "overview": "News and information, hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day.",
+    "released": "2026-11-12T23:30:00.000Z",
+    "startTime": "2026-11-12T23:30:00.000Z",
+    "endTime": "2026-11-13T00:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-13T00:00:00.000Z",
+    "title": "Live: Women's College Soccer",
+    "overview": "From Ashton Brosnaham Park in Pensacola, Fla.",
+    "released": "2026-11-13T00:00:00.000Z",
+    "startTime": "2026-11-13T00:00:00.000Z",
+    "endTime": "2026-11-13T02:00:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f:epg:2026-11-13T02:00:00.000Z",
+    "title": "College Football",
+    "overview": "The Tigers (4-2, 2-4 SEC) step off the Top 25 train to host the Razorbacks (3-5, 1-4). Auburn has played four straight ranked teams, going 1-3 with a 27-24 triumph at then-No. 1 Georgia. Auburn leads the series 21-13-1 after winning 33-24 in 2025.",
+    "released": "2026-11-13T02:00:00.000Z",
+    "startTime": "2026-11-13T02:00:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
+   }
+  ]
+ }
+}
