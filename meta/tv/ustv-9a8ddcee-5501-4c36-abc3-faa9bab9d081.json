@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T03:00:00.000Z",
-    "title": "Hawaii Five-0",
-    "overview": "The team investigates the theft of high-tech indestructible suits made for the military  Jerry and his sister try to save a captive elephant.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T04:00:00.000Z",
-    "runtime": "60 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T04:00:00.000Z",
     "title": "Hawaii Five-0",
     "overview": "When a deliberate chemical spill enables six dangerous inmates to escape, the team goes on an intensive manhunt to find them.",
@@ -81,6 +71,16 @@
     "released": "2026-11-11T09:00:00.000Z",
     "startTime": "2026-11-11T09:00:00.000Z",
     "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T10:00:00.000Z",
+    "title": "MacGyver",
+    "overview": "The Phoenix must recover the body of a pilot whose plane crashed while testing an experimental laser mapping system that MacGyver designed  Riley tries to identify the hacker who tricked a SWAT team into arresting her and Elwood.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
     "runtime": "60 min",
     "releaseInfo": "2026"
    }

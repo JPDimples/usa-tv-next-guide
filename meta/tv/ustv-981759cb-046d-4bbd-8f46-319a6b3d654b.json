@@ -33,6 +33,16 @@
     "endTime": "2026-11-11T10:00:00.000Z",
     "runtime": "120 min",
     "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-981759cb-046d-4bbd-8f46-319a6b3d654b:epg:2026-11-11T10:00:00.000Z",
+    "title": "FOX Weather",
+    "overview": "Waking up at 5am to the first national forecast of the day  all the latest weather news and everything one needs to prepare for the day ahead.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T13:00:00.000Z",
+    "runtime": "180 min",
+    "releaseInfo": "2026"
    }
   ]
  }

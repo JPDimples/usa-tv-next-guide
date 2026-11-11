@@ -1200,36 +1200,6 @@
    },
    "videos": [
     {
-     "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T03:00:00.000Z",
-     "title": "Newsday",
-     "overview": "International news from London and Singapore.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
-     "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T03:30:00.000Z",
-     "title": "Business Today",
-     "overview": "Bringing the relevant business news and up-to-date informed analysis from Singapore and around the world.",
-     "released": "2026-11-11T03:30:00.000Z",
-     "startTime": "2026-11-11T03:30:00.000Z",
-     "endTime": "2026-11-11T03:45:00.000Z",
-     "runtime": "15 min",
-     "releaseInfo": "2026"
-    },
-    {
-     "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T03:45:00.000Z",
-     "title": "Asia Specific",
-     "overview": "Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.",
-     "released": "2026-11-11T03:45:00.000Z",
-     "startTime": "2026-11-11T03:45:00.000Z",
-     "endTime": "2026-11-11T04:00:00.000Z",
-     "runtime": "15 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T04:00:00.000Z",
      "title": "Newsday",
      "overview": "International news from London and Singapore.",
@@ -1366,6 +1336,36 @@
      "released": "2026-11-11T09:00:00.000Z",
      "startTime": "2026-11-11T09:00:00.000Z",
      "endTime": "2026-11-11T09:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T09:30:00.000Z",
+     "title": "BBC News",
+     "overview": "Twenty-four hours a day, the latest national and international stories as they break.",
+     "released": "2026-11-11T09:30:00.000Z",
+     "startTime": "2026-11-11T09:30:00.000Z",
+     "endTime": "2026-11-11T09:55:00.000Z",
+     "runtime": "25 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T09:55:00.000Z",
+     "title": "Tech Now",
+     "overview": "Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled  Nick Kwek is at the Imperial War Museum in London to hear how survivor stories are brought to life.",
+     "released": "2026-11-11T09:55:00.000Z",
+     "startTime": "2026-11-11T09:55:00.000Z",
+     "endTime": "2026-11-11T10:00:00.000Z",
+     "runtime": "5 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T10:00:00.000Z",
+     "title": "BBC News",
+     "overview": "Twenty-four hours a day, the latest national and international stories as they break.",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T10:30:00.000Z",
      "runtime": "30 min",
      "releaseInfo": "2026"
     }
@@ -2617,6 +2617,16 @@
      "endTime": "2026-11-11T10:00:00.000Z",
      "runtime": "120 min",
      "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-981759cb-046d-4bbd-8f46-319a6b3d654b:epg:2026-11-11T10:00:00.000Z",
+     "title": "FOX Weather",
+     "overview": "Waking up at 5am to the first national forecast of the day  all the latest weather news and everything one needs to prepare for the day ahead.",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T13:00:00.000Z",
+     "runtime": "180 min",
+     "releaseInfo": "2026"
     }
    ]
   },
@@ -3841,26 +3851,6 @@
    },
    "videos": [
     {
-     "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a:epg:2026-11-11T03:00:00.000Z",
-     "title": "This Is Paris",
-     "overview": "Keep up on all the latest news about PSG and its current and rising stars.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
-     "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a:epg:2026-11-11T03:30:00.000Z",
-     "title": "Ligue 1 Highlight Show",
-     "overview": "Highlights from recent matches in France's top division.",
-     "released": "2026-11-11T03:30:00.000Z",
-     "startTime": "2026-11-11T03:30:00.000Z",
-     "endTime": "2026-11-11T04:00:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a:epg:2026-11-11T04:00:00.000Z",
      "title": "90IN30",
      "overview": "A summary of the best moments of the match in 30 minutes.",
@@ -3927,6 +3917,16 @@
      "released": "2026-11-11T09:00:00.000Z",
      "startTime": "2026-11-11T09:00:00.000Z",
      "endTime": "2026-11-11T10:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a:epg:2026-11-11T10:00:00.000Z",
+     "title": "2026 Pro Footvolley Tour",
+     "overview": "Shake the winter blues on sun-kissed Hollywood Beach with this exciting hybrid of Soccer & Volleyball.",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T11:00:00.000Z",
      "runtime": "60 min",
      "releaseInfo": "2026"
     }
@@ -4659,26 +4659,6 @@
    },
    "videos": [
     {
-     "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T02:45:00.000Z",
-     "title": "Best of Wake Up Barstool",
-     "overview": "Outspoken and unfiltered takes on some of the biggest stories in sports, featuring Dave Portnoy and the Barstool crew.",
-     "released": "2026-11-11T02:45:00.000Z",
-     "startTime": "2026-11-11T02:45:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "45 min",
-     "releaseInfo": "2026"
-    },
-    {
-     "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T03:30:00.000Z",
-     "title": "The Herd With Colin Cowherd",
-     "overview": "A thought-provoking, opinionated and topic-driven journey through the top sports stories of the day with host Colin Cowherd.",
-     "released": "2026-11-11T03:30:00.000Z",
-     "startTime": "2026-11-11T03:30:00.000Z",
-     "endTime": "2026-11-11T04:00:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T04:00:00.000Z",
      "title": "First Things First",
      "overview": "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
@@ -4765,6 +4745,16 @@
      "released": "2026-11-11T09:00:00.000Z",
      "startTime": "2026-11-11T09:00:00.000Z",
      "endTime": "2026-11-11T10:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T10:00:00.000Z",
+     "title": "The Game That Changed Everything: Yankees vs. Red Sox Sox '04 ALCS",
+     "overview": "A look back at the exciting 2004 ALCS matchup between bitter rivals the Yankees and the Red Sox, which featured Boston's historic comeback and led to the end of the team's World Series curse.",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T11:00:00.000Z",
      "runtime": "60 min",
      "releaseInfo": "2026"
     }
@@ -7360,26 +7350,6 @@
    },
    "videos": [
     {
-     "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T03:00:00.000Z",
-     "title": "Card Sharks",
-     "overview": "Contestants vie for money and prizes with playing cards.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
-     "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T03:30:00.000Z",
-     "title": "Card Sharks",
-     "overview": "Contestants vie for money and prizes with playing cards.",
-     "released": "2026-11-11T03:30:00.000Z",
-     "startTime": "2026-11-11T03:30:00.000Z",
-     "endTime": "2026-11-11T04:00:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T04:00:00.000Z",
      "title": "Body Language",
      "overview": "Two teams, each consisting of a contestant and a celebrity guest, compete in a game of charades to guess clue words for a puzzle.",
@@ -7456,6 +7426,26 @@
      "released": "2026-11-11T09:00:00.000Z",
      "startTime": "2026-11-11T09:00:00.000Z",
      "endTime": "2026-11-11T09:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T09:30:00.000Z",
+     "title": "Temptation",
+     "overview": "Host Rossi Morreale welcomes three contestants who accumulate cash winnings by correctly answering a series of questions about pop culture and current events. At the end of each show, the winner is the player who has ammassed the most money, but throughout the game contestants are tempted to use the",
+     "released": "2026-11-11T09:30:00.000Z",
+     "startTime": "2026-11-11T09:30:00.000Z",
+     "endTime": "2026-11-11T10:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T10:00:00.000Z",
+     "title": "Temptation",
+     "overview": "Host Rossi Morreale welcomes three contestants who accumulate cash winnings by correctly answering a series of questions about pop culture and current events. At the end of each show, the winner is the player who has ammassed the most money, but throughout the game contestants are tempted to use the",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T10:30:00.000Z",
      "runtime": "30 min",
      "releaseInfo": "2026"
     }
@@ -9389,16 +9379,6 @@
    },
    "videos": [
     {
-     "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T03:00:00.000Z",
-     "title": "Chicago Fire",
-     "overview": "Novak explores a new romantic connection  Vasquez deals with the aftermath of his father's recent release.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T04:00:00.000Z",
-     "runtime": "60 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T04:00:00.000Z",
      "title": "Chicago Fire",
      "overview": "Herrmann grows uneasy when a local accident attorney inserts himself into a routine call  Firehouse 51 gets a visitor.",
@@ -9457,6 +9437,16 @@
      "endTime": "2026-11-11T10:00:00.000Z",
      "runtime": "60 min",
      "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T10:00:00.000Z",
+     "title": "The Listener",
+     "overview": "After witnessing the death of an MMA fighter, Toby looks into the business dealings of two rival leagues.",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T11:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
     }
    ]
   },
@@ -9475,16 +9465,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T03:00:00.000Z",
-     "title": "Hawaii Five-0",
-     "overview": "The team investigates the theft of high-tech indestructible suits made for the military  Jerry and his sister try to save a captive elephant.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T04:00:00.000Z",
-     "runtime": "60 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T04:00:00.000Z",
      "title": "Hawaii Five-0",
@@ -9542,6 +9522,16 @@
      "released": "2026-11-11T09:00:00.000Z",
      "startTime": "2026-11-11T09:00:00.000Z",
      "endTime": "2026-11-11T10:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081:epg:2026-11-11T10:00:00.000Z",
+     "title": "MacGyver",
+     "overview": "The Phoenix must recover the body of a pilot whose plane crashed while testing an experimental laser mapping system that MacGyver designed  Riley tries to identify the hacker who tricked a SWAT team into arresting her and Elwood.",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T11:00:00.000Z",
      "runtime": "60 min",
      "releaseInfo": "2026"
     }
@@ -13687,16 +13677,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T02:27:00.000Z",
-     "title": "The Gilded Age",
-     "overview": "Bertha returns to a frosty household, Peggy's career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.",
-     "released": "2026-11-11T02:27:00.000Z",
-     "startTime": "2026-11-11T02:27:00.000Z",
-     "endTime": "2026-11-11T03:21:00.000Z",
-     "runtime": "54 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d:epg:2026-11-11T03:21:00.000Z",
      "title": "The Invite",
@@ -26890,16 +26870,6 @@
    },
    "videos": [
     {
-     "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T03:00:00.000Z",
-     "title": "100 latinos dijeron",
-     "overview": "Dos familias competir\u00e1n respondiendo a distintas preguntas por la oportunidad de ganar dinero basado en las respuestas m\u00e1s populares, de acuerdo a las previamente respondidas por 100 latinos alrededor de Estados Unidos.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T04:00:00.000Z",
-     "runtime": "60 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T04:00:00.000Z",
      "title": "Tengo talento, mucho talento",
      "overview": "Grandes artistas hispanos muestran su talento frente a famosos jueces, pero al final ser\u00e1 el p\u00fablico quien consagre al ganador.",
@@ -26947,6 +26917,16 @@
      "startTime": "2026-11-11T08:00:00.000Z",
      "endTime": "2026-11-11T10:00:00.000Z",
      "runtime": "120 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T10:00:00.000Z",
+     "title": "Retofamosos",
+     "overview": "Seis famosos son reunidos en una azotea para enfrentar los retos m\u00e1s atrevidos, graciosos, chuscos y hasta arriesgados en donde el glamour y la fama se quedan atr\u00e1s para dar paso a la diversi\u00f3n y el buen humor.",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T11:00:00.000Z",
+     "runtime": "60 min",
      "releaseInfo": "2026"
     }
    ]

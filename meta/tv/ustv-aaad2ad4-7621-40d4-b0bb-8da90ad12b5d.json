@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T03:00:00.000Z",
-    "title": "Chicago Fire",
-    "overview": "Novak explores a new romantic connection  Vasquez deals with the aftermath of his father's recent release.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T04:00:00.000Z",
-    "runtime": "60 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T04:00:00.000Z",
     "title": "Chicago Fire",
     "overview": "Herrmann grows uneasy when a local accident attorney inserts himself into a routine call  Firehouse 51 gets a visitor.",
@@ -81,6 +71,16 @@
     "released": "2026-11-11T09:00:00.000Z",
     "startTime": "2026-11-11T09:00:00.000Z",
     "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d:epg:2026-11-11T10:00:00.000Z",
+    "title": "The Listener",
+    "overview": "After witnessing the death of an MMA fighter, Toby looks into the business dealings of two rival leagues.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
     "runtime": "60 min",
     "releaseInfo": "2026"
    }

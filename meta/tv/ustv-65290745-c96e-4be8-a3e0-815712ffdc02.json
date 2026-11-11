@@ -15,36 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T03:00:00.000Z",
-    "title": "Newsday",
-    "overview": "International news from London and Singapore.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
-    "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T03:30:00.000Z",
-    "title": "Business Today",
-    "overview": "Bringing the relevant business news and up-to-date informed analysis from Singapore and around the world.",
-    "released": "2026-11-11T03:30:00.000Z",
-    "startTime": "2026-11-11T03:30:00.000Z",
-    "endTime": "2026-11-11T03:45:00.000Z",
-    "runtime": "15 min",
-    "releaseInfo": "2026"
-   },
-   {
-    "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T03:45:00.000Z",
-    "title": "Asia Specific",
-    "overview": "Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.",
-    "released": "2026-11-11T03:45:00.000Z",
-    "startTime": "2026-11-11T03:45:00.000Z",
-    "endTime": "2026-11-11T04:00:00.000Z",
-    "runtime": "15 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T04:00:00.000Z",
     "title": "Newsday",
     "overview": "International news from London and Singapore.",
@@ -181,6 +151,36 @@
     "released": "2026-11-11T09:00:00.000Z",
     "startTime": "2026-11-11T09:00:00.000Z",
     "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T09:30:00.000Z",
+    "title": "BBC News",
+    "overview": "Twenty-four hours a day, the latest national and international stories as they break.",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T09:55:00.000Z",
+    "runtime": "25 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T09:55:00.000Z",
+    "title": "Tech Now",
+    "overview": "Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled  Nick Kwek is at the Imperial War Museum in London to hear how survivor stories are brought to life.",
+    "released": "2026-11-11T09:55:00.000Z",
+    "startTime": "2026-11-11T09:55:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "5 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02:epg:2026-11-11T10:00:00.000Z",
+    "title": "BBC News",
+    "overview": "Twenty-four hours a day, the latest national and international stories as they break.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

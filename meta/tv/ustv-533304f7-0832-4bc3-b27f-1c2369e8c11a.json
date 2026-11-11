@@ -15,26 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a:epg:2026-11-11T03:00:00.000Z",
-    "title": "This Is Paris",
-    "overview": "Keep up on all the latest news about PSG and its current and rising stars.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
-    "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a:epg:2026-11-11T03:30:00.000Z",
-    "title": "Ligue 1 Highlight Show",
-    "overview": "Highlights from recent matches in France's top division.",
-    "released": "2026-11-11T03:30:00.000Z",
-    "startTime": "2026-11-11T03:30:00.000Z",
-    "endTime": "2026-11-11T04:00:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a:epg:2026-11-11T04:00:00.000Z",
     "title": "90IN30",
     "overview": "A summary of the best moments of the match in 30 minutes.",
@@ -101,6 +81,16 @@
     "released": "2026-11-11T09:00:00.000Z",
     "startTime": "2026-11-11T09:00:00.000Z",
     "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a:epg:2026-11-11T10:00:00.000Z",
+    "title": "2026 Pro Footvolley Tour",
+    "overview": "Shake the winter blues on sun-kissed Hollywood Beach with this exciting hybrid of Soccer & Volleyball.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
     "runtime": "60 min",
     "releaseInfo": "2026"
    }

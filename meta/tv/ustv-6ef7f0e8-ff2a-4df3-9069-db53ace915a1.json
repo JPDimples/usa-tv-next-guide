@@ -15,26 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T03:00:00.000Z",
-    "title": "Card Sharks",
-    "overview": "Contestants vie for money and prizes with playing cards.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
-    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T03:30:00.000Z",
-    "title": "Card Sharks",
-    "overview": "Contestants vie for money and prizes with playing cards.",
-    "released": "2026-11-11T03:30:00.000Z",
-    "startTime": "2026-11-11T03:30:00.000Z",
-    "endTime": "2026-11-11T04:00:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T04:00:00.000Z",
     "title": "Body Language",
     "overview": "Two teams, each consisting of a contestant and a celebrity guest, compete in a game of charades to guess clue words for a puzzle.",
@@ -111,6 +91,26 @@
     "released": "2026-11-11T09:00:00.000Z",
     "startTime": "2026-11-11T09:00:00.000Z",
     "endTime": "2026-11-11T09:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T09:30:00.000Z",
+    "title": "Temptation",
+    "overview": "Host Rossi Morreale welcomes three contestants who accumulate cash winnings by correctly answering a series of questions about pop culture and current events. At the end of each show, the winner is the player who has ammassed the most money, but throughout the game contestants are tempted to use the",
+    "released": "2026-11-11T09:30:00.000Z",
+    "startTime": "2026-11-11T09:30:00.000Z",
+    "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1:epg:2026-11-11T10:00:00.000Z",
+    "title": "Temptation",
+    "overview": "Host Rossi Morreale welcomes three contestants who accumulate cash winnings by correctly answering a series of questions about pop culture and current events. At the end of each show, the winner is the player who has ammassed the most money, but throughout the game contestants are tempted to use the",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T10:30:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

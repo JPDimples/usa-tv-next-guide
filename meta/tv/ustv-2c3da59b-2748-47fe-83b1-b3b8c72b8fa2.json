@@ -15,26 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T02:45:00.000Z",
-    "title": "Best of Wake Up Barstool",
-    "overview": "Outspoken and unfiltered takes on some of the biggest stories in sports, featuring Dave Portnoy and the Barstool crew.",
-    "released": "2026-11-11T02:45:00.000Z",
-    "startTime": "2026-11-11T02:45:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "45 min",
-    "releaseInfo": "2026"
-   },
-   {
-    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T03:30:00.000Z",
-    "title": "The Herd With Colin Cowherd",
-    "overview": "A thought-provoking, opinionated and topic-driven journey through the top sports stories of the day with host Colin Cowherd.",
-    "released": "2026-11-11T03:30:00.000Z",
-    "startTime": "2026-11-11T03:30:00.000Z",
-    "endTime": "2026-11-11T04:00:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T04:00:00.000Z",
     "title": "First Things First",
     "overview": "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
@@ -121,6 +101,16 @@
     "released": "2026-11-11T09:00:00.000Z",
     "startTime": "2026-11-11T09:00:00.000Z",
     "endTime": "2026-11-11T10:00:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2:epg:2026-11-11T10:00:00.000Z",
+    "title": "The Game That Changed Everything: Yankees vs. Red Sox Sox '04 ALCS",
+    "overview": "A look back at the exciting 2004 ALCS matchup between bitter rivals the Yankees and the Red Sox, which featured Boston's historic comeback and led to the end of the team's World Series curse.",
+    "released": "2026-11-11T10:00:00.000Z",
+    "startTime": "2026-11-11T10:00:00.000Z",
+    "endTime": "2026-11-11T11:00:00.000Z",
     "runtime": "60 min",
     "releaseInfo": "2026"
    }
