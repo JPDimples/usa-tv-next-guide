@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T02:55:00.000Z",
-    "title": "Everybody Loves Raymond",
-    "overview": "The sight of Robert's ex-wife prompts the family to reminisce about the demise of the marriage.",
-    "released": "2026-11-11T02:55:00.000Z",
-    "startTime": "2026-11-11T02:55:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "35 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T03:30:00.000Z",
     "title": "Everybody Loves Raymond",
     "overview": "Marie surprises the entire family with a two-week vacation in Italy, but for Ray, it's two weeks too long.",
@@ -861,6 +851,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-13T04:30:00.000Z",
+    "title": "The King of Queens",
+    "overview": "Doug's (Kevin James) parents bowl him over with an important request while on a brief layover in New York.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

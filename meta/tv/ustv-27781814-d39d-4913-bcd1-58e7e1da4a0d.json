@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-27781814-d39d-4913-bcd1-58e7e1da4a0d:epg:2026-11-11T03:00:00.000Z",
-    "title": "Live: NY Knicks Post Game",
-    "overview": "Review of the New York Knicks game.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-27781814-d39d-4913-bcd1-58e7e1da4a0d:epg:2026-11-11T03:30:00.000Z",
     "title": "Knicks in Five: The Dream Season",
     "overview": "",

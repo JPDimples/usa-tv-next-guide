@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T03:00:00.000Z",
-    "title": "Hawaii Life",
-    "overview": "A police dispatcher with low spirits hopes that living near the warm waters of Maui will help cleanse her of the chaos.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T03:30:00.000Z",
     "title": "Hawaii Life",
     "overview": "An artist seeks a place on Maui to start a farm.",
@@ -951,6 +941,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-13T04:30:00.000Z",
+    "title": "Island Life",
+    "overview": "With her two kids out of the house, an empty nester is packing up her life and moving to Ventnor City, N.J.; she wants to downsize with a home that's close to the beach and boardwalk so she can enjoy the entertainment.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

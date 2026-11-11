@@ -1,6 +1,6 @@
 {
   "id": "community.usa-tv-next-guide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "USA TV Next Guide",
   "description": "USA TV Next channels with a native Stremio TV guide \u2014 what's on now and next, in real time. Companion to the usa-tv-next addon: same channels and streams, plus programme schedules. 104 watchable channels.",
   "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logo.png",

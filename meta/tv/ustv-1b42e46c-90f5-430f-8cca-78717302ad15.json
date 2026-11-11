@@ -663,6 +663,16 @@
     "endTime": "2026-11-13T04:30:00.000Z",
     "runtime": "60 min",
     "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15:epg:2026-11-13T04:30:00.000Z",
+    "title": "The Association: Postgame",
+    "overview": "The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
    }
   ]
  }

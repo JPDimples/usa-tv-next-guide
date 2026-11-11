@@ -2646,16 +2646,6 @@
    },
    "videos": [
     {
-     "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T03:00:00.000Z",
-     "title": "Forensic Files",
-     "overview": "When a single mother is murdered, her brother vows to find the person responsible for the death of his sister, even if it takes more than 30 years.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T03:30:00.000Z",
      "title": "Forensic Files",
      "overview": "A husband and wife get shot, and their 16-year-old daughter manages to escape, but investigators suspect she may be involved in the murder.",
@@ -3948,16 +3938,6 @@
    },
    "videos": [
     {
-     "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-11T01:30:00.000Z",
-     "title": "Live: College Basketball",
-     "overview": "The Fairfield Stags visit the Wisconsin Badgers for an NCAA Division I game in Madison. Fairfield comes off a 68-59 win over Bryant alongside guard Declan Wucherpfennig, and Wisconsin rides a two-game win streak with guard Eian Elmer at Kohl Center.",
-     "released": "2026-11-11T01:30:00.000Z",
-     "startTime": "2026-11-11T01:30:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "120 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436:epg:2026-11-11T03:30:00.000Z",
      "title": "Live: Women's College Basketball",
      "overview": "The Charleston Cougars visit the No. 3 USC Trojans for an NCAA Division I game in California. Charleston comes off a 92-43 victory over Berry alongside forward Dakara Merthie, and USC enters with a 100-68 win over UNLV with guard Jazzy Davidson.",
@@ -5209,16 +5189,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-27781814-d39d-4913-bcd1-58e7e1da4a0d:epg:2026-11-11T03:00:00.000Z",
-     "title": "Live: NY Knicks Post Game",
-     "overview": "Review of the New York Knicks game.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-27781814-d39d-4913-bcd1-58e7e1da4a0d:epg:2026-11-11T03:30:00.000Z",
      "title": "Knicks in Five: The Dream Season",
@@ -7113,16 +7083,6 @@
    },
    "videos": [
     {
-     "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T02:30:00.000Z",
-     "title": "The Real Housewives of Potomac",
-     "overview": "Ashley takes the ladies back to the Delaware shore a decade later, where they immediately make waves; Wendy shocks the ladies with a revelation about Stacey, and Monique confronts Karen about her lack of support during her divorce; Ashley and Courtney have a night out on the town where the good time",
-     "released": "2026-11-11T02:30:00.000Z",
-     "startTime": "2026-11-11T02:30:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "60 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911:epg:2026-11-11T03:30:00.000Z",
      "title": "The Real Housewives of New York City",
      "overview": "The laughs are short-lived at a comedy show when Daisy confronts Erika; Jessel hears that Erin is still talking about Pavit; Hailey contemplates a major life change; Sai questions one of her longest-standing friendships.",
@@ -7970,16 +7930,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T03:00:00.000Z",
-     "title": "Funny You Should Ask",
-     "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T03:30:00.000Z",
      "title": "Funny You Should Ask",
@@ -8942,16 +8892,6 @@
    },
    "videos": [
     {
-     "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T03:00:00.000Z",
-     "title": "Two and a Half Men",
-     "overview": "After taking a loan from Evelyn, Alan is guilted into double-dating with her, her new romantic interest and his daughter.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T03:30:00.000Z",
      "title": "Two and a Half Men",
      "overview": "Alan is reluctant to leave Jake with Evelyn for a sleepover visit until he finds himself partying with Charlie and a busload of beautiful female volleyball players.",
@@ -9819,16 +9759,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T03:00:00.000Z",
-     "title": "Forensic Files",
-     "overview": "In a wealthy area of Philadelphia, police are called to the scene of what seems like a regular accidental drowning; the investigation begins to focus on one person who has many reasons to want the victim dead.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8:epg:2026-11-11T03:30:00.000Z",
      "title": "Forensic Files",
@@ -11125,16 +11055,6 @@
    },
    "videos": [
     {
-     "id": "ustv-3e8788a9-bd9f-4dc2-966b-7d4533174493:epg:2026-11-11T03:00:00.000Z",
-     "title": "The Big Bang Theory",
-     "overview": "When Leonard receives an exciting opportunity to work overseas, Penny and Sheldon are thrown for a loop.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-3e8788a9-bd9f-4dc2-966b-7d4533174493:epg:2026-11-11T03:30:00.000Z",
      "title": "The Big Bang Theory",
      "overview": "Sheldon and Penny share secrets while Leonard is away; Wolowitz helps Raj get over his ex.",
@@ -12223,16 +12143,6 @@
    },
    "videos": [
     {
-     "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T02:55:00.000Z",
-     "title": "Everybody Loves Raymond",
-     "overview": "The sight of Robert's ex-wife prompts the family to reminisce about the demise of the marriage.",
-     "released": "2026-11-11T02:55:00.000Z",
-     "startTime": "2026-11-11T02:55:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "35 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93:epg:2026-11-11T03:30:00.000Z",
      "title": "Everybody Loves Raymond",
      "overview": "Marie surprises the entire family with a two-week vacation in Italy, but for Ray, it's two weeks too long.",
@@ -12589,16 +12499,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T03:00:00.000Z",
-     "title": "Living Single",
-     "overview": "Max accidentally gives Khadijah a depressant instead of aspirin before her big date with NBA star Cedric Ceballos.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T03:30:00.000Z",
      "title": "Living Single",
@@ -13193,16 +13093,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T03:00:00.000Z",
-     "title": "Cornette Side of the Ring",
-     "overview": "Jim Cornette examines the WWF's attempt to turn its biggest star, Stone Cold Steve Austin, heel, and details the catastrophe that was the WCW Invasion storyline.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8:epg:2026-11-11T03:30:00.000Z",
      "title": "Cornette Side of the Ring",
@@ -14008,16 +13898,6 @@
    },
    "videos": [
     {
-     "id": "ustv-04137863-2391-4ec8-8e4d-d82946162ee1:epg:2026-11-11T02:35:00.000Z",
-     "title": "Tell Me You Love Me",
-     "overview": "Katie and Dave get a rare night alone; Hugo's reappearance jeopardizes Jamie's new relationship; Palek and Carolyn change homes.",
-     "released": "2026-11-11T02:35:00.000Z",
-     "startTime": "2026-11-11T02:35:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "55 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-04137863-2391-4ec8-8e4d-d82946162ee1:epg:2026-11-11T03:30:00.000Z",
      "title": "Tell Me You Love Me",
      "overview": "Dave and Katie debate the value of continued therapy; Palek worries about losing his identity; Nick spends more time at Jamie's house.",
@@ -14695,16 +14575,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-11T03:00:00.000Z",
-     "title": "Find Me a Luxury Home",
-     "overview": "A selection of super-rich house hunters go in search of the perfect luxury home; they are willing to invest millions into high-end real estate.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920:epg:2026-11-11T03:30:00.000Z",
      "title": "Top Million Dollar Agent",
@@ -15747,16 +15617,6 @@
    },
    "videos": [
     {
-     "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T03:00:00.000Z",
-     "title": "Hawaii Life",
-     "overview": "A police dispatcher with low spirits hopes that living near the warm waters of Maui will help cleanse her of the chaos.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe:epg:2026-11-11T03:30:00.000Z",
      "title": "Hawaii Life",
      "overview": "An artist seeks a place on Maui to start a farm.",
@@ -16406,16 +16266,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T03:00:00.000Z",
-     "title": "Drury's Thirteen",
-     "overview": "Phase Eight: Desperately Seeking follows Terry Drury's Missouri gun camp as Lucille and Cameron Drury look to fill their tags.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T03:30:00.000Z",
      "title": "Critical Mass",
@@ -17475,16 +17325,6 @@
    },
    "videos": [
     {
-     "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T03:15:00.000Z",
-     "title": "Clarence",
-     "overview": "Jeff must overcome his germ phobias when Clarence and Sumo steal his french fries.",
-     "released": "2026-11-11T03:15:00.000Z",
-     "startTime": "2026-11-11T03:15:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "15 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T03:30:00.000Z",
      "title": "Clarence",
      "overview": "Clarence, Jeff and Sumo try to have fun at the arcade with only a dollar to spend.",
@@ -18341,16 +18181,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T03:00:00.000Z",
-     "title": "Family Guy",
-     "overview": "Chris and Jerome's daughter, Pam, run away together when Jerome forbids their relationship.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T03:30:00.000Z",
      "title": "Family Guy",
@@ -19456,16 +19286,6 @@
    },
    "videos": [
     {
-     "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T03:00:00.000Z",
-     "title": "Big City Greens",
-     "overview": "Bill and Cricket follow clues from Cricket's dream to search the woods for the perfect Christmas tree; Tilly catches ennui, so Cricket tries to cheer her up.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T03:30:00.000Z",
      "title": "Kiff",
      "overview": "Kiff finally meets her mom's old college friends.",
@@ -19832,16 +19652,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T03:05:00.000Z",
-     "title": "Bluey",
-     "overview": "Rusty interrupts Bluey's game at playgroup; Doctor Bluey operates on a cat in Dad's tummy; Bluey misses Mum when she goes out for the night.",
-     "released": "2026-11-11T03:05:00.000Z",
-     "startTime": "2026-11-11T03:05:00.000Z",
-     "endTime": "2026-11-11T03:25:00.000Z",
-     "runtime": "20 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f:epg:2026-11-11T03:25:00.000Z",
      "title": "Marvel's Spidey and His Amazing Friends",
@@ -20330,16 +20140,6 @@
    },
    "videos": [
     {
-     "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T03:00:00.000Z",
-     "title": "Wizards of Waverly Place",
-     "overview": "Harper is transported into a Cinderella-like world after reading one of Alex's wizard story books; Harper must rely on her fairy godmother, Alex to turn things back to normal.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T03:30:00.000Z",
      "title": "Wizards of Waverly Place",
      "overview": "Alex discovers her favorite store is having a crazy sale, but Jerry won't let her go.",
@@ -20766,16 +20566,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-7a8bd02a-c334-450d-a7f8-64263a64757f:epg:2026-11-11T03:00:00.000Z",
-     "title": "Peppa Pig",
-     "overview": "Peppa and her family have a day out at the seaside; Mr Labrador has an ice cream van but runs out of ice cream; Peppa, George, Granny, and Grandpa Pig visit the sailing club, where they find a jukebox.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-7a8bd02a-c334-450d-a7f8-64263a64757f:epg:2026-11-11T03:30:00.000Z",
      "title": "Peppa Pig",
@@ -21223,16 +21013,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T03:00:00.000Z",
-     "title": "Friends",
-     "overview": "Elizabeth and Ross decide to hide their relationship from her father and head up to his cabin for the weekend.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T03:30:00.000Z",
      "title": "Friends",
@@ -22088,16 +21868,6 @@
    },
    "videos": [
     {
-     "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T03:00:00.000Z",
-     "title": "Phoebe & Jay",
-     "overview": "Phoebe and Jay use Miss Jean's field guide to identify their new butterfly friend; Phoebe gets courage to perform at the talent show.",
-     "released": "2026-11-11T03:00:00.000Z",
-     "startTime": "2026-11-11T03:00:00.000Z",
-     "endTime": "2026-11-11T03:30:00.000Z",
-     "runtime": "30 min",
-     "releaseInfo": "2026"
-    },
-    {
      "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T03:30:00.000Z",
      "title": "Xavier Riddle and the Secret Museum",
      "overview": "Jim Thorpe shows Brad that if he wants to play flag football, observing others is a great way to learn; Norval Morrisseau shows Yadina that art has the power to share important ideas.",
@@ -22514,16 +22284,6 @@
     "hasScheduledVideos": true
    },
    "videos": [
-    {
-     "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T02:57:00.000Z",
-     "title": "The Loud House",
-     "overview": "Lynn finds an unexpected TV sports-watching buddy in the family's next-door neighbor, Mr. Grouse; when Lisa realizes that Pop Pop won't be around forever, she turns to science to ensure his longevity.",
-     "released": "2026-11-11T02:57:00.000Z",
-     "startTime": "2026-11-11T02:57:00.000Z",
-     "endTime": "2026-11-11T03:24:00.000Z",
-     "runtime": "27 min",
-     "releaseInfo": "2026"
-    },
     {
      "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e:epg:2026-11-11T03:24:00.000Z",
      "title": "The Loud House",

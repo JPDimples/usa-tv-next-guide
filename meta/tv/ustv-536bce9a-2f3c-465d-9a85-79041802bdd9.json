@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T03:00:00.000Z",
-    "title": "Forensic Files",
-    "overview": "When a single mother is murdered, her brother vows to find the person responsible for the death of his sister, even if it takes more than 30 years.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-11T03:30:00.000Z",
     "title": "Forensic Files",
     "overview": "A husband and wife get shot, and their 16-year-old daughter manages to escape, but investigators suspect she may be involved in the murder.",
@@ -941,6 +931,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9:epg:2026-11-13T04:30:00.000Z",
+    "title": "Forensic Files",
+    "overview": "After years of suffering domestic abuse, a young woman is found murdered in her bathtub; among numerous clues, a hamburger bun proves the most incriminating.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

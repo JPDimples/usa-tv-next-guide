@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T03:00:00.000Z",
-    "title": "Family Guy",
-    "overview": "Chris and Jerome's daughter, Pam, run away together when Jerome forbids their relationship.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-11T03:30:00.000Z",
     "title": "Family Guy",
     "overview": "Peter brings Meg to college for an interview and introduces her to partying; Brian is prohibited from entering the house when he is sprayed by a skunk.",
@@ -1481,6 +1471,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20:epg:2026-11-13T04:30:00.000Z",
+    "title": "Rick and Morty",
+    "overview": "Beth blows it as a mom in this one bro. Summer has body issues.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

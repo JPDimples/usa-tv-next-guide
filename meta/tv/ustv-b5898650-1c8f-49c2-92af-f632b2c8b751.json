@@ -353,6 +353,16 @@
     "endTime": "2026-11-13T04:30:00.000Z",
     "runtime": "120 min",
     "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751:epg:2026-11-13T04:30:00.000Z",
+    "title": "Women's College Basketball",
+    "overview": "From Bogota Savings Bank Center in Hackensack, N.J.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T06:30:00.000Z",
+    "runtime": "120 min",
+    "releaseInfo": "2026"
    }
   ]
  }

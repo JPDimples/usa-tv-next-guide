@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T03:00:00.000Z",
-    "title": "Wizards of Waverly Place",
-    "overview": "Harper is transported into a Cinderella-like world after reading one of Alex's wizard story books; Harper must rely on her fairy godmother, Alex to turn things back to normal.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-11T03:30:00.000Z",
     "title": "Wizards of Waverly Place",
     "overview": "Alex discovers her favorite store is having a crazy sale, but Jerry won't let her go.",
@@ -991,6 +981,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd:epg:2026-11-13T04:30:00.000Z",
+    "title": "Hailey's on It!",
+    "overview": "Hailey, a risk-averse but resourceful teenager in Oceanside, Calif., is on a mission to complete every item on her long list of challenging -- and sometimes impractical -- tasks to save the world.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

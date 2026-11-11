@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T03:15:00.000Z",
-    "title": "Clarence",
-    "overview": "Jeff must overcome his germ phobias when Clarence and Sumo steal his french fries.",
-    "released": "2026-11-11T03:15:00.000Z",
-    "startTime": "2026-11-11T03:15:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "15 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-11T03:30:00.000Z",
     "title": "Clarence",
     "overview": "Clarence, Jeff and Sumo try to have fun at the arcade with only a dollar to spend.",
@@ -1891,6 +1881,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08:epg:2026-11-13T04:30:00.000Z",
+    "title": "What's New Scooby-Doo?",
+    "overview": "Dinosaurs come to life at a 3-D movie house and wreak havoc on a nearby science museum.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

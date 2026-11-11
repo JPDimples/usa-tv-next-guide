@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T03:00:00.000Z",
-    "title": "Phoebe & Jay",
-    "overview": "Phoebe and Jay use Miss Jean's field guide to identify their new butterfly friend; Phoebe gets courage to perform at the talent show.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-11T03:30:00.000Z",
     "title": "Xavier Riddle and the Secret Museum",
     "overview": "Jim Thorpe shows Brad that if he wants to play flag football, observing others is a great way to learn; Norval Morrisseau shows Yadina that art has the power to share important ideas.",
@@ -981,6 +971,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062:epg:2026-11-13T04:30:00.000Z",
+    "title": "Pinkalicious & Peterrific",
+    "overview": "Peter wants to go on a quest with the Knights of the Pink Table, but he is not a knight; following an encounter with a sprite named Spritely, nothing sounds like it should in Pinkville.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

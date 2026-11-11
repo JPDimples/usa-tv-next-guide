@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T03:00:00.000Z",
-    "title": "Funny You Should Ask",
-    "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-11T03:30:00.000Z",
     "title": "Funny You Should Ask",
     "overview": "Former \"Extra\" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give hu",
@@ -921,6 +911,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac:epg:2026-11-13T04:30:00.000Z",
+    "title": "Funny You Should Ask",
+    "overview": "Jon Lovitz; Sheryl Underwood; Howie Mandel; Byron Allen; Whitney Cummings; Billy Gardell.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

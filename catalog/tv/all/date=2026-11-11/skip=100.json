@@ -1,0 +1,942 @@
+{
+ "metasDetailed": [
+  {
+   "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5",
+   "type": "tv",
+   "name": "VH1",
+   "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/vh1-us.png",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/vh1-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Music"
+   ],
+   "behaviorHints": {
+    "isLive": true,
+    "hasScheduledVideos": true
+   },
+   "videos": [
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T03:00:00.000Z",
+     "title": "Basketball Wives",
+     "overview": "Evelyn and Jen are left off Ashley's guest list; Tami and Jen fight over a harmless remark.",
+     "released": "2026-11-11T03:00:00.000Z",
+     "startTime": "2026-11-11T03:00:00.000Z",
+     "endTime": "2026-11-11T04:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T04:00:00.000Z",
+     "title": "Basketball Wives",
+     "overview": "Evelyn and Jen regret volunteering to help Royce; Tami has surgery done.",
+     "released": "2026-11-11T04:00:00.000Z",
+     "startTime": "2026-11-11T04:00:00.000Z",
+     "endTime": "2026-11-11T05:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T05:00:00.000Z",
+     "title": "Basketball Wives",
+     "overview": "Evelyn is dating again; Tami has surgery done.",
+     "released": "2026-11-11T05:00:00.000Z",
+     "startTime": "2026-11-11T05:00:00.000Z",
+     "endTime": "2026-11-11T06:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T06:00:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Nick Cannon, Justina Valentine and Tonio Skits battle it out in games like Got Props, Let Me Holla, Hip Hop Potluck and the Wildstyle Battle; Justina Valentine performs \"Fever.\".",
+     "released": "2026-11-11T06:00:00.000Z",
+     "startTime": "2026-11-11T06:00:00.000Z",
+     "endTime": "2026-11-11T06:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T06:30:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Nick Cannon and Big Boss Vette battle it out in games: Big Ol' Booty, Talking Spit, Kick 'Em Out the Classroom and the Wildstyle battle; Big Boss Vette performs Pretty Girls Walk.",
+     "released": "2026-11-11T06:30:00.000Z",
+     "startTime": "2026-11-11T06:30:00.000Z",
+     "endTime": "2026-11-11T07:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T07:00:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Nick Cannon and Lil Tjay battle it out in games like Alphabet Train, What You Call That?, Kick 'Em Out the Classroom and the Wildstyle Battle; Lil Tjay performs \"Project Walls.\".",
+     "released": "2026-11-11T07:00:00.000Z",
+     "startTime": "2026-11-11T07:00:00.000Z",
+     "endTime": "2026-11-11T07:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T07:30:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Nick Cannon and Luh Tyler battle it out in games like Turn Up for What?, Let Me Holla, Kick 'Em Out the Classroom and the Wildstyle Battle; Luh Tyler performs \"Law & Order Part 2.\".",
+     "released": "2026-11-11T07:30:00.000Z",
+     "startTime": "2026-11-11T07:30:00.000Z",
+     "endTime": "2026-11-11T08:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T08:00:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Nick Cannon and Lola Brooke battle it out in games like Pick Up and Kill It, Hood Jeopardy, Kick 'Em Out the Classroom and the Wildstyle Battle; Lola Brooke performs \"Just Relax.\".",
+     "released": "2026-11-11T08:00:00.000Z",
+     "startTime": "2026-11-11T08:00:00.000Z",
+     "endTime": "2026-11-11T08:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T08:30:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Nick Cannon and Kali battle it out in games like Flow Job, What You Call That?, Talking Spit and the Wildstyle Battle; Kali performs \"Area Codes.\".",
+     "released": "2026-11-11T08:30:00.000Z",
+     "startTime": "2026-11-11T08:30:00.000Z",
+     "endTime": "2026-11-11T09:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T09:00:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Nick Cannon and Tasha K battle it out in games: Alphabet Train, Talking Spit, Plead the Fifth and the Wildstyle battle; Hitman Holla performs \"U Killin Em\".",
+     "released": "2026-11-11T09:00:00.000Z",
+     "startTime": "2026-11-11T09:00:00.000Z",
+     "endTime": "2026-11-11T09:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T09:30:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Nick Cannon, BigXthaPlug, Conceited and Finesse Mitchell battle it out in games, including Let Me Holla, Roast Roulette, Kick 'Em Out the Classroom, and the Wildstyle battle; BigXthaPlug also performs Texas.",
+     "released": "2026-11-11T09:30:00.000Z",
+     "startTime": "2026-11-11T09:30:00.000Z",
+     "endTime": "2026-11-11T10:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T10:00:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Nick Cannon and Mariah The Scientist battle it out in games: Talking Spit, Kick 'Em Out the Classroom, R&Beef and the Wildstyle battle; Mariah The Scientist performs \"Stone Cold.\".",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T10:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T10:30:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Orlando Jones; Cassidy; Biz Markie.",
+     "released": "2026-11-11T10:30:00.000Z",
+     "startTime": "2026-11-11T10:30:00.000Z",
+     "endTime": "2026-11-11T11:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T11:00:00.000Z",
+     "title": "America's Funniest Home Videos",
+     "overview": "A woman learns she is going to be a grandmother by finding a bun in the oven; a drone gets stuck in a woman's hair; a woman's family pranks her with a whoopee cushion; a grandmother is excited when she gets tickets to \"Dancing With the Stars.\".",
+     "released": "2026-11-11T11:00:00.000Z",
+     "startTime": "2026-11-11T11:00:00.000Z",
+     "endTime": "2026-11-11T12:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T12:00:00.000Z",
+     "title": "America's Funniest Home Videos",
+     "overview": "People are stumped by a simple riddle; a toddler is confused by his mom and her identical twin; funny wedding proposals; treadmill mishaps.",
+     "released": "2026-11-11T12:00:00.000Z",
+     "startTime": "2026-11-11T12:00:00.000Z",
+     "endTime": "2026-11-11T13:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T13:00:00.000Z",
+     "title": "America's Funniest Home Videos",
+     "overview": "Nine winning videos compete for the ultimate cash prize; a music montage featuring toy mishaps; blunders taking place in the snow.",
+     "released": "2026-11-11T13:00:00.000Z",
+     "startTime": "2026-11-11T13:00:00.000Z",
+     "endTime": "2026-11-11T14:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T14:00:00.000Z",
+     "title": "Flip Side",
+     "overview": "Laura and Rylee battle Nicole and Shuntae.",
+     "released": "2026-11-11T14:00:00.000Z",
+     "startTime": "2026-11-11T14:00:00.000Z",
+     "endTime": "2026-11-11T14:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T14:30:00.000Z",
+     "title": "Flip Side",
+     "overview": "Monday and Vee battle Brandy and Rob.",
+     "released": "2026-11-11T14:30:00.000Z",
+     "startTime": "2026-11-11T14:30:00.000Z",
+     "endTime": "2026-11-11T15:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T15:00:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Christina Milian; Common.",
+     "released": "2026-11-11T15:00:00.000Z",
+     "startTime": "2026-11-11T15:00:00.000Z",
+     "endTime": "2026-11-11T15:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T15:30:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Ying Yang Twins.",
+     "released": "2026-11-11T15:30:00.000Z",
+     "startTime": "2026-11-11T15:30:00.000Z",
+     "endTime": "2026-11-11T16:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T16:00:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Kanye West.",
+     "released": "2026-11-11T16:00:00.000Z",
+     "startTime": "2026-11-11T16:00:00.000Z",
+     "endTime": "2026-11-11T16:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T16:30:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Eva Pigford; T.I.",
+     "released": "2026-11-11T16:30:00.000Z",
+     "startTime": "2026-11-11T16:30:00.000Z",
+     "endTime": "2026-11-11T17:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T17:00:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Fonzworth Bentley; Lil' Wayne.",
+     "released": "2026-11-11T17:00:00.000Z",
+     "startTime": "2026-11-11T17:00:00.000Z",
+     "endTime": "2026-11-11T17:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T17:30:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Omarion; Trillville.",
+     "released": "2026-11-11T17:30:00.000Z",
+     "startTime": "2026-11-11T17:30:00.000Z",
+     "endTime": "2026-11-11T18:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T18:00:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Kevin Hart; David Banner.",
+     "released": "2026-11-11T18:00:00.000Z",
+     "startTime": "2026-11-11T18:00:00.000Z",
+     "endTime": "2026-11-11T18:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T18:30:00.000Z",
+     "title": "Nick Cannon Presents: Wild 'n Out",
+     "overview": "Comic Kevin Hart; DJ Khaled performs.",
+     "released": "2026-11-11T18:30:00.000Z",
+     "startTime": "2026-11-11T18:30:00.000Z",
+     "endTime": "2026-11-11T19:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T19:00:00.000Z",
+     "title": "Basketball Wives",
+     "overview": "Shaunie's announcement delays Evelyn's connection.",
+     "released": "2026-11-11T19:00:00.000Z",
+     "startTime": "2026-11-11T19:00:00.000Z",
+     "endTime": "2026-11-11T20:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T20:00:00.000Z",
+     "title": "Basketball Wives",
+     "overview": "The ladies' trip to Madrid suffers; Royce has a phantom illness; Tami's mood swings; Jen finds a romantic mark.",
+     "released": "2026-11-11T20:00:00.000Z",
+     "startTime": "2026-11-11T20:00:00.000Z",
+     "endTime": "2026-11-11T21:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T21:00:00.000Z",
+     "title": "My Wife and Kids",
+     "overview": "Michael and Jay end up serving on the same jury together; Michael suspects he has been the victim of jury tampering.",
+     "released": "2026-11-11T21:00:00.000Z",
+     "startTime": "2026-11-11T21:00:00.000Z",
+     "endTime": "2026-11-11T21:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T21:30:00.000Z",
+     "title": "My Wife and Kids",
+     "overview": "Michael calls a family court session when Jr. battles Claire over ownership of a discovered wallet containing $500.",
+     "released": "2026-11-11T21:30:00.000Z",
+     "startTime": "2026-11-11T21:30:00.000Z",
+     "endTime": "2026-11-11T22:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T22:00:00.000Z",
+     "title": "My Wife and Kids",
+     "overview": "Michael's fears come true when he tries to teach Claire how to drive.",
+     "released": "2026-11-11T22:00:00.000Z",
+     "startTime": "2026-11-11T22:00:00.000Z",
+     "endTime": "2026-11-11T22:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T22:30:00.000Z",
+     "title": "My Wife and Kids",
+     "overview": "Jay wonders why Michael saved a picture of an attractive ex-girlfriend; Franklin cannot admit Aretha is as good a singer as he is a pianist.",
+     "released": "2026-11-11T22:30:00.000Z",
+     "startTime": "2026-11-11T22:30:00.000Z",
+     "endTime": "2026-11-11T23:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T23:00:00.000Z",
+     "title": "Everybody Hates Chris",
+     "overview": "Chris realizes he needs to make the best campaign speech of all time in order to win the class presidential election.",
+     "released": "2026-11-11T23:00:00.000Z",
+     "startTime": "2026-11-11T23:00:00.000Z",
+     "endTime": "2026-11-11T23:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5:epg:2026-11-11T23:30:00.000Z",
+     "title": "Everybody Hates Chris",
+     "overview": "After Chris makes the neighborhood think he and Tasha are dating, Rochelle gets an earful from Tasha's grandmother (Whoopi Goldberg).",
+     "released": "2026-11-11T23:30:00.000Z",
+     "startTime": "2026-11-11T23:30:00.000Z",
+     "endTime": "2026-11-12T00:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    }
+   ]
+  },
+  {
+   "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d",
+   "type": "tv",
+   "name": "EstrellaTV",
+   "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/estrella-tv-us.png",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/estrella-tv-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Latino"
+   ],
+   "behaviorHints": {
+    "isLive": true,
+    "hasScheduledVideos": true
+   },
+   "videos": [
+    {
+     "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T04:00:00.000Z",
+     "title": "Tengo talento, mucho talento",
+     "overview": "Grandes artistas hispanos muestran su talento frente a famosos jueces, pero al final ser\u00e1 el p\u00fablico quien consagre al ganador.",
+     "released": "2026-11-11T04:00:00.000Z",
+     "startTime": "2026-11-11T04:00:00.000Z",
+     "endTime": "2026-11-11T05:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T05:00:00.000Z",
+     "title": "Alarma TV",
+     "overview": "Programa que muestra fen\u00f3menos inexplicables, desastres humanos y naturales sin censura.",
+     "released": "2026-11-11T05:00:00.000Z",
+     "startTime": "2026-11-11T05:00:00.000Z",
+     "endTime": "2026-11-11T06:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T06:00:00.000Z",
+     "title": "Un Minuto Para Ganar",
+     "overview": "Un programa de concurso en que los participantes deber\u00e1n poner a prueba sus habilidades, con desaf\u00edos entretenidos y de suspenso.",
+     "released": "2026-11-11T06:00:00.000Z",
+     "startTime": "2026-11-11T06:00:00.000Z",
+     "endTime": "2026-11-11T07:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T07:00:00.000Z",
+     "title": "Noches con Platanito",
+     "overview": "Un talk show c\u00f3mico, diferente y entretenido con Platanito, quien entrevistar\u00e1 a importantes personajes de la far\u00e1ndula, concursos y rutinas de comedia.",
+     "released": "2026-11-11T07:00:00.000Z",
+     "startTime": "2026-11-11T07:00:00.000Z",
+     "endTime": "2026-11-11T08:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T08:00:00.000Z",
+     "title": "Conejo en la Luna",
+     "overview": "Despu\u00e9s de que una operaci\u00f3n de tr\u00e1fico de armas se cobre la vida de un oficial de alto rango, el Gobierno mexicano, apoyado por las autoridades brit\u00e1nicas, se\u00f1ala a un ciudadano inocente como chivo expiatorio.",
+     "released": "2026-11-11T08:00:00.000Z",
+     "startTime": "2026-11-11T08:00:00.000Z",
+     "endTime": "2026-11-11T10:00:00.000Z",
+     "runtime": "120 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d:epg:2026-11-11T10:00:00.000Z",
+     "title": "Retofamosos",
+     "overview": "Seis famosos son reunidos en una azotea para enfrentar los retos m\u00e1s atrevidos, graciosos, chuscos y hasta arriesgados en donde el glamour y la fama se quedan atr\u00e1s para dar paso a la diversi\u00f3n y el buen humor.",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T11:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    }
+   ]
+  },
+  {
+   "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296",
+   "type": "tv",
+   "name": "Telemundo",
+   "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/telemundo-us.png",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/telemundo-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Latino"
+   ],
+   "behaviorHints": {
+    "isLive": true,
+    "hasScheduledVideos": true
+   },
+   "videos": [
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T03:00:00.000Z",
+     "title": "Lejos de ti",
+     "overview": "Kaya ata cabos y quiere recuperar a su hija. Cihan le propone un plan muy arriesgado que requiere el apoyo de la doctora de la familia. Alya se niega a ocultar el riesgo que corre Nare.",
+     "released": "2026-11-11T03:00:00.000Z",
+     "startTime": "2026-11-11T03:00:00.000Z",
+     "endTime": "2026-11-11T04:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T04:00:00.000Z",
+     "title": "Noticias Telemundo",
+     "overview": "Julio Vaqueiro presenta Edici\u00f3n Noticias Telemundo, la fuente de informaci\u00f3n m\u00e1s confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las \u00faltimas noticias y entrevistas.",
+     "released": "2026-11-11T04:00:00.000Z",
+     "startTime": "2026-11-11T04:00:00.000Z",
+     "endTime": "2026-11-11T04:35:00.000Z",
+     "runtime": "35 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T04:35:00.000Z",
+     "title": "Noticias Telemundo en la noche",
+     "overview": "Noticias Telemundo en la noche presenta las \u00faltimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la informaci\u00f3n m\u00e1s relevante de todo lo que necesita saber al final del d\u00eda.",
+     "released": "2026-11-11T04:35:00.000Z",
+     "startTime": "2026-11-11T04:35:00.000Z",
+     "endTime": "2026-11-11T05:00:00.000Z",
+     "runtime": "25 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T05:00:00.000Z",
+     "title": "El pelotazo",
+     "overview": "La nueva e innovadora apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y pol\u00e9mica. Seguimiento detallado de equipos, jugadores y partidos m\u00e1s destacados.",
+     "released": "2026-11-11T05:00:00.000Z",
+     "startTime": "2026-11-11T05:00:00.000Z",
+     "endTime": "2026-11-11T05:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T05:30:00.000Z",
+     "title": "Lejos de ti",
+     "overview": "Kaya ata cabos y quiere recuperar a su hija. Cihan le propone un plan muy arriesgado que requiere el apoyo de la doctora de la familia. Alya se niega a ocultar el riesgo que corre Nare.",
+     "released": "2026-11-11T05:30:00.000Z",
+     "startTime": "2026-11-11T05:30:00.000Z",
+     "endTime": "2026-11-11T06:30:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T06:30:00.000Z",
+     "title": "Caso cerrado",
+     "overview": "Diego exige una orden de alejamiento contra Nidia y Dajean por sabotear un proyecto que concientiza a sus alumnos sobre tiroteos escolares. Nidia asegura que su hija est\u00e1 traumatizada.",
+     "released": "2026-11-11T06:30:00.000Z",
+     "startTime": "2026-11-11T06:30:00.000Z",
+     "endTime": "2026-11-11T07:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T07:00:00.000Z",
+     "title": "En casa con Telemundo",
+     "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+     "released": "2026-11-11T07:00:00.000Z",
+     "startTime": "2026-11-11T07:00:00.000Z",
+     "endTime": "2026-11-11T08:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T08:00:00.000Z",
+     "title": "En casa con Telemundo",
+     "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+     "released": "2026-11-11T08:00:00.000Z",
+     "startTime": "2026-11-11T08:00:00.000Z",
+     "endTime": "2026-11-11T09:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T09:00:00.000Z",
+     "title": "La mesa caliente",
+     "overview": "Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas m\u00e1s candentes y controversiales que afectan a la comunidad latina en Estados Unidos.",
+     "released": "2026-11-11T09:00:00.000Z",
+     "startTime": "2026-11-11T09:00:00.000Z",
+     "endTime": "2026-11-11T10:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T10:00:00.000Z",
+     "title": "Caso cerrado",
+     "overview": "La doctora Ana Mar\u00eda Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisi\u00f3n. Adem\u00e1s, expertos contribuyen con sus conocimientos.",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T10:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T10:30:00.000Z",
+     "title": "Noticias Telemundo en la noche",
+     "overview": "Noticias Telemundo en la noche presenta las \u00faltimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la informaci\u00f3n m\u00e1s relevante de todo lo que necesita saber al final del d\u00eda.",
+     "released": "2026-11-11T10:30:00.000Z",
+     "startTime": "2026-11-11T10:30:00.000Z",
+     "endTime": "2026-11-11T11:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T11:00:00.000Z",
+     "title": "Al rojo vivo",
+     "overview": "La revista noticiosa que define la agenda de la televisi\u00f3n en espa\u00f1ol en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al p\u00fablico hispano y por presentarlas en un formato innovador que resalta el aspecto humano.",
+     "released": "2026-11-11T11:00:00.000Z",
+     "startTime": "2026-11-11T11:00:00.000Z",
+     "endTime": "2026-11-11T12:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T12:00:00.000Z",
+     "title": "Noticias Telemundo AHORA",
+     "overview": "Las noticias m\u00e1s recientes y las historias m\u00e1s importantes para la comunidad latina.",
+     "released": "2026-11-11T12:00:00.000Z",
+     "startTime": "2026-11-11T12:00:00.000Z",
+     "endTime": "2026-11-11T13:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T13:00:00.000Z",
+     "title": "Hoy d\u00eda",
+     "overview": "El show de las ma\u00f1anas que ofrece m\u00e1s entretenimiento y diversi\u00f3n, con contenido positivo, \u00fatil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el d\u00eda bien informada.",
+     "released": "2026-11-11T13:00:00.000Z",
+     "startTime": "2026-11-11T13:00:00.000Z",
+     "endTime": "2026-11-11T16:30:00.000Z",
+     "runtime": "210 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T16:30:00.000Z",
+     "title": "Reina de corazones",
+     "overview": "Historia de Reina y Nicol\u00e1s, quienes se enamoran a primera vista, pero ella termina casada con un traficante de joyas y \u00e9l se convierte en agente del Servicio Secreto, pero regresa para rescatar a la mujer que ama.",
+     "released": "2026-11-11T16:30:00.000Z",
+     "startTime": "2026-11-11T16:30:00.000Z",
+     "endTime": "2026-11-11T17:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T17:00:00.000Z",
+     "title": "Santa Diabla",
+     "overview": "Un giro en el destino lleva a Santa Mart\u00ednez a idear un plan para la venganza perfecta, pero el amor toca a su puerta otra vez y debe decidir si sacrifica el amor o la venganza que luch\u00f3 por alcanzar.",
+     "released": "2026-11-11T17:00:00.000Z",
+     "startTime": "2026-11-11T17:00:00.000Z",
+     "endTime": "2026-11-11T17:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T17:30:00.000Z",
+     "title": "Noticias Telemundo mediod\u00eda",
+     "overview": "Un informativo con un estilo \u00fanico de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes \u00e1ngulos de los acontecimientos, y entrevistas.",
+     "released": "2026-11-11T17:30:00.000Z",
+     "startTime": "2026-11-11T17:30:00.000Z",
+     "endTime": "2026-11-11T18:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T18:00:00.000Z",
+     "title": "En casa con Telemundo",
+     "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+     "released": "2026-11-11T18:00:00.000Z",
+     "startTime": "2026-11-11T18:00:00.000Z",
+     "endTime": "2026-11-11T19:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T19:00:00.000Z",
+     "title": "En casa con Telemundo",
+     "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+     "released": "2026-11-11T19:00:00.000Z",
+     "startTime": "2026-11-11T19:00:00.000Z",
+     "endTime": "2026-11-11T20:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T20:00:00.000Z",
+     "title": "La mesa caliente",
+     "overview": "Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas m\u00e1s candentes y controversiales que afectan a la comunidad latina en Estados Unidos.",
+     "released": "2026-11-11T20:00:00.000Z",
+     "startTime": "2026-11-11T20:00:00.000Z",
+     "endTime": "2026-11-11T21:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T21:00:00.000Z",
+     "title": "Al rojo vivo",
+     "overview": "La revista noticiosa que define la agenda de la televisi\u00f3n en espa\u00f1ol en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al p\u00fablico hispano y por presentarlas en un formato innovador que resalta el aspecto humano.",
+     "released": "2026-11-11T21:00:00.000Z",
+     "startTime": "2026-11-11T21:00:00.000Z",
+     "endTime": "2026-11-11T22:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T22:00:00.000Z",
+     "title": "En casa con Telemundo",
+     "overview": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+     "released": "2026-11-11T22:00:00.000Z",
+     "startTime": "2026-11-11T22:00:00.000Z",
+     "endTime": "2026-11-11T23:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T23:00:00.000Z",
+     "title": "Noticias Telemundo mediod\u00eda",
+     "overview": "Un informativo con un estilo \u00fanico de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes \u00e1ngulos de los acontecimientos, y entrevistas.",
+     "released": "2026-11-11T23:00:00.000Z",
+     "startTime": "2026-11-11T23:00:00.000Z",
+     "endTime": "2026-11-11T23:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296:epg:2026-11-11T23:30:00.000Z",
+     "title": "Noticias Telemundo",
+     "overview": "Julio Vaqueiro presenta Edici\u00f3n Noticias Telemundo, la fuente de informaci\u00f3n m\u00e1s confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las \u00faltimas noticias y entrevistas.",
+     "released": "2026-11-11T23:30:00.000Z",
+     "startTime": "2026-11-11T23:30:00.000Z",
+     "endTime": "2026-11-12T00:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    }
+   ]
+  },
+  {
+   "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf",
+   "type": "tv",
+   "name": "Univision",
+   "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/univision-us.png",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/univision-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Latino"
+   ],
+   "behaviorHints": {
+    "isLive": true,
+    "hasScheduledVideos": true
+   },
+   "videos": [
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T03:00:00.000Z",
+     "title": "Infinito amor",
+     "overview": "Arnoldo tiende una peligrosa trampa a Cristina. Ariel enfrenta una decisi\u00f3n imposible: declararse culpable de un crimen para conseguir el dinero que salvar\u00e1 a su madre. \u00c9l y Cristina se reencuentran y juran no separarse. La salud de Soledad empeora.",
+     "released": "2026-11-11T03:00:00.000Z",
+     "startTime": "2026-11-11T03:00:00.000Z",
+     "endTime": "2026-11-11T04:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T04:00:00.000Z",
+     "title": "Noticiero N+ Univision",
+     "overview": "El noticiero transmite los acontecimientos mundiales que son de inter\u00e9s p\u00fablico para la comunidad hispana desde su sede en Florida e incluye reportajes de la pol\u00edtica, el clima, los deportes, la educaci\u00f3n, la inmigraci\u00f3n, entre otros.",
+     "released": "2026-11-11T04:00:00.000Z",
+     "startTime": "2026-11-11T04:00:00.000Z",
+     "endTime": "2026-11-11T04:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T04:30:00.000Z",
+     "title": "Sabor de ma\u00f1ana",
+     "overview": "Un adelanto de lo que va a pasar en Despierta Am\u00e9rica, El Gordo y La Flaca y Primer Impacto.",
+     "released": "2026-11-11T04:30:00.000Z",
+     "startTime": "2026-11-11T04:30:00.000Z",
+     "endTime": "2026-11-11T04:35:00.000Z",
+     "runtime": "5 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T04:35:00.000Z",
+     "title": "Live: Noticiero N+ Univision: Edici\u00f3n nocturna",
+     "overview": "Un repaso de las noticias ocurridas hasta el final el d\u00eda. Tiene la informaci\u00f3n completa de las noticias de \u00faltimo minuto y registra con las c\u00e1maras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el d\u00eda.",
+     "released": "2026-11-11T04:35:00.000Z",
+     "startTime": "2026-11-11T04:35:00.000Z",
+     "endTime": "2026-11-11T05:00:00.000Z",
+     "runtime": "25 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T05:00:00.000Z",
+     "title": "Live: Contacto deportivo",
+     "overview": "El destino obligado de los amantes del deporte para estar al d\u00eda con las noticias m\u00e1s importantes y los partidos m\u00e1s destacados de todos los principales deportes.",
+     "released": "2026-11-11T05:00:00.000Z",
+     "startTime": "2026-11-11T05:00:00.000Z",
+     "endTime": "2026-11-11T06:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T06:00:00.000Z",
+     "title": "Triunfo del amor",
+     "overview": "Juan Pablo le confiesa a Victoria que \u00e9l no sab\u00eda que ten\u00eda una hija y que la ayudar\u00e1 a encontrarla. Juan Pablo le dice a Bernarda que buscar\u00e1 a su hija y ella se molesta mucho.",
+     "released": "2026-11-11T06:00:00.000Z",
+     "startTime": "2026-11-11T06:00:00.000Z",
+     "endTime": "2026-11-11T07:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T07:00:00.000Z",
+     "title": "Como dice el dicho",
+     "overview": "Miriam tiene 4 a\u00f1os y comienza a interesarse por los dinosaurios, las naves, los deportes, etc. Sin embargo, Ray, su abuelo, no est\u00e1 de acuerdo, pues cree que esas son cosas de ni\u00f1os y har\u00e1 todo por hacerla cambiar de opini\u00f3n.",
+     "released": "2026-11-11T07:00:00.000Z",
+     "startTime": "2026-11-11T07:00:00.000Z",
+     "endTime": "2026-11-11T08:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T08:00:00.000Z",
+     "title": "Desiguales",
+     "overview": "Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva \u00fanica y multifac\u00e9tica sobre temas femeninos y de actualidad.",
+     "released": "2026-11-11T08:00:00.000Z",
+     "startTime": "2026-11-11T08:00:00.000Z",
+     "endTime": "2026-11-11T09:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T09:00:00.000Z",
+     "title": "Vecinos",
+     "overview": "Frankie ser\u00e1 director de cine y de una de sus propias pel\u00edculas. Luis muestra sus sentimientos al saber que Silvia pronto se casar\u00e1.",
+     "released": "2026-11-11T09:00:00.000Z",
+     "startTime": "2026-11-11T09:00:00.000Z",
+     "endTime": "2026-11-11T09:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T09:30:00.000Z",
+     "title": "Programa pagado",
+     "overview": "Programa que muestra diversos productos para la venta.",
+     "released": "2026-11-11T09:30:00.000Z",
+     "startTime": "2026-11-11T09:30:00.000Z",
+     "endTime": "2026-11-11T10:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T10:00:00.000Z",
+     "title": "Vecinos",
+     "overview": "Los L\u00f3pez P\u00e9rez se hacen pasar por pordioseros para recibir caridad. Pedro lleva varios d\u00edas sin ba\u00f1arse y Cris le exige que lo haga.",
+     "released": "2026-11-11T10:00:00.000Z",
+     "startTime": "2026-11-11T10:00:00.000Z",
+     "endTime": "2026-11-11T10:35:00.000Z",
+     "runtime": "35 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T10:35:00.000Z",
+     "title": "Noticiero N+ Univision: Edici\u00f3n nocturna",
+     "overview": "Un repaso de las noticias ocurridas hasta el final el d\u00eda. Tiene la informaci\u00f3n completa de las noticias de \u00faltimo minuto y registra con las c\u00e1maras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el d\u00eda.",
+     "released": "2026-11-11T10:35:00.000Z",
+     "startTime": "2026-11-11T10:35:00.000Z",
+     "endTime": "2026-11-11T11:00:00.000Z",
+     "runtime": "25 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T11:00:00.000Z",
+     "title": "Triunfo del amor",
+     "overview": "Victoria le dice a Mar\u00eda que cambiar\u00e1 su imagen por completo, pero mantendr\u00e1 el nombre de Mar\u00eda Desamparada. Victoria le confiesa a \u00d3scar que se siente sola y desprotegida, pero Osvaldo los encuentra abrazados.",
+     "released": "2026-11-11T11:00:00.000Z",
+     "startTime": "2026-11-11T11:00:00.000Z",
+     "endTime": "2026-11-11T12:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T12:00:00.000Z",
+     "title": "Live: \u00a1Despierta Am\u00e9rica!",
+     "overview": "Revista matutina con noticias, temas de actualidad, reportajes de far\u00e1ndula, m\u00fasica e informaci\u00f3n pr\u00e1ctica.",
+     "released": "2026-11-11T12:00:00.000Z",
+     "startTime": "2026-11-11T12:00:00.000Z",
+     "endTime": "2026-11-11T16:00:00.000Z",
+     "runtime": "240 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T16:00:00.000Z",
+     "title": "Como dice el dicho",
+     "overview": "Emilia perdi\u00f3 a su marido, y su hija In\u00e9s, no habla por el trauma sufrido. Sofi, una influencer, conoce a Emilia y la juzga p\u00fablicamente como mala madre, generando odio hacia ella y empeorando su situaci\u00f3n.",
+     "released": "2026-11-11T16:00:00.000Z",
+     "startTime": "2026-11-11T16:00:00.000Z",
+     "endTime": "2026-11-11T17:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T17:00:00.000Z",
+     "title": "Live: Noticiero N+ Univision: Edici\u00f3n digital",
+     "overview": "Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por j\u00f3venes periodistas en un ambiente informal.",
+     "released": "2026-11-11T17:00:00.000Z",
+     "startTime": "2026-11-11T17:00:00.000Z",
+     "endTime": "2026-11-11T17:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T17:30:00.000Z",
+     "title": "Vecinos",
+     "overview": "Silvia comienza el trabajo de parto en el departamento, no hay tiempo para llegar al hospital. Luis recibir\u00e1 al beb\u00e9 con la ayuda de los vecinos.",
+     "released": "2026-11-11T17:30:00.000Z",
+     "startTime": "2026-11-11T17:30:00.000Z",
+     "endTime": "2026-11-11T18:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T18:00:00.000Z",
+     "title": "Live: \u00a1Si\u00e9ntese quien pueda!",
+     "overview": "Una serie de panelistas destacados del mundo de la prensa de espect\u00e1culos participan en un reality entre ellos mientras se desarrolla el programa.",
+     "released": "2026-11-11T18:00:00.000Z",
+     "startTime": "2026-11-11T18:00:00.000Z",
+     "endTime": "2026-11-11T20:00:00.000Z",
+     "runtime": "120 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T20:00:00.000Z",
+     "title": "Live: Desiguales",
+     "overview": "Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva \u00fanica y multifac\u00e9tica sobre temas femeninos y de actualidad.",
+     "released": "2026-11-11T20:00:00.000Z",
+     "startTime": "2026-11-11T20:00:00.000Z",
+     "endTime": "2026-11-11T21:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T21:00:00.000Z",
+     "title": "Live: El gordo y la flaca",
+     "overview": "Chismes de celebridades y las \u00faltimas noticias de la industria del entretenimiento, en un programa que combina entrevistas con actores, m\u00fasicos y celebridades.",
+     "released": "2026-11-11T21:00:00.000Z",
+     "startTime": "2026-11-11T21:00:00.000Z",
+     "endTime": "2026-11-11T22:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T22:00:00.000Z",
+     "title": "Live: Primer impacto",
+     "overview": "Una revista que cubre las noticias de \u00faltima hora y las m\u00e1s impactantes. Un gran equipo de periodistas ofrece completos informes del pa\u00eds y del mundo. El programa tambi\u00e9n cuenta con dos segmentos de salud semanales.",
+     "released": "2026-11-11T22:00:00.000Z",
+     "startTime": "2026-11-11T22:00:00.000Z",
+     "endTime": "2026-11-11T23:00:00.000Z",
+     "runtime": "60 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T23:00:00.000Z",
+     "title": "Noticiero N+ Univision: Edici\u00f3n digital",
+     "overview": "Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por j\u00f3venes periodistas en un ambiente informal.",
+     "released": "2026-11-11T23:00:00.000Z",
+     "startTime": "2026-11-11T23:00:00.000Z",
+     "endTime": "2026-11-11T23:30:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    },
+    {
+     "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf:epg:2026-11-11T23:30:00.000Z",
+     "title": "Live: Noticiero N+ Univision",
+     "overview": "El noticiero transmite los acontecimientos mundiales que son de inter\u00e9s p\u00fablico para la comunidad hispana desde su sede en Florida e incluye reportajes de la pol\u00edtica, el clima, los deportes, la educaci\u00f3n, la inmigraci\u00f3n, entre otros.",
+     "released": "2026-11-11T23:30:00.000Z",
+     "startTime": "2026-11-11T23:30:00.000Z",
+     "endTime": "2026-11-12T00:00:00.000Z",
+     "runtime": "30 min",
+     "releaseInfo": "2026"
+    }
+   ]
+  }
+ ]
+}

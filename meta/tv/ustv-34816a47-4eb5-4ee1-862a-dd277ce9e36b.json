@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T03:00:00.000Z",
-    "title": "Friends",
-    "overview": "Elizabeth and Ross decide to hide their relationship from her father and head up to his cabin for the weekend.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-11T03:30:00.000Z",
     "title": "Friends",
     "overview": "Chandler asks Phoebe to help him choose a special ring; Rachel urges Paul (Bruce Willis) to express his feelings.",
@@ -771,6 +761,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b:epg:2026-11-13T04:30:00.000Z",
+    "title": "The Big Bang Theory",
+    "overview": "Amy finds out that Sheldon applied for a one-way mission to colonize Mars; a trip to the pet store leads to a fight; Leonard has a surprise for Penny; Raj is busted while snooping in Emily's apartment.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

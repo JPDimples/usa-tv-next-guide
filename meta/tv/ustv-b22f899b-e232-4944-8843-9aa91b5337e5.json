@@ -683,6 +683,16 @@
     "endTime": "2026-11-13T04:30:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5:epg:2026-11-13T04:30:00.000Z",
+    "title": "Cops Reloaded",
+    "overview": "An officer stops a car passenger from reaching for his gun; officers seek a couple involved in a bar fight; a motel vandal is unaware of his surroundings; officers deal with Mardi Gras.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
    }
   ]
  }

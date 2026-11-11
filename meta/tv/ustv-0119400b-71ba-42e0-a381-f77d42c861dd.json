@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T03:00:00.000Z",
-    "title": "Big City Greens",
-    "overview": "Bill and Cricket follow clues from Cricket's dream to search the woods for the perfect Christmas tree; Tilly catches ennui, so Cricket tries to cheer her up.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-11T03:30:00.000Z",
     "title": "Kiff",
     "overview": "Kiff finally meets her mom's old college friends.",
@@ -941,6 +931,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd:epg:2026-11-13T04:30:00.000Z",
+    "title": "Miraculous: Tales of Ladybug and Cat Noir",
+    "overview": "Marinette is convinced Nora and her coworker Twig have feelings for each other but are too afraid to confess, risking their chance at love.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

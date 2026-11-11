@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-7a8bd02a-c334-450d-a7f8-64263a64757f:epg:2026-11-11T03:00:00.000Z",
-    "title": "Peppa Pig",
-    "overview": "Peppa and her family have a day out at the seaside; Mr Labrador has an ice cream van but runs out of ice cream; Peppa, George, Granny, and Grandpa Pig visit the sailing club, where they find a jukebox.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-7a8bd02a-c334-450d-a7f8-64263a64757f:epg:2026-11-11T03:30:00.000Z",
     "title": "Peppa Pig",
     "overview": "Daddy's Valentine's Day card from Mummy; Peppa and her friends have breakfast together; Peppa and her friends visit a shop of little shops; Peppa and her family take their fish for a checkup; Peppa and her friends make a time capsule.",
@@ -1031,6 +1021,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-7a8bd02a-c334-450d-a7f8-64263a64757f:epg:2026-11-13T04:30:00.000Z",
+    "title": "Peppa Pig",
+    "overview": "Madame Gazelle has organized a roller disco; the children learn about the weather; there is a new friend for Peppa at her playgroup, Lotte Lama; Grandpa Pig is making a rock garden; Peppa and family go skiing.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

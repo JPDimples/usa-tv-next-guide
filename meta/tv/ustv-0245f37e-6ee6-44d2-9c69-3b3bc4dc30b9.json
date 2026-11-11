@@ -333,6 +333,16 @@
     "endTime": "2026-11-13T04:30:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9:epg:2026-11-13T04:30:00.000Z",
+    "title": "Live: NFL GameDay Final",
+    "overview": "The crew wraps up the day's NFL action with all the highlights and reactions from the game plus postgame interviews with the night's best performers.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:30:00.000Z",
+    "runtime": "60 min",
+    "releaseInfo": "2026"
    }
   ]
  }

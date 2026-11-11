@@ -1,0 +1,56 @@
+{
+ "metas": [
+  {
+   "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5",
+   "type": "tv",
+   "name": "VH1",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/vh1-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Music"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d",
+   "type": "tv",
+   "name": "EstrellaTV",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/estrella-tv-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Latino"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296",
+   "type": "tv",
+   "name": "Telemundo",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/telemundo-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Latino"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf",
+   "type": "tv",
+   "name": "Univision",
+   "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/univision-us.png",
+   "posterShape": "square",
+   "genres": [
+    "Latino"
+   ],
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

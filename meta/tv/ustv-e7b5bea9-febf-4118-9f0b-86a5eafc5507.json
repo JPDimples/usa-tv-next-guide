@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T03:00:00.000Z",
-    "title": "Two and a Half Men",
-    "overview": "After taking a loan from Evelyn, Alan is guilted into double-dating with her, her new romantic interest and his daughter.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-11T03:30:00.000Z",
     "title": "Two and a Half Men",
     "overview": "Alan is reluctant to leave Jake with Evelyn for a sleepover visit until he finds himself partying with Charlie and a busload of beautiful female volleyball players.",
@@ -881,6 +871,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507:epg:2026-11-13T04:30:00.000Z",
+    "title": "Two and a Half Men",
+    "overview": "Kandi moves in with Alan, causing tension in the house, since Charlie is having a dry spell with women.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

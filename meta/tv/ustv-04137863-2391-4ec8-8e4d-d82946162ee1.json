@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-04137863-2391-4ec8-8e4d-d82946162ee1:epg:2026-11-11T02:35:00.000Z",
-    "title": "Tell Me You Love Me",
-    "overview": "Katie and Dave get a rare night alone; Hugo's reappearance jeopardizes Jamie's new relationship; Palek and Carolyn change homes.",
-    "released": "2026-11-11T02:35:00.000Z",
-    "startTime": "2026-11-11T02:35:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "55 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-04137863-2391-4ec8-8e4d-d82946162ee1:epg:2026-11-11T03:30:00.000Z",
     "title": "Tell Me You Love Me",
     "overview": "Dave and Katie debate the value of continued therapy; Palek worries about losing his identity; Nick spends more time at Jamie's house.",
@@ -491,6 +481,16 @@
     "released": "2026-11-13T03:30:00.000Z",
     "startTime": "2026-11-13T03:30:00.000Z",
     "endTime": "2026-11-13T04:29:00.000Z",
+    "runtime": "59 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-04137863-2391-4ec8-8e4d-d82946162ee1:epg:2026-11-13T04:29:00.000Z",
+    "title": "Gentleman Jack",
+    "overview": "At Lawton, Lister's determination to draw a line in her relationship with Mariana is matched by her former lover's efforts to win her back.",
+    "released": "2026-11-13T04:29:00.000Z",
+    "startTime": "2026-11-13T04:29:00.000Z",
+    "endTime": "2026-11-13T05:28:00.000Z",
     "runtime": "59 min",
     "releaseInfo": "2026"
    }

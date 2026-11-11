@@ -873,6 +873,16 @@
     "endTime": "2026-11-13T04:30:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591:epg:2026-11-13T04:30:00.000Z",
+    "title": "Family Feud",
+    "overview": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
    }
   ]
  }

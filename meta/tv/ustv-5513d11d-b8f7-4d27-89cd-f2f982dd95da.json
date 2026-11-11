@@ -1163,6 +1163,16 @@
     "endTime": "2026-11-13T04:24:00.000Z",
     "runtime": "26 min",
     "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da:epg:2026-11-13T04:24:00.000Z",
+    "title": "SpongeBob SquarePants",
+    "overview": "Plankton invents a machine enabling him to switch lives with Mr. Krabs; SpongeBob volunteers for lifeguard duty.",
+    "released": "2026-11-13T04:24:00.000Z",
+    "startTime": "2026-11-13T04:24:00.000Z",
+    "endTime": "2026-11-13T04:50:00.000Z",
+    "runtime": "26 min",
+    "releaseInfo": "2026"
    }
   ]
  }

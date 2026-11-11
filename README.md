@@ -16,7 +16,7 @@ Manifest: `https://raw.githubusercontent.com/JPDimples/usa-tv-next-guide/main/ma
 
 - 104 watchable channels (the addon lists 169; 65 have no streams
   and are left out), across 10 genres.
-- 101 channels carry real programme schedules (8688 programmes
+- 101 channels carry real programme schedules (8664 programmes
   over the next 4 days); Fox (broadcast), HBO Family and HGTV have
   no schedule in any free source checked, so they play but show no guide rows.
 - National ABC/CBS/NBC/Fox rows are network feeds; local affiliate schedules
@@ -33,5 +33,5 @@ Manifest: `https://raw.githubusercontent.com/JPDimples/usa-tv-next-guide/main/ma
 ## Rebuild
 
 Regenerated daily by `scripts/build_addon.py` (see the guide repo). Generated
-2026-11-11 04:22 UTC; data covers through
-2026-11-15 04:22 UTC.
+2026-11-11 04:31 UTC; data covers through
+2026-11-15 04:31 UTC.

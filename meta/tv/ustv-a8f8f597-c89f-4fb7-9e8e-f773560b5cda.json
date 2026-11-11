@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T03:00:00.000Z",
-    "title": "Drury's Thirteen",
-    "overview": "Phase Eight: Desperately Seeking follows Terry Drury's Missouri gun camp as Lucille and Cameron Drury look to fill their tags.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-11T03:30:00.000Z",
     "title": "Critical Mass",
     "overview": "Big deer action: Nebraska mule deer and giant whitetails in Missouri and Iowa.",
@@ -911,6 +901,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda:epg:2026-11-13T04:30:00.000Z",
+    "title": "Buckventures",
+    "overview": "Cole Cannon kicks off rifle season in Oklahoma chasing a sooner state legend. Things quickly change when his long time friend gives him a call telling to head to Texas.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }

@@ -15,16 +15,6 @@
   },
   "videos": [
    {
-    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T03:00:00.000Z",
-    "title": "Living Single",
-    "overview": "Max accidentally gives Khadijah a depressant instead of aspirin before her big date with NBA star Cedric Ceballos.",
-    "released": "2026-11-11T03:00:00.000Z",
-    "startTime": "2026-11-11T03:00:00.000Z",
-    "endTime": "2026-11-11T03:30:00.000Z",
-    "runtime": "30 min",
-    "releaseInfo": "2026"
-   },
-   {
     "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-11T03:30:00.000Z",
     "title": "Living Single",
     "overview": "Overton gambles the money for a new bed; Regine can't handle Mr. Perfect's obsession with his dog.",
@@ -871,6 +861,16 @@
     "released": "2026-11-13T04:00:00.000Z",
     "startTime": "2026-11-13T04:00:00.000Z",
     "endTime": "2026-11-13T04:30:00.000Z",
+    "runtime": "30 min",
+    "releaseInfo": "2026"
+   },
+   {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea:epg:2026-11-13T04:30:00.000Z",
+    "title": "A Different World",
+    "overview": "Bickering distracts Whitley and Kim from a hazard in Lena's (Jada Pinkett) room.",
+    "released": "2026-11-13T04:30:00.000Z",
+    "startTime": "2026-11-13T04:30:00.000Z",
+    "endTime": "2026-11-13T05:00:00.000Z",
     "runtime": "30 min",
     "releaseInfo": "2026"
    }
